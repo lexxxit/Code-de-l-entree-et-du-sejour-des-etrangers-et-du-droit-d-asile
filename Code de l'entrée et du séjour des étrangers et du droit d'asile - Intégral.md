@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2005-03-01
+Version Consolidée au 2006-01-24
 
 # Partie législative
 
@@ -1971,7 +1971,7 @@ séjour à laquelle il pourrait prétendre en application des dispositions du pr
 ###### Article L313-5
 
 La carte de séjour temporaire peut être retirée à l'étranger passible de poursuites pénales sur le fondement des articles
-222-39, 222-39-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du code pénal.
+222-39, 321-6-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du code pénal.
 
 La carte de séjour temporaire peut également être retirée à tout employeur, titulaire de cette carte, en infraction avec
 l'article L. 341-6 du code du travail ainsi qu'à tout étranger qui méconnaît les dispositions de l'article L. 341-4 du même
@@ -1989,6 +1989,10 @@ code ou qui exerce une activité professionnelle non salariée sans en avoir l'a
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-8 (VT)
@@ -1998,11 +2002,11 @@ code ou qui exerce une activité professionnelle non salariée sans en avoir l'a
 	**Cite**:
 
 	  - Code pénal - art. 222-39 (M)
-	  - Code pénal - art. 222-39-1 (M)
 	  - Code pénal - art. 225-4-7 (V)
 	  - Code pénal - art. 311-4 (M)
 	  - Code pénal - art. 312-12-1 (V)
-	  - Code pénal 222-39, 222-39-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4, 312-12-1
+	  - Code pénal - art. 321-6-1 (V)
+	  - Code pénal 222-39, 321-6-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4, 312-12-1
 	  - Code du travail - art. L341-4 (M)
 	  - Code du travail - art. L341-6 (M)
 
