@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -2768,9 +2768,9 @@ années en France ;
 carte de séjour temporaire mentionnée au  6° de l'article L. 313-11, sous réserve qu'il remplisse encore les conditions
 prévues pour l'obtention de cette carte de séjour temporaire et qu'il ne vive pas en état de polygamie.
 
-L'enfant visé au présent article s'entend de l'enfant légitime ou naturel ayant une filiation légalement établie ainsi que de
-l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
-de cette décision lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé au présent article s'entend de l'enfant ayant une filiation légalement établie, y compris l'enfant adopté, en
+vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de cette décision
+lorsqu'elle a été prononcée à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -2783,6 +2783,14 @@ de cette décision lorsqu'elle a été prononcée à l'étranger.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -2868,11 +2876,11 @@ entre les époux ;
 ou dans l'année qui suit leur dix-huitième anniversaire ;
 
 10° A l'étranger qui est en situation régulière depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention " étudiant ".
+titulaire d'une carte de séjour temporaire portant la mention "étudiant".
 
-L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant légitime ou naturel ayant une filiation légalement
-établie ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère
-public de la régularité de cette décision lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une filiation légalement établie, y compris
+l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
+de cette décision lorsqu'elle a été prononcée à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -2921,6 +2929,14 @@ public de la régularité de cette décision lorsqu'elle a été prononcée à l
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article L314-12
