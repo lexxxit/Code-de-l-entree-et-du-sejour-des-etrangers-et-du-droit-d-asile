@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-25
 
 # Partie législative
 
@@ -313,24 +313,62 @@ d'attente joignent leurs observations au rapport.
 	  - Code du travail - art. R5223-29 (Ab)
 
 
-### TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES
+###### Article L111-11
 
-#### Chapitre unique.
+En Guadeloupe, en Martinique, en Guyane et à La Réunion, un observatoire de l'immigration évalue l'application de la
+politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
+
+Chaque observatoire peut proposer au Gouvernement les mesures d'adaptation rendues nécessaires par les caractéristiques et
+contraintes particulières de ces collectivités.
+
+Il comprend les parlementaires, des représentants de l'Etat et des collectivités territoriales, ainsi que des représentants
+des milieux économiques et sociaux du département d'outre-mer concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 105 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 22 (VD)
+	  - Décret n°2015-1016 du 18 août 2015 (V)
+	  - Décret n°2015-1016 du 18 août 2015 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
+
+
+### TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES AINSI QUE SEJOUR DES MEMBRES DE LEUR FAMILLE
+
+#### Chapitre Ier : Droit au séjour
 
 ###### Article L121-1
 
-Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique
-européen et de la Confédération suisse qui souhaitent établir en France leur résidence habituelle ne sont pas tenus de
-détenir un titre de séjour.
+Sauf si sa présence constitue une menace pour l'ordre public, tout citoyen de l'Union européenne, tout ressortissant d'un
+autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse a le droit de séjourner en France
+pour une durée supérieure à trois mois s'il satisfait à l'une des conditions suivantes :
 
-S'ils en font la demande, il leur est délivré un titre de séjour, sous réserve d'absence de menace pour l'ordre public.
+1° S'il exerce une activité professionnelle en France ;
 
-Toutefois, demeurent soumis à la détention d'un titre de séjour durant le temps de validité des mesures transitoires
-éventuellement prévues en la matière par le traité d'adhésion du pays dont ils sont ressortissants, et sauf si ce traité en
-stipule autrement, les ressortissants des Etats membres de l'Union européenne qui souhaitent exercer en France une activité
-économique.
+2° S'il dispose pour lui et pour les membres de sa famille tels que visés au 4° de ressources suffisantes afin de ne pas
+devenir une charge pour le système d'assistance sociale, ainsi que d'une assurance maladie ;
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+3° S'il est inscrit dans un établissement fonctionnant conformément aux dispositions législatives et réglementaires en
+vigueur pour y suivre à titre principal des études ou, dans ce cadre, une formation professionnelle, et garantit disposer
+d'une assurance maladie ainsi que de ressources suffisantes pour lui et pour les membres de sa famille tels que visés au 5°
+afin de ne pas devenir une charge pour le système d'assistance sociale ;
+
+4° S'il est un descendant direct âgé de moins de vingt et un ans ou à charge, ascendant direct à charge, conjoint, ascendant
+ou descendant direct à charge du conjoint, accompagnant ou rejoignant un ressortissant qui satisfait aux conditions énoncées
+aux 1° ou 2° ;
+
+5° S'il est le conjoint ou un enfant à charge accompagnant ou rejoignant un ressortissant qui satisfait aux conditions
+énoncées au 3°.
 
 **Liens relatifs à cet article**
 
@@ -342,6 +380,10 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
 
 	**Cité par**:
 
@@ -378,6 +420,248 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Code de la sécurité sociale. - art. L821-1 (V)
 	  - Code du travail - art. R341-2 (VT)
 	  - Code du travail - art. R5221-3 (V)
+
+
+###### Article L121-2
+
+Les ressortissants visés à l'article L. 121-1 qui souhaitent établir en France leur résidence habituelle se font enregistrer
+auprès du maire de leur commune de résidence dans les trois mois suivant leur arrivée.
+
+Ils ne sont pas tenus de détenir un titre de séjour. S'ils en font la demande, il leur est délivré un titre de séjour.
+
+Toutefois, demeurent soumis à la détention d'un titre de séjour durant le temps de validité des mesures transitoires
+éventuellement prévues en la matière par le traité d'adhésion du pays dont ils sont ressortissants, et sauf si ce traité en
+stipule autrement, les citoyens de l'Union européenne qui souhaitent exercer en France une activité professionnelle.
+
+Si les citoyens mentionnés à l'alinéa précédent souhaitent exercer une activité salariée dans un métier caractérisé par des
+difficultés de recrutement et figurant sur une liste établie, au plan national, par l'autorité administrative, ils ne peuvent
+se voir opposer la situation de l'emploi sur le fondement de l'article L. 341-2 du code du travail.
+
+Lorsque ces citoyens ont achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un
+cycle de formation conduisant à un diplôme au moins équivalent au master, ils ne sont pas soumis à la détention d'un titre de
+séjour pour exercer une activité professionnelle en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 18 janvier 2008 (V)
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 22
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-16 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R621-1 (V)
+	  - Code du travail - art. R341-1-1 (VT)
+	  - Code du travail - art. R5221-2 (M)
+	  - Code du travail - art. R5221-21 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
+	  - Code du travail - art. L341-2 (M)
+
+
+###### Article L121-3
+
+Sauf si sa présence constitue une menace pour l'ordre public, le membre de famille visé aux 4° ou 5° de l'article L. 121-1
+selon la situation de la personne qu'il accompagne ou rejoint, ressortissant d'un Etat tiers, a le droit de séjourner sur
+l'ensemble du territoire français pour une durée supérieure à trois mois.
+
+S'il est âgé de plus de dix-huit ans ou de plus de seize ans lorsqu'il veut exercer une activité professionnelle, il doit
+être muni d'une carte de séjour. Cette carte, dont la durée de validité ne peut être inférieure à cinq ans ou à une durée
+correspondant à la durée du séjour envisagée du citoyen de l'Union si celle-ci est inférieure à cinq ans, porte la mention
+"carte de séjour de membre de la famille d'un citoyen de l'Union". Elle donne à son titulaire le droit d'exercer une activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°81-778 du 13 août 1981  - art. (VD)
+	  - Arrêté du 25 octobre 2010 - art. 1 (V)
+	  - Arrêté du 1er février 2013 - art. 1 (V)
+	  - Décret n°2016-92 du 1er février 2016 - art. 1
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-3 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-5-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R621-2 (V)
+	  - Code de la construction et de l'habitation. - art. R300-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
+
+
+###### Article L121-4
+
+Tout citoyen de l'Union européenne, tout ressortissant d'un autre Etat partie à l'accord sur l'Espace économique européen ou
+de la Confédération suisse ou les membres de sa famille qui ne peuvent justifier d'un droit au séjour en application de
+l'article L. 121-1 ou de l'article L. 121-3 ou dont la présence constitue une menace à l'ordre public peut faire l'objet,
+selon le cas, d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement d'une carte de séjour ou d'un
+retrait de celle-ci ainsi que d'une mesure d'éloignement prévue au livre V.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R522-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R512-1-1 (V)
+
+
+###### Article L121-5
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R121-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R621-1 (M)
+
+
+#### Chapitre II : Droit au séjour permanent
+
+###### Article L122-1
+
+Sauf si sa présence constitue une menace pour l'ordre public, le ressortissant visé à l'article L. 121-1 qui a résidé de
+manière légale et ininterrompue en France pendant les cinq années précédentes acquiert un droit au séjour permanent sur
+l'ensemble du territoire français. 
+
+Sauf si sa présence constitue une menace pour l'ordre public, le membre de sa famille mentionné à l'article L. 121-3 acquiert
+également un droit au séjour permanent sur l'ensemble du territoire français à condition qu'il ait résidé en France de
+manière légale et ininterrompue avec le ressortissant visé à l'article L. 121-1 pendant les cinq années précédentes. Une
+carte de séjour d'une durée de validité de dix ans renouvelable de plein droit lui est délivrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 1er février 2013 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L122-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R122-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R122-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R122-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R122-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R621-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L322-3 (M)
+	  - Code de la construction et de l'habitation. - art. R300-1 (V)
+	  - Code de la construction et de l'habitation. - art. R441-2-3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
+
+
+###### Article L122-2
+
+Une absence du territoire français pendant une période de plus de deux années consécutives fait perdre à son titulaire le
+bénéfice du droit au séjour permanent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L322-3 (M)
+
+
+###### Article L122-3
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, en particulier celles
+dans lesquelles le droit au séjour permanent est acquis par les travailleurs ayant cessé leur activité en France et les
+membres de leur famille dans des conditions dérogatoires au délai de cinq années mentionné à l'article L. 122-1 et celles
+relatives à la continuité du séjour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
 
 
 ## LIVRE II : L'ENTRÉE EN FRANCE
@@ -498,6 +782,56 @@ d'un agrément pour adoption délivré par les autorités françaises ;
 
 	  - Décret n°2009-477 du 27 avril 2009 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-1 (V)
+
+
+###### Article L211-2-1
+
+La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités
+diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+
+Le visa mentionné à l'article L. 311-7 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du
+mariage ou de menace à l'ordre public.
+
+Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le
+conjoint de Français dans les meilleurs délais.
+
+Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement en France, marié en France avec un
+ressortissant de nationalité française et que le demandeur séjourne en France depuis plus de six mois avec son conjoint, la
+demande de visa de long séjour est présentée à l'autorité administrative compétente pour la délivrance d'un titre de séjour.
+
+**Nota:**
+
+NOTA : Loi 2006-911 2006-07-24 art. 116 : L'article L211-2-1 du code de l'entrée et du séjour des étrangers et du droit
+d'asile s'applique aux demandes de titres de séjour introduites un mois après la publication de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 3 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 8 (V)
+	  - Arrêté du 19 mai 2009 (V)
+	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-11 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-4 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
 
 
 ##### Section 3 : Justificatif d'hébergement
@@ -790,7 +1124,9 @@ désintéressées.
 ###### Article L213-1
 
 L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public
-ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'expulsion.
+ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté de reconduite à la
+frontière pris, moins d'un an auparavant, sur le fondement du 8° du II de l'article L. 511-1 et notifié à son destinataire
+après la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration.
 
 **Liens relatifs à cet article**
 
@@ -805,10 +1141,18 @@ ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 49 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
 	  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
 
 
 ###### Article L213-2
@@ -1149,10 +1493,10 @@ Lorsque l'étranger ne parle pas le français, il est fait application de l'arti
 
 ###### Article L221-5
 
-Lors de l'entrée en zone d'attente d'un étranger mineur non accompagné d'un représentant légal, le procureur de la
-République, avisé par l'autorité administrative en application de l'article L. 221-3, lui désigne sans délai un
-administrateur ad hoc. Celui-ci assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans le
-cadre des procédures administratives et juridictionnelles relatives à ce maintien.
+Lorsqu'un étranger mineur non accompagné d'un représentant légal n'est pas autorisé à entrer en France, le procureur de la
+République, avisé immédiatement par l'autorité administrative, lui désigne sans délai un administrateur ad hoc. Celui-ci
+assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans le cadre des procédures
+administratives et juridictionnelles relatives à ce maintien.
 
 Il assure également la représentation du mineur dans toutes les procédures administratives et juridictionnelles afférentes à
 son entrée en France.
@@ -1171,6 +1515,10 @@ conditions de leur indemnisation.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 48 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -1530,11 +1878,13 @@ et de la détention et le procureur de la République territorialement compéten
 
 #### Chapitre Ier : Dispositions générales
 
+##### Section 1 : Dispositions relatives aux documents de séjour
+
 ###### Article L311-1
 
 Sous réserve des dispositions de l'article L. 121-1 ou des stipulations d'un accord international, tout étranger âgé de plus
 de dix-huit ans qui souhaite séjourner en France doit, après l'expiration d'un délai de trois mois depuis son entrée en
-France, être muni d'une carte de séjour.
+France, être muni d'une carte de séjour. 
 
 Ce délai de trois mois peut être modifié par décret en Conseil d'Etat.
 
@@ -1550,6 +1900,10 @@ Ce délai de trois mois peut être modifié par décret en Conseil d'Etat.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -1567,21 +1921,36 @@ Ce délai de trois mois peut être modifié par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
 
 
 ###### Article L311-2
 
-La carte prévue à l'article L. 311-1 est :
+La carte prévue à l'article L. 311-1 est : 
 
-1° Soit une carte de séjour temporaire, dont les conditions de délivrance et de renouvellement sont prévues au chapitre III
-du présent titre. La carte de séjour temporaire est valable pour une durée maximale d'un an. L'étranger qui séjourne sous
-couvert d'une carte de séjour temporaire peut solliciter la délivrance d'une carte de résident dans les conditions prévues
-aux articles L. 314-8 à L. 314-12 ;
+1° Soit une carte de séjour temporaire, dont les conditions de délivrance et de renouvellement sont prévues aux chapitres III
+et VI du présent titre. La carte de séjour temporaire est valable pour une durée maximale d'un an. L'étranger qui séjourne
+sous couvert d'une carte de séjour temporaire peut solliciter la délivrance d'une carte de résident dans les conditions
+prévues aux articles L. 314-8 à L. 314-12, sous réserve des exceptions prévues par les dispositions législatives du présent
+code ; 
 
 2° Soit une carte de résident, dont les conditions de délivrance et de renouvellement sont prévues au chapitre IV du présent
 titre. La carte de résident est valable pour une durée de dix ans. Elle est renouvelable de plein droit, sauf dans les cas
-prévus par le présent code.
+prévus par le présent code ; 
+
+3° Soit une carte de séjour " compétences et talents ", dont les conditions de délivrance et de renouvellement sont prévues
+au chapitre V du présent titre. La carte de séjour " compétences et talents " est valable pour une durée de trois ans.
+L'étranger qui séjourne sous couvert d'une carte de séjour " compétences et talents " peut solliciter la délivrance d'une
+carte de résident dans les conditions prévues aux articles L. 314-8 à L. 314-12 ; 
+
+4° Soit une carte de séjour portant la mention " retraité ", dont les conditions de délivrance et de renouvellement sont
+prévues au chapitre VII du présent titre. La carte de séjour " retraité " est valable pour une durée de dix ans. Elle est
+renouvelable de plein droit.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -1595,8 +1964,17 @@ prévus par le présent code.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 2006-07-24 art. 2 I, II JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
 
 	**Cité par**:
 
@@ -1604,15 +1982,14 @@ prévus par le présent code.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R315-5 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-1 (V)
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L311-1, L314-8 à L314-12
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-1
 
 
 ###### Article L311-3
@@ -1633,6 +2010,10 @@ séjour temporaire ou une carte de résident en application des articles L. 314-
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -1655,7 +2036,7 @@ séjour temporaire ou une carte de résident en application des articles L. 314-
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
 
 
 ###### Article L311-4
@@ -1689,6 +2070,10 @@ de ses droits sociaux ainsi que son droit d'exercer une activité professionnell
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
+
 
 ###### Article L311-5
 
@@ -1707,6 +2092,10 @@ s'est vu reconnaître la qualité de réfugié.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -1730,6 +2119,271 @@ justifier, pour obtenir ce titre, qu'il remplit l'ensemble des conditions prévu
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
+
+
+###### Article L311-7
+
+Sous réserve des engagements internationaux de la France et des exceptions prévues par les dispositions législatives du
+présent code, l'octroi de la carte de séjour temporaire et celui de la carte de séjour "compétences et talents" sont
+subordonnés à la production par l'étranger d'un visa pour un séjour d'une durée supérieure à trois mois.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 3 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-8 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-3 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-2-1 (M)
+
+
+###### Article L311-8
+
+La carte de séjour temporaire et la carte de séjour " compétences et talents " sont retirées si leur titulaire cesse de
+remplir l'une des conditions exigées pour leur délivrance.
+
+Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié" ou "travailleur temporaire" ne
+peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 4 () JORF 25 juillet 2006
+
+
+##### Section 2 : Dispositions relatives à l'intégration dans la société française
+
+###### Article L311-9
+
+L'étranger admis pour la première fois au séjour en France ou qui entre régulièrement en France entre l'âge de seize ans et
+l'âge de dix-huit ans, et qui souhaite s'y maintenir durablement, prépare son intégration républicaine dans la société
+française.
+
+A cette fin, il conclut avec l'Etat un contrat d'accueil et d'intégration, traduit dans une langue qu'il comprend, par lequel
+il s'oblige à suivre une formation civique et, lorsque le besoin en est établi, linguistique. La formation civique comporte
+une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes et les
+femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat. L'étranger
+bénéficie d'une session d'information sur la vie en France et, le cas échéant, d'un bilan de compétences professionnelles.
+Toutes ces formations et prestations sont dispensées gratuitement. Lorsque l'étranger est âgé de seize à dix-huit ans, le
+contrat d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France.
+
+Lors du premier renouvellement de la carte de séjour, il peut être tenu compte du non-respect, manifesté par une volonté
+caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
+
+L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins
+trois ans est dispensé de la signature de ce contrat.
+
+L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en
+France peut demander à signer un tel contrat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine la durée du contrat d'accueil
+et d'intégration et ses conditions de renouvellement, les actions prévues par le contrat et les conditions de suivi et de
+validation de ces actions, dont la reconnaissance de l'acquisition d'un niveau satisfaisant de maîtrise de la langue
+française et la remise à l'étranger d'un document permettant de s'assurer de l'assiduité de celui-ci aux formations qui lui
+sont dispensées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 5 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 66 (V)
+	  - Code de l'action sociale et des familles - art. L117-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L751-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-19 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-21 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-22 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-23 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-24 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-25 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-26 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-28 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L711-2 (M)
+
+
+##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
+
+###### Article L311-10
+
+Une autorisation provisoire de séjour est délivrée à l'étranger qui souhaite effectuer une mission de volontariat en France
+auprès d'une fondation ou d'une association reconnue d'utilité publique ou d'une association adhérente à une fédération elle-
+même reconnue d'utilité publique, à la condition que la mission revête un caractère social ou humanitaire, que le contrat de
+volontariat ait été conclu préalablement à l'entrée en France, que l'association ou la fondation ait attesté de la prise en
+charge du demandeur, que celui-ci soit en possession d'un visa de long séjour et qu'il ait pris par écrit l'engagement de
+quitter le territoire à l'issue de sa mission.
+
+L'association ou la fondation mentionnées au premier alinéa font l'objet d'un agrément préalable par l'autorité
+administrative, dans des conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 6 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-33 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-31 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-32 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-34 (V)
+
+
+###### Article L311-11
+
+Une autorisation provisoire de séjour d'une durée de validité de six mois non renouvelable est délivrée à l'étranger qui,
+ayant achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un cycle de formation
+conduisant à un diplôme au moins équivalent au master, souhaite, dans la perspective de son retour dans son pays d'origine,
+compléter sa formation par une première expérience professionnelle participant directement ou indirectement au développement
+économique de la France et du pays dont il a la nationalité. Pendant la durée de cette autorisation, son titulaire est
+autorisé à chercher et, le cas échéant, à exercer un emploi en relation avec sa formation et assorti d'une rémunération
+supérieure à un seuil déterminé par décret. A l'issue de cette période de six mois, l'intéressé pourvu d'un emploi ou
+titulaire d'une promesse d'embauche, satisfaisant aux conditions énoncées ci-dessus, est autorisé à séjourner en France pour
+l'exercice de l'activité professionnelle correspondant à l'emploi considéré au titre des dispositions du 1° de l'article L.
+313-10 du présent code, sans que lui soit opposable la situation de l'emploi sur le fondement de l'article L. 341-2 du code
+du travail. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 6, al. 7
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 6 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 6 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 22
+	  - Décret n°2016-1463 du 28 octobre 2016 (V)
+	  - Décret n°2016-1463 du 28 octobre 2016 - art. 2
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D313-16-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R315-5 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-32 (T)
+	  - Code du travail - art. D5221-21-1 (V)
+	  - Code du travail - art. R341-4-3 (VT)
+	  - Code du travail - art. R341-4-4 (VT)
+	  - Code du travail - art. R5221-21 (V)
+	  - Code du travail - art. R5221-26 (V)
+	  - Code du travail - art. R5221-29 (Ab)
+	  - Code du travail - art. R5221-3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-2 (Ab)
+
+
+###### Article L311-12
+
+Sauf si sa présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour peut être délivrée à l'un
+des parents étranger de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article L. 313-11, sous réserve
+qu'il justifie résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la
+condition prévue à l'article L. 311-7 soit exigée.
+
+L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut être d'une durée supérieure à six mois, est
+délivrée par l'autorité administrative, après avis du médecin inspecteur de santé publique compétent au regard du lieu de
+résidence de l'intéressé ou, à Paris, du médecin, chef du service médical de la préfecture de police, dans les conditions
+prévues au 11° de l'article L. 313-11. Elle est renouvelable et n'autorise pas son titulaire à travailler. Toutefois, cette
+autorisation peut être assortie d'une autorisation provisoire de travail, sur présentation d'un contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 6, al. 7
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 6 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 6 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Arrêté du 27 décembre 2016 - art. 7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-36 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-26 (V)
+	  - Code du travail - art. R5221-3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -1927,18 +2581,17 @@ public.
 
 ###### Article L313-4
 
-Par dérogation aux articles L. 311-2 et L. 313-1, l'étranger titulaire d'une carte de séjour temporaire au titre de l'article
-L. 313-8 ou de l'article L. 313-10 depuis au moins un an peut, à l'échéance de la validité de cette carte, en solliciter le
-renouvellement pour une durée supérieure à un an et ne pouvant excéder quatre ans.
+Par dérogation aux articles L. 311-2 et L. 313-1, l'étranger titulaire d'une carte de séjour temporaire au titre des articles
+L. 313-7 ou L. 313-8 depuis au moins un an peut, à l'échéance de la validité de cette carte, en solliciter le renouvellement
+pour une durée supérieure à un an et ne pouvant excéder quatre ans.
 
-Cette dérogation est accordée en tenant compte de la qualification professionnelle du demandeur, de son activité
-professionnelle, ainsi que des raisons pour lesquelles le bénéfice d'un tel renouvellement est susceptible d'en faciliter
-l'exercice.
+Cette dérogation est accordée à l'étudiant étranger admis à suivre, dans un établissement d'enseignement supérieur habilité
+au plan national, une formation en vue de l'obtention d'un diplôme au moins équivalent au master.
 
-La nouvelle durée de validité de la carte est déterminée compte tenu de la durée prévue ou prévisible de la présence du
-demandeur en France dans le cadre de son activité professionnelle. Si celle-ci prend fin avant la date d'expiration du titre,
-ce dernier est retiré sans préjudice de la possibilité, pour l'étranger, de solliciter la délivrance d'un autre titre de
-séjour à laquelle il pourrait prétendre en application des dispositions du présent code.
+Elle peut également être accordée au titulaire de la carte de séjour temporaire portant la mention "scientifique" en tenant
+compte de la durée de ses travaux de recherche.
+
+Un décret en Conseil d'Etat précise les conditions d'application de ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -1960,22 +2613,105 @@ séjour à laquelle il pourrait prétendre en application des dispositions du pr
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 8 () JORF 25 juillet 2006
+
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-2 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-7 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
+
+
+###### Article L313-4-1
+
+L'étranger titulaire de la carte de résident de longue durée-CE définie par les dispositions communautaires applicables en
+cette matière et accordée dans un autre Etat membre de l'Union européenne qui justifie de ressources stables et suffisantes
+pour subvenir à ses besoins et, le cas échéant, à ceux de sa famille ainsi que d'une assurance maladie obtient, sous réserve
+qu'il en fasse la demande dans les trois mois qui suivent son entrée en France et sans que la condition prévue à l'article L.
+311-7 soit exigée :
+
+1° Une carte de séjour temporaire portant la mention "visiteur" s'il remplit les conditions définies à l'article L. 313-6 ;
+
+2° Une carte de séjour temporaire portant la mention "étudiant" s'il remplit les conditions définies au I et aux 2°, 3° ou 5°
+du II de l'article L. 313-7 ;
+
+3° Une carte de séjour temporaire portant la mention "scientifique" s'il remplit les conditions définies à l'article L.
+313-8 ;
+
+4° Une carte de séjour temporaire portant la mention "profession artistique et culturelle" s'il remplit les conditions
+définies à l'article L. 313-9 ;
+
+5° Une carte de séjour temporaire portant la mention de l'activité professionnelle pour laquelle il a obtenu l'autorisation
+préalable requise, dans les conditions définies, selon le cas, aux 1°, 2° ou 3° de l'article L. 313-10.
+
+Pour l'application du présent article, sont prises en compte toutes les ressources propres du demandeur et, le cas échéant,
+de son conjoint, indépendamment des prestations familiales et des allocations prévues à l'article L. 262-1 du code de
+l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale et aux articles L. 351-9, L. 351-10 et
+L. 351-10-1 du code du travail. Ces ressources doivent atteindre un montant au moins égal au salaire minimum de croissance et
+sont appréciées au regard des conditions de logement.
+
+Le caractère suffisant des ressources au regard des conditions de logement fait l'objet d'un avis du maire de la commune de
+résidence du demandeur. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire
+par l'autorité administrative.
+
+Les dispositions du présent article ne sont pas applicables lorsque cet étranger séjourne en tant que travailleur salarié
+détaché par un prestataire de services dans le cadre d'une prestation transfrontalière ou en tant que prestataire de services
+transfrontaliers.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 24 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 2016 - art. 5 (V)
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22-1 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R531-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
+	  - Code du travail - art. R341-2-2 (VT)
+	  - Code du travail - art. R5221-3 (V)
+	  - Code du travail - art. R5221-5 (Ab)
 
 
 ###### Article L313-5
 
 La carte de séjour temporaire peut être retirée à l'étranger passible de poursuites pénales sur le fondement des articles
-222-39, 321-6-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du code pénal.
+222-39, 321-6-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du code pénal. 
 
 La carte de séjour temporaire peut également être retirée à tout employeur, titulaire de cette carte, en infraction avec
 l'article L. 341-6 du code du travail ainsi qu'à tout étranger qui méconnaît les dispositions de l'article L. 341-4 du même
-code ou qui exerce une activité professionnelle non salariée sans en avoir l'autorisation.
+code ou qui exerce une activité professionnelle non salariée sans en avoir l'autorisation. 
+
+En outre, l'employeur qui a fait l'objet d'une obligation de quitter le territoire français en raison du retrait, prononcé en
+application des dispositions du deuxième alinéa, de sa carte de séjour temporaire peut, dans les trois années qui suivent
+cette obligation, se voir refuser le droit d'exercer une activité professionnelle en France. 
+
+La carte de séjour temporaire prévue à l'article L. 313-7 du présent code peut être retirée à l'étudiant étranger qui ne
+respecte pas la limite de 60 % de la durée de travail annuelle prévue au même article.
 
 **Liens relatifs à cet article**
 
@@ -1991,24 +2727,27 @@ code ou qui exerce une activité professionnelle non salariée sans en avoir l'a
 
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 13 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (V)
+	  - Code pénal - art. 222-39 (V)
+	  - Code pénal - art. 225-12-5 (V)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-4-7 (V)
+	  - Code pénal - art. 225-5 (V)
+	  - Code pénal - art. 311-4 (V)
+	  - Code pénal - art. 312-12-1 (V)
+	  - Code pénal - art. 321-6-1 (V)
+	  - Code du travail - art. L341-4 (Ab)
+	  - Code du travail - art. L341-6 (Ab)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-8 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 222-39 (M)
-	  - Code pénal - art. 225-4-7 (V)
-	  - Code pénal - art. 311-4 (M)
-	  - Code pénal - art. 312-12-1 (V)
-	  - Code pénal - art. 321-6-1 (V)
-	  - Code pénal 222-39, 321-6-1, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4, 312-12-1
-	  - Code du travail - art. L341-4 (M)
-	  - Code du travail - art. L341-6 (M)
 
 
 ##### Section 2 : Les différentes catégories de cartes de séjour temporaires
@@ -2018,7 +2757,7 @@ code ou qui exerce une activité professionnelle non salariée sans en avoir l'a
 ###### Article L313-6
 
 La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve qu'il peut vivre de ses seules ressources et qui
-prend l'engagement de n'exercer en France aucune activité professionnelle soumise à autorisation porte la mention "visiteur".
+prend l'engagement de n'exercer en France aucune activité professionnelle porte la mention " visiteur ".
 
 **Liens relatifs à cet article**
 
@@ -2031,6 +2770,10 @@ prend l'engagement de n'exercer en France aucune activité professionnelle soumi
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 10 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2047,14 +2790,35 @@ prend l'engagement de n'exercer en France aucune activité professionnelle soumi
 
 ###### Article L313-7
 
-La carte de séjour temporaire délivrée à l'étranger qui établit qu'il suit en France un enseignement ou qu'il y fait des
-études et qui justifie qu'il dispose de moyens d'existence suffisants porte la mention "étudiant". En cas de nécessité liée
-au déroulement des études, et sous réserve d'une entrée régulière en France, l'autorité administrative peut accorder cette
-carte de séjour même en l'absence du visa de long séjour requis. Sous les mêmes réserves, il peut également la délivrer à
-l'étranger qui a suivi une scolarité en France depuis l'âge de seize ans au moins et qui poursuit des études supérieures.
+I.-La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un enseignement ou qu'il y fait des
+études et qui justifie qu'il dispose de moyens d'existence suffisants porte la mention " étudiant ". En cas de nécessité liée
+au déroulement des études ou lorsque l'étranger a suivi sans interruption une scolarité en France depuis l'âge de seize ans
+et y poursuit des études supérieures, l'autorité administrative peut accorder cette carte de séjour sans que la condition
+prévue à l'article L. 311-7 soit exigée et sous réserve d'une entrée régulière en France. 
 
-Un décret en Conseil d'Etat précise les conditions d'application de ces dispositions, en particulier en ce qui concerne les
-ressources exigées et les conditions d'inscription dans un établissement d'enseignement.
+La carte ainsi délivrée donne droit à l'exercice, à titre accessoire, d'une activité professionnelle salariée dans la limite
+de 60 % de la durée de travail annuelle. 
+
+II.-Sauf si sa présence constitue une menace pour l'ordre public, la carte mentionnée au I est accordée de plein droit : 
+
+1° A l'étranger auquel un visa pour un séjour d'une durée supérieure à trois mois a été accordé dans le cadre d'une
+convention signée entre l'Etat et un établissement d'enseignement supérieur et qui est inscrit dans cet établissement ; 
+
+2° A l'étranger ayant satisfait aux épreuves du concours d'entrée dans un établissement d'enseignement supérieur ayant signé
+une convention avec l'Etat ; 
+
+3° A l'étranger boursier du Gouvernement français ; 
+
+4° A l'étranger titulaire du baccalauréat français préparé dans un établissement relevant de l'Agence pour l'enseignement
+français à l'étranger ou titulaire d'un diplôme équivalent et ayant suivi pendant au moins trois ans une scolarité dans un
+établissement français de l'étranger ; 
+
+5° A l'étranger ressortissant d'un pays ayant signé avec la France un accord de réciprocité relatif à l'admission au séjour
+des étudiants. 
+
+Un décret en Conseil d'Etat précise les conditions d'application des dispositions du présent article, en particulier en ce
+qui concerne les ressources exigées, les conditions d'inscription dans un établissement d'enseignement et celles dans
+lesquelles l'étranger entrant dans les prévisions du 2° peut être dispensé de l'obligation prévue à l'article L. 311-7.
 
 **Liens relatifs à cet article**
 
@@ -2067,6 +2831,10 @@ ressources exigées et les conditions d'inscription dans un établissement d'ens
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 9 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2093,15 +2861,75 @@ ressources exigées et les conditions d'inscription dans un établissement d'ens
 	  - Code du travail - art. R341-2 (VT)
 	  - Code du travail - art. R5221-3 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+
+
+##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
+
+###### Article L313-7-1
+
+La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un stage dans le cadre d'une convention
+de stage visée par l'autorité administrative compétente et qu'il dispose de moyens d'existence suffisants porte la mention "
+stagiaire ". En cas de nécessité liée au déroulement du stage, et sous réserve d'une entrée régulière en France, l'autorité
+administrative peut accorder cette carte de séjour sans que la condition prévue à l'article L. 311-7 soit exigée. 
+
+L'association qui procède au placement d'un étranger désireux de venir en France en vue d'y accomplir un stage doit être
+agréée. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent article, et notamment les modalités
+d'agrément des associations par arrêté ministériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 9 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 25 juin 2009 - art. 1 (V)
+	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-36 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+
 
 ##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".
 
 ###### Article L313-8
 
-La carte de séjour temporaire délivrée à l'étranger sous réserve d'une entrée régulière en France pour lui permettre de mener
-des travaux de recherche ou de dispenser un enseignement de niveau universitaire porte la mention "scientifique".
+La carte de séjour temporaire délivrée à l'étranger aux fins de mener des travaux de recherche ou de dispenser un
+enseignement de niveau universitaire dans le cadre d'une convention d'accueil signée avec un organisme public ou privé ayant
+une mission de recherche ou d'enseignement supérieur préalablement agréé dans les conditions définies par décret en Conseil
+d'Etat porte la mention "scientifique".
+
+L'étranger ayant été admis dans un autre Etat membre de l'Union européenne conformément aux dispositions de la directive
+2005/71/CE du Conseil du 12 octobre 2005 relative à une procédure d'admission spécifique des ressortissants de pays tiers aux
+fins de recherche scientifique, peut mener une partie de ses travaux en France sur la base de la convention d'accueil conclue
+dans le premier Etat membre s'il séjourne en France pour une durée inférieure ou égale à trois mois, pour autant qu'il
+dispose de ressources suffisantes. S'il séjourne en France pour une durée supérieure à trois mois, il doit justifier remplir
+les conditions définies au premier alinéa.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2005/71 CE 2005-10-12 Conseil
 
 	**Anciens textes**:
 
@@ -2139,6 +2967,10 @@ des travaux de recherche ou de dispenser un enseignement de niveau universitaire
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 11 () JORF 25 juillet 2006
 
 
 ##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"
@@ -2191,13 +3023,69 @@ décret et au plus tard à compter du 1er novembre 2016.
 	  - Code de la propriété intellectuelle - art. L212-1
 
 
-##### Sous-section 5 : La carte de séjour temporaire mentionnant une activité soumise à autorisation.
+##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle
 
 ###### Article L313-10
 
-La carte de séjour temporaire délivrée à l'étranger qui désire exercer en France une activité professionnelle soumise à
-autorisation et justifie avoir obtenu cette autorisation porte la mention de cette activité, conformément aux lois et
-règlements en vigueur.
+La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle est délivrée :
+
+1° A l'étranger titulaire d'un contrat de travail visé conformément aux dispositions de l'article L. 341-2 du code du
+travail.
+
+Pour l'exercice d'une activité professionnelle salariée dans un métier et une zone géographique caractérisés par des
+difficultés de recrutement et figurant sur une liste établie au plan national par l'autorité administrative, après
+consultation des organisations syndicales d'employeurs et de salariés représentatives, l'étranger se voit délivrer cette
+carte sans que lui soit opposable la situation de l'emploi sur le fondement du même article L. 341-2.
+
+La carte porte la mention "salarié" lorsque l'activité est exercée pour une durée supérieure ou égale à douze mois. Elle
+porte la mention "travailleur temporaire" lorsque l'activité est exercée pour une durée déterminée inférieure à douze mois.
+Si la rupture du contrat de travail du fait de l'employeur intervient dans les trois mois précédant son renouvellement, une
+nouvelle carte lui est délivrée pour une durée d'un an ;
+
+2° A l'étranger qui vient exercer une profession commerciale, industrielle ou artisanale, à condition notamment qu'il
+justifie d'une activité économiquement viable et compatible avec la sécurité, la salubrité et la tranquillité publiques et
+qu'il respecte les obligations imposées aux nationaux pour l'exercice de la profession envisagée. Elle porte la mention de la
+profession que le titulaire entend exercer. Un décret en Conseil d'Etat fixe les conditions d'application du présent 2° ;
+
+3° A l'étranger qui vient exercer une activité professionnelle non soumise à l'autorisation prévue à l'article L. 341-2 du
+code du travail et qui justifie pouvoir vivre de ses seules ressources.
+
+"Elle porte la mention de l'activité que le titulaire entend exercer ;
+
+4° A l'étranger titulaire d'un contrat de travail saisonnier entrant dans les prévisions du 3° de l'article L. 122-1-1 du
+code du travail et qui s'engage à maintenir sa résidence habituelle hors de France.
+
+Cette carte lui permet d'exercer des travaux saisonniers n'excédant pas six mois sur douze mois consécutifs. Par dérogation
+aux articles L. 311-2 et L. 313-1 du présent code, elle est accordée pour une durée maximale de trois ans renouvelable. Elle
+donne à son titulaire le droit de séjourner en France pendant la ou les périodes qu'elle fixe et qui ne peuvent dépasser une
+durée cumulée de six mois par an.
+
+Les modalités permettant à l'autorité administrative de s'assurer du respect, par le titulaire de cette carte, des durées
+maximales autorisées de séjour en France et d'exercice d'une activité professionnelle sont fixées par décret.
+
+Elle porte la mention "travailleur saisonnier" ;
+
+5° A l'étranger détaché par un employeur établi hors de France lorsque ce détachement s'effectue entre établissements d'une
+même entreprise ou entre entreprises d'un même groupe, conformément au 2° du I de l'article L. 342-1 du code du travail, à la
+condition que la rémunération brute du salarié soit au moins égale à 1,5 fois le salaire minimum de croissance.
+
+Elle porte la mention "salarié en mission".
+
+Cette carte de séjour a une durée de validité de trois ans renouvelable et permet à son titulaire d'entrer en France à tout
+moment pour y être employé dans un établissement ou dans une entreprise mentionnée au 2° du I du même article L. 342-1.
+
+L'étranger titulaire d'un contrat de travail avec une entreprise établie en France, lorsque l'introduction de cet étranger en
+France s'effectue entre établissements d'une même entreprise ou entre entreprises d'un même groupe, bénéficie également de la
+carte mentionnée au troisième alinéa du présent 5° à condition que sa rémunération brute soit au moins égale à 1,5 fois le
+salaire minimum de croissance.
+
+Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs en France dans l'année qui suit leur dix-
+huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 du présent code, d'un étranger titulaire d'une
+carte "salarié en mission" qui réside de manière ininterrompue plus de six mois en France bénéficient de plein droit de la
+carte de séjour mentionnée au 3° de l'article L. 313-11. La carte de séjour ainsi accordée est renouvelée de plein droit
+durant la période de validité restant à courir de la carte "salarié en mission" susmentionnée, dès lors que le titulaire de
+cette dernière carte continue de résider plus de six mois par an en France de manière ininterrompue pendant la période de
+validité de sa carte.
 
 **Liens relatifs à cet article**
 
@@ -2267,6 +3155,15 @@ règlements en vigueur.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 12 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile
+	  - Code du travail - art. L341-2 (M)
+
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention " vie privée et familiale "
 
@@ -2275,55 +3172,69 @@ règlements en vigueur.
 Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire portant la mention "vie privée et
 familiale" est délivrée de plein droit :
 
-1° A l'étranger mineur, ou dans l'année qui suit son dix-huitième anniversaire, dont l'un des parents au moins est titulaire
-de la carte de séjour temporaire ou de la carte de résident, ainsi qu'à l'étranger entré en France régulièrement dont le
-conjoint est titulaire de l'une ou de l'autre de ces cartes, s'ils ont été autorisés à séjourner en France au titre du
-regroupement familial dans les conditions prévues au livre IV ;
+1° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
+dont l'un des parents au moins est titulaire de la carte de séjour temporaire ou de la carte de résident, ainsi qu'à
+l'étranger entré en France régulièrement dont le conjoint est titulaire de l'une ou de l'autre de ces cartes, s'ils ont été
+autorisés à séjourner en France au titre du regroupement familial dans les conditions prévues au livre IV ;
 
-2° A l'étranger mineur, ou dans l'année qui suit son dix-huitième anniversaire, qui justifie par tout moyen avoir sa
-résidence habituelle en France depuis qu'il a atteint au plus l'âge de treize ans ;
+2° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, qui
+justifie par tout moyen avoir résidé habituellement en France avec au moins un de ses parents légitimes, naturels ou adoptifs
+depuis qu'il a atteint au plus l'âge de treize ans, la filiation étant établie dans les conditions prévues à l'article L.
+314-11 ; la condition prévue à l'article L. 311-7 n'est pas exigée ;
 
-3° A l'étranger ne vivant pas en état de polygamie, qui justifie par tout moyen résider en France habituellement depuis plus
-de dix ans ou plus de quinze ans si, au cours de cette période, il a séjourné en qualité d'étudiant. Les années durant
-lesquelles l'étranger s'est prévalu de documents d'identité falsifiés ou d'une identité usurpée ne sont pas prises en
-compte ;
+2° bis A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
+qui a été confié, depuis qu'il a atteint au plus l'âge de seize ans, au service de l'aide sociale à l'enfance et sous réserve
+du caractère réel et sérieux du suivi de la formation, de la nature de ses liens avec la famille restée dans le pays
+d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étranger dans la société française. La condition
+prévue à l'article L. 311-7 n'est pas exigée ;
 
-4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que son
-entrée en France ait été régulière, que la communauté de vie n'ait pas cessé, que le conjoint ait conservé la nationalité
-française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de
-l'état civil français ;
+3° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
+dont l'un des parents est titulaire de la carte de séjour "compétences et talents" ou de la carte de séjour temporaire
+portant la mention "salarié en mission", ainsi qu'à l'étranger dont le conjoint est titulaire de l'une de ces cartes. Le
+titulaire de la carte de séjour temporaire portant la mention "salarié en mission" doit résider en France dans les conditions
+définies au dernier alinéa du 5° de l'article L. 313-10 ;
+
+4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que la
+communauté de vie n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le
+mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
 
 5° A l'étranger ne vivant pas en état de polygamie, marié à un ressortissant étranger titulaire d'une carte de séjour
-temporaire portant la mention "scientifique", à condition que son entrée sur le territoire français ait été régulière ;
+temporaire portant la mention "scientifique" ;
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à la
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
-l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ;
+l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans, sans que la condition prévue à
+l'article L. 311-7 soit exigée ;
 
 7° A l'étranger ne vivant pas en état de polygamie, qui n'entre pas dans les catégories précédentes ou dans celles qui
-ouvrent droit au regroupement familial, dont les liens personnels et familiaux en France sont tels que le refus d'autoriser
-son séjour porterait à son droit au respect de sa vie privée et familiale une atteinte disproportionnée au regard des motifs
-du refus ;
+ouvrent droit au regroupement familial, dont les liens personnels et familiaux en France, appréciés notamment au regard de
+leur intensité, de leur ancienneté et de leur stabilité, des conditions d'existence de l'intéressé, de son insertion dans la
+société française ainsi que de la nature de ses liens avec la famille restée dans le pays d'origine, sont tels que le refus
+d'autoriser son séjour porterait à son droit au respect de sa vie privée et familiale une atteinte disproportionnée au regard
+des motifs du refus, sans que la condition prévue à l'article L. 311-7 soit exigée ;
 
 8° A l'étranger né en France qui justifie par tout moyen y avoir résidé pendant au moins huit ans de façon continue et suivi,
 après l'âge de dix ans, une scolarité d'au moins cinq ans dans un établissement scolaire français, à la condition qu'il fasse
-sa demande entre l'âge de seize ans et l'âge de vingt et un ans ;
+sa demande entre l'âge de seize ans et l'âge de vingt et un ans, sans que la condition prévue à l'article L. 311-7 soit
+exigée ;
 
 9° A l'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
-dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
+dont le taux d'incapacité permanente est égal ou supérieur à 20 %, sans que la condition prévue à l'article L. 311-7 soit
+exigée ;
 
 10° A l'étranger qui a obtenu le statut d'apatride en application du livre VII du présent code, ainsi qu'à son conjoint et à
-ses enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire, lorsque le mariage est antérieur à la date de
-cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective
-entre les époux ;
+ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
+lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an,
+sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à l'article L. 311-7 soit
+exigée ;
 
 11° A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
 pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement
-bénéficier d'un traitement approprié dans le pays dont il est originaire. La décision de délivrer la carte de séjour est
-prise par l'autorité administrative, après avis du médecin inspecteur de santé publique compétent au regard du lieu de
-résidence de l'intéressé ou, à Paris, du médecin, chef du service médical de la préfecture de police. Le médecin inspecteur
-ou le médecin chef peut convoquer le demandeur pour une consultation médicale devant une commission médicale régionale dont
-la composition est fixée par décret en Conseil d'Etat.
+bénéficier d'un traitement approprié dans le pays dont il est originaire, sans que la condition prévue à l'article L. 311-7
+soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin
+inspecteur de santé publique compétent au regard du lieu de résidence de l'intéressé ou, à Paris, du médecin, chef du service
+médical de la préfecture de police. Le médecin inspecteur ou le médecin chef peut convoquer le demandeur pour une
+consultation médicale devant une commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2400,9 +3311,100 @@ la composition est fixée par décret en Conseil d'Etat.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 31 () JORF 25 juillet 2006
+
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
 	  - Code civil - art. 371-2 (M)
+
+
+###### Article L313-11-1
+
+I. - La carte de séjour temporaire prévue à l'article L. 313-11 est délivrée, sous réserve qu'il en fasse la demande dans les
+trois mois qui suivent son entrée en France et sans que la condition prévue à l'article L. 311-7 soit exigée, au conjoint
+d'un étranger titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et d'une
+carte de séjour temporaire délivrée en application de l'article L. 313-4-1, s'il justifie avoir résidé légalement avec le
+résident de longue durée-CE dans l'autre Etat membre, disposer de ressources stables et suffisantes ainsi que d'une assurance
+maladie.
+
+II. - La carte de séjour dont la délivrance est prévue au I est également délivrée à l'enfant entré mineur en France d'un
+étranger titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et d'une carte de
+séjour temporaire délivrée en application de l'article L. 313-4-1 lorsqu'il atteint l'âge de dix-huit ans, sous réserve qu'il
+en fasse la demande dans les trois mois qui suivent son dix-huitième anniversaire ou lorsqu'il entre dans les prévisions de
+l'article L. 311-3.
+
+L'enfant doit justifier avoir résidé légalement avec le résident de longue durée-CE dans l'autre Etat membre et disposer
+d'une assurance maladie. Il doit également disposer de ressources stables et suffisantes ou être pris en charge par son
+parent titulaire de la carte de séjour temporaire délivrée en application de l'article L. 313-4-1.
+
+La condition prévue à l'article L. 311-7 n'est pas exigée.
+
+L'enfant mentionné au premier alinéa du présent II est celui qui répond à l'une des définitions données aux articles L. 411-1
+à L. 411-4.
+
+III. - Pour l'application des I et II, sont prises en compte toutes les ressources propres du demandeur et, le cas échéant,
+de son conjoint ou parent, indépendamment des prestations familiales et des allocations prévues à l'article L. 262-1 du code
+de l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale et aux articles L. 351-9, L. 351-10
+et L. 351-10-1 du code du travail. Ces ressources doivent atteindre un montant au moins égal au salaire minimum de croissance
+et sont appréciées au regard des conditions de logement.
+
+Le caractère suffisant des ressources au regard des conditions de logement fait l'objet d'un avis du maire de la commune de
+résidence du demandeur. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire
+par l'autorité administrative.
+
+IV. - La date d'expiration de la carte de séjour temporaire délivrée dans les conditions définies au présent article ne peut
+être postérieure à celle de la carte de séjour temporaire délivrée, en application de l'article L. 313-4-1, à l'étranger
+titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne.
+
+V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 25 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22-1 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R531-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R531-3-2 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-20 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
+	  - Code du travail - art. R5221-48 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-3 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L313-11, L311-7, L313-4-1, L311-3, L411-1 à L411-4
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-10-1 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code de la sécurité sociale. - art. L815-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
 
 ###### Article L313-12
@@ -2417,6 +3419,10 @@ renouvellement du titre.
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du
 6° de l'article L. 313-11.
 
+La carte de séjour délivrée au titre de l'article L. 313-11-1 ne donne pas droit à l'exercice d'une activité professionnelle
+dans l'année qui suit sa première délivrance, sauf si elle est accordée en application du II de cet article et que son
+bénéficiaire séjourne en France depuis au moins un an.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2427,6 +3433,10 @@ L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvell
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 26 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2439,17 +3449,19 @@ L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvell
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
 
 
 ###### Article L313-13
 
 Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire prévue à l'article L. 313-11 est
 délivrée de plein droit à l'étranger qui a obtenu le bénéfice de la protection subsidiaire en application de l'article L.
-712-1 du présent code.
+712-1 du présent code, sans que la condition prévue à l'article L. 311-7 soit exigée. 
 
-Elle est également délivrée de plein droit au conjoint de cet étranger et à ses enfants mineurs ou dans l'année qui suit leur
-dix-huitième anniversaire lorsque le mariage est antérieur à la date d'obtention de la protection subsidiaire ou, à défaut,
-lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre époux.
+Elle est également délivrée de plein droit au conjoint de cet étranger et à ses enfants dans l'année qui suit leur dix-
+huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 lorsque le mariage est antérieur à la date
+d'obtention de la protection subsidiaire ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une
+communauté de vie effective entre époux. La condition prévue à l'article L. 311-7 n'est pas exigée. 
 
 La carte délivrée au titre du présent article donne droit à l'exercice d'une activité professionnelle.
 
@@ -2463,6 +3475,10 @@ La carte délivrée au titre du présent article donne droit à l'exercice d'une
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 33 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2490,8 +3506,63 @@ La carte délivrée au titre du présent article donne droit à l'exercice d'une
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L712-1 (V)
+
+
+##### Sous-section 7 : L'admission exceptionnelle au séjour
+
+###### Article L313-14
+
+La carte de séjour temporaire mentionnée à l'article L. 313-11 peut être délivrée, sauf si sa présence constitue une menace
+pour l'ordre public, à l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond à des considérations
+humanitaires ou se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue
+à l'article L. 311-7.
+
+La Commission nationale de l'admission exceptionnelle au séjour exprime un avis sur les critères d'admission exceptionnelle
+au séjour mentionnés au premier alinéa.
+
+Cette commission présente chaque année un rapport évaluant les conditions d'application en France de l'admission
+exceptionnelle au séjour. Ce rapport est annexé au rapport mentionné à l'article L. 111-10.
+
+L'autorité administrative est tenue de soumettre pour avis à la commission mentionnée à l'article L. 312-1 la demande
+d'admission exceptionnelle au séjour formée par l'étranger qui justifie par tout moyen résider en France habituellement
+depuis plus de dix ans.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article et en particulier la composition de la
+commission, ses modalités de fonctionnement ainsi que les conditions dans lesquelles le ministre de l'intérieur, saisi d'un
+recours hiérarchique contre un refus d'admission exceptionnelle au séjour, peut prendre l'avis de la commission.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 17-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 18-1 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-19 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R312-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-20 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 32 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-10 (MMN)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L712-1 (V)
 
 
 #### Chapitre IV : La carte de résident
@@ -2526,14 +3597,42 @@ renouvelable de plein droit.
 	  - Code du travail - art. L5523-2 (VD)
 
 
+###### Article L314-1-1
+
+Les dispositions de la présente section s'appliquent à la carte de résident et à la carte de résident portant la mention
+"résident de longue durée-CE".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 27 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-5 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-7 (M)
+
+
 ###### Article L314-2
 
 Lorsque des dispositions législatives du présent code le prévoient, la délivrance d'une première carte de résident est
-subordonnée à l'intégration républicaine de l'étranger dans la société française, appréciée en particulier au regard de sa
-connaissance suffisante de la langue française et des principes qui régissent la République française.
+subordonnée à l'intégration républicaine de l'étranger dans la société française, appréciée en particulier au regard de son
+engagement personnel à respecter les principes qui régissent la République française, du respect effectif de ces principes et
+de sa connaissance suffisante de la langue française dans des conditions définies par décret en Conseil d'Etat.
 
-Pour l'appréciation de la condition d'intégration, l'autorité administrative peut saisir pour avis le maire de la commune de
-résidence de l'étranger qui sollicite la carte de résident.
+Pour l'appréciation de la condition d'intégration, l'autorité administrative tient compte de la souscription et du respect,
+par l'étranger, de l'engagement défini à l'article L. 311-9 et saisit pour avis le maire de la commune dans laquelle il
+réside. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire par l'autorité
+administrative.
+
+Les étrangers âgés de plus de soixante-cinq ans ne sont pas soumis à la condition relative à la connaissance de la langue
+française.
 
 **Liens relatifs à cet article**
 
@@ -2547,6 +3646,10 @@ résidence de l'étranger qui sollicite la carte de résident.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 7 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2565,6 +3668,10 @@ résidence de l'étranger qui sollicite la carte de résident.
 	  - Code de la sécurité intérieure - art. L445-1 (M)
 	  - Code de la sécurité intérieure - art. L446-1 (M)
 	  - Code de la sécurité intérieure - art. L447-1 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
 
 
 ###### Article L314-3
@@ -2630,8 +3737,9 @@ la législation en vigueur. Les titulaires de la carte de résident sont dispens
 ###### Article L314-5
 
 Par dérogation aux dispositions des articles L. 314-8 à L. 314-12 la carte de résident ne peut être délivrée à un
-ressortissant étranger qui vit en état de polygamie ni aux conjoints d'un tel ressortissant. Une carte de résident délivrée
-en méconnaissance de ces dispositions doit être retirée.
+ressortissant étranger qui vit en état de polygamie ni aux conjoints d'un tel ressortissant ni à un ressortissant étranger
+condamné pour avoir commis sur un mineur de quinze ans l'infraction définie à l'article 222-9 du code pénal ou s'être rendu
+complice de celle-ci. Une carte de résident délivrée en méconnaissance de ces dispositions doit être retirée.
 
 **Liens relatifs à cet article**
 
@@ -2644,6 +3752,10 @@ en méconnaissance de ces dispositions doit être retirée.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 34 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-1 (V)
@@ -2651,13 +3763,49 @@ en méconnaissance de ces dispositions doit être retirée.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L314-8 à L314-12
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+	  - Code pénal - art. 222-9 (V)
+
+
+###### Article L314-5-1
+
+Le retrait, motivé par la rupture de la vie commune, de la carte de résident délivrée sur le fondement du 3° de l'article L.
+314-9 ne peut intervenir que dans la limite de quatre années à compter de la célébration du mariage, sauf si un ou des
+enfants sont nés de cette union et à la condition que l'étranger titulaire de la carte de résident établisse contribuer
+effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants dans les conditions prévues à l'article
+371-2 du code civil. Toutefois, lorsque la communauté de vie a été rompue par le décès de l'un des conjoints ou à
+l'initiative de l'étranger en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité
+administrative ne peut pas procéder au retrait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 35 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
+	  - Code civil - art. 371-2 (M)
 
 
 ###### Article L314-6
 
 La carte de résident peut être retirée à tout employeur, titulaire de cette carte, ayant occupé un travailleur étranger en
-violation des dispositions de l'article L. 341-6 du code du travail.
+violation des dispositions de l'article L. 341-6 du code du travail. 
+
+En outre, l'employeur qui a fait l'objet d'une obligation de quitter le territoire français en raison du retrait, prononcé en
+application des dispositions du présent article, de sa carte de résident peut, dans les trois années qui suivent cette
+obligation, se voir refuser le droit d'exercer une activité professionnelle en France.
 
 **Liens relatifs à cet article**
 
@@ -2670,18 +3818,57 @@ violation des dispositions de l'article L. 341-6 du code du travail.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 13 () JORF 25 juillet 2006
+
 	**Cite**:
 
-	  - Code du travail - art. L341-6 (M)
+	  - Code du travail - art. L341-6 (Ab)
+
+
+###### Article L314-6-1
+
+La carte de résident d'un étranger qui ne peut faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou
+L. 521-3 peut lui être retirée s'il fait l'objet d'une condamnation définitive sur le fondement des articles 433-3,433-4, des
+deuxième à quatrième alinéas de l'article 433-5, du deuxième alinéa de l'article 433-5-1 ou de l'article 433-6 du code
+pénal. 
+
+La carte de séjour temporaire portant la mention " vie privée et familiale " lui est délivrée de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 36 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L521-2 (V)
+	  - Code pénal - art. 433-3 (V)
+	  - Code pénal - art. 433-5 (V)
+	  - Code pénal - art. 433-5-1 (V)
+	  - Code pénal - art. 433-6 (V)
 
 
 ###### Article L314-7
 
-La carte de résident d'un étranger qui aura quitté le territoire français et qui aura résidé à l'étranger pendant une période
-de plus de trois ans consécutifs est périmée.
+La carte de résident d'un étranger qui a quitté le territoire français et a résidé à l'étranger pendant une période de plus
+de trois ans consécutifs est périmée, de même que la carte de résident portant la mention "résident de longue durée-CE"
+accordée par la France lorsque son titulaire a résidé en dehors du territoire des Etats membres de l'Union européenne pendant
+une période de plus de trois ans consécutifs.
 
 La période mentionnée ci-dessus peut être prolongée si l'intéressé en a fait la demande soit avant son départ de France, soit
 pendant son séjour à l'étranger.
+
+En outre, est périmée la carte de résident portant la mention "résident de longue durée-CE" accordée par la France lorsque
+son titulaire a, depuis sa délivrance, acquis ce statut dans un autre Etat membre de l'Union européenne, ou lorsqu'il a
+résidé en dehors du territoire national pendant une période de six ans consécutifs.
 
 **Liens relatifs à cet article**
 
@@ -2693,6 +3880,10 @@ pendant son séjour à l'étranger.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 28 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2707,10 +3898,23 @@ pendant son séjour à l'étranger.
 
 ###### Article L314-8
 
-Tout étranger qui justifie d'une résidence non interrompue, conforme aux lois et règlements en vigueur, d'au moins cinq
-années en France, peut obtenir une carte de résident. La décision d'accorder ou de refuser la carte de résident est prise en
-tenant compte des faits qu'il peut invoquer à l'appui de son intention de s'établir durablement en France, de ses moyens
-d'existence et des conditions de son activité professionnelle s'il en a une.
+Tout étranger qui justifie d'une résidence ininterrompue d'au moins cinq années en France, conforme aux lois et règlements en
+vigueur, sous couvert de l'une des cartes de séjour mentionnées aux articles L. 313-6, L. 313-8 et L. 313-9, aux 1°, 2° et 3°
+de l'article L. 313-10, aux articles L. 313-11, L. 313-11-1 et L. 314-9, aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de l'article L.
+314-11 et à l'article L. 315-1 peut obtenir une carte de résident portant la mention "résident de longue durée-CE" s'il
+dispose d'une assurance maladie. La décision d'accorder ou de refuser cette carte est prise en tenant compte des faits qu'il
+peut invoquer à l'appui de son intention de s'établir durablement en France, notamment au regard des conditions de son
+activité professionnelle s'il en a une, et de ses moyens d'existence.
+
+Les moyens d'existence du demandeur sont appréciés au regard de ses ressources qui doivent être stables et suffisantes pour
+subvenir à ses besoins. Sont prises en compte toutes les ressources propres du demandeur indépendamment des prestations
+familiales et des allocations prévues aux articles L. 262-1 du code de l'action sociale et des familles et L. 351-9, L.
+351-10 et L. 351-10-1 du code du travail. Ces ressources doivent atteindre un montant au moins égal au salaire minimum de
+croissance et sont appréciées au regard des conditions de logement.
+
+Le caractère suffisant des ressources au regard des conditions de logement fait l'objet d'un avis du maire de la commune de
+résidence du demandeur. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire
+par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -2723,6 +3927,10 @@ d'existence et des conditions de son activité professionnelle s'il en a une.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 29 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2754,23 +3962,39 @@ d'existence et des conditions de son activité professionnelle s'il en a une.
 	  - Code du travail - art. R341-7 (VT)
 	  - Code du travail - art. R5221-48 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-6 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
+
 
 ###### Article L314-9
 
-La carte de résident peut également être accordée :
+La carte de résident peut être accordée :
 
-1° Au conjoint et aux enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire d'un étranger titulaire de la
-carte de résident, qui ont été autorisés à séjourner en France au titre du regroupement familial dans les conditions prévues
-au livre IV et qui justifient d'une résidence non interrompue, conforme aux lois et règlements en vigueur, d'au moins deux
-années en France ;
+1° Au conjoint et aux enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de
+l'article L. 311-3, d'un étranger titulaire de la carte de résident, qui ont été autorisés à séjourner en France au titre du
+regroupement familial dans les conditions prévues au livre IV et qui justifient d'une résidence non interrompue, conforme aux
+lois et règlements en vigueur, d'au moins trois années en France ;
 
-2° A l'étranger qui est père ou mère d'un enfant français résidant en France et titulaire depuis au moins deux années de la
+2° A l'étranger qui est père ou mère d'un enfant français résidant en France et titulaire depuis au moins trois années de la
 carte de séjour temporaire mentionnée au  6° de l'article L. 313-11, sous réserve qu'il remplisse encore les conditions
 prévues pour l'obtention de cette carte de séjour temporaire et qu'il ne vive pas en état de polygamie.
 
 L'enfant visé au présent article s'entend de l'enfant ayant une filiation légalement établie, y compris l'enfant adopté, en
 vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de cette décision
-lorsqu'elle a été prononcée à l'étranger.
+lorsqu'elle a été prononcée à l'étranger ;
+
+3° A l'étranger marié depuis au moins trois ans avec un ressortissant de nationalité française, à condition que la communauté
+de vie entre les époux n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque
+le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français.
 
 **Liens relatifs à cet article**
 
@@ -2784,13 +4008,9 @@ lorsqu'elle a été prononcée à l'étranger.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 37 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -2817,8 +4037,8 @@ lorsqu'elle a été prononcée à l'étranger.
 
 ###### Article L314-10
 
-Dans tous les cas prévus dans la présente sous-section, la décision d'accorder la carte de résident est subordonnée à
-l'intégration républicaine de l'étranger dans la société française dans les conditions prévues à l'article L. 314-2.
+Dans tous les cas prévus dans la présente sous-section, la décision d'accorder la carte de résident ou la carte de résident
+portant la mention " résident de longue durée-CE " est subordonnée au respect des conditions prévues à l'article L. 314-2.
 
 **Liens relatifs à cet article**
 
@@ -2832,9 +4052,13 @@ l'intégration républicaine de l'étranger dans la société française dans le
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 7 () JORF 25 juillet 2006
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
 
 
 ##### Sous-section 2 : Délivrance de plein droit
@@ -2842,45 +4066,48 @@ l'intégration républicaine de l'étranger dans la société française dans le
 ###### Article L314-11
 
 Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la carte de résident est délivrée de plein droit,
-sous réserve de la régularité du séjour :
+sous réserve de la régularité du séjour : 
 
-1° A l'étranger marié depuis au moins deux ans avec un ressortissant de nationalité française, à condition que la communauté
-de vie entre les époux n'ait pas cessé, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été
-célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
+1° (Abrogé) ; 
 
-2° A l'enfant étranger d'un ressortissant de nationalité française si cet enfant a moins de vingt et un ans ou s'il est à la
-charge de ses parents ainsi qu'aux ascendants d'un tel ressortissant et de son conjoint qui sont à sa charge ;
+2° A l'enfant étranger d'un ressortissant de nationalité française si cet enfant est âgé de dix-huit à vingt et un ans ou
+dans les conditions prévues à l'article L. 311-3 ou s'il est à la charge de ses parents ainsi qu'aux ascendants d'un tel
+ressortissant et de son conjoint qui sont à sa charge, sous réserve qu'ils produisent un visa pour un séjour d'une durée
+supérieure à trois mois ; 
 
 3° A l'étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle versée par un organisme français et
 dont le taux d'incapacité permanente est égal ou supérieur à 20 % ainsi qu'aux ayants droit d'un étranger, bénéficiaires
-d'une rente de décès pour accident de travail ou maladie professionnelle versée par un organisme français ;
+d'une rente de décès pour accident de travail ou maladie professionnelle versée par un organisme français ; 
 
-4° A l'étranger ayant servi dans une unité combattante de l'armée française ;
+4° A l'étranger ayant servi dans une unité combattante de l'armée française ; 
 
 5° A l'étranger ayant effectivement combattu dans les rangs des forces françaises de l'intérieur, titulaire du certificat de
 démobilisation délivré par la commission d'incorporation de ces formations dans l'armée régulière ou qui, quelle que soit la
-durée de son service dans ces mêmes formations, a été blessé en combattant l'ennemi ;
+durée de son service dans ces mêmes formations, a été blessé en combattant l'ennemi ; 
 
 6° A l'étranger qui a servi en France dans une unité combattante d'une armée alliée ou qui, résidant antérieurement sur le
-territoire de la République, a également combattu dans les rangs d'une armée alliée ;
+territoire de la République, a également combattu dans les rangs d'une armée alliée ; 
 
 7° A l'étranger ayant servi dans la Légion étrangère, comptant au moins trois ans de services dans l'armée française,
-titulaire du certificat de bonne conduite ;
+titulaire du certificat de bonne conduite ; 
 
 8° A l'étranger qui a obtenu le statut de réfugié en application du livre VII du présent code ainsi qu'à son conjoint et à
-ses enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire lorsque le mariage est antérieur à la date de
-cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective
-entre les époux ;
+ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 lorsque
+le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous
+réserve d'une communauté de vie effective entre les époux ainsi qu'à ses ascendants directs au premier degré si l'étranger
+qui a obtenu le statut de réfugié est un mineur non accompagné ; 
 
-9° A l'apatride justifiant de trois années de résidence régulière en France ainsi qu'à son conjoint et à ses enfants mineurs
-ou dans l'année qui suit leur dix-huitième anniversaire ;
-
-10° A l'étranger qui est en situation régulière depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention "étudiant".
+9° A l'apatride justifiant de trois années de résidence régulière en France ainsi qu'à son conjoint et à ses enfants dans
+l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 ; 
 
 L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une filiation légalement établie, y compris
 l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
 de cette décision lorsqu'elle a été prononcée à l'étranger.
+
+**Nota:**
+
+Loi 2006-911 2006-07-24 art. 116 : Le 2° de l'article L314-11 du code de l'entrée et du séjour des étrangers et du droit
+d'asile s'applique aux demandes de titres de séjour introduites un mois après la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -2930,13 +4157,9 @@ de cette décision lorsqu'elle a été prononcée à l'étranger.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 38 () JORF 25 juillet 2006
 
 
 ###### Article L314-12
@@ -2998,32 +4221,24 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
 
 
-#### Chapitre V : La carte de séjour portant la mention "retraité".
+#### Chapitre V : La carte de séjour portant la mention "compétences et talents"
 
 ###### Article L315-1
 
-L'étranger qui, après avoir résidé en France sous couvert d'une carte de résident, a établi ou établit sa résidence
-habituelle hors de France et qui est titulaire d'une pension contributive de vieillesse, de droit propre ou de droit dérivé,
-liquidée au titre d'un régime de base français de sécurité sociale, bénéficie, à sa demande, d'une carte de séjour portant la
-mention "retraité". Cette carte lui permet d'entrer en France à tout moment pour y effectuer des séjours n'excédant pas un
-an. Elle est valable dix ans et est renouvelée de plein droit. Elle n'ouvre pas droit à l'exercice d'une activité
-professionnelle.
-
-Le conjoint du titulaire d'une carte de séjour "retraité", ayant résidé régulièrement en France avec lui, bénéficie d'un
-titre de séjour conférant les mêmes droits.
+La carte de séjour "compétences et talents" peut être accordée à l'étranger susceptible de participer, du fait de ses
+compétences et de ses talents, de façon significative et durable au développement économique ou au rayonnement, notamment
+intellectuel, scientifique, culturel, humanitaire ou sportif de la France et du pays dont il a la nationalité. Elle est
+accordée pour une durée de trois ans. Elle est renouvelable. Lorsque son titulaire a la nationalité d'un pays membre de la
+zone de solidarité prioritaire, son renouvellement est limité à une fois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 18 bis
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
 
@@ -3047,15 +4262,259 @@ titre de séjour conférant les mêmes droits.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L317-1 (V)
 
 
+###### Article L315-2
+
+La carte mentionnée à l'article L. 315-1 ne peut être accordée à l'étranger ressortissant d'un pays appartenant à la zone de
+solidarité prioritaire que lorsque la France a conclu avec ce pays un accord de partenariat pour le codéveloppement ou
+lorsque cet étranger s'est engagé à retourner dans son pays d'origine au terme d'une période maximale de six ans.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+
+
+###### Article L315-3
+
+La carte mentionnée à l'article L. 315-1 est attribuée au vu du contenu et de la nature du projet de l'étranger et de
+l'intérêt de ce projet pour la France et pour le pays dont l'étranger a la nationalité.
+
+Lorsque l'étranger souhaitant bénéficier d'une carte "compétences et talents" réside régulièrement en France, il présente sa
+demande auprès du représentant de l'Etat dans le département. Lorsque l'étranger réside hors de France, il présente sa
+demande auprès des autorités diplomatiques et consulaires françaises territorialement compétentes. L'autorité administrative
+compétente pour délivrer cette carte est le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-4 (Ab)
+	  - Code du travail - art. R341-2-2 (VT)
+	  - Code du travail - art. R5221-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
+
+
+###### Article L315-4
+
+Il est tenu compte, pour l'appréciation des conditions mentionnées à l'article L. 315-3, de critères déterminés annuellement
+par la Commission nationale des compétences et des talents.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 20 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 20 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R315-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 31
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-3
+
+
+###### Article L315-5
+
+La carte de séjour mentionnée à l'article L. 315-1 permet à son titulaire d'exercer toute activité professionnelle de son
+choix, dans le cadre du projet mentionné à l'article L. 315-3.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-3 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+
+	**Cité par**:
+
+	  - Code du travail - art. R5221-3 (M)
+
+
+###### Article L315-6
+
+Lorsque le titulaire de la carte de séjour "compétences et talents" est ressortissant d'un pays de la zone de solidarité
+prioritaire, il apporte son concours, pendant la durée de validité de cette carte, à une action de coopération ou
+d'investissement économique définie par la France avec le pays dont il a la nationalité.
+
+Lors du premier renouvellement de cette carte, il est tenu compte du non-respect de cette obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 31
+
+
+###### Article L315-7
+
+Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants dans l'année qui suit leur dix-huitième anniversaire ou
+entrant dans les prévisions de l'article L. 311-3 d'un étranger titulaire de la carte de séjour mentionnée à l'article L.
+315-1 bénéficient de plein droit de la carte de séjour mentionnée au 3° de l'article L. 313-11. La carte de séjour ainsi
+accordée est renouvelée de plein droit durant la période de validité restant à courir de la carte mentionnée à l'article L.
+315-1.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+
+
+###### Article L315-8
+
+La carte de séjour mentionnée à l'article L. 315-1 peut être retirée dans les conditions et pour les motifs mentionnés à
+l'article L. 313-5.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+
+
+###### Article L315-9
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+
 #### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale.
 
 ###### Article L316-1
 
-Sauf si sa présence constitue une menace à l'ordre public, une autorisation provisoire de séjour peut être délivrée à
-l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre les infractions visées aux
-articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale concernant une personne
-poursuivie pour ces mêmes infractions. Cette autorisation provisoire de séjour ouvre droit à l'exercice d'une activité
-professionnelle.
+Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et
+familiale " peut être délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre
+les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale
+concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article L. 311-7 n'est pas exigée.
+Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. 
 
 En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant
 déposé plainte ou témoigné.
@@ -3071,6 +4530,10 @@ déposé plainte ou témoigné.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 39 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -3105,20 +4568,21 @@ déposé plainte ou témoigné.
 
 	**Cite**:
 
-	  - Code pénal 225-4-1 à 225-4-6, 225-5 à 225-10
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-5 (V)
 
 
 ###### Article L316-2
 
-Un décret en Conseil d'Etat précise les conditions d'application de l'article L. 316-1. Il détermine notamment les modalités
-de protection, d'accueil et d'hébergement de l'étranger auquel est délivrée une autorisation provisoire de séjour dans les
-conditions visées au premier alinéa de l'article L. 316-1.
+Un décret en Conseil d'Etat précise les conditions d'application de l'article L. 316-1. Il détermine notamment les conditions
+de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article
+L. 316-1 et les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte est accordée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2003-239 2003-03-18 art. 76, al. 3
 	  - Loi n°2003-239 du 18 mars 2003 - art. 76 (Ab)
 
 	**Codifié par**:
@@ -3126,9 +4590,53 @@ conditions visées au premier alinéa de l'article L. 316-1.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 39 () JORF 25 juillet 2006
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L316-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+
+
+#### Chapitre VII : La carte de séjour portant la mention "retraité"
+
+###### Article L317-1
+
+L'étranger qui, après avoir résidé en France sous couvert d'une carte de résident, a établi ou établit sa résidence
+habituelle hors de France et qui est titulaire d'une pension contributive de vieillesse, de droit propre ou de droit dérivé,
+liquidée au titre d'un régime de base français de sécurité sociale, bénéficie, à sa demande, d'une carte de séjour portant la
+mention " retraité ". Cette carte lui permet d'entrer en France à tout moment pour y effectuer des séjours n'excédant pas un
+an. Elle est valable dix ans et est renouvelée de plein droit. Elle n'ouvre pas droit à l'exercice d'une activité
+professionnelle.
+
+Le conjoint du titulaire d'une carte de séjour " retraité ", ayant résidé régulièrement en France avec lui, bénéficie d'un
+titre de séjour conférant les mêmes droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R317-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R317-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R317-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
 
 
 ### TITRE II : LES CONDITIONS DU SÉJOUR
@@ -3203,10 +4711,12 @@ de séjour, un titre d'identité républicain.
 
 ###### Article L321-4
 
-Sous réserve des conventions internationales, les étrangers mineurs de dix-huit ans appartenant aux catégories mentionnées à
-l'article L. 313-11, au 1° de l'article L. 314-9 et aux 8°, 9° et 10° de l'article L. 314-11, ainsi que les mineurs entrés en
-France pour y suivre des études sous couvert d'un visa de séjour d'une durée supérieure à trois mois reçoivent, sur leur
-demande, un document de circulation qui est délivré dans des conditions fixées par voie réglementaire.
+Sous réserve des conventions internationales, les étrangers mineurs de dix-huit ans dont au moins l'un des parents appartient
+aux catégories mentionnées à l'article L. 313-11, au 1° de l'article L. 314-9, aux 8° et 9° de l'article L. 314-11, à
+l'article L. 315-1 ou qui relèvent, en dehors de la condition de majorité, des prévisions des 2° et 2° bis de l'article L.
+313-11, ainsi que les mineurs entrés en France pour y suivre des études sous couvert d'un visa de séjour d'une durée
+supérieure à trois mois reçoivent, sur leur demande, un document de circulation qui est délivré dans des conditions fixées
+par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -3220,6 +4730,10 @@ demande, un document de circulation qui est délivré dans des conditions fixée
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 40 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635-0 bis (Ab)
@@ -3229,9 +4743,10 @@ demande, un document de circulation qui est délivré dans des conditions fixée
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-1 (V)
 
 
 #### Chapitre II : Exercice d'une activité professionnelle
@@ -3253,7 +4768,11 @@ que de celles des actes des autorités de ces communautés pris pour l'applicati
 
 "Pour entrer en France en vue d'y exercer une profession salariée, l'étranger doit présenter, outre les documents et visas
 exigés par les conventions internationales et les règlements en vigueur, un contrat de travail visé par l'autorité
-administrative ou une autorisation de travail et un certificat médical.
+administrative ou une autorisation de travail.
+
+"Il doit également attester, dans l'hypothèse où il manifeste la volonté de s'installer durablement en France, d'une
+connaissance suffisante de la langue française sanctionnée par une validation des acquis ou s'engager à l'acquérir après son
+installation en France, dans des conditions qui sont fixées par un décret en Conseil d'Etat.
 
 "Art. L. 341-3 du code du travail.
 
@@ -3272,18 +4791,25 @@ français.
 "Art. L. 341-4 du code du travail.
 
 "Un étranger ne peut exercer une activité professionnelle salariée en France sans avoir obtenu au préalable l'autorisation
-mentionnée à l'article L. 341-2.
+mentionnée à l'article L. 341-2 et sans s'être fait délivrer un certificat médical.
 
-"Cette autorisation est délivrée dans des conditions qui sont fixées par un décret en Conseil d'Etat, sous réserve des
-dispositions applicables en vertu des troisième et quatrième alinéas du présent article.
+"L'autorisation de travail peut être limitée à certaines activités professionnelles ou zones géographiques.
 
-"L'autorisation de travail peut être délivrée à un étranger qui demande l'attribution de la carte de séjour temporaire sous
-la forme de la mention "salarié" apposée sur cette carte. Elle habilite cet étranger à exercer les activités professionnelles
-indiquées sur cette carte dans les zones qui y sont mentionnées.
+"L'autorisation délivrée en France métropolitaine ne confère de droits qu'en France métropolitaine.
 
-"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une carte de résident qui lui confère le droit
-d'exercer sur l'ensemble du territoire de la France métropolitaine toute activité professionnelle salariée de son choix dans
-le cadre de la législation en vigueur."
+"Pour l'instruction de la demande d'autorisation de travail, l'autorité administrative peut échanger tous renseignements et
+documents relatifs à cette demande avec les organismes concourant au service public de l'emploi mentionnés à l'article L.
+311-1, avec les organismes gérant un régime de protection sociale, avec l'établissement mentionné à l'article L. 767-1 du
+code de la sécurité sociale ainsi qu'avec les caisses assurant le service des congés payés mentionnées au livre VII (partie
+réglementaire : décrets simples) du présent code.
+
+"Lorsque l'autorisation de travail est demandée en vue de la conclusion d'un contrat d'apprentissage visé à l'article L.
+117-1 ou d'un contrat de professionnalisation visé à l'article L. 981-1, la situation de l'emploi ne peut être opposée à la
+demande d'un étranger qui a été pris en charge par les services de l'aide sociale à l'enfance mentionnés à l'article L. 221-1
+du code de l'action sociale et des familles avant qu'il ait atteint l'âge de seize ans et qui l'est toujours au moment où il
+présente sa demande.
+
+"Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 "Art. L. 341-8 du code du travail.
 
@@ -3302,8 +4828,8 @@ protection de l'Office français de protection des réfugiés et apatrides, aux 
 
 "Art. L. 831-1 du code du travail.
 
-"Les dispositions du chapitre Ier du titre IV du livre III, à l'exception du quatrième alinéa de l'article L. 341-4, du
-présent code sont applicables dans les départements d'outre-mer.
+"Les dispositions du chapitre premier     du titre IV du livre III, à l'exception du troisième alinéa de l'article L. 341-4,
+du présent code sont applicables dans les départements d'outre-mer.
 
 "Art. L. 831-1-1 du code du travail.
 
@@ -3313,9 +4839,10 @@ délivrance de cette autorisation de travail sont fixées par voie réglementair
 
 "Art. L. 831-2 du code du travail.
 
-"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une carte de résident qui lui confère le droit
-d'exercer, sur le territoire du département dans lequel elle a été délivrée, toute activité professionnelle salariée de son
-choix dans le cadre de la législation en vigueur."
+"L'autorisation de travail accordée à l'étranger sous la forme d'une des cartes mentionnées à la sous-section 6 de la section
+2 du chapitre III du titre Ier du livre III du code de l'entrée et du séjour des étrangers et du droit d'asile ou du chapitre
+IV du même titre est limitée au département dans lequel elle a été délivrée. Elle lui confère le droit d'exercer, sur le
+territoire du département, toute activité professionnelle salariée de son choix dans le cadre de la législation en vigueur."
 
 **Liens relatifs à cet article**
 
@@ -3326,7 +4853,8 @@ choix dans le cadre de la législation en vigueur."
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-57 du 26 janvier 2005 - art. 1 () JORF 28 janvier 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 103 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 16 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -3334,12 +4862,13 @@ choix dans le cadre de la législation en vigueur."
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L341-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L341-6, L341-2, L117-1, L981-1
 	  - Code du travail - art. L341-8 (M)
 	  - Code du travail - art. L831-1 (M)
 	  - Code du travail - art. L831-1-1 (M)
 	  - Code du travail - art. L831-2 (M)
 	  - Code du travail L341-1 à L341-4, L341-8, L831-1, L831-1-1, L831-2
+	  - Code de l'action sociale et des familles - art. L221-1 (M)
 
 
 ##### Section 2 : Autres activités professionnelles
@@ -3364,40 +4893,23 @@ professionnelles non salariées.
 
 ###### Article L322-3
 
-L'exercice en France de la profession de commerçant par un étranger est régi par les dispositions des articles L. 122-1, L.
-122-2 et L. 122-3 du code de commerce ci-après reproduites :
+L'exercice en France de la profession de commerçant par un étranger est régi par les dispositions des articles L. 122-1 et L.
+122-2 du code de commerce ci-après reproduites :
 
 "Art. L. 122-1 du code de commerce.
 
-"Un étranger ne peut exercer sur le territoire français une profession commerciale, industrielle ou artisanale dans des
-conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou au répertoire des
-métiers sans avoir au préalable été autorisé par le préfet du département dans lequel il envisage d'exercer pour la première
-fois son activité.
+"Un étranger qui exerce sur le territoire français, sans y résider, une profession profession commerciale, industrielle ou
+artisanale, dans des conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou
+au répertoire des métiers, doit en faire la déclaration au préfet du département dans lequel il envisage d'exercer pour la
+première fois son activité dans des conditions définies par décret. Les ressortissants des Etats membres de l'Union
+européenne, des autres Etats parties à l'accord sur l'Espace économique européen ou de la Confédération suisse sont dispensés
+de l'obligation de déclaration prévue au premier alinéa.
 
 "Art. L. 122-2 du code de commerce.
 
-"Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application prévu à l'article L. 122-4 est
-punie d'un emprisonnement de six mois et d'une amende de 3 750 Euros. En cas de récidive, les peines sont portées au double.
-Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
-
-"Art. L. 122-3 du code de commerce.
-
-"I. - Les dispositions des articles L. 122-1 et L. 122-2 ne sont pas applicables aux ressortissants d'un Etat membre de la
-Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou d'un Etat membre de l'Organisation de
-coopération et de développement économiques agissant pour leur propre compte ou pour le compte soit d'un autre ressortissant
-d'un de ces Etats, soit d'une société constituée conformément à la législation de l'un de ces Etats et ayant son siège
-statutaire, son administration centrale ou son principal établissement dans l'un de ces Etats.
-
-"II. - Toutefois, lorsqu'un étranger ou une société mentionnés au I crée une agence, une succursale ou une filiale sur le
-territoire de la République française ou y fournit des prestations de services, le bénéfice du I n'est accordé qu'à la
-condition que :
-
-"1° L'étranger soit établi sur le territoire d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
-l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques ;
-
-"2° La société, si elle n'a que son siège statutaire à l'intérieur de la Communauté européenne, d'un Etat partie à l'accord
-sur l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques exerce
-une activité présentant un lien effectif et continu avec l'économie de l'un de ces Etats".
+"Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application qu'il prévoit est punie d'un
+emprisonnement de six mois et d'une amende de 3 750 Euros. En cas de récidive, les peines sont portées au double. Le tribunal
+peut, en outre, ordonner la fermeture de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -3406,14 +4918,18 @@ une activité présentant un lien effectif et continu avec l'économie de l'un d
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 45 () JORF 21 novembre 2007
+
 	**Cite**:
 
 	  - Code de commerce. - art. L122-1 (M)
 	  - Code de commerce. - art. L122-2 (M)
-	  - Code de commerce. - art. L122-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L122-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L122-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L122-1, L122-4, L122-2
 
 
 ### TITRE III : L'AIDE AU RETOUR VOLONTAIRE
@@ -3447,10 +4963,10 @@ décret.
 
 ###### Article L411-1
 
-Le ressortissant étranger qui séjourne régulièrement en France depuis au moins un an, sous couvert d'un des titres d'une
-durée de validité d'au moins un an prévus par le présent code ou par des conventions internationales, peut demander à
-bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint et les enfants du couple mineurs
-de dix-huit ans.
+Le ressortissant étranger qui séjourne régulièrement en France depuis au moins dix-huit mois, sous couvert d'un des titres
+d'une durée de validité d'au moins un an prévus par le présent code ou par des conventions internationales, peut demander à
+bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint, si ce dernier est âgé d'au moins
+dix-huit ans, et les enfants du couple mineurs de dix-huit ans.
 
 **Liens relatifs à cet article**
 
@@ -3475,6 +4991,10 @@ de dix-huit ans.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-2 (V)
 	  - Code de la sécurité sociale. - art. D160-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 44 () JORF 25 juillet 2006
 
 
 ###### Article L411-2
@@ -3550,11 +5070,15 @@ regroupement partiel peut être autorisé pour des motifs tenant à l'intérêt 
 Le regroupement familial ne peut être refusé que pour l'un des motifs suivants :
 
 1° Le demandeur ne justifie pas de ressources stables et suffisantes pour subvenir aux besoins de sa famille. Sont prises en
-compte toutes les ressources du demandeur et de son conjoint indépendamment des prestations familiales. Les ressources
-doivent atteindre un montant au moins égal au salaire minimum de croissance mensuel ;
+compte toutes les ressources du demandeur et de son conjoint indépendamment des prestations familiales et des allocations
+prévues à l'article L. 262-1 du code de l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale
+et aux articles L. 351-9, L. 351-10 et L. 351-10-1 du code du travail. Les ressources doivent atteindre un montant au moins
+égal au salaire minimum de croissance mensuel ;
 
 2° Le demandeur ne dispose pas ou ne disposera pas à la date d'arrivée de sa famille en France d'un logement considéré comme
-normal pour une famille comparable vivant en France.
+normal pour une famille comparable vivant dans la même région géographique ;
+
+3° Le demandeur ne se conforme pas aux principes fondamentaux reconnus par les lois de la République.
 
 **Liens relatifs à cet article**
 
@@ -3578,6 +5102,18 @@ normal pour une famille comparable vivant en France.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-5 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-6 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-11 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 45 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-10-1 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code de la sécurité sociale. - art. L815-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
 
 ###### Article L411-6
@@ -3641,19 +5177,28 @@ conjoint ou d'un autre conjoint décédé ou déchu de ses droits parentaux, lui
 
 L'autorisation d'entrer en France dans le cadre de la procédure du regroupement familial est donnée par l'autorité
 administrative compétente après vérification des conditions de logement et de ressources par le maire de la commune de
-résidence de l'étranger ou le maire de la commune où il envisage de s'établir.
+résidence de l'étranger ou le maire de la commune où il envisage de s'établir. Le maire, saisi par l'autorité administrative,
+peut émettre un avis sur la condition mentionnée au 3° de l'article L. 411-5. Cet avis est réputé rendu à l'expiration d'un
+délai de deux mois à compter de la communication du dossier par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe II, al. 1
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 46 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-5 (V)
 
 
 ###### Article L421-2
@@ -3782,13 +5327,19 @@ vigueur.
 
 ###### Article L431-2
 
-En cas de rupture de la vie commune, la carte de séjour temporaire qui a été remise au conjoint d'un étranger peut, pendant
-les deux années suivant sa délivrance, faire l'objet d'un retrait ou d'un refus de renouvellement. Lorsque la rupture de la
-vie commune est antérieure à la délivrance du titre, l'autorité administrative, refuse de délivrer la carte de séjour
-temporaire.
+En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au
+conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner en France au titre du regroupement
+familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
 
-Toutefois, lorsque la communauté de vie a été rompue à l'initiative de l'étranger en raison des violences conjugales qu'il a
-subies de la part de son conjoint, l'autorité administrative peut accorder le renouvellement du titre.
+Lorsque la rupture de la vie commune est antérieure à la demande de titre, l'autorité administrative refuse de l'accorder.
+
+Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfants sont nés de cette union, lorsque l'étranger
+est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à
+l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil.
+
+En outre, lorsque la communauté de vie a été rompue à l'initiative de l'étranger admis au séjour au titre du regroupement
+familial, en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut
+procéder au retrait de son titre de séjour et peut en accorder le renouvellement.
 
 **Liens relatifs à cet article**
 
@@ -3802,10 +5353,18 @@ subies de la part de son conjoint, l'autorité administrative peut accorder le r
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 47 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 371-2 (M)
 
 
 ###### Article L431-3
@@ -3867,12 +5426,63 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent livre
 
 ### TITRE Ier : LA RECONDUITE À LA FRONTIÈRE
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure de reconduite à la frontière.
+#### Chapitre III : Exécution des mesures de reconduite à la frontière.
+
+###### Article L513-1
+
+L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le président du tribunal administratif ou son délégué
+dans le délai prévu au premier alinéa de l'article L. 512-2 ou qui n'a pas fait l'objet d'une annulation dans les conditions
+fixées au même article ou à l'article L. 512-5 peut être exécuté d'office par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 26 bis, al. 1, ecqc la reconduite à la frontière
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-5 (Ab)
+
+
+### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE
+
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière.
 
 ###### Article L511-1
 
-L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger sera reconduit à la frontière dans les
-cas suivants :
+I. - L'autorité administrative qui refuse la délivrance ou le renouvellement d'un titre de séjour à un étranger ou qui lui
+retire son titre de séjour, son récépissé de demande de carte de séjour ou son autorisation provisoire de séjour, pour un
+motif autre que l'existence d'une menace à l'ordre public, peut assortir sa décision d'une obligation de quitter le
+territoire français, laquelle fixe le pays à destination duquel l'étranger sera renvoyé s'il ne respecte pas le délai de
+départ volontaire prévu au troisième alinéa (1).
+
+La même autorité peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat
+partie à l'accord sur l'Espace économique européen ou de la Confédération suisse à quitter le territoire français lorsqu'elle
+constate qu'il ne justifie plus d'aucun droit au séjour tel que prévu par l'article L. 121-1.
+
+L'étranger dispose, pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, d'un délai d'un
+mois à compter de sa notification. Passé ce délai, cette obligation peut être exécutée d'office par l'administration.
+
+Les dispositions du titre V du présent livre peuvent être appliquées à l'étranger faisant l'objet d'une obligation de quitter
+le territoire français dès l'expiration du délai prévu à l'alinéa précédent.
+
+L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter le dispositif d'aide au retour
+financé par l'Agence nationale de l'accueil des étrangers et des migrations, sauf s'il a été placé en rétention.
+
+II. L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger sera reconduit à la frontière dans
+les cas suivants :
 
 1° Si l'étranger ne peut justifier être entré régulièrement en France, à moins qu'il ne soit titulaire d'un titre de séjour
 en cours de validité ;
@@ -3881,8 +5491,8 @@ en cours de validité ;
 soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France sans être titulaire
 d'un premier titre de séjour régulièrement délivré ;
 
-3° Si l'étranger auquel la délivrance ou le renouvellement d'un titre de séjour a été refusé, ou dont le titre de séjour a
-été retiré, s'est maintenu sur le territoire au-delà du délai d'un mois à compter de la date de notification du refus ou du
+3°(2)  Si l'étranger auquel la délivrance ou le renouvellement d'un titre de séjour a été refusé, ou dont le titre de séjour
+a été retiré, s'est maintenu sur le territoire au-delà du délai d'un mois à compter de la date de notification du refus ou du
 retrait ;
 
 4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire au-
@@ -3891,8 +5501,8 @@ delà du délai d'un mois suivant l'expiration de ce titre ;
 5° Si l'étranger a fait l'objet d'une condamnation définitive pour contrefaçon, falsification, établissement sous un autre
 nom que le sien ou défaut de titre de séjour ;
 
-6° Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à l'étranger
-lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
+6°(2) Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à
+l'étranger lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
 
 7° Si l'étranger a fait l'objet d'un retrait de son titre de séjour ou d'un refus de délivrance ou de renouvellement d'un
 titre de séjour, dans les cas où ce retrait ou ce refus ont été prononcés, en application des dispositions législatives et
@@ -3901,6 +5511,16 @@ réglementaires en vigueur, en raison d'une menace à l'ordre public.
 8° Si pendant la période de validité de son visa ou, s'il n'est pas soumis à l'obligation du visa, pendant la période définie
 au 2° ci-dessus, le comportement de l'étranger a constitué une menace pour l'ordre public ou si, pendant cette même durée,
 l'étranger a méconnu les dispositions de l'article L. 341-4 du code du travail.
+
+**Nota:**
+
+NOTA (1) : Loi 2006-911 du 24 juillet 2006 art. 118 : Les dispositions du I de l'article L. 511-1 entrent en vigueur à la
+date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
+2007.
+
+NOTA (2) : Loi 2006-911 du 24 juillet 2006 art. 118 : Les dispositions du 3° et du 6° de l'article L. 511-1 seront abrogées à
+la date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
+2007.
 
 **Liens relatifs à cet article**
 
@@ -3953,15 +5573,22 @@ l'étranger a méconnu les dispositions de l'article L. 341-4 du code du travail
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 52 () JORF 25 juillet 2006
+
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
 	  - Code du travail - art. L341-4 (M)
 
 
 ###### Article L511-2
 
-Les dispositions du 1° de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de
-l'Union européenne :
+Les dispositions du 1° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre
+de l'Union européenne :
 
 a) S'il ne remplit pas les conditions d'entrée prévues à l'article 5 de la convention signée à Schengen le 19 juin 1990 ;
 
@@ -3970,6 +5597,11 @@ territoire métropolitain en se conformant aux stipulations de ses articles 19, 
 paragraphe 1 ou 2.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention Schengen 1990-06-19 art. 19 à 21
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
 
 	**Anciens textes**:
 
@@ -3981,20 +5613,26 @@ paragraphe 1 ou 2.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1, 19
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 53 () JORF 25 juillet 2006
 
 
 ###### Article L511-3
 
-Les dispositions du 2° et du 8° de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un Etat
-membre de l'Union européenne si, en provenance directe du territoire d'un des Etats parties à la convention signée à Schengen
-le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux stipulations de l'article 19,
-paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe 1 ou 2, de ladite convention.
+Les dispositions du 2° et du 8° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un
+Etat membre de l'Union européenne si, en provenance directe du territoire d'un des Etats parties à la convention signée à
+Schengen le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux stipulations de l'article
+19, paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe 1 ou 2, de ladite convention.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention Schengen 1990-06-19 art. 19 à 21
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
 
 	**Anciens textes**:
 
@@ -4006,50 +5644,60 @@ paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 54 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3 (VD)
 
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1, 19, 20, 21
-
 
 ###### Article L511-4
 
-Ne peuvent faire l'objet d'une mesure de reconduite à la frontière en application du présent chapitre :
+Ne peuvent faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière en
+application du présent chapitre : 
 
-1° L'étranger mineur de dix-huit ans ;
+1° L'étranger mineur de dix-huit ans ; 
 
 2° L'étranger qui justifie par tous moyens résider habituellement en France depuis qu'il a atteint au plus l'âge de treize
-ans ;
+ans ; 
 
-3° L'étranger qui justifie par tous moyens résider habituellement en France depuis plus de quinze ans sauf s'il a été,
-pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant";
+3° (Abrogé) 
 
 4° L'étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
 
-5° L'étranger qui réside régulièrement en France depuis plus de vingt ans ;
+5° L'étranger qui réside régulièrement en France depuis plus de vingt ans ; 
 
 6° L'étranger ne vivant pas en état de polygamie qui est père ou mère d'un enfant français mineur résidant en France, à
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
-l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ;
+l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans ; 
 
-7° L'étranger marié depuis au moins deux ans avec un conjoint de nationalité française, à condition que la communauté de vie
-n'ait pas cessé et que le conjoint ait conservé la nationalité française ;
+7° L'étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que la communauté de vie
+n'ait pas cessé depuis le mariage et que le conjoint ait conservé la nationalité française ; 
 
 8° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est marié
-depuis au moins trois ans avec un ressortissant étranger relevant du 2°, à condition que la communauté de vie n'ait pas
-cessé ;
+depuis au moins trois ans avec un ressortissant étranger relevant du 2°, à condition que la communauté de vie n'ait pas cessé
+depuis le mariage ; 
 
 9° L'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
-dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
+dont le taux d'incapacité permanente est égal ou supérieur à 20 % ; 
 
 10° L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
 pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement
-bénéficier d'un traitement approprié dans le pays de renvoi.
+bénéficier d'un traitement approprié dans le pays de renvoi ; 
+
+11° Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse, ainsi que les membres de sa famille, qui bénéficient du droit au séjour permanent
+prévu par l'article L. 122-1. 
+
+En outre, ne peut faire l'objet d'une mesure de reconduite à la frontière pour l'un des motifs prévus aux 1°, 2° et 4° du II
+de l'article L. 511-1 l'étranger ressortissant d'un pays tiers qui est membre, tel que défini à l'article L. 121-3, de la
+famille d'un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse.
 
 **Liens relatifs à cet article**
 
@@ -4071,24 +5719,41 @@ bénéficier d'un traitement approprié dans le pays de renvoi.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 55 () JORF 25 juillet 2006
+
 	**Cite**:
 
-	  - Code civil - art. 371-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+	  - Code civil - art. 371-2 (V)
 
 
-#### Chapitre II : Procédure administrative et contentieuse.
+#### Chapitre II : Procédure administrative et contentieuse
 
 ###### Article L512-1
 
-Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
-un conseil, son consulat ou une personne de son choix.
+L'étranger qui fait l'objet d'un refus de séjour, d'un refus de délivrance ou de renouvellement de titre de séjour ou d'un
+retrait de titre de séjour, de récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour assorti d'une
+obligation de quitter le territoire français mentionnant le pays de destination peut, dans le délai d'un mois suivant la
+notification, demander l'annulation de ces décisions au tribunal administratif. Son recours suspend l'exécution de
+l'obligation de quitter le territoire français sans pour autant faire obstacle au placement en rétention administrative dans
+les conditions prévues au titre V du présent livre.
+
+Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. Toutefois, en cas de placement en
+rétention de l'étranger avant qu'il ait rendu sa décision, il statue, selon la procédure prévue à l'article L. 512-2, sur la
+légalité de l'obligation de quitter le territoire français et de la décision fixant le pays de renvoi, au plus tard soixante-
+douze heures à compter de la notification par l'administration au tribunal de ce placement.
+
+Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
+prévues au titre V du présent livre et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
+administrative ait à nouveau statué sur son cas.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe I, al. 9
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
 
 	**Cité par**:
 
@@ -4134,31 +5799,63 @@ un conseil, son consulat ou une personne de son choix.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 57 () JORF 25 juillet 2006
 
 	**Nouveaux textes**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
+
+
+###### Article L512-1-1
+
+Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
+un conseil, son consulat ou une personne de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
+
+	**Anciens textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
+
 
 ###### Article L512-2
 
 L'étranger qui fait l'objet d'un arrêté de reconduite à la frontière peut, dans les quarante-huit heures suivant sa
-notification, lorsque l'arrêté est notifié par voie administrative, ou dans les sept jours, lorsqu'il est notifié par voie
-postale, demander l'annulation de cet arrêté au président du tribunal administratif.
+notification par voie administrative (1), demander l'annulation de cet arrêté au président du tribunal administratif.
 
-Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au
-siège de la juridiction judiciaire la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application du
-titre V du présent livre.
+Le président ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
+inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue dans un délai de soixante-
+douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus proche du lieu où
+se trouve l'étranger, si celui-ci est retenu en application du titre V du présent livre.
 
-L'étranger peut demander au président du tribunal ou à son délégué le concours d'un interprète et la communication du dossier
-contenant les pièces sur la base desquelles la décision attaquée a été prise.
+L'étranger peut demander au président du tribunal ou au magistrat désigné à cette fin le concours d'un interprète et la
+communication du dossier contenant les pièces sur la base desquelles la décision attaquée a été prise.
 
 L'audience est publique. Elle se déroule sans conclusions du commissaire du Gouvernement, en présence de l'intéressé, sauf si
 celui-ci, dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au
-président ou à son délégué qu'il lui en soit désigné un d'office.
+président ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office.
+
+**Nota:**
+
+(1) : Loi 2006-911 du 24 juillet 2006 art. 58, art. 118 : Les mots "lorsque l'arrêté est notifié par voie administrative, ou
+dans les sept jours, lorsqu'il est notifié par voie postale" sont remplacés par les mots "par voie administrative" à compter
+de la date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er
+juillet 2007.
 
 **Liens relatifs à cet article**
 
@@ -4171,6 +5868,11 @@ président ou à son délégué qu'il lui en soit désigné un d'office.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 58 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-13 (V)
@@ -4178,15 +5880,26 @@ président ou à son délégué qu'il lui en soit désigné un d'office.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (V)
 
+	**Cite**:
+
+	  - Code de justice administrative. - art. L222-2-1 (V)
+
 
 ###### Article L512-3
 
-Les dispositions du titre V du présent livre peuvent être appliquées dès l'intervention de l'arrêté de reconduite à la
+Les dispositions du titre V du présent livre peuvent être appliquées dès l'intervention de la mesure de reconduite à la
 frontière.
 
-Cet arrêté ne peut être exécuté avant l'expiration d'un délai de quarante-huit heures suivant sa notification, lorsque
-l'arrêté est notifié par voie administrative, ou de sept jours, lorsqu'il est notifié par voie postale ou, si le président du
-tribunal administratif ou son délégué est saisi, avant qu'il n'ait statué.
+L'arrêté de reconduite à la frontière pris en application des articles L. 511-1 à L. 511-3 ne peut être exécuté avant
+l'expiration d'un délai de quarante-huit heures suivant sa notification par voie administrative (1) ou, si le président du
+tribunal administratif ou le magistrat désigné à cet fin est saisi, avant qu'il n'ait statué.
+
+**Nota:**
+
+(1) : Loi 2006-911 du 24 juillet 2006 art. 59, art. 118 : Les mots "lorsque l'arrêté est notifié par voie administrative, ou
+de sept jours, lorsqu'il est notifié par voie postale" sont remplacés par les mots "par voie administrative" à compter de la
+date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
+2007.
 
 **Liens relatifs à cet article**
 
@@ -4199,6 +5912,11 @@ tribunal administratif ou son délégué est saisi, avant qu'il n'ait statué.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 59 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de justice administrative - art. L776-1 (VD)
@@ -4207,6 +5925,10 @@ tribunal administratif ou son délégué est saisi, avant qu'il n'ait statué.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1 à L511-3
 
 
 ###### Article L512-4
@@ -4226,200 +5948,14 @@ administrative ait à nouveau statué sur son cas.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
 
-
-#### Chapitre III : Exécution des mesures de reconduite à la frontière.
-
-###### Article L513-1
-
-L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le président du tribunal administratif ou son délégué
-dans le délai prévu au premier alinéa de l'article L. 512-2 ou qui n'a pas fait l'objet d'une annulation dans les conditions
-fixées au même article ou à l'article L. 512-5 peut être exécuté d'office par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 26 bis, al. 1, ecqc la reconduite à la frontière
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-5 (Ab)
-
-
-###### Article L513-2
-
-L'étranger qui doit être reconduit à la frontière est éloigné :
-
-1° A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la
-Commission des recours des réfugiés lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande
-d'asile ;
-
-2° Ou à destination du pays qui lui a délivré un document de voyage en cours de validité ;
-
-3° Ou à destination d'un autre pays dans lequel il est légalement admissible.
-
-Un étranger ne peut être éloigné à destination d'un pays s'il établit que sa vie ou sa liberté y sont menacées ou qu'il y est
-exposé à des traitements contraires aux stipulations de l'article 3 de la Convention européenne de sauvegarde des droits de
-l'homme et des libertés fondamentales du 4 novembre 1950.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 27 bis, ecqc la reconduite à la frontière
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VD)
-
-
-###### Article L513-3
-
-La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
-
-Le recours contentieux contre cette décision n'est suspensif d'exécution, dans les conditions prévues au second alinéa de
-l'article L. 512-3, que s'il est présenté au président du tribunal administratif en même temps que le recours contre l'arrêté
-de reconduite à la frontière que la décision fixant le pays de renvoi vise à exécuter.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 27 ter, ecqc la reconduite à la frontière
-
-	**Cité par**:
-
-	  - Décret n°82-440 du 26 mai 1982 - art. 3 bis (M)
-	  - Loi n°2016-274 du 7 mars 2016 - art. 57
-	  - Code de justice administrative - art. L776-2 (VD)
-	  - Code de justice administrative - art. R122-13 (V)
-	  - Code de justice administrative - art. R222-33 (Ab)
-	  - Code de justice administrative - art. R776-1 (V)
-	  - Code de justice administrative. - art. R611-23 (M)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative - art. L776-2 (VD)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-3 (M)
-
-
-###### Article L513-4
-
-L'étranger qui doit être reconduit à la frontière et qui justifie être dans l'impossibilité de quitter le territoire français
-en établissant qu'il ne peut ni regagner son pays d'origine, ni se rendre dans aucun autre pays peut, par dérogation aux
-dispositions du titre V du présent livre, être astreint à résider dans les lieux qui lui sont fixés, dans lesquels il doit se
-présenter périodiquement aux services de police et de gendarmerie. Le non-respect des prescriptions liées à l'assignation à
-résidence est sanctionné dans les conditions prévues à l'article L. 624-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 28, al. 1 et 3, ecqc la reconduite à la frontière
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
-
-	**Cité par**:
-
-	  - Décret n°82-440 du 26 mai 1982 - art. 4 (Ab)
-	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-5 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R513-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L523-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L523-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R*541-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-
-#### Chapitre IV : Dispositions propres à la Guyane et à la commune de Saint-Martin (Guadeloupe).
-
-###### Article L514-1
-
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et dans la commune de Saint-Martin (Guadeloupe), les
-dispositions suivantes :
-
-1° Si l'autorité consulaire le demande, la mesure de reconduite à la frontière ne peut être mise à exécution avant
-l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ;
-
-2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une mesure administrative de
-reconduite à la frontière et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de
-suspension de son exécution.
-
-En conséquence, les dispositions des articles L. 512-2 à L. 512-5 ne sont pas applicables en Guyane ni dans la commune de
-Saint-Martin (Guadeloupe).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 40, paragraphes I et II
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 40 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Cité par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 57
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-5
-
-
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE
-
-#### Chapitre II : Procédure administrative et contentieuse
 
 ###### Article L512-5
 
@@ -4457,6 +5993,221 @@ compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er j
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+
+
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.
+
+###### Article L513-2
+
+L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière est éloigné :
+
+1° A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la
+Commission des recours des réfugiés lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande
+d'asile ;
+
+2° Ou à destination du pays qui lui a délivré un document de voyage en cours de validité ;
+
+3° Ou à destination d'un autre pays dans lequel il est légalement admissible.
+
+Un étranger ne peut être éloigné à destination d'un pays s'il établit que sa vie ou sa liberté y sont menacées ou qu'il y est
+exposé à des traitements contraires aux stipulations de l'article 3 de la Convention européenne de sauvegarde des droits de
+l'homme et des libertés fondamentales du 4 novembre 1950.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 27 bis, ecqc la reconduite à la frontière
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 63 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VD)
+
+
+###### Article L513-3
+
+La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
+
+Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de reconduite à la frontière, le recours contentieux
+contre cette décision n'est suspensif d'exécution, dans les conditions prévues au dernier alinéa de l'article L. 512-3, que
+s'il est présenté au président du tribunal administratif en même temps que le recours contre la mesure de reconduite à la
+frontière qu'elle vise à exécuter.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 27 ter, ecqc la reconduite à la frontière
+
+	**Cité par**:
+
+	  - Décret n°82-440 du 26 mai 1982 - art. 3 bis (M)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
+	  - Code de justice administrative - art. L776-2 (VD)
+	  - Code de justice administrative - art. R122-13 (V)
+	  - Code de justice administrative - art. R222-33 (Ab)
+	  - Code de justice administrative - art. R776-1 (V)
+	  - Code de justice administrative. - art. R611-23 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 64 () JORF 25 juillet 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative - art. L776-2 (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-3 (M)
+
+
+###### Article L513-4
+
+L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être
+dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se
+rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans
+les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Le
+non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
+624-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 28, al. 1 et 3, ecqc la reconduite à la frontière
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
+
+	**Cité par**:
+
+	  - Décret n°82-440 du 26 mai 1982 - art. 4 (Ab)
+	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-5 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R513-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L523-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L523-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R*541-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 65 () JORF 25 juillet 2006
+
+
+#### Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe.
+
+###### Article L514-1
+
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane et dans la commune de Saint-Martin (Guadeloupe), les
+dispositions suivantes :
+
+1° Si l'autorité consulaire le demande, la mesure de reconduite à la frontière ne peut être mise à exécution avant
+l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ;
+
+2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
+territoire français ou d'une mesure administrative de reconduite à la frontière et qui défère cet acte au tribunal
+administratif peut assortir son recours d'une demande de suspension de son exécution.
+
+En conséquence, les dispositions des articles L. 512-2 à L. 512-4 (1) ne sont pas applicables en Guyane ni dans la commune de
+Saint-Martin (Guadeloupe).
+
+**Nota:**
+
+NOTA (1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur
+à compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+
+La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 40, paragraphes I et II
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 40 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 66 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 98 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-4
+
+
+###### Article L514-2
+
+Les dispositions de l'article L. 514-1 sont applicables dans les communes du département de la Guadeloupe autres que celle de
+Saint-Martin, pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006  relative à l'immigration
+et à l'intégration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Cite**:
+
+	  - Loi n°2006-911 2006-07-24
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L514-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 98 () JORF 25 juillet 2006
 
 
 ### TITRE II : L'EXPULSION
@@ -4501,17 +6252,19 @@ l'Etat ou la sécurité publique et sous réserve que les dispositions de l'arti
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
 l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ;
 
-2° L'étranger marié depuis au moins deux ans avec un conjoint de nationalité française, à condition que la communauté de vie
-n'ait pas cessé et que le conjoint ait conservé la nationalité française ;
+2° L'étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que la communauté de vie
+n'ait pas cessé depuis le mariage et que le conjoint ait conservé la nationalité française ;
 
-3° L'étranger qui justifie par tous moyens qu'il réside habituellement en France depuis plus de quinze ans, sauf s'il a été,
-pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention étudiant ;
+3° (Abrogé)
 
 4° L'étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
 titulaire d'une carte de séjour temporaire portant la mention " étudiant " ;
 
 5° L'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
-dont le taux d'incapacité permanente est égal ou supérieur à 20 %.
+dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
+
+6° Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse qui séjourne régulièrement en France depuis dix ans.
 
 Par dérogation aux dispositions du présent article, l'étranger peut faire l'objet d'un arrêté d'expulsion en application de
 l'article L. 521-1 s'il a été condamné définitivement à une peine d'emprisonnement ferme au moins égale à cinq ans.
@@ -4545,6 +6298,10 @@ l'article L. 521-1 s'il a été condamné définitivement à une peine d'empriso
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 67 () JORF 25 juillet 2006
+
 	**Cite**:
 
 	  - Code civil - art. 371-2 (M)
@@ -4562,8 +6319,8 @@ ans ;
 2° L'étranger qui réside régulièrement en France depuis plus de vingt ans ;
 
 3° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est marié
-depuis au moins trois ans soit avec un ressortissant français ayant conservé la nationalité française, soit avec un
-ressortissant étranger relevant du 1°, à condition que la communauté de vie n'ait pas cessé ;
+depuis au moins quatre ans soit avec un ressortissant français ayant conservé la nationalité française, soit avec un
+ressortissant étranger relevant du 1°, à condition que la communauté de vie n'ait pas cessé depuis le mariage ;
 
 4° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est père
 ou mère d'un enfant français mineur résidant en France, à condition qu'il établisse contribuer effectivement à l'entretien et
@@ -4575,7 +6332,8 @@ pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, so
 bénéficier d'un traitement approprié dans le pays de renvoi.
 
 Les dispositions du présent article ne sont toutefois pas applicables à l'étranger mentionné au 3° ou au 4° ci-dessus lorsque
-les faits à l'origine de la mesure d'expulsion ont été commis à l'encontre de son conjoint ou de ses enfants.
+les faits à l'origine de la mesure d'expulsion ont été commis à l'encontre de son conjoint ou de ses enfants ou de tout
+enfant sur lequel il exerce l'autorité parentale.
 
 Les étrangers mentionnés au présent article bénéficient de ses dispositions même s'ils se trouvent dans la situation prévue
 au dernier alinéa de l'article L. 521-2.
@@ -4602,6 +6360,11 @@ au dernier alinéa de l'article L. 521-2.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 68 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 77 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -5061,6 +6824,10 @@ dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, ou 21, paragr
 souscrire, au moment de l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22 de la même convention,
 alors qu'il était astreint à cette formalité.
 
+Il en est de même de l'étranger détenteur d'un titre de résident de longue durée-CE en cours de validité accordé par un autre
+Etat membre qui fait l'objet d'une mesure d'éloignement du territoire français. Un décret en Conseil d'Etat détermine les
+conditions d'application du présent alinéa.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -5092,6 +6859,10 @@ alors qu'il était astreint à cette formalité.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 69 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -5145,14 +6916,41 @@ l'article L. 513-3 et de l'article L. 513-4 sont applicables.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
 
 
+###### Article L531-4
+
+Est placée sous l'autorité du ministre de l'intérieur l'escorte de l'étranger non ressortissant d'un Etat membre de l'Union
+européenne ou d'un Etat partie à la convention signée à Schengen le 19 juin 1990 qui transite par un aéroport métropolitain
+en vue de son acheminement vers le pays de destination en exécution d'une mesure d'éloignement prise par un des Etats
+précités, à l'exception du Danemark, de l'Irlande et du Royaume-Uni.
+
+Dans ce cadre, les prérogatives des membres de l'escorte sont limitées à la légitime défense et, dans le but de porter
+assistance aux autorités françaises, à un usage raisonnable et proportionné de la force. Ils ne disposent en aucun cas du
+pouvoir d'interpellation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention Schengen 1990-06-19
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 70 () JORF 25 juillet 2006
+
+
 #### Chapitre II : Dispositions propres à la Guyane
 
 ###### Article L532-1
 
 En Guyane, lorsque l'équipage d'un navire se livrant à des activités de pêche illicite est contraint par l'autorité
 administrative de se rendre à terre, ses membres peuvent être éloignés d'office, avec leur accord et aux frais de l'Etat, à
-destination du Brésil, du Surinam ou du Guyana selon qu'ils ont la nationalité de l'un de ces Etats. L'autorité
-administrative prend toutes mesures à cette fin dans un délai qui ne peut excéder quarante-huit heures.
+destination du Venezuela, du Brésil, du Surinam ou de la Guyana selon qu'ils ont la nationalité de l'un de ces Etats.
+L'autorité administrative prend toutes mesures à cette fin dans un délai qui ne peut excéder quarante-huit heures.
 
 **Liens relatifs à cet article**
 
@@ -5166,6 +6964,10 @@ administrative prend toutes mesures à cette fin dans un délai qui ne peut exc�
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 99 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Loi n°2016-274 du 7 mars 2016 - art. 57
@@ -5177,77 +6979,77 @@ administrative prend toutes mesures à cette fin dans un délai qui ne peut exc�
 ###### Article L541-1
 
 La peine d'interdiction du territoire français susceptible d'être prononcée contre un étranger coupable d'un crime ou d'un
-délit est régie par les dispositions des articles 131-30, 131-30-1 et 131-30-2 du code pénal ci-après reproduites :
+délit est régie par les dispositions des articles 131-30, 131-30-1 et 131-30-2 du code pénal ci-après reproduites : 
 
-"Art. 131-30 du code pénal.
+" Art. 131-30 du code pénal. 
 
-"Lorsqu'elle est prévue par la loi, la peine d'interdiction du territoire français peut être prononcée, à titre définitif ou
-pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit.
+" Lorsqu'elle est prévue par la loi, la peine d'interdiction du territoire français peut être prononcée, à titre définitif ou
+pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. 
 
-"L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à
-l'expiration de sa peine d'emprisonnement ou de réclusion.
+" L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à
+l'expiration de sa peine d'emprisonnement ou de réclusion. 
 
-"Lorsque l'interdiction du territoire accompagne une peine privative de liberté sans sursis, son application est suspendue
+" Lorsque l'interdiction du territoire accompagne une peine privative de liberté sans sursis, son application est suspendue
 pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du
-jour où la privation de liberté a pris fin.
+jour où la privation de liberté a pris fin. 
 
-"L'interdiction du territoire français prononcée en même temps qu'une peine d'emprisonnement ne fait pas obstacle à ce que
+" L'interdiction du territoire français prononcée en même temps qu'une peine d'emprisonnement ne fait pas obstacle à ce que
 cette peine fasse l'objet, aux fins de préparation d'une demande en relèvement, de mesures de semi-liberté, de placement à
-l'extérieur, de placement sous surveillance électronique ou de permissions de sortir.
+l'extérieur, de placement sous surveillance électronique ou de permissions de sortir. 
 
-"Art. 131-30-1 du code pénal.
+" Art. 131-30-1 du code pénal. 
 
-"En matière correctionnelle, le tribunal ne peut prononcer l'interdiction du territoire français que par une décision
+" En matière correctionnelle, le tribunal ne peut prononcer l'interdiction du territoire français que par une décision
 spécialement motivée au regard de la gravité de l'infraction et de la situation personnelle et familiale de l'étranger
-lorsqu'est en cause :
+lorsqu'est en cause : 
 
-"1° Un étranger, ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à
+" 1° Un étranger, ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
-l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ;
+l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ; 
 
-"2° Un étranger marié depuis au moins deux ans avec un conjoint de nationalité française, à condition que ce mariage soit
-antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait conservé
-la nationalité française ;
+" 2° Un étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que ce mariage soit
+antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé depuis le mariage et que le
+conjoint ait conservé la nationalité française ; 
 
-"3° Un étranger qui justifie par tous moyens qu'il réside habituellement en France depuis plus de quinze ans, sauf s'il a
-été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+" 3° Un étranger qui justifie par tous moyens qu'il réside habituellement en France depuis plus de quinze ans, sauf s'il a
+été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
 
-"4° Un étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+" 4° Un étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
+titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
 
-"5° Un étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
-dont le taux d'incapacité permanente est égal ou supérieur à 20 %.
+" 5° Un étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français
+et dont le taux d'incapacité permanente est égal ou supérieur à 20 %. 
 
-"Art. 131-30-2 du code pénal.
+" Art. 131-30-2 du code pénal. 
 
-"La peine d'interdiction du territoire français ne peut être prononcée lorsqu'est en cause :
+La peine d'interdiction du territoire français ne peut être prononcée lorsqu'est en cause : 
 
-"1° Un étranger qui justifie par tous moyens résider en France habituellement depuis qu'il a atteint au plus l'âge de treize
-ans ;
+1° Un étranger qui justifie par tous moyens résider en France habituellement depuis qu'il a atteint au plus l'âge de treize
+ans ; 
 
-"2° Un étranger qui réside régulièrement en France depuis plus de vingt ans ;
+2° Un étranger qui réside régulièrement en France depuis plus de vingt ans ; 
 
-"3° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est
-marié depuis au moins trois ans avec un ressortissant français ayant conservé la nationalité française, à condition que ce
-mariage soit antérieur aux faits ayant entraîné sa condamnation et que la communauté de vie n'ait pas cessé ou, sous les
-mêmes conditions, avec un ressortissant étranger relevant du 1° ;
+3° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est
+marié depuis au moins quatre ans avec un ressortissant français ayant conservé la nationalité française, à condition que ce
+mariage soit antérieur aux faits ayant entraîné sa condamnation et que la communauté de vie n'ait pas cessé depuis le mariage
+ou, sous les mêmes conditions, avec un ressortissant étranger relevant du 1° ; 
 
-"4° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est
-père ou mère d'un enfant français mineur résidant en France, à condition qu'il établisse contribuer effectivement à
-l'entretien et à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de
-celui-ci ou depuis au moins un an ;
+4° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est père
+ou mère d'un enfant français mineur résidant en France, à condition qu'il établisse contribuer effectivement à l'entretien et
+à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de celui-ci ou
+depuis au moins un an ; 
 
-"5° Un étranger qui réside en France sous couvert du titre de séjour prévu par le 11° de l'article L. 313-11 du code de
-l'entrée et du séjour des étrangers et du droit d'asile.
+5° Un étranger qui réside en France sous couvert du titre de séjour prévu par le 11° de l'article 12 bis de l'ordonnance n°
+45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France. 
 
-"Les dispositions prévues au 3° et au 4° ne sont toutefois pas applicables lorsque les faits à l'origine de la condamnation
-ont été commis à l'encontre du conjoint ou des enfants de l'étranger.
+Les dispositions prévues au 3° et au 4° ne sont toutefois pas applicables lorsque les faits à l'origine de la condamnation
+ont été commis à l'encontre du conjoint ou des enfants de l'étranger ou de tout enfant sur lequel il exerce l'autorité
+parentale. 
 
-"Les dispositions du présent article ne sont pas applicables aux atteintes aux intérêts fondamentaux de la nation prévus par
+Les dispositions du présent article ne sont pas applicables aux atteintes aux intérêts fondamentaux de la nation prévus par
 les chapitres Ier, II et IV du titre Ier du livre IV et par les articles 413-1 à 413-4, 413-10 et 413-11, ni aux actes de
 terrorisme prévus par le titre II du livre IV, ni aux infractions en matière de groupes de combat et de mouvements dissous
-prévues par les articles 431-14 à 431-17, ni aux infractions en matière de fausse monnaie prévues aux articles 442-1 à
-442-4."
+prévues par les articles 431-14 à 431-17, ni aux infractions en matière de fausse monnaie prévues aux articles 442-1 à 442-4.
 
 **Liens relatifs à cet article**
 
@@ -5256,6 +7058,11 @@ prévues par les articles 431-14 à 431-17, ni aux infractions en matière de fa
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 75 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 77 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R*541-1 (V)
@@ -5263,11 +7070,16 @@ prévues par les articles 431-14 à 431-17, ni aux infractions en matière de fa
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile 413-1 à 413-4, 413-10, 413-11, 431-14 à 431-17, 442-1 à 442-4
-	  - Code pénal - art. 131-30 (MMN)
 	  - Code pénal - art. 131-30-1 (M)
 	  - Code pénal - art. 131-30-2 (M)
 	  - Code civil - art. 371-2 (M)
 	  - Code civil 371-2, L313-11
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code pénal - art. 131-30 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 131-30-1 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 131-30-2 (V)
 
 
 ###### Article L541-2
@@ -5378,14 +7190,19 @@ lorsque cet étranger :
 2° Soit, faisant l'objet d'un arrêté d'expulsion, ne peut quitter immédiatement le territoire français ;
 
 3° Soit, faisant l'objet d'un arrêté de reconduite à la frontière pris en application des articles L. 511-1 à L. 511-3 et
-édicté moins d'un an auparavant, ne peut quitter immédiatement le territoire français ;
+édicté moins d'un an auparavant, ou devant être reconduit à la frontière en exécution d'une interdiction du territoire prévue
+au deuxième alinéa de l'article 131-30 du code pénal ne peut quitter immédiatement le territoire français ;
 
 4° Soit, faisant l'objet d'un signalement ou d'une décision d'éloignement mentionnés à l'article L. 531-3, ne peut quitter
 immédiatement le territoire français ;
 
 5° Soit, ayant fait l'objet d'une décision de placement au titre de l'un des cas précédents, n'a pas déféré à la mesure
 d'éloignement dont il est l'objet dans un délai de sept jours suivant le terme du précédent placement ou, y ayant déféré, est
-revenu en France alors que cette mesure est toujours exécutoire.
+revenu en France alors que cette mesure est toujours exécutoire ;
+
+6° Soit, faisant l'objet d'une obligation de quitter le territoire français prise en application du I de l'article L. 511-1
+moins d'un an auparavant et pour laquelle le délai d'un mois pour quitter volontairement le territoire est expiré, ne peut
+quitter immédiatement ce territoire.
 
 **Liens relatifs à cet article**
 
@@ -5397,6 +7214,10 @@ revenu en France alors que cette mesure est toujours exécutoire.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 71 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -5433,6 +7254,7 @@ revenu en France alors que cette mesure est toujours exécutoire.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L531-1, L531-2, L511-1 à L511-3, L531-3
+	  - Code pénal - art. 131-30 (MMN)
 
 
 ###### Article L551-2
@@ -5618,10 +7440,12 @@ territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur
 
 ###### Article L552-5
 
-L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge et doit se présenter périodiquement aux
-services de police ou aux unités de gendarmerie en vue de l'exécution de la mesure d'éloignement. En cas de défaut de respect
-des obligations d'assignation à résidence, les dispositions du premier alinéa de l'article L. 624-1 sont applicables. Le
-procureur de la République est saisi dans les meilleurs délais.
+L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge. A la demande du juge, l'étranger justifie
+que le lieu proposé pour l'assignation satisfait aux exigences de garanties de représentation effectives. L'étranger se
+présente quotidiennement aux services de police ou aux unités de gendarmerie territorialement compétents au regard du lieu
+d'assignation, en vue de l'exécution de la mesure d'éloignement. En cas de défaut de respect des obligations d'assignation à
+résidence, les dispositions du premier alinéa de l'article L. 624-1 sont applicables. Le procureur de la République est saisi
+dans les meilleurs délais.
 
 **Liens relatifs à cet article**
 
@@ -5633,6 +7457,10 @@ procureur de la République est saisi dans les meilleurs délais.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 72 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -6190,9 +8018,10 @@ contraire, la mesure redevient exécutoire. "
 
 ###### Article L561-2
 
-Sont applicables sur le territoire défini à l'article L. 111-3 les mesures d'interdiction du territoire prononcées par une
-juridiction siégeant en Nouvelle-Calédonie ainsi que les mesures de reconduite à la frontière et d'expulsion prononcées par
-le représentant de l'Etat en Nouvelle-Calédonie.
+Sont applicables sur le territoire défini à l'article L. 111-3 les mesures d'interdiction du territoire prononcées par toute
+juridiction siégeant à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les
+mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat à Mayotte, dans les îles Wallis
+et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -6204,6 +8033,14 @@ le représentant de l'Etat en Nouvelle-Calédonie.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 100 () JORF 25 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
 
 	**Cité par**:
 
@@ -6236,7 +8073,11 @@ le représentant de l'Etat en Nouvelle-Calédonie.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
 
 
 ## LIVRE VI : CONTRÔLES ET SANCTIONS
@@ -6555,15 +8396,36 @@ procès-verbal est remis au conducteur et un autre transmis sans délai au procu
 ###### Article L611-10
 
 Les dispositions des articles L. 611-8 et L. 611-9 sont applicables, en Guyane, dans une zone comprise entre les frontières
-terrestres et une ligne tracée à vingt kilomètres en deçà.
+terrestres et une ligne tracée à vingt kilomètres en deçà ainsi que sur la route nationale 2 sur le territoire des communes
+de Saint-Georges et de Régina et sur la route départementale 6 et la route nationale 2 sur la commune de Roura.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 8-2, al. 5
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8-2 (M)
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8-2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 101 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-8 (V)
+
+
+###### Article L611-11
+
+Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006  relative à l'immigration et à
+l'intégration, les dispositions des articles L. 611-8 et L. 611-9 sont applicables, en Guadeloupe, dans une zone comprise
+entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que sur les routes nationales 1 et 4.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -6572,8 +8434,13 @@ terrestres et une ligne tracée à vingt kilomètres en deçà.
 
 	**Cite**:
 
+	  - Loi n°2006-911 2006-07-24
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L611-8 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L611-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 101 () JORF 25 juillet 2006
 
 
 ### TITRE II : SANCTIONS
@@ -6799,6 +8666,10 @@ communauté de vie a cessé, ou de la personne qui vit notoirement en situation 
 sauvegarde de la vie ou de l'intégrité physique de l'étranger, sauf s'il y a disproportion entre les moyens employés et la
 gravité de la menace ou s'il a donné lieu à une contrepartie directe ou indirecte.
 
+Les exceptions prévues aux 1° et 2° ne s'appliquent pas lorsque l'étranger bénéficiaire de l'aide au séjour irrégulier vit en
+état de polygamie ou lorsque cet étranger est le conjoint d'une personne polygame résidant en France avec le premier
+conjoint.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6810,6 +8681,10 @@ gravité de la menace ou s'il a donné lieu à une contrepartie directe ou indir
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 41 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -6970,14 +8845,45 @@ indivis.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-5 (V)
 
 
-#### Chapitre III : Mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française.
+###### Article L622-10
+
+I. - En Guyane, le procureur de la République peut ordonner la destruction des embarcations fluviales non immatriculées qui
+ont servi à commettre les infractions visées aux articles L. 622-1 et L. 622-2, constatées par procès-verbal, lorsqu'il
+n'existe pas de mesures techniques raisonnablement envisageables pour empêcher définitivement le renouvellement de ces
+infractions.
+
+II. - En Guadeloupe et en Guyane, le procureur de la République peut ordonner l'immobilisation des véhicules terrestres et
+des aéronefs qui ont servi à commettre les infractions visées aux articles L. 622-1 et L. 622-2, constatées par procès-
+verbal, par la neutralisation de tout moyen indispensable à leur fonctionnement, lorsqu'il n'existe pas de mesures techniques
+raisonnablement envisageables pour empêcher définitivement le renouvellement de ces infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 102 (VT) JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-2 (V)
+
+
+#### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française
 
 ###### Article L623-1
 
-Le fait de contracter un mariage aux seules fins d'obtenir, ou de faire obtenir, un titre de séjour, ou aux seules fins
-d'acquérir, ou de faire acquérir, la nationalité française est puni de cinq ans d'emprisonnement et de 15 000 Euros d'amende.
+Le fait de contracter un mariage ou de reconnaître un enfant aux seules fins d'obtenir, ou de faire obtenir, un titre de
+séjour ou le bénéfice d'une protection contre l'éloignement, ou aux seules fins d'acquérir, ou de faire acquérir, la
+nationalité française est puni de cinq ans d'emprisonnement et de 15 000 Euros d'amende.
 
-Ces mêmes peines sont applicables en cas d'organisation ou de tentative d'organisation d'un mariage aux mêmes fins.
+Ces mêmes peines sont applicables en cas d'organisation ou de tentative d'organisation d'un mariage ou d'une reconnaissance
+d'enfant aux mêmes fins.
 
 Elles sont portées à dix ans d'emprisonnement et à 750 000 Euros d'amende lorsque l'infraction est commise en bande
 organisée.
@@ -6993,6 +8899,10 @@ organisée.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 90 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-4 (V)
@@ -7003,15 +8913,15 @@ organisée.
 ###### Article L623-2
 
 Les personnes physiques coupables de l'une ou l'autre des infractions visées à l'article L. 623-1 encourent également les
-peines complémentaires suivantes :
+peines complémentaires suivantes : 
 
-1° L'interdiction de séjour pour une durée de cinq ans au plus ;
+1° L'interdiction de séjour pour une durée de cinq ans au plus ; 
 
 2° L'interdiction du territoire français, dans les conditions prévues par les articles 131-30 à 131-30-2 du code pénal, pour
-une durée de dix ans au plus ou à titre définitif ;
+une durée de dix ans au plus ou à titre définitif ; 
 
 3° L'interdiction, pour une durée de cinq ans au plus, d'exercer l'activité professionnelle ou sociale à l'occasion de
-laquelle l'infraction a été commise, sous les réserves mentionnées à l'article 131-27 du code pénal.
+laquelle l'infraction a été commise, sous les réserves mentionnées à l'article 131-27 du code pénal. 
 
 Les personnes physiques condamnées au titre de l'infraction visée au troisième alinéa de l'article L. 623-1 encourent
 également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou
@@ -7028,15 +8938,18 @@ immeubles, divis ou indivis.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 90 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-4 (V)
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L623-1 (M)
 	  - Code pénal - art. 131-27 (V)
-	  - Code pénal 131-30 à 131-30-2, 131-27
+	  - Code pénal - art. 131-30 (V)
 
 
 ###### Article L623-3
@@ -7068,6 +8981,10 @@ indivis.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 90 () JORF 25 juillet 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-4 (V)
@@ -7085,9 +9002,11 @@ indivis.
 ###### Article L624-1
 
 Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en
-France, d'un arrêté d'expulsion ou d'une mesure de reconduite à la frontière ou qui, expulsé ou ayant fait l'objet d'une
-interdiction du territoire, aura pénétré de nouveau sans autorisation en France, sera puni d'une peine de trois ans
-d'emprisonnement.
+France, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire
+français ou qui, expulsé ou ayant fait l'objet d'une interdiction du territoire ou d'un arrêté de reconduite à la frontière
+pris, moins d'un an auparavant, sur le fondement du 8° du II de l'article L. 511-1 et notifié à son destinataire après la
+publication de la loi n° 2006-911  du 24 juillet 2006 relative à l'immigration et à l'intégration, aura pénétré de nouveau
+sans autorisation en France, sera puni d'une peine de trois ans d'emprisonnement.
 
 La même peine sera applicable à tout étranger qui n'aura pas présenté à l'autorité administrative compétente les documents de
 voyage permettant l'exécution de l'une des mesures mentionnées au premier alinéa ou qui, à défaut de ceux-ci, n'aura pas
@@ -7104,6 +9023,15 @@ communiqué les renseignements permettant cette exécution ou aura communiqué d
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Cite**:
+
+	  - Loi n°2006-911 2006-07-24
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 73 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -7772,11 +9700,10 @@ le produit est versé au budget général.
 L'office est administré par un conseil d'administration comprenant deux parlementaires, désignés l'un par l'Assemblée
 nationale et l'autre par le Sénat, des représentants de l'Etat et un représentant du personnel de l'office.
 
-Le conseil d'administration fixe les orientations générales concernant l'activité de l'office ainsi que, pour la période
-comprise entre la date d'entrée en vigueur de la loi n° 2003-1176 du 10 décembre 2003 et l'adoption de dispositions
-communautaires en cette matière, la liste des pays considérés comme des pays d'origine sûrs, mentionnés au 2° de l'article L.
-741-4. Il délibère sur les modalités de mise en oeuvre des dispositions relatives à l'octroi du statut de réfugié ou de la
-protection subsidiaire.
+Le conseil d'administration fixe les orientations générales concernant l'activité de l'office ainsi que, dans les conditions
+prévues par les dispositions communautaires en cette matière, la liste des pays considérés au niveau national comme des pays
+d'origine sûrs, mentionnés au 2° de l'article L. 741-4. Il délibère sur les modalités de mise en oeuvre des dispositions
+relatives à l'octroi du statut de réfugié ou de la protection subsidiaire.
 
 Le président du conseil d'administration est nommé parmi ses membres par décret sur proposition du ministre des affaires
 étrangères.
@@ -7794,15 +9721,14 @@ en charge des demandeurs d'asile et des réfugiés.
 	  - Loi n°52-893 du 25 juillet 1952 - art. 3 (M)
 	  - Loi n°52-893 du 25 juillet 1952 - art. 3 (Ab)
 
-	**Cite**:
-
-	  - Loi n°2003-1176 2003-12-10
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 92 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -7812,6 +9738,10 @@ en charge des demandeurs d'asile et des réfugiés.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R722-1 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R722-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R722-2-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
 
 
 ###### Article L722-2
@@ -8119,7 +10049,9 @@ Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 ###### Article L731-2
 
 La Commission des recours des réfugiés statue sur les recours formés contre les décisions de l'Office français de protection
-des réfugiés et apatrides, prises en application des articles L. 711-1, L. 712-1 à L. 712-3 et L. 723-1 à 723-3.
+des réfugiés et apatrides, prises en application des articles L. 711-1, L. 712-1 à L. 712-3 et L. 723-1 à L. 723-3. A peine
+d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de
+l'office.
 
 **Liens relatifs à cet article**
 
@@ -8133,6 +10065,10 @@ des réfugiés et apatrides, prises en application des articles L. 711-1, L. 712
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 94 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -9548,9 +11484,8 @@ lesquelles les agents de sécurité privée investis des missions qu'il prévoit
 
 ###### Article L821-6
 
-Les marchés prévus à l'article L. 821-1 peuvent être passés à compter de la promulgation de la loi n° 2003-1119 du 26
-novembre 2003 relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité dans un délai de
-deux ans et pour une durée n'excédant pas deux ans.
+Les marchés prévus à l'article L. 821-1 peuvent être passés à compter de la promulgation de la loi n° 2006-911 du 24 juillet
+2006 relative à l'immigration et à l'intégration dans un délai de deux ans et pour une durée n'excédant pas deux ans.
 
 **Liens relatifs à cet article**
 
@@ -9558,15 +11493,23 @@ deux ans et pour une durée n'excédant pas deux ans.
 
 	  - Ordonnance 45-2658 1945-11-02 art. 35 octies, al. 8 et 9
 
-	**Cite**:
-
-	  - Loi n°2003-1119 2003-11-26
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L821-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Cite**:
+
+	  - Loi n°2006-911 du 24 juillet 2006
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L821-1
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 74 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 97
 
 
 ### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
