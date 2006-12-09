@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-11-15
+Version Consolidée au 2006-12-10
 
 # Partie législative
 
@@ -16452,24 +16452,171 @@ cette activité, valable jusqu'à la fin du stage de son conjoint ou concubin.
 
 ###### Article R411-1
 
-Les règles relatives aux conditions du regroupement familial sont régies par les dispositions du décret n° 2005-253 du 17
-mars 2005 relatif au regroupement familial des étrangers pris pour l'application du livre IV du code de l'entrée et du séjour
-des étrangers et du droit d'asile.
+Le titre de séjour dont doit justifier un ressortissant étranger pour formuler une demande de regroupement familial est soit
+une carte de séjour temporaire, d'une durée de validité d'au moins un an, soit une carte de résident, soit une carte de
+résident portant la mention "résident de longue durée-CE" et délivrée en France, soit le récépissé de la demande de
+renouvellement de l'un de ces titres.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-253 2005-03-17
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-2 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-6 (V)
+
+
+###### Article R411-2
+
+Le séjour régulier en France d'au moins dix-huit mois mentionné à l'article L. 411-1 doit avoir été accompli sous couvert des
+titres mentionnés à l'article R. 411-1 ou des documents suivants :
+
+1° Carte de séjour temporaire d'une durée de validité inférieure à un an ;
+
+2° Autorisation provisoire de séjour ;
+
+3° Récépissé d'une demande de première délivrance ou de renouvellement d'un titre de séjour ;
+
+4° Récépissé d'une demande d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R411-1 (M)
+
+
+###### Article R411-3
+
+L'âge du conjoint et des enfants pouvant bénéficier du regroupement familial est apprécié à la date du dépôt de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
+
+###### Article R411-4
+
+Pour l'application du 1° de l'article L. 411-5, le niveau des ressources du demandeur est apprécié par référence à la moyenne
+du salaire minimum de croissance sur une durée de douze mois. Les ressources du conjoint sont prises en compte dans les mêmes
+conditions pour l'appréciation des ressources qui alimenteront de manière stable le budget de la famille. Lorsque le niveau
+de cette référence est atteint, les ressources sont considérées comme suffisantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-19 (V)
+
+
+###### Article R411-5
+
+Pour l'application du 2° de l'article L. 411-5, est considéré comme normal un logement qui :
+
+1° Présente une superficie habitable totale au moins égale à :
+
+- en zone A : 22 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
+de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+
+- en zone B : 24 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
+de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+
+- en zone C : 28 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
+de 5 m2 par personne supplémentaire au-delà de huit personnes.
+
+Les zones A, B et C ci-dessus sont celles définies pour l'application du 1er alinéa du j du 1° du I de l'article 31 du code
+général des impôts ;
+
+2° Satisfait aux conditions de salubrité et d'équipement fixées aux articles 2 et 3 du décret n° 2002-120 du 30 janvier 2002
+relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13
+décembre 2000 relative à la solidarité et au renouvellement urbain.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 187 ()
+	  - Décret n°2002-120 du 30 janvier 2002 - art. 2, v. init.
+	  - Décret n°2002-120 du 30 janvier 2002 - art. 3, v. init.
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-23 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R421-19 (V)
+
+
+###### Article R411-6
+
+Le bénéfice du regroupement familial ne peut être refusé à un ou plusieurs membres de la famille résidant sur le territoire
+français dans le cas où l'étranger qui réside régulièrement en France dans les conditions prévues aux articles R. 411-1 et R.
+411-2 contracte mariage avec une personne de nationalité étrangère régulièrement autorisée à séjourner sur le territoire
+national sous couvert d'une carte de séjour temporaire d'une durée de validité d'un an. Le bénéfice du droit au regroupement
+familial est alors accordé sans recours à la procédure d'introduction. Peuvent en bénéficier le conjoint et, le cas échéant,
+les enfants de moins de dix-huit ans de celui-ci résidant en France, sauf si l'un des motifs de refus ou d'exclusion
+mentionnés aux 1°, 2° et 3° de l'article L. 411-5 leur est opposé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-5 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R411-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-27 (V)
 
 
 ### TITRE II : INSTRUCTION DES DEMANDES
@@ -16680,14 +16827,18 @@ prévu à l'article L. 421-4.
 ###### Article R421-9
 
 Après vérification des pièces du dossier et délivrance à l'intéressé de l'attestation de dépôt de sa demande, le service
-mentionné à l'article R. 421-7 transmet, avec demande d'avis de réception, une copie du dossier au maire de la commune de
-résidence de l'étranger ou au maire de la commune où l'étranger envisage de s'établir.
+mentionné à l'article R. 421-7 transmet une copie du dossier au maire de la commune de résidence de l'étranger ou au maire de
+la commune où l'étranger envisage de s'établir.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 	**Cite**:
 
@@ -16707,12 +16858,14 @@ civil étranger qui lui sont demandées.
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 3 : Vérification des conditions de ressources et de logement.
+##### Section 3 : Vérification des conditions du regroupement familial
 
 ###### Article R421-11
 
 Le maire dispose d'un délai de deux mois à compter de la réception du dossier pour vérifier si les conditions de ressources
-et de logement mentionnées à l'article L. 411-5 sont remplies.
+et de logement mentionnées à l'article L. 411-5 sont remplies. Il dispose d'un délai de durée égale, s'il a été saisi à cette
+fin par le préfet ou, à Paris, par le préfet de police, pour émettre un avis sur la condition mentionnée au 3° du même
+article.
 
 **Liens relatifs à cet article**
 
@@ -16720,9 +16873,13 @@ et de logement mentionnées à l'article L. 411-5 sont remplies.
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-5 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-5 (VT)
 
 
 ###### Article R421-12
@@ -16742,6 +16899,10 @@ relatif au regroupement familial des étrangers pris pour l'application du livre
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
 
 ###### Article R421-13
 
@@ -16754,6 +16915,10 @@ l'emploi qui procure au demandeur tout ou partie des ressources dont il fait ét
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
 ###### Article R421-14
@@ -16773,6 +16938,10 @@ relatif au regroupement familial des étrangers pris pour l'application du livre
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
 
 ###### Article R421-15
 
@@ -16787,6 +16956,10 @@ consentement écrit de son occupant. En cas de refus de l'occupant, les conditio
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
 
 ###### Article R421-16
 
@@ -16798,6 +16971,10 @@ La vérification sur place des conditions de logement donne lieu à l'établisse
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
 ###### Article R421-17
@@ -16818,6 +16995,10 @@ pris pour l'application du livre IV du code de l'entrée et du séjour des étra
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
 
 ###### Article R421-18
 
@@ -16831,6 +17012,10 @@ avis est réputé favorable.
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 	**Cité par**:
 
@@ -16866,6 +17051,27 @@ sur place ;
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+
+
+###### Article R421-19-1
+
+Le maire, s'il a été saisi à cette fin par le préfet ou, à Paris, par le préfet de police, dispose d'un délai de deux mois
+pour transmettre à celui-ci son avis sur le respect par le demandeur des principes fondamentaux reconnus par les lois de la
+République. En l'absence de réponse du maire à l'expiration de ce délai, cet avis est réputé rendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
 ##### Section 4 : Décision du préfet
