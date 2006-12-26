@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-12-10
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -981,7 +981,7 @@ lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 ###### Article L211-8
 
 Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de
-l'accueil des étrangers et des migrations, d'une taxe d'un montant de 15 Euros acquittée par l'hébergeant. Cette taxe est
+l'accueil des étrangers et des migrations, d'une taxe d'un montant de 30 euros acquittée par l'hébergeant. Cette taxe est
 recouvrée comme en matière de droit de timbre.
 
 **Liens relatifs à cet article**
@@ -999,7 +999,7 @@ recouvrée comme en matière de droit de timbre.
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 133 () JORF 27 décembre 2006
 
 
 ###### Article L211-9
@@ -4813,9 +4813,12 @@ présente sa demande.
 
 "Art. L. 341-8 du code du travail.
 
-"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 donne lieu à la perception au profit de l'Agence
-nationale de l'accueil des étrangers et des migrations d'une taxe dont le montant et les modalités de perception sont fixés
-par décret.
+"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 ou des titres de séjour voulant autorisation de
+travail ou portant mention de celle-ci donne lieu à la perception, au profit de l'Agence nationale de l'accueil des étrangers
+et des migrations, d'une taxe dont le montant est fixé par décret dans les limites comprises entre 55 euros et 110 euros.
+
+"Cette taxe est recouvrée comme en matière de timbre, sous réserve, en tant que de besoin, des adaptations fixées par décret
+en Conseil d'Etat.
 
 "La participation de l'Etat aux frais d'introduction des familles de travailleurs étrangers et les sommes versées par les
 employeurs à l'Agence nationale de l'accueil des étrangers et des migrations à titre de remboursement forfaitaire des frais
@@ -4828,8 +4831,8 @@ protection de l'Office français de protection des réfugiés et apatrides, aux 
 
 "Art. L. 831-1 du code du travail.
 
-"Les dispositions du chapitre premier     du titre IV du livre III, à l'exception du troisième alinéa de l'article L. 341-4,
-du présent code sont applicables dans les départements d'outre-mer.
+"Les dispositions du chapitre premier du titre IV du livre III, à l'exception du troisième alinéa de l'article L. 341-4, du
+présent code sont applicables dans les départements d'outre-mer.
 
 "Art. L. 831-1-1 du code du travail.
 
@@ -4853,8 +4856,7 @@ territoire du département, toute activité professionnelle salariée de son cho
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 103 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 16 () JORF 25 juillet 2006
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 133 () JORF 27 décembre 2006
 
 	**Cité par**:
 
