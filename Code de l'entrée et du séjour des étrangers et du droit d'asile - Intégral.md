@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-29
 
 # Partie législative
 
@@ -17471,6 +17471,27 @@ cette partie dans les conditions prévues à l'article R. 776-17, troisième ali
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L776-1, L776-2, R776-1
 	  - Code de justice administrative R776-1 à R776-20
+
+
+###### Article R512-3
+
+Les modalités selon lesquelles les juridictions administratives examinent les recours en annulation formés contre les
+décisions de refus de séjour assorties d'une obligation de quitter le territoire français obéissent aux règles définies par
+le chapitre V du titre VII du livre VII du code de justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 2 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 2
 
 
 #### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière
