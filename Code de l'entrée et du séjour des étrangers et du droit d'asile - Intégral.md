@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-25
 
 # Partie législative
 
@@ -19547,7 +19547,7 @@ collectées que si la mention de leur caractère facultatif a été indiquée.
 
 ###### Article D611-3
 
-Pourront seuls être destinataires des informations contenues dans ces différents fichiers :
+I. - Pourront seuls être destinataires des informations contenues dans ces différents fichiers :
 
 1° S'agissant du fichier national des dossiers des ressortissants étrangers en France et de chacun des fichiers
 départementaux, les services de la direction des libertés publiques et des affaires juridiques compétents pour l'application
@@ -19567,11 +19567,27 @@ réfugiés et apatrides ;
 5° S'agissant des données relatives à l'autorisation de séjour détenue, les services compétents des préfectures et sous-
 préfectures, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire.
 
+II. - Peuvent en outre accéder aux données mentionnées à l'article D. 611-2, dans les conditions fixées aux articles 9 et 33
+de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à
+la sécurité et aux contrôles transfrontaliers :
+
+- les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme ;
+
+- les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
+terrorisme.
+
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-87 du 23 janvier 2007 - art. 1 () JORF 25 janvier 2007
 
 	**Cité par**:
 
@@ -19761,8 +19777,8 @@ automatisé prévu à l'article L. 611-6.
 
 ###### Article R611-12
 
-Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-8
-sont :
+I. - Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R.
+611-8 sont :
 
 1° Les agents des chancelleries consulaires et des consulats français mentionnés à l'annexe 6.2, individuellement désignés et
 spécialement habilités par le chef de poste diplomatique ou consulaire ;
@@ -19774,23 +19790,40 @@ police aux frontières ;
 désignés et spécialement habilités par le préfet de police ou le commissaire central concerné, pour des missions de
 vérification d'identité prévues par les articles 78-2 et 78-3 du code de procédure pénale.
 
+II. - Peuvent également accéder aux données enregistrées dans le traitement prévu à l'article R. 611-8 dans les conditions
+fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant
+dispositions diverses relatives à la sécurité et aux contrôles transfrontaliers :
+
+- les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme ;
+
+- les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
+terrorisme.
+
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2006-64 2006-01-23 art. 9, art. 33
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-8, annexe 6
+	  - CODE DE PROCEDURE PENALE - art. 78-2 (M)
+	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-86 du 23 janvier 2007 - art. 3 () JORF 25 janvier 2007
+
 	**Cité par**:
 
 	  - Décret n°2008-1456 du 30 décembre 2008 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-8, annexe 6
-	  - CODE DE PROCEDURE PENALE - art. 78-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 
 ###### Article R611-13
