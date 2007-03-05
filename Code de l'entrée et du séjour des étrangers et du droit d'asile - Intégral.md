@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -2209,7 +2209,8 @@ Lors du premier renouvellement de la carte de séjour, il peut être tenu compte
 caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
 
 L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins
-trois ans est dispensé de la signature de ce contrat.
+trois ans est dispensé de la signature de ce contrat. Il en va de même pour l'étranger âgé de seize à dix-huit ans révolus
+pouvant prétendre à un titre de séjour et relevant des dispositions prévues à l'article L. 314-12.
 
 L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en
 France peut demander à signer un tel contrat.
@@ -2227,9 +2228,9 @@ sont dispensées.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 5 () JORF 25 juillet 2006
+	  - Loi n°2007-290 du 5 mars 2007 - art. 64 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -2252,6 +2253,10 @@ sont dispensées.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1 (VD)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L711-2 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
 
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
