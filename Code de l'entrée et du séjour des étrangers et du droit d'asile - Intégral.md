@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-03-22
+Version Consolidée au 2007-05-16
 
 # Partie législative
 
@@ -16036,6 +16036,31 @@ d'admission préalable pour lequel ce visa lui a été accordé ;
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
 
 
+###### Article R313-3-1
+
+L'étranger résidant hors de France qui sollicite le bénéfice des dispositions du 2° de l'article L. 313-10 présente sa
+demande auprès des autorités diplomatiques ou consulaires françaises territorialement compétentes dans son pays de
+résidence. 
+
+L'étranger titulaire d'une carte de séjour ne l'autorisant pas à exercer une activité commerciale, industrielle ou
+artisanale, qui sollicite le bénéfice des dispositions précitées, présente sa demande au préfet du département de son lieu de
+résidence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+
+
 ###### Article R313-4
 
 Ne sont pas soumis aux dispositions du 4° de l'article R. 313-1 les étrangers mentionnés au 11° de l'article L. 313-11.
@@ -16376,9 +16401,30 @@ professionnelle restent régies par les dispositions des articles R. 313-16 à R
 
 ###### Article R313-16
 
-L'étranger qui vient en France pour y exercer une activité salariée et ne remplit pas les conditions prévues aux articles L.
-313-8, L. 313-9 ou L. 313-11 présente les justificatifs prévus par le titre IV, chapitre Ier, section 1, du livre III du code
-du travail.
+I.-Lorsque l'activité industrielle, commerciale ou artisanale est exercée en France par une personne morale, les dispositions
+du 2° de l'article L. 313-10 sont applicables à : 
+
+1° L'associé tenu indéfiniment ou indéfiniment et solidairement des dettes sociales ; 
+
+2° L'associé ou le tiers ayant le pouvoir de diriger, gérer ou le pouvoir général d'engager à titre habituel la personne
+morale ; 
+
+3° Le représentant légal des associations régies par la loi du 1er juillet 1901 qui émettent des obligations et exercent une
+activité économique depuis au moins deux ans ; 
+
+4° Le représentant légal des associations de change manuel ; 
+
+5° L'administrateur ou le représentant permanent d'un groupement d'intérêt économique à objet commercial ; 
+
+6° La personne physique ayant le pouvoir d'engager une personne morale de droit étranger au titre :
+
+- d'un établissement, d'une succursale, d'une représentation commerciale implantée en France ;
+
+- d'une agence commerciale d'un Etat, collectivité ou établissement public étranger établi en France et effectuant des actes
+de commerce. 
+
+II.-Lorsque l'activité est exercée par une personne physique, les dispositions du 2° de l'article L. 313-10 sont applicables
+à la personne ayant le pouvoir d'engager, à titre habituel, un commerçant ou un artisan personne physique.
 
 **Liens relatifs à cet article**
 
@@ -16386,15 +16432,105 @@ du travail.
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
+
+
+###### Article R313-16-1
+
+L'étranger qui envisage de créer une activité ou une entreprise doit présenter à l'appui de sa demande les justificatifs
+permettant d'évaluer la viabilité économique du projet.
+
+L'étranger qui envisage de participer à une activité ou une entreprise existante doit présenter les justificatifs permettant
+de s'assurer de son effectivité et d'apprécier la capacité de cette activité ou de cette société à lui procurer des
+ressources au moins équivalentes au salaire minimum de croissance correspondant à un emploi à temps plein.
+
+Dans tous les cas, l'étranger doit justifier qu'il respecte la réglementation en vigueur dans le domaine d'activité en cause.
+
+Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la liste des pièces justificatives que
+l'étranger doit produire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
+
+
+###### Article R313-16-2
+
+Lorsque l'étranger présente un projet tendant à la création d'une activité ou d'une entreprise, l'autorité diplomatique ou
+consulaire ou le préfet compétent saisit pour avis le trésorier-payeur général du département dans lequel l'étranger souhaite
+réaliser son projet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+
+###### Article R313-16-3
+
+Lors de la demande de délivrance ou de renouvellement de la carte de séjour prévue au 2° de l'article L. 313-10, le préfet
+vérifie la compatibilité de l'activité en cause avec la sécurité, la salubrité et la tranquillité publiques ainsi que, le cas
+échéant, l'absence de condamnation ou de décision emportant en France, l'interdiction d'exercer une activité commerciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+
+
+###### Article R313-16-4
+
+L'étranger titulaire de la carte de séjour temporaire prévue au 2° de l'article L. 313-10 qui cesse définitivement toute
+activité commerciale, industrielle ou artisanale est tenu d'en informer la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
 
 
 ###### Article R313-17
@@ -16416,51 +16552,6 @@ faisant référence à l'autorisation provisoire de travail dont il bénéficie 
 	**Cite**:
 
 	  - Code du travail - art. R341-7 (Ab)
-
-
-###### Article R313-18
-
-L'étranger qui vient en France pour y exercer une activité professionnelle non salariée soumise à autorisation justifie qu'il
-est titulaire de cette autorisation, sauf s'il entre dans l'un des cas d'exemption prévus par l'article L. 122-3 du code de
-commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-912 du 15 mai 2007 - art. 5 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code de commerce. - art. L122-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-19 (Ab)
-
-
-###### Article R313-19
-
-La carte de séjour délivrée au titre de l'article R. 313-18 porte la mention de la profession non salariée que le titulaire
-entend exercer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-912 du 15 mai 2007 - art. 5 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-18 (Ab)
 
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
@@ -16921,7 +17012,7 @@ qualité de propriétaire ou de locataire du logement ;
 
 4° La justification qu'il bénéficie d'une assurance maladie ;
 
-5° Les pièces exigées aux articles R. 313-6, R. 313-7, R. 313-8 (2°), R. 313-11, R. 313-14 et R. 313-16, selon le motif
+5° Les pièces exigées aux articles R. 313-6, R. 313-7, R. 313-8 (2°), R. 313-11, R. 313-14 et R. 313-16-1, selon le motif
 invoqué de son séjour en France et la catégorie de carte de séjour temporaire qu'il sollicite.
 
 **Liens relatifs à cet article**
@@ -16930,9 +17021,9 @@ invoqué de son séjour en France et la catégorie de carte de séjour temporair
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 25 () JORF 22 mars 2007
+	  - Décret n°2007-912 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
 
 	**Cité par**:
 
@@ -16946,7 +17037,7 @@ invoqué de son séjour en France et la catégorie de carte de séjour temporair
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-11 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-14 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-16 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-16-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-6 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-7 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-8 (M)
@@ -17094,6 +17185,37 @@ d'activités de recherche ou d'enseignement supérieur d'une durée supérieure 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-9 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-13 (M)
+
+
+###### Article R313-36-1
+
+L'étranger qui sollicite le renouvellement de la carte de séjour temporaire délivrée au titre des dispositions du 2° de
+l'article L. 313-10 doit justifier qu'il continue de satisfaire aux conditions requises par lesdites dispositions.
+
+L'étranger admis au séjour pour créer une activité ou une entreprise produit à cet effet tout document établissant qu'il a
+réalisé son projet et que les ressources qu'il en tire sont d'un niveau équivalent au salaire minimum de croissance
+correspondant à un emploi à temps plein.
+
+L'étranger qui participe à une activité ou à une entreprise existante produit tout document établissant que les ressources
+qu'il en tire atteignent un niveau équivalent au salaire minimum de croissance correspondant à un emploi à temps plein.
+
+Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la liste des pièces justificatives que
+l'étranger doit produire à l'appui de sa demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-912 du 15 mai 2007 - art. 4 () JORF 16 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R833-1 (V)
 
 
 ###### Article R313-37
