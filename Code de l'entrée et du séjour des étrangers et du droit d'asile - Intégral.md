@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-07-27
 
 # Partie législative
 
@@ -21992,9 +21992,255 @@ ayant délivré le visa.
 	  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 
-##### Section 3 : Dispositions diverses.
+##### Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises
 
 ###### Article R611-18
+
+Il est créé, à titre expérimental, pour une durée de deux ans à compter de la date de publication du décret n° 2007-1136 du
+25 juillet 2007, un traitement automatisé de données à caractère personnel pris pour l'application des articles L. 611-3 à L.
+611-5, relevant du ministère chargé de l'immigration.
+
+La finalité de ce traitement est de lutter contre l'entrée et le séjour irréguliers en France des étrangers non
+ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou
+de la Confédération suisse, en facilitant l'identification des étrangers qui, lors de leur contrôle à l'occasion du
+franchissement de la frontière à l'aéroport Roissy - Charles-de-Gaulle, en provenance d'un pays tiers aux Etats parties à la
+convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions prévues à l'article 5 du règlement (CE) n°
+562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de
+franchissement des frontières par les personnes (code frontières Schengen) ou à l'article L. 211-1.
+
+Il est procédé à son évaluation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Cite**:
+
+	  - Décret n°2007-1136 2007-07-25
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L611-3 à L611-5, L211-1
+	  - Convention 1990-06-19 Schengen
+	  - Règlement 562-2006 CE 2006-03-15 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-19 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-22 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-25 (V)
+
+
+###### Article R611-19
+
+Les données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-18 sont :
+
+1° L'identité de l'étranger : nom, nom marital, alias ou surnom, prénom(s), date et lieu de naissance, sexe, nationalité,
+lieu de résidence, complétée par l'identité des mineurs dont il est accompagné ;
+
+2° Le titre de voyage : type de document de voyage, Etat ou organisme émetteur du document de voyage, numéro perforé ou
+imprimé sur le document de voyage ;
+
+3° Les images numérisées de la photographie et des empreintes digitales des dix doigts ;
+
+4° L'image numérisée de la page du document d'identité ou de voyage supportant la photographie du titulaire ;
+
+5° Les données relatives au transport : titre de transport, provenance, compagnie ayant acheminé l'étranger, date et numéro
+de vol ;
+
+6° Le motif du refus d'entrée sur le territoire ;
+
+7° La suite réservée à la procédure de non-admission.
+
+Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir de l'image numérisée de la photographie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-21 (Ab)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-18 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-26 (V)
+
+
+###### Article R611-20
+
+La durée de conservation des données à caractère personnel mentionnées à l'article R. 611-19 est de cinq ans à compter de
+leur inscription, sous réserve de l'engagement de la procédure de création du traitement automatisé prévu à l'article L.
+611-3 ; 
+
+Sont par ailleurs conservées pendant un délai de 32 jours les informations énumérées à l'annexe 6-6 pour les besoins
+exclusifs des procédures administratives ou juridictionnelles de refus d'entrée sur le territoire et, le cas échéant, de
+maintien en zone d'attente des ressortissants étrangers mentionnés à l'article R. 611-18. Passé ce délai de 32 jours, ces
+informations sont effacées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-18
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-19
+
+
+###### Article R611-21
+
+I Les destinataires des données à caractère personnel mentionnées à l'article R. 611-19 sont :
+
+1° Les agents de la police aux frontières, individuellement désignés et spécialement habilités par le directeur central de la
+police aux frontières ;
+
+2° A l'exclusion des données biométriques, les agents chargés de l'application de la réglementation relative aux étrangers à
+la direction des libertés publiques et des affaires juridiques, individuellement désignés et spécialement habilités par le
+directeur des libertés publiques et des affaires juridiques.
+
+II. - Peuvent également accéder aux données mentionnées au I, dans les conditions fixées aux articles 9 et 33 de la loi du 23
+janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux
+contrôles frontaliers :
+
+1° Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et
+spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la
+gendarmerie nationale ;
+
+2° Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de
+terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
+directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
+
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+
+IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les agents mentionnés au I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile annexe 6-6
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-1456 du 30 décembre 2008 (V)
+
+
+###### Article R611-22
+
+Le traitement automatisé prévu à l'article R. 611-18 ne peut faire l'objet d'aucune interconnexion, rapprochement ou mise en
+relation avec un autre traitement automatisé de données à caractère personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-18
+
+
+###### Article R611-23
+
+Le droit d'accès et de rectification prévu par les articles 39 et 40 de la loi du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés s'exerce auprès du ministère de l'intérieur (direction de la police aux frontières des aéroports
+Roissy-Charles-de-Gaulle et Le Bourget).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
+
+
+###### Article R611-24
+
+Le droit d'opposition prévu par l'article 38 de la loi du 6 janvier 1978 précitée ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
+
+
+##### Section 4 : Dispositions diverses.
+
+###### Article R611-25
 
 Les aubergistes, hôteliers, logeurs ou loueurs de maisons garnies, les gestionnaires de droit ou de fait de terrains de
 camping aménagés ou de terrains aménagés destinés au stationnement des caravanes sont tenus de faire remplir et signer par
@@ -22021,22 +22267,16 @@ dessus.
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2007-1136 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-19 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-22 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-25 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-18 (M)
 
 
-###### Article R611-19
+###### Article R611-26
 
 Le ministre de l'intérieur établit par arrêté la liste des péages mentionnés à l'article L. 611-9.
 
@@ -22046,22 +22286,22 @@ Le ministre de l'intérieur établit par arrêté la liste des péages mentionn�
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2007-1136 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
 
 	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-21 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-27 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-28 (Ab)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L611-9 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-26 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-19 (M)
 
 
 ### TITRE II : SANCTIONS
@@ -25196,5 +25436,46 @@ Circonscriptions de sécurité publique dépendant de l'autorité :
 	**Abrogé par**:
 
 	  - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
+
+
+## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE
+
+###### Article Annexe 6.6
+
+1° L'identité de l'étranger : état civil, langue parlée, situation familiale, domicile, profession ;
+
+2° Désignation de l'administrateur ad hoc : nom, prénom ;
+
+3° Désignation de l'interprète : nom, prénom, langue parlée, société ;
+
+4° L'identité du rédacteur du procès-verbal : matricule, nom et prénom, grade, qualité, affectation ;
+
+5° Les réquisitions en cours de procédure ;
+
+6° Le résultat des examens médicaux relatifs à la compatibilité du maintien en zone d'attente ou à la détermination de l'âge
+de l'étranger ;
+
+7° Le(s) visa(s) : type de visa, numéro, date de délivrance, lieu de délivrance, date de validité, consulat de délivrance,
+nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
+
+8° Nature des documents falsifiés, contrefaits ou usurpés ;
+
+9° Informations relatives à l'amende infligée aux transporteurs en application des articles L. 625-1 et suivants ;
+
+10° Informations relatives aux actes de procédures relatifs au refus d'entrée sur le territoire et au maintien en zone
+d'attente ;
+
+11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par
+le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1136 du 25 juillet 2007 - art. 2 () JORF 27 juillet 2007
 
 
