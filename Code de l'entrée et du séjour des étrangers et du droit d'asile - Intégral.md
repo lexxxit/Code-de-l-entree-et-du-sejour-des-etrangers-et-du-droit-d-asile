@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-07-27
+Version Consolidée au 2007-09-01
 
 # Partie législative
 
@@ -15646,6 +15646,46 @@ dans les deux années suivant son installation.
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
 
+###### Article D311-33
+
+L'agrément mentionné à l'article L. 311-10 est délivré à l'association ou à la fondation qui justifie d'au moins trois années
+d'existence et qui est titulaire de l'agrément prévu à l'article 15 de la loi n° 2006-586 du 23 mai 2006 relative au
+volontariat associatif et à l'engagement éducatif. Sa validité prend fin en même temps que la validité de l'agrément prévu à
+l'article 15 de la loi du 23 mai 2006. 
+
+Il prévoit le nombre maximal d'étrangers titulaires de l'autorisation provisoire de séjour dont il est justifié qu'ils
+peuvent être accueillis au regard des capacités de prise en charge par la structure d'accueil et, le cas échéant, du nombre
+maximal de volontaires déjà autorisés pour la même année. 
+
+Il est délivré par le préfet du département d'implantation de la structure d'accueil du volontaire ou, à Paris, par le préfet
+de police. 
+
+Le cas échéant, l'association ou la fondation d'accueil informe le préfet qui a autorisé le séjour du volontaire de toute
+cessation anticipée de son contrat de volontariat. L'agrément peut être retiré en cas de non-respect de cette obligation ou
+si les missions confiées par la structure d'accueil n'entrent pas dans celles mentionnées à l'article R. 311-32 ou en cas de
+retrait de l'agrément prévu à l'article 15 de la loi du 23 mai 2006. 
+
+En cas de retrait de l'agrément mentionné à l'article L. 311-10, les dispositions de l'article 11 du décret du 29 septembre
+2006 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2006-586 du 23 mai 2006 - art. 15 (Ab)
+	  - Décret n°2006-1205 du 29 septembre 2006 - art. 11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-32 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 1 () JORF 1er septembre 2007
+
+
 ###### Article R311-31
 
 Pour l'application des articles L. 311-10 à L. 311-12, l'étranger présente à l'appui de sa demande : 
@@ -15677,6 +15717,76 @@ Pour l'application des articles L. 311-10 à L. 311-12, l'étranger présente à
 
 
 ###### Article R311-32
+
+L'autorisation provisoire de séjour mentionnée à l'article L. 311-10 est prévue pour l'exercice d'une mission d'intérêt
+général visant soit à promouvoir l'autonomie et la protection des personnes, à renforcer la cohésion sociale, à prévenir les
+exclusions ou, le cas échéant, à en corriger les effets, soit à mener des actions de solidarité en faveur de personnes
+défavorisées ou sinistrées résidant sur le territoire français. 
+
+Le contrat de volontariat mentionné à l'article L. 311-10 comprend les indications prévues à l'article 12 du décret n°
+2006-1205 du 29 septembre 2006 relatif au volontariat associatif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-1205 du 29 septembre 2006 - art. 12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 1 () JORF 1er septembre 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-33 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-35 (V)
+
+
+###### Article R311-34
+
+Par dérogation à l'article R. 311-2, l'étranger qui demande l'autorisation provisoire de séjour prévue à l'article L. 311-10
+dépose sa demande dans un délai d'un mois à compter de son entrée en France. Il présente, outre les pièces prévues à
+l'article R. 311-31 : 
+
+1° Le visa pour un séjour d'une durée supérieure à trois mois justifiant qu'il est entré pour exercer une mission de
+volontariat ; 
+
+2° Le contrat de volontariat conforme aux prescriptions de l'article R. 311-32 ; 
+
+3° Une copie de la décision d'agrément mentionnée à l'article L. 311-10 ; 
+
+4° Une lettre par laquelle il s'engage à quitter le territoire à l'issue de son contrat. 
+
+La durée de l'autorisation provisoire de séjour ne peut excéder la durée du contrat de volontariat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 1 () JORF 1er septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-31 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-32 (V)
+
+
+###### Article R311-35
 
 Pour l'application de l'article L. 311-11, l'étranger titulaire de la carte de séjour mention "étudiant" prévue à l'article
 L. 313-7 sollicite la délivrance de l'autorisation provisoire de séjour au plus tard quatre mois avant l'expiration de son
@@ -15710,25 +15820,22 @@ L'étranger qui occupe l'emploi mentionné à l'article L. 311-11 sollicite la d
 
 	**Créé par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 8 () JORF 22 mars 2007
-
-	**Transféré par**:
-
 	  - Décret n°2007-1292 du 30 août 2007 - art. 1 () JORF 1er septembre 2007
 
 	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-33 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-34 (V)
+	  - Arrêté du 12 mai 2011 - art. 1 (V)
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Code du travail - art. R5221-3 (V)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-11 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-7 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-35 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-32 (T)
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -16377,21 +16484,26 @@ réalité de l'activité de l'entreprise ou de l'établissement et, d'autre part
 
 ###### Article R313-15
 
-Jusqu'à la publication des décrets mentionnés à l'article L. 313-10 dans sa rédaction issue de l'article 12 de la loi n°
-2006-911 du 24 juillet 2006, les règles relatives à la carte de séjour temporaire autorisant l'exercice d'une activité
-professionnelle restent régies par les dispositions des articles R. 313-16 à R. 313-19.
+Pour l'application du 1° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention "salarié" présente, outre
+les pièces prévues à l'article R. 313-1, un contrat de travail conclu pour une durée égale ou supérieure à douze mois avec un
+employeur établi en France. Ce contrat est conforme au modèle fixé par arrêté du ministre chargé du travail et est revêtu du
+visa de ses services.
+
+L'étranger qui sollicite la délivrance de la carte de séjour mention "travailleur temporaire" présente un contrat de travail
+conclu pour une durée inférieure à douze mois.
+
+Ces cartes autorisent l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 341-2-1, R.
+341-2-2 et R. 341-2-4 du code du travail.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2006-911 2006-07-24 art. 12
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L313-10, R313-16 à R313-19
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 2 () JORF 1er septembre 2007
 
 	**Cité par**:
 
@@ -16535,9 +16647,13 @@ activité commerciale, industrielle ou artisanale est tenu d'en informer la pré
 
 ###### Article R313-17
 
-L'étranger autorisé à exercer à titre temporaire, en application de l'article R. 341-7 du code du travail, une activité
-salariée chez un employeur déterminé reçoit une carte de séjour temporaire portant la mention "travailleur temporaire",
-faisant référence à l'autorisation provisoire de travail dont il bénéficie et de même durée de validité.
+Pour l'application du 3° de l'article L. 313-10, l'étranger qui vient en France pour y exercer une activité professionnelle
+non soumise à l'autorisation prévue à l'article L. 341-2 du code du travail présente, outre les pièces prévues à l'article R.
+313-1, celles justifiant qu'il dispose de ressources d'un niveau au moins équivalent au salaire minimum de croissance
+correspondant à un emploi à temps plein. 
+
+Dans les cas où il envisage d'exercer une activité réglementée, il justifie satisfaire aux conditions d'accès à l'activité en
+cause.
 
 **Liens relatifs à cet article**
 
@@ -16545,13 +16661,63 @@ faisant référence à l'autorisation provisoire de travail dont il bénéficie 
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 2 () JORF 1er septembre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
+
 	**Cité par**:
 
 	  - Code du travail - art. R5221-7 (VD)
 
-	**Cite**:
 
-	  - Code du travail - art. R341-7 (Ab)
+###### Article R313-18
+
+Pour l'application du 4° de l'article L. 313-10, l'étranger qui sollicite une carte de séjour mention "travailleur
+saisonnier" présente, outre les pièces prévues à l'article R. 313-1, un contrat de travail conclu dans les conditions
+définies à l'article R. 341-4-2 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 3 () JORF 1er septembre 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-19 (Ab)
+
+
+###### Article R313-19
+
+Pour l'application du 5° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention "salarié en mission"
+présente, outre les pièces prévues à l'article R. 313-1, un contrat de travail ou une demande d'introduction en France
+revêtus du visa des services du ministre chargé du travail.
+
+L'étranger justifie annuellement, par une déclaration conforme à un modèle fixé par arrêté du ministre chargé du travail, que
+les conditions d'emploi et de rémunération déclarées au moment de la délivrance de la carte continuent d'être satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 3 () JORF 1er septembre 2007
 
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
@@ -16629,6 +16795,37 @@ de son ou de ses parents.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+
+
+###### Article R313-20-2
+
+I. - Pour l'application du 3° de l'article L. 313-11, l'enfant ou le conjoint de l'étranger titulaire de la carte de séjour
+temporaire portant la mention "compétences et talents" présente à l'appui de sa demande, outre les documents mentionnés à
+l'article R. 313-1, la carte de séjour "compétences et talents" accordée à ce dernier.
+
+II. - Pour l'application du 3° de l'article L. 313-11, l'étranger dont l'un des parents ou le conjoint est titulaire de la
+carte de séjour temporaire portant la mention "salarié en mission" présente à l'appui de sa demande, outre les documents
+mentionnés à l'article R. 313-1 :
+
+1° La carte de séjour temporaire portant la mention "salarié en mission" accordée à son parent ou conjoint ;
+
+2° Les pièces justifiant que ce dernier réside de manière ininterrompue plus de six mois en France, sous couvert de la carte
+de séjour temporaire mentionnée au 1°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1292 du 30 août 2007 - art. 4 () JORF 1er septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
 
 
 ###### Article R313-22
@@ -17012,8 +17209,8 @@ qualité de propriétaire ou de locataire du logement ;
 
 4° La justification qu'il bénéficie d'une assurance maladie ;
 
-5° Les pièces exigées aux articles R. 313-6, R. 313-7, R. 313-8 (2°), R. 313-11, R. 313-14 et R. 313-16-1, selon le motif
-invoqué de son séjour en France et la catégorie de carte de séjour temporaire qu'il sollicite.
+5° Les pièces exigées pour la délivrance de l'une des cartes de séjour temporaire prévues à l'article L. 313-4-1 selon le
+motif du séjour invoqué.
 
 **Liens relatifs à cet article**
 
@@ -17023,7 +17220,7 @@ invoqué de son séjour en France et la catégorie de carte de séjour temporair
 
 	**Modifié par**:
 
-	  - Décret n°2007-912 du 15 mai 2007 - art. 3 () JORF 16 mai 2007
+	  - Décret n°2007-1292 du 30 août 2007 - art. 5 () JORF 1er septembre 2007
 
 	**Cité par**:
 
@@ -17035,12 +17232,6 @@ invoqué de son séjour en France et la catégorie de carte de séjour temporair
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-14 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-16-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-6 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-7 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-8 (M)
 
 
 ##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille
@@ -17146,9 +17337,12 @@ de sa demande :
 
 ###### Article R313-36
 
-L'étranger qui sollicite le renouvellement de l'une des cartes de séjour temporaire prévues aux articles L. 313-4-1, L.
-313-6, L. 313-7, L. 313-9, L. 313-11 et L. 313-11-1 présente en outre les pièces prévues pour une première délivrance et
-justifiant qu'il continue de satisfaire aux conditions requises pour celle-ci.
+Sauf dispositions réglementaires contraires, l'étranger qui sollicite le renouvellement d'une carte de séjour temporaire
+présente, outre les pièces mentionnées à l'article R. 313-35, les pièces prévues pour une première délivrance et justifiant
+qu'il continue de satisfaire aux conditions requises pour celle-ci.
+
+S'il sollicite le renouvellement de la carte de séjour temporaire prévue au II de l'article L. 313-7, il présente en outre la
+justification qu'il dispose des moyens d'existence prévus au 1° de l'article R. 313-7.
 
 S'il sollicite le renouvellement de la carte de séjour temporaire prévue à l'article L. 313-8, il présente en outre la
 convention d'accueil délivrée par un organisme ayant une mission de recherche ou d'enseignement supérieur agréé à cet effet
@@ -17166,7 +17360,7 @@ d'activités de recherche ou d'enseignement supérieur d'une durée supérieure 
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 27 () JORF 22 mars 2007
+	  - Décret n°2007-1292 du 30 août 2007 - art. 5 () JORF 1er septembre 2007
 
 	**Cité par**:
 
@@ -17176,15 +17370,12 @@ d'activités de recherche ou d'enseignement supérieur d'une durée supérieure 
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-6 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-7 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-9 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-13 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-35 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-7 (M)
 
 
 ###### Article R313-36-1
@@ -17370,7 +17561,7 @@ revenus, y compris après le dépôt de la demande ;
 5° La justification qu'il bénéficie d'une assurance maladie.
 
 Le maire de la commune de résidence du demandeur émet un avis sur le caractère suffisant des conditions de ressources au
-regard des conditions de logement dans les conditions prévues aux articles R. 313-23-2 à R. 313-23-4.
+regard des conditions de logement dans les conditions prévues aux articles R. 313-34-2 à R. 313-34-4.
 
 **Liens relatifs à cet article**
 
@@ -17378,9 +17569,9 @@ regard des conditions de logement dans les conditions prévues aux articles R. 3
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 30 () JORF 22 mars 2007
+	  - Décret n°2007-1292 du 30 août 2007 - art. 6 () JORF 1er septembre 2007
 
 	**Cité par**:
 
@@ -17389,7 +17580,7 @@ regard des conditions de logement dans les conditions prévues aux articles R. 3
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L314-8, R313-23-2 à R313-23-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L314-8, R313-34-2 à R313-34-4
 
 
 ###### Article R314-1-2
