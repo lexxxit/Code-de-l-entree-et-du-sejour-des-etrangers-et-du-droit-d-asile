@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-09-15
 
 # Partie législative
 
@@ -14878,13 +14878,25 @@ mois comportant la mention "dispense temporaire de carte de séjour", pendant la
 Il est remis à tout étranger admis à souscrire une demande de première délivrance ou de renouvellement de titre de séjour un
 récépissé qui autorise la présence de l'intéressé sur le territoire pour la durée qu'il précise. Ce récépissé est revêtu de
 la signature de l'agent compétent ainsi que du timbre du service chargé, en vertu de l'article R. 311-10, de l'instruction de
-la demande.
+la demande. 
+
+Un récépissé peut également être remis à l'étranger qui demande à bénéficier du délai de réflexion prévu aux articles R.
+316-1 et R. 316-2 et qui est signalé comme tel par un service de police ou de gendarmerie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 2 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-1 (V)
 
 	**Cité par**:
 
@@ -14893,10 +14905,6 @@ la demande.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-8 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-23 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-2 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-10 (V)
 
 
 ###### Article R311-5
@@ -14919,7 +14927,8 @@ renouvelé.
 
 Le récépissé de la demande de première délivrance d'une carte de séjour prévue à l'article L. 313-8, aux 1°, 2° bis, 3°, 4°,
 5°, 6°, 8°, 9° et 10° de l'article L. 313-11, à l'article L. 313-13, aux 1° et 3° de l'article L. 314-9, à l'article L.
-314-11, à l'article L. 314-12 ou à l'article L. 316-1 autorise son titulaire à travailler.
+314-11, à l'article L. 314-12 ou à l'article L. 316-1, ainsi que le récépissé mentionné au deuxième alinéa de l'article R.
+311-4, autorisent son titulaire à travailler.
 
 Il en est de même du récépissé de la demande de première délivrance d'une carte de séjour délivrée sur le fondement de
 l'article L. 313-9 et des 1°, 4° et 5° de l'article L. 313-10 du présent code, dès lors que son titulaire satisfait aux
@@ -14940,7 +14949,7 @@ autorise son titulaire à travailler.
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 4 () JORF 22 mars 2007
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 2 () JORF 15 septembre 2007
 
 	**Cité par**:
 
@@ -14958,6 +14967,7 @@ autorise son titulaire à travailler.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L316-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-4 (M)
 	  - Code du travail - art. L341-2 (M)
 
 
@@ -18071,6 +18081,328 @@ personnes susceptibles d'en bénéficier.
 	**Cité par**:
 
 	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+
+
+#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale
+
+##### Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
+coopérant avec les autorités judiciaires
+
+
+
+###### Article R316-1
+
+Le service de police ou de gendarmerie qui dispose d'éléments permettant de considérer qu'un étranger, victime d'une des
+infractions constitutives de la traite des êtres humains ou du proxénétisme prévues et réprimées par les articles 225-4-1 à
+225-4-6 et 225-5 à 225-10 du code pénal, est susceptible de porter plainte contre les auteurs de cette infraction ou de
+témoigner dans une procédure pénale contre une personne poursuivie pour une infraction identique, l'informe : 
+
+1° De la possibilité d'admission au séjour et du droit à l'exercice d'une activité professionnelle qui lui sont ouverts par
+l'article L. 316-1 ; 
+
+2° Des mesures d'accueil, d'hébergement et de protection prévues à la section 2 du présent chapitre ; 
+
+3° Des droits mentionnés à l'article 53-1 du code de procédure pénale, notamment de la possibilité d'obtenir une aide
+juridique pour faire valoir ses droits. 
+
+Le service de police ou de gendarmerie informe également l'étranger qu'il peut bénéficier d'un délai de réflexion de trente
+jours, dans les conditions prévues à l'article R. 316-2 du présent code, pour choisir de bénéficier ou non de la possibilité
+d'admission au séjour mentionnée au deuxième alinéa. 
+
+Ces informations sont données dans une langue que l'étranger comprend et dans des conditions de confidentialité permettant de
+le mettre en confiance et d'assurer sa protection. 
+
+Ces informations peuvent être fournies, complétées ou développées auprès des personnes intéressées par des organismes de
+droit privé à but non lucratif, spécialisés dans le soutien aux personnes prostituées ou victimes de la traite des êtres
+humains, dans l'aide aux migrants ou dans l'action sociale, désignés à cet effet par le ministre chargé de l'action sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-2 (M)
+
+
+###### Article R316-2
+
+L'étranger à qui un service de police ou de gendarmerie fournit les informations mentionnées à l'article R. 316-1 et qui
+choisit de bénéficier du délai de réflexion de trente jours mentionné au cinquième alinéa du même article se voit délivrer un
+récépissé de même durée par le préfet ou, à Paris, par le préfet de police, conformément aux dispositions du deuxième alinéa
+de l'article R. 311-4. Ce délai court à compter de la remise du récépissé. Pendant le délai de réflexion, aucune mesure
+d'éloignement ne peut être prise à l'encontre de l'étranger en application de l'article L. 511-1, ni exécutée.
+
+Le délai de réflexion peut, à tout moment, être interrompu et le récépissé retiré par le préfet territorialement compétent,
+si l'étranger a, de sa propre initiative, renoué un lien avec les auteurs des infractions mentionnées au premier alinéa de
+l'article R. 361-1 du présent code, ou si sa présence constitue une menace grave pour l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-6 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-4 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R316-1, R311-4, L511-1, R361-1
+
+
+###### Article R316-3
+
+Une carte de séjour temporaire portant la mention " vie privée et familiale " d'une durée minimale de six mois est délivrée
+par le préfet territorialement compétent à l'étranger qui satisfait aux conditions définies à l'article L. 316-1 et qui a
+rompu tout lien avec les auteurs présumés des infractions mentionnées à cet article. 
+
+La même carte de séjour temporaire peut également être délivrée à un mineur âgé d'au moins seize ans, remplissant les
+conditions mentionnées au présent article et qui déclare vouloir exercer une activité professionnelle salariée ou suivre une
+formation professionnelle. 
+
+La demande de carte de séjour temporaire est accompagnée du récépissé du dépôt de plainte de l'étranger ou fait référence à
+la procédure pénale comportant son témoignage. 
+
+La carte de séjour temporaire est renouvelable pendant toute la durée de la procédure pénale mentionnée à l'alinéa précédent,
+sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-4 (M)
+
+
+###### Article R316-4
+
+La carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à l'article R. 316-3 peut faire
+l'objet d'une décision de retrait dans les cas suivants :
+
+1° Si son titulaire a, de sa propre initiative, renoué un lien avec les auteurs des infractions mentionnées au premier alinéa
+de l'article R. 361-1 ;
+
+2° Si le dépôt de plainte ou le témoignage de l'étranger est mensonger ou non fondé ;
+
+3° Si la présence de son titulaire constitue une menace pour l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R316-3, R361-1
+
+
+###### Article R316-5
+
+En cas de condamnation définitive des personnes mises en cause pour les infractions mentionnées à l'article L. 316-1, une
+carte de résident peut être délivrée à l'étranger qui satisfait aux conditions prévues par les articles L. 314-1 et L. 314-3
+à L. 314-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L316-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L316-1, L314-1, L314-3 à L314-7
+
+
+##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires
+
+
+
+###### Article R316-6
+
+Pendant le délai de réflexion mentionné à l'article R. 316-2, l'étranger bénéficie des dispositions des premier, quatrième,
+cinquième et sixième alinéas de l'article R. 316-7. Les soins qui lui sont délivrés sont pris en charge dans les conditions
+prévues au deuxième alinéa de l'article L. 251-1 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
+	  - Code de l'action sociale et des familles - art. L251-1 (V)
+
+
+###### Article R316-7
+
+La carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à l'article R. 316-3 ouvre droit
+à l'exercice d'une activité professionnelle et à la formation professionnelle, en application des dispositions de l'article
+L. 316-1.
+
+L'étranger détenteur de cette carte de séjour temporaire peut également bénéficier :
+
+1° De l'ouverture des droits à une protection sociale, dans les conditions mentionnées à l'article L. 380-1 du code de la
+sécurité sociale ; si l'étranger ne remplit pas les conditions prévues par cet article, les soins qui lui sont délivrés sont
+pris en charge dans les conditions prévues au deuxième alinéa de l'article L. 251-1 du code de l'action sociale et des
+familles ;
+
+2° De l'allocation temporaire d'attente mentionnée au II de l'article L. 351-9 du code du travail ;
+
+3° D'un accompagnement social destiné à l'aider à accéder aux droits et à retrouver son autonomie, assuré par un des
+organismes mentionnés au dernier alinéa de l'article R. 316-1 du présent code ;
+
+4° En cas de danger, d'une protection policière pendant la durée de la procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L316-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
+	  - Code du travail - art. L351-9 (M)
+	  - Code de la sécurité sociale. - art. L380-1 (V)
+	  - Code de l'action sociale et des familles - art. L251-1 (M)
+
+
+###### Article R316-8
+
+L'étranger titulaire d'une carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à
+l'article R. 316-3 bénéficie de l'accès aux dispositifs d'accueil, d'hébergement, de logement temporaire et de veille sociale
+pour les personnes défavorisées mentionnés au 8° du I de l'article L. 312-1 et à l'article L. 345-2 du code de l'action
+sociale et des familles, et notamment aux centres d'hébergement et de réinsertion sociale mentionnés au dernier alinéa de
+l'article L. 345-1 du même code.
+
+Lorsque sa sécurité nécessite un changement de lieu de résidence, l'étranger peut être orienté vers le dispositif national
+d'accueil des victimes de la traite des êtres humains et du proxénétisme, mis en oeuvre par voie de convention entre le
+ministre chargé de l'action sociale et l'association qui assure la coordination de ce dispositif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L312-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
+	  - Code de l'action sociale et des familles - art. L345-1 (M)
+	  - Code de l'action sociale et des familles - art. L345-2 (M)
+
+
+###### Article R316-9
+
+L'étranger titulaire d'une carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à
+l'article R. 316-3 qui souhaite retourner dans son pays d'origine ou se rendre dans un autre pays peut bénéficier du
+dispositif d'aide au retour financé par l'Agence nationale de l'accueil des étrangers et des migrations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
+
+
+###### Article R316-10
+
+Lorsque la victime des infractions mentionnées à l'article L. 316-1 est mineure, le service de police ou de gendarmerie
+informe le procureur de la République qui détermine les mesures de protection appropriées à la situation de ce mineur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
 
 
 #### Chapitre VII : La carte de séjour portant la mention "retraité"
