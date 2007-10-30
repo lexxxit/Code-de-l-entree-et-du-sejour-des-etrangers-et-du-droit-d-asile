@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-09-15
+Version Consolidée au 2007-10-31
 
 # Partie législative
 
@@ -287,9 +287,8 @@ i) Les actions entreprises au niveau national en vue de lutter contre les discri
 Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière
 sur le territoire français.
 
-L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration, l'Agence nationale de l'accueil
-des étrangers et des migrations et la Commission nationale de contrôle des centres et locaux de rétention et des zones
-d'attente joignent leurs observations au rapport.
+L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration et l'Agence nationale de l'accueil
+des étrangers et des migrations joignent leurs observations au rapport.
 
 **Liens relatifs à cet article**
 
@@ -297,10 +296,6 @@ d'attente joignent leurs observations au rapport.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -311,6 +306,10 @@ d'attente joignent leurs observations au rapport.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-14 (V)
 	  - Code du travail - art. R5223-22 (V)
 	  - Code du travail - art. R5223-29 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1545 du 30 octobre 2007 - art. 15 () JORF 31 octobre 2007
 
 
 ###### Article L111-11
