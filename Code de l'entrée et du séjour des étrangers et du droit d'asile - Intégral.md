@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-11-03
+Version Consolidée au 2007-11-21
 
 # Partie législative
 
@@ -139,12 +139,40 @@ nationalité française dans les conditions prévues par le titre Ier bis du liv
 
 ###### Article L111-6
 
-La vérification de tout acte d'état civil étranger est effectuée dans les conditions définies par l'article 47 du code civil.
+La vérification de tout acte d'état civil étranger est effectuée dans les conditions définies par l'article 47 du code
+civil. 
 
-**Nota:**
+Le demandeur d'un visa pour un séjour d'une durée supérieure à trois mois, ou son représentant légal, ressortissant d'un pays
+dans lequel l'état civil présente des carences, qui souhaite rejoindre ou accompagner l'un de ses parents mentionné aux
+articles L. 411-1 et L. 411-2 ou ayant obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire, peut, en cas
+d'inexistence de l'acte de l'état civil ou lorsqu'il a été informé par les agents diplomatiques ou consulaires de l'existence
+d'un doute sérieux sur l'authenticité de celui-ci qui n'a pu être levé par la possession d'état telle que définie à l'article
+311-1 du code civil, demander que l'identification du demandeur de visa par ses empreintes génétiques soit recherchée afin
+d'apporter un élément de preuve d'une filiation déclarée avec la mère du demandeur de visa. Le consentement des personnes
+dont l'identification est ainsi recherchée doit être préalablement et expressément recueilli. Une information appropriée
+quant à la portée et aux conséquences d'une telle mesure leur est délivrée. 
 
-NOTA : Loi 2006-911 du 24 juillet 2006 art. 115 : L'article 30 de la présente loi entre en vigueur à compter d'une date fixée
-en Conseil d'Etat et au plus tard le 1er janvier 2007.
+Les agents diplomatiques ou consulaires saisissent sans délai le tribunal de grande instance de Nantes pour qu'il statue,
+après toutes investigations utiles et un débat contradictoire, sur la nécessité de faire procéder à une telle
+identification. 
+
+Si le tribunal estime la mesure d'identification nécessaire, il désigne une personne chargée de la mettre en oeuvre parmi les
+personnes habilitées dans les conditions prévues au dernier alinéa. 
+
+La décision du tribunal et, le cas échéant, les conclusions des analyses d'identification autorisées par celui-ci sont
+communiquées aux agents diplomatiques ou consulaires. Ces analyses sont réalisées aux frais de l'Etat. 
+
+Un décret en Conseil d'Etat, pris après avis du Comité consultatif national d'éthique, définit : 
+
+1° Les conditions de mise en oeuvre des mesures d'identification des personnes par leurs empreintes génétiques préalablement
+à une demande de visa ; 
+
+2° La liste des pays dans lesquels ces mesures sont mises en oeuvre, à titre expérimental ; 
+
+3° La durée de cette expérimentation, qui ne peut excéder dix-huit mois à compter de la publication de ce décret et qui
+s'achève au plus tard le 31 décembre 2009 ; 
+
+4° Les modalités d'habilitation des personnes autorisées à procéder à ces mesures.
 
 **Liens relatifs à cet article**
 
@@ -159,8 +187,13 @@ en Conseil d'Etat et au plus tard le 1er janvier 2007.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 30 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007 au plus tard
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 7 () JORF 15 novembre 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-1 (V)
+	  - Code civil - art. 311-1 (V)
+	  - Code civil - art. 47 (V)
 
 	**Cité par**:
 
@@ -257,7 +290,7 @@ conditions dans lesquelles les interprètes traducteurs sont inscrits sur la lis
 ###### Article L111-10
 
 Chaque année, le Gouvernement dépose devant le Parlement un rapport sur les orientations pluriannuelles de la politique
-d'immigration.
+d'immigration et d'intégration.
 
 Ce rapport indique et commente :
 
@@ -281,8 +314,11 @@ g) Les moyens mis en oeuvre et les résultats obtenus dans le domaine de la lutt
 h) Les actions entreprises avec les pays d'origine pour mettre en oeuvre une politique d'immigration fondée sur le
 codéveloppement et le partenariat ;
 
-i) Les actions entreprises au niveau national en vue de lutter contre les discriminations et de favoriser l'intégration des
-étrangers en situation régulière.
+i) Le nombre de contrats souscrits en application des articles L. 311-9 et L. 311-9-1 ainsi que les actions entreprises au
+niveau national pour favoriser l'intégration des étrangers en situation régulière en facilitant notamment leur accès à
+l'emploi, au logement et à la culture ;
+
+j) Le nombre des acquisitions de la nationalité française.
 
 Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière
 sur le territoire français.
@@ -309,13 +345,22 @@ des étrangers et des migrations joignent leurs observations au rapport.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1545 du 30 octobre 2007 - art. 15 () JORF 31 octobre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 34 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9-1 (V)
 
 
 ###### Article L111-11
 
 En Guadeloupe, en Martinique, en Guyane et à La Réunion, un observatoire de l'immigration évalue l'application de la
 politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
+
+Cet observatoire est convoqué par le représentant de l'Etat dans la région d'outre-mer dans un délai de six mois à compter de
+la publication de la loi n° 2007-1631 du 20 novembre 2007 relative à la maîtrise de l'immigration, à l'intégration et à
+l'asile. Il se réunit une fois par semestre.
 
 Chaque observatoire peut proposer au Gouvernement les mesures d'adaptation rendues nécessaires par les caractéristiques et
 contraintes particulières de ces collectivités.
@@ -330,9 +375,9 @@ des milieux économiques et sociaux du département d'outre-mer concerné.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 105 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 51 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -424,17 +469,18 @@ aux 1° ou 2° ;
 ###### Article L121-2
 
 Les ressortissants visés à l'article L. 121-1 qui souhaitent établir en France leur résidence habituelle se font enregistrer
-auprès du maire de leur commune de résidence dans les trois mois suivant leur arrivée.
+auprès du maire de leur commune de résidence dans les trois mois suivant leur arrivée. Les ressortissants qui n'ont pas
+respecté cette obligation d'enregistrement sont réputés résider en France depuis moins de trois mois. 
 
-Ils ne sont pas tenus de détenir un titre de séjour. S'ils en font la demande, il leur est délivré un titre de séjour.
+Ils ne sont pas tenus de détenir un titre de séjour. S'ils en font la demande, il leur est délivré un titre de séjour. 
 
 Toutefois, demeurent soumis à la détention d'un titre de séjour durant le temps de validité des mesures transitoires
 éventuellement prévues en la matière par le traité d'adhésion du pays dont ils sont ressortissants, et sauf si ce traité en
-stipule autrement, les citoyens de l'Union européenne qui souhaitent exercer en France une activité professionnelle.
+stipule autrement, les citoyens de l'Union européenne qui souhaitent exercer en France une activité professionnelle. 
 
 Si les citoyens mentionnés à l'alinéa précédent souhaitent exercer une activité salariée dans un métier caractérisé par des
 difficultés de recrutement et figurant sur une liste établie, au plan national, par l'autorité administrative, ils ne peuvent
-se voir opposer la situation de l'emploi sur le fondement de l'article L. 341-2 du code du travail.
+se voir opposer la situation de l'emploi sur le fondement de l'article L. 341-2 du code du travail. 
 
 Lorsque ces citoyens ont achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un
 cycle de formation conduisant à un diplôme au moins équivalent au master, ils ne sont pas soumis à la détention d'un titre de
@@ -447,9 +493,9 @@ séjour pour exercer une activité professionnelle en France.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 33 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -468,21 +514,21 @@ séjour pour exercer une activité professionnelle en France.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
-	  - Code du travail - art. L341-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+	  - Code du travail - art. L341-2 (Ab)
 
 
 ###### Article L121-3
 
 Sauf si sa présence constitue une menace pour l'ordre public, le membre de famille visé aux 4° ou 5° de l'article L. 121-1
 selon la situation de la personne qu'il accompagne ou rejoint, ressortissant d'un Etat tiers, a le droit de séjourner sur
-l'ensemble du territoire français pour une durée supérieure à trois mois.
+l'ensemble du territoire français pour une durée supérieure à trois mois. 
 
-S'il est âgé de plus de dix-huit ans ou de plus de seize ans lorsqu'il veut exercer une activité professionnelle, il doit
-être muni d'une carte de séjour. Cette carte, dont la durée de validité ne peut être inférieure à cinq ans ou à une durée
-correspondant à la durée du séjour envisagée du citoyen de l'Union si celle-ci est inférieure à cinq ans, porte la mention
-"carte de séjour de membre de la famille d'un citoyen de l'Union". Elle donne à son titulaire le droit d'exercer une activité
-professionnelle.
+S'il est âgé de plus de dix-huit ans ou d'au moins seize ans lorsqu'il veut exercer une activité professionnelle, il doit
+être muni d'une carte de séjour. Cette carte, dont la durée de validité correspond à la durée de séjour envisagée du citoyen
+de l'Union dans la limite de cinq années, porte la mention : " carte de séjour de membre de la famille d'un citoyen de
+l'Union ". Sauf application des mesures transitoires prévues par le traité d'adhésion à l'Union européenne de l'Etat dont il
+est ressortissant, cette carte donne à son titulaire le droit d'exercer une activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -512,13 +558,13 @@ professionnelle.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 23 () JORF 25 juillet rectificatif JORF 16 septembre 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 20 () JORF 21 novembre 2007
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
 
 
 ###### Article L121-4
@@ -786,22 +832,37 @@ d'un agrément pour adoption délivré par les autorités françaises ;
 ###### Article L211-2-1
 
 La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités
-diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande. 
 
-Le visa mentionné à l'article L. 311-7 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du
-mariage ou de menace à l'ordre public.
+Sous réserve des conventions internationales, pour lui permettre de préparer son intégration républicaine dans la société
+française, le conjoint de Français âgé de moins de soixante-cinq ans bénéficie, dans le pays où il sollicite le visa, d'une
+évaluation de son degré de connaissance de la langue et des valeurs de la République. Si cette évaluation en établit le
+besoin, les autorités mentionnées au premier alinéa organisent à l'intention de l'intéressé, dans le pays où il sollicite le
+visa, une formation dont la durée ne peut excéder deux mois, au terme de laquelle il fait l'objet d'une nouvelle évaluation
+de sa connaissance de la langue et des valeurs de la République. La délivrance du visa est subordonnée à la production d'une
+attestation de suivi de cette formation. Cette attestation est délivrée immédiatement à l'issue de la formation. Un décret en
+Conseil d'Etat fixe les conditions d'application de ces dispositions, notamment le délai maximum dans lequel l'évaluation et
+la formation doivent être proposées, le contenu de l'évaluation et de la formation, le nombre d'heures minimum que la
+formation doit compter ainsi que les motifs légitimes pour lesquels l'étranger peut en être dispensé. 
+
+Lorsque la demande de visa émane d'un étranger dont le conjoint de nationalité française établi hors de France souhaite
+établir sa résidence habituelle en France pour des raisons professionnelles, les dispositions du deuxième alinéa ne sont pas
+applicables, sauf si le mariage a été célébré à l'étranger par une autorité étrangère et n'a pas fait l'objet d'une
+transcription. 
+
+Outre le cas mentionné au deuxième alinéa, le visa pour un séjour d'une durée supérieure à trois mois ne peut être refusé à
+un conjoint de Français qu'en cas de fraude, d'annulation du mariage ou de menace à l'ordre public. 
 
 Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le
-conjoint de Français dans les meilleurs délais.
+conjoint de Français dans les meilleurs délais. 
 
 Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement en France, marié en France avec un
 ressortissant de nationalité française et que le demandeur séjourne en France depuis plus de six mois avec son conjoint, la
-demande de visa de long séjour est présentée à l'autorité administrative compétente pour la délivrance d'un titre de séjour.
+demande de visa de long séjour est présentée à l'autorité administrative compétente pour la délivrance d'un titre de séjour. 
 
-**Nota:**
-
-NOTA : Loi 2006-911 2006-07-24 art. 116 : L'article L211-2-1 du code de l'entrée et du séjour des étrangers et du droit
-d'asile s'applique aux demandes de titres de séjour introduites un mois après la publication de la présente loi.
+Dans des conditions définies par décret en Conseil d'Etat, par dérogation à l'article L. 311-1, le visa délivré pour un
+séjour d'une durée supérieure à trois mois au conjoint d'un ressortissant français donne à son titulaire les droits attachés
+à la carte de séjour temporaire prévue au 4° de l'article L. 313-11 pour une durée d'un an.
 
 **Liens relatifs à cet article**
 
@@ -810,9 +871,9 @@ d'asile s'applique aux demandes de titres de séjour introduites un mois après 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 3 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 10 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -830,7 +891,7 @@ d'asile s'applique aux demandes de titres de séjour introduites un mois après 
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VT)
 
 
 ##### Section 3 : Justificatif d'hébergement
@@ -1157,13 +1218,14 @@ après la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'im
 ###### Article L213-2
 
 Tout refus d'entrée en France fait l'objet d'une décision écrite motivée prise, sauf en cas de demande d'asile, par un agent
-relevant d'une catégorie fixée par voie réglementaire.
+relevant d'une catégorie fixée par voie réglementaire. 
 
 Cette décision est notifiée à l'intéressé avec mention de son droit d'avertir ou de faire avertir la personne chez laquelle
 il a indiqué qu'il devait se rendre, son consulat ou le conseil de son choix, et de refuser d'être rapatrié avant
-l'expiration du délai d'un jour franc. La décision et la notification des droits qui l'accompagne doivent lui être
-communiquées dans une langue qu'il comprend. L'étranger est invité à indiquer sur la notification s'il souhaite bénéficier du
-jour franc.
+l'expiration du délai d'un jour franc. En cas de demande d'asile, la décision mentionne également son droit d'introduire un
+recours en annulation sur le fondement de l'article L. 213-9 et précise les voies et délais de ce recours. La décision et la
+notification des droits qui l'accompagne doivent lui être communiquées dans une langue qu'il comprend. L'étranger est invité
+à indiquer sur la notification s'il souhaite bénéficier du jour franc. 
 
 Lorsque l'étranger ne parle pas le français, il est fait application de l'article L. 111-7.
 
@@ -1182,15 +1244,20 @@ La décision prononçant le refus d'entrée peut être exécutée d'office par l
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 23 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (V)
+
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R213-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-7 (V)
 
 
 ###### Article L213-3
@@ -1353,6 +1420,82 @@ Les dispositions de l'article L. 213-6 sont applicables à l'entreprise de trans
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L625-7 (V)
 
 
+###### Article L213-9
+
+L'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile peut, dans les quarante-huit
+heures suivant la notification de cette décision, en demander l'annulation, par requête motivée, au président du tribunal
+administratif. 
+
+Le président, ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
+inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative, statue dans un délai de soixante-
+douze heures à compter de sa saisine. 
+
+Aucun autre recours ne peut être introduit contre la décision de refus d'entrée au titre de l'asile. 
+
+L'étranger peut demander au président du tribunal ou au magistrat désigné à cette fin le concours d'un interprète. L'étranger
+est assisté de son conseil s'il en a un. Il peut demander au président ou au magistrat désigné à cette fin qu'il lui en soit
+désigné un d'office. L'audience se déroule sans conclusions du commissaire du Gouvernement. 
+
+Par dérogation au précédent alinéa, le président du tribunal administratif ou le magistrat désigné à cette fin peut, par
+ordonnance motivée, donner acte des désistements, constater qu'il n'y a pas lieu de statuer sur un recours et rejeter les
+recours ne relevant manifestement pas de la compétence de la juridiction administrative, entachés d'une irrecevabilité
+manifeste non susceptible d'être couverte en cours d'instance ou manifestement mal fondés. 
+
+L'audience se tient dans les locaux du tribunal administratif compétent. Toutefois, sauf si l'étranger dûment informé dans
+une langue qu'il comprend s'y oppose, celle-ci peut se tenir dans la salle d'audience de la zone d'attente et le président du
+tribunal ou le magistrat désigné à cette fin siéger au tribunal dont il est membre, relié à la salle d'audience, en direct,
+par un moyen de communication audiovisuelle qui garantit la confidentialité de la transmission. La salle d'audience de la
+zone d'attente et celle du tribunal administratif sont ouvertes au public. L'étranger est assisté de son conseil s'il en a
+un. 
+
+La décision de refus d'entrée au titre de l'asile ne peut être exécutée avant l'expiration d'un délai de quarante-huit heures
+suivant sa notification ou, en cas de saisine du président du tribunal administratif, avant que ce dernier ou le magistrat
+désigné à cette fin n'ait statué. 
+
+Les dispositions du titre II du présent livre sont applicables. 
+
+Le jugement du président du tribunal administratif ou du magistrat désigné par lui est susceptible d'appel dans un délai de
+quinze jours devant le président de la cour administrative d'appel territorialement compétente ou un magistrat désigné par ce
+dernier. Cet appel n'est pas suspensif. 
+
+Si le refus d'entrée au titre de l'asile est annulé, il est immédiatement mis fin au maintien en zone d'attente de
+l'étranger, qui est autorisé à entrer en France muni d'un visa de régularisation de huit jours. Dans ce délai, l'autorité
+administrative compétente lui délivre, à sa demande, une autorisation provisoire de séjour lui permettant de déposer sa
+demande d'asile auprès de l'Office français de protection des réfugiés et apatrides. 
+
+La décision de refus d'entrée au titre de l'asile qui n'a pas été contestée dans le délai prévu au premier alinéa ou qui n'a
+pas fait l'objet d'une annulation dans les conditions prévues au présent article peut être exécutée d'office par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 24 () JORF 21 novembre 2007
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Arrêté du 31 juillet 2015 - art. 5 (V)
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+	  - Code de justice administrative - art. L777-1 (V)
+	  - Code de justice administrative - art. R777-1 (VD)
+	  - Code de justice administrative - art. R777-1-1 (VD)
+	  - Code de justice administrative - art. R777-1-5 (VD)
+	  - Code de justice administrative - art. R777-1-6 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L222-2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L222-2-1 (V)
+
+
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE
 
 #### Chapitre Ier : Conditions du maintien en zone d'attente
@@ -1428,14 +1571,13 @@ des zones d'attente, soit des zones de rétention mentionnées à l'article L. 5
 
 ###### Article L221-3
 
-Le maintien en zone d'attente est prononcé pour une durée qui ne peut excéder quarante-huit heures par une décision écrite et
-motivée d'un agent relevant d'une catégorie fixée par voie réglementaire.
+Le maintien en zone d'attente est prononcé pour une durée qui ne peut excéder quatre jours par une décision écrite et motivée
+d'un agent relevant d'une catégorie fixée par voie réglementaire.
 
 Cette décision est inscrite sur un registre mentionnant l'état civil de l'intéressé et la date et l'heure auxquelles la
-décision de maintien lui a été notifiée. Elle est portée sans délai à la connaissance du procureur de la République. Elle
-peut être renouvelée dans les mêmes conditions et pour la même durée. Lorsque la notification faite à l'étranger mentionne
-que le procureur de la République a été informé sans délai de la décision de maintien en zone d'attente ou de son
-renouvellement, cette mention fait foi sauf preuve contraire.
+décision de maintien lui a été notifiée. Elle est portée sans délai à la connaissance du procureur de la République. Lorsque
+la notification faite à l'étranger mentionne que le procureur de la République a été informé sans délai de la décision de
+maintien en zone d'attente, cette mention fait foi sauf preuve contraire.
 
 **Liens relatifs à cet article**
 
@@ -1447,6 +1589,10 @@ renouvellement, cette mention fait foi sauf preuve contraire.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 25 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -1565,15 +1711,22 @@ libertés et de la détention, pour une durée qui ne peut être supérieure à 
 
 ###### Article L222-2
 
-A titre exceptionnel, le maintien en zone d'attente au-delà de douze jours peut être renouvelé, dans les conditions prévues
-au présent chapitre, par le juge des libertés et de la détention, pour une durée qu'il détermine et qui ne peut être
-supérieure à huit jours.
+A titre exceptionnel ou en cas de volonté délibérée de l'étranger de faire échec à son départ, le maintien en zone d'attente
+au-delà de douze jours peut être renouvelé, dans les conditions prévues au présent chapitre, par le juge des libertés et de
+la détention, pour une durée qu'il détermine et qui ne peut être supérieure à huit jours. 
 
-Toutefois, lorsque l'étranger non admis à pénétrer sur le territoire français dépose une demande d'asile dans les quatre
-derniers jours de cette nouvelle période de maintien en zone d'attente, celle-ci est prorogée d'office de quatre jours à
-compter du jour de la demande. Cette décision est mentionnée sur le registre prévu à l'article L. 221-3 et portée à la
-connaissance du procureur de la République dans les conditions prévues au même article. Le juge des libertés et de la
-détention est informé immédiatement de cette prorogation. Il peut y mettre un terme.
+Toutefois, lorsque l'étranger dont l'entrée sur le territoire français a été refusée dépose une demande d'asile dans les six
+derniers jours de cette nouvelle période de maintien en zone d'attente, celle-ci est prorogée d'office de six jours à compter
+du jour de la demande. Cette décision est mentionnée sur le registre prévu à l'article L. 221-3 et portée à la connaissance
+du procureur de la République dans les conditions prévues au même article. Le juge des libertés et de la détention est
+informé immédiatement de cette prorogation. Il peut y mettre un terme. 
+
+Lorsqu'un étranger dont l'entrée sur le territoire français au titre de l'asile a été refusée dépose un recours en annulation
+sur le fondement de l'article L. 213-9 dans les quatre derniers jours de la période de maintien en zone d'attente fixée par
+la dernière décision de maintien, celle-ci est prorogée d'office de quatre jours à compter du dépôt du recours. Cette
+décision est mentionnée sur le registre prévu à l'article L. 221-3 et portée à la connaissance du procureur de la République
+dans les conditions prévues au même article. Le juge des libertés et de la détention est informé immédiatement de cette
+prorogation. Il peut y mettre un terme.
 
 **Liens relatifs à cet article**
 
@@ -1586,9 +1739,14 @@ détention est informé immédiatement de cette prorogation. Il peut y mettre un
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 26 () JORF 21 novembre 2007
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L221-3 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (V)
+	  - Code de justice administrative - art. L221-3 (V)
 
 
 ###### Article L222-3
@@ -1596,8 +1754,8 @@ détention est informé immédiatement de cette prorogation. Il peut y mettre un
 L'autorité administrative expose dans sa saisine les raisons pour lesquelles l'étranger n'a pu être rapatrié ou, s'il a
 demandé l'asile, admis, et le délai nécessaire pour assurer son départ de la zone d'attente.
 
-Le juge des libertés et de la détention statue par ordonnance, après audition de l'intéressé, en présence de son conseil s'il
-en a un, ou celui-ci dûment averti.
+Le juge des libertés et de la détention statue par ordonnance, après audition de l'intéressé, ou de son conseil s'il en a un,
+ou celui-ci dûment averti.
 
 L'étranger peut demander au juge des libertés et de la détention qu'il lui soit désigné un conseil d'office. Le mineur est
 assisté d'un avocat choisi par l'administrateur ad hoc ou, à défaut, commis d'office. L'étranger ou, dans le cas du mineur
@@ -1614,6 +1772,10 @@ concours d'un interprète et la communication de son dossier.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 49 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -1633,10 +1795,10 @@ ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle.
 En cas de nécessité, le président du tribunal de grande instance peut décider de tenir une seconde audience au siège du
 tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée.
 
-Par décision du juge sur proposition de l'autorité administrative, et avec le consentement de l'étranger, l'audience peut
-également se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la
-transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des
-opérations effectuées.
+Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une
+langue qu'il comprend ne s'est pas opposé, l'audience peut également se dérouler avec l'utilisation de moyens de
+télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des
+deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
 Sous réserve de l'application de l'article 435 du nouveau code de procédure civile, le juge des libertés et de la détention
 statue publiquement.
@@ -1655,6 +1817,10 @@ statue publiquement.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 47 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -1686,10 +1852,10 @@ pendant un délai de quatre heures à compter de la notification de l'ordonnance
 
 L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué. Celui-ci est saisi sans
 forme et doit statuer dans les quarante-huit heures de sa saisine. Par décision du premier président de la cour d'appel ou de
-son délégué, sur proposition de l'autorité administrative et avec le consentement de l'étranger, l'audience peut se dérouler
-avec l'utilisation de moyens de télécommunication audiovisuelle dans les conditions prévues au troisième alinéa de l'article
-L. 222-4. Le droit d'appel appartient à l'intéressé, au ministère public et au représentant de l'Etat dans le département.
-L'appel n'est pas suspensif.
+son délégué, prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue
+qu'il comprend ne s'est pas opposé, l'audience peut se dérouler avec l'utilisation de moyens de télécommunication
+audiovisuelle dans les conditions prévues au troisième alinéa de l'article L. 222-4. Le droit d'appel appartient à
+l'intéressé, au ministère public et au représentant de l'Etat dans le département. L'appel n'est pas suspensif.
 
 Toutefois, le ministère public peut demander au premier président de la cour d'appel ou à son délégué de déclarer son recours
 suspensif. Dans ce cas, l'appel, accompagné de la demande, est formé dans un délai de quatre heures à compter de la
@@ -1709,6 +1875,10 @@ ministère public, jusqu'à ce qu'il soit statué sur le fond
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 47 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -2197,19 +2367,23 @@ l'âge de dix-huit ans, et qui souhaite s'y maintenir durablement, prépare son 
 française.
 
 A cette fin, il conclut avec l'Etat un contrat d'accueil et d'intégration, traduit dans une langue qu'il comprend, par lequel
-il s'oblige à suivre une formation civique et, lorsque le besoin en est établi, linguistique. La formation civique comporte
-une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes et les
-femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat. L'étranger
-bénéficie d'une session d'information sur la vie en France et, le cas échéant, d'un bilan de compétences professionnelles.
-Toutes ces formations et prestations sont dispensées gratuitement. Lorsque l'étranger est âgé de seize à dix-huit ans, le
-contrat d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France.
+il s'oblige à suivre une formation civique et, lorsque le besoin en est établi, linguistique. L'étranger pour lequel
+l'évaluation du niveau de connaissance de la langue prévue à l'article L. 411-8 et au deuxième alinéa de l'article L. 211-2-1
+n'a pas établi le besoin d'une formation est réputé ne pas avoir besoin d'une formation linguistique. La formation civique
+comporte une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes
+et les femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat.
+L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan de compétences professionnelles. Toutes
+ces formations et prestations sont dispensées gratuitement. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat
+d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France.
 
-Lors du premier renouvellement de la carte de séjour, il peut être tenu compte du non-respect, manifesté par une volonté
-caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
+Lors du premier renouvellement de la carte de séjour, l'autorité administrative tient compte du non-respect, manifesté par
+une volonté caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
 
 L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins
 trois ans est dispensé de la signature de ce contrat. Il en va de même pour l'étranger âgé de seize à dix-huit ans révolus
-pouvant prétendre à un titre de séjour et relevant des dispositions prévues à l'article L. 314-12.
+pouvant prétendre à un titre de séjour et relevant des dispositions prévues à l'article L. 314-12. Il en est de même de
+l'étranger titulaire de la carte de séjour mentionnée au 5° de l'article L. 313-10 ou à l'article L. 315-1, de son conjoint
+et de ses enfants âgés de plus de seize ans.
 
 L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en
 France peut demander à signer un tel contrat.
@@ -2218,7 +2392,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 et d'intégration et ses conditions de renouvellement, les actions prévues par le contrat et les conditions de suivi et de
 validation de ces actions, dont la reconnaissance de l'acquisition d'un niveau satisfaisant de maîtrise de la langue
 française et la remise à l'étranger d'un document permettant de s'assurer de l'assiduité de celui-ci aux formations qui lui
-sont dispensées.
+sont dispensées. Il fixe les situations dans lesquelles le bilan de compétences n'est pas proposé.
 
 **Liens relatifs à cet article**
 
@@ -2229,7 +2403,10 @@ sont dispensées.
 
 	**Modifié par**:
 
-	  - Loi n°2007-290 du 5 mars 2007 - art. 64 () JORF 6 mars 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 11 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 7 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 8 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 9 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -2255,7 +2432,51 @@ sont dispensées.
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-2-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-8 (V)
+
+
+###### Article L311-9-1
+
+L'étranger admis au séjour en France et, le cas échéant, son conjoint préparent, lorsqu'un ou plusieurs enfants ont bénéficié
+de la procédure de regroupement familial, l'intégration républicaine de la famille dans la société française. A cette fin,
+ils concluent conjointement avec l'Etat un contrat d'accueil et d'intégration pour la famille par lequel ils s'obligent à
+suivre une formation sur les droits et les devoirs des parents en France, ainsi qu'à respecter l'obligation scolaire. Le
+président du conseil général est informé de la conclusion de ce contrat.
+
+En cas de non-respect des stipulations de ce contrat, manifesté par une volonté caractérisée de l'étranger ou de son
+conjoint, le préfet peut saisir le président du conseil général en vue de la mise en oeuvre du contrat de responsabilité
+parentale prévue à l'article L. 222-4-1 du code de l'action sociale et des familles.
+
+Lors du renouvellement de leur carte de séjour, l'autorité administrative tient compte du non-respect manifesté par une
+volonté caractérisée, par l'étranger et son conjoint, des stipulations du contrat d'accueil et d'intégration pour la famille
+et, le cas échéant, des mesures prises en application du deuxième alinéa.
+
+Les conditions d'application de ces dispositions sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 6 () JORF 21 novembre 2007
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-12 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-15 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-10 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L222-4-1 (M)
 
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
@@ -2394,21 +2615,16 @@ autorisation peut être assortie d'une autorisation provisoire de travail, sur p
 
 ###### Article L312-1
 
-Dans chaque département, est instituée une commission du titre de séjour composée :
+Dans chaque département est instituée une commission du titre de séjour composée :
 
-a) Du président du tribunal administratif ou d'un conseiller délégué, président ;
-
-b) D'un magistrat désigné par l'assemblée générale du tribunal de grande instance du chef-lieu du département ;
-
-c) D'une personnalité qualifiée désignée par le préfet ou, à Paris, le préfet de police, pour sa compétence en matière de
-sécurité publique, ou de son représentant ;
-
-d) D'une personnalité qualifiée désignée par le préfet ou, à Paris, le préfet de police, pour sa compétence en matière
-sociale, ou de son représentant ;
-
-e) D'un maire ou de son suppléant désignés par le président de l'association des maires du département ou, lorsqu'il y a
+a) D'un maire ou de son suppléant désignés par le président de l'association des maires du département ou, lorsqu'il y a
 plusieurs associations de maires dans le département, par le préfet en concertation avec celles-ci et, à Paris, du maire,
-d'un maire d'arrondissement ou d'un conseiller d'arrondissement ou de leur suppléant désigné par le Conseil de Paris.
+d'un maire d'arrondissement ou d'un conseiller d'arrondissement ou de leur suppléant désigné par le Conseil de Paris ;
+
+b) De deux personnalités qualifiées désignées par le préfet ou, à Paris, le préfet de police.
+
+Le président de la commission du titre de séjour est désigné, parmi ses membres, par le préfet ou, à Paris, le préfet de
+police.
 
 Dans les départements de plus de 500 000 habitants, une commission peut être instituée dans un ou plusieurs arrondissements.
 
@@ -2431,6 +2647,10 @@ Dans les départements de plus de 500 000 habitants, une commission peut être i
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 21 () JORF 21 novembre 2007
 
 
 ###### Article L312-2
@@ -2929,11 +3149,10 @@ dans le premier Etat membre s'il séjourne en France pour une durée inférieure
 dispose de ressources suffisantes. S'il séjourne en France pour une durée supérieure à trois mois, il doit justifier remplir
 les conditions définies au premier alinéa.
 
+Lorsque l'étranger mentionné au deuxième alinéa poursuit les mêmes travaux au-delà de trois mois, la condition prévue à
+l'article L. 311-7 n'est pas exigée.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Directive 2005/71 CE 2005-10-12 Conseil
 
 	**Anciens textes**:
 
@@ -2974,7 +3193,12 @@ les conditions définies au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 11 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 35 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Directive 2005/71 CE 2005-10-12 Conseil
 
 
 ##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"
@@ -3043,8 +3267,8 @@ carte sans que lui soit opposable la situation de l'emploi sur le fondement du m
 
 La carte porte la mention "salarié" lorsque l'activité est exercée pour une durée supérieure ou égale à douze mois. Elle
 porte la mention "travailleur temporaire" lorsque l'activité est exercée pour une durée déterminée inférieure à douze mois.
-Si la rupture du contrat de travail du fait de l'employeur intervient dans les trois mois précédant son renouvellement, une
-nouvelle carte lui est délivrée pour une durée d'un an ;
+Si la rupture du contrat de travail du fait de l'employeur intervient dans les trois mois précédant le renouvellement de la
+carte portant la mention "salarié", une nouvelle carte lui est délivrée pour une durée d'un an ;
 
 2° A l'étranger qui vient exercer une profession commerciale, industrielle ou artisanale, à condition notamment qu'il
 justifie d'une activité économiquement viable et compatible avec la sécurité, la salubrité et la tranquillité publiques et
@@ -3071,7 +3295,9 @@ Elle porte la mention "travailleur saisonnier" ;
 
 5° A l'étranger détaché par un employeur établi hors de France lorsque ce détachement s'effectue entre établissements d'une
 même entreprise ou entre entreprises d'un même groupe, conformément au 2° du I de l'article L. 342-1 du code du travail, à la
-condition que la rémunération brute du salarié soit au moins égale à 1,5 fois le salaire minimum de croissance.
+condition que l'étranger justifie d'un contrat de travail datant d'au moins trois mois, que la rémunération brute du salarié
+soit au moins égale à 1,5 fois le salaire minimum de croissance et sans que lui soit opposable la situation de l'emploi sur
+le fondement du même article L. 341-2.
 
 Elle porte la mention "salarié en mission".
 
@@ -3081,7 +3307,8 @@ moment pour y être employé dans un établissement ou dans une entreprise menti
 L'étranger titulaire d'un contrat de travail avec une entreprise établie en France, lorsque l'introduction de cet étranger en
 France s'effectue entre établissements d'une même entreprise ou entre entreprises d'un même groupe, bénéficie également de la
 carte mentionnée au troisième alinéa du présent 5° à condition que sa rémunération brute soit au moins égale à 1,5 fois le
-salaire minimum de croissance.
+salaire minimum de croissance et sans que lui soit opposable la situation de l'emploi sur le fondement du même article L.
+341-2.
 
 Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs en France dans l'année qui suit leur dix-
 huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 du présent code, d'un étranger titulaire d'une
@@ -3161,11 +3388,14 @@ validité de sa carte.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 12 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 36 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 44 () JORF 21 novembre 2007
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-3 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L311-3, L311-2, L342-1, L313-11
 	  - Code du travail - art. L341-2 (M)
 
 
@@ -3215,7 +3445,8 @@ ouvrent droit au regroupement familial, dont les liens personnels et familiaux e
 leur intensité, de leur ancienneté et de leur stabilité, des conditions d'existence de l'intéressé, de son insertion dans la
 société française ainsi que de la nature de ses liens avec la famille restée dans le pays d'origine, sont tels que le refus
 d'autoriser son séjour porterait à son droit au respect de sa vie privée et familiale une atteinte disproportionnée au regard
-des motifs du refus, sans que la condition prévue à l'article L. 311-7 soit exigée ;
+des motifs du refus, sans que la condition prévue à l'article L. 311-7 soit exigée. L'insertion de l'étranger dans la société
+française est évaluée en tenant compte notamment de sa connaissance des valeurs de la République ;
 
 8° A l'étranger né en France qui justifie par tout moyen y avoir résidé pendant au moins huit ans de façon continue et suivi,
 après l'âge de dix ans, une scolarité d'au moins cinq ans dans un établissement scolaire français, à la condition qu'il fasse
@@ -3317,7 +3548,7 @@ consultation médicale devant une commission médicale régionale dont la compos
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 31 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 12 () JORF 21 novembre 2007
 
 	**Cite**:
 
@@ -3328,43 +3559,44 @@ consultation médicale devant une commission médicale régionale dont la compos
 
 ###### Article L313-11-1
 
-I. - La carte de séjour temporaire prévue à l'article L. 313-11 est délivrée, sous réserve qu'il en fasse la demande dans les
+I.-La carte de séjour temporaire prévue à l'article L. 313-11 est délivrée, sous réserve qu'il en fasse la demande dans les
 trois mois qui suivent son entrée en France et sans que la condition prévue à l'article L. 311-7 soit exigée, au conjoint
 d'un étranger titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et d'une
 carte de séjour temporaire délivrée en application de l'article L. 313-4-1, s'il justifie avoir résidé légalement avec le
 résident de longue durée-CE dans l'autre Etat membre, disposer de ressources stables et suffisantes ainsi que d'une assurance
-maladie.
+maladie. 
 
-II. - La carte de séjour dont la délivrance est prévue au I est également délivrée à l'enfant entré mineur en France d'un
+II.-La carte de séjour dont la délivrance est prévue au I est également délivrée à l'enfant entré mineur en France d'un
 étranger titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et d'une carte de
 séjour temporaire délivrée en application de l'article L. 313-4-1 lorsqu'il atteint l'âge de dix-huit ans, sous réserve qu'il
 en fasse la demande dans les trois mois qui suivent son dix-huitième anniversaire ou lorsqu'il entre dans les prévisions de
-l'article L. 311-3.
+l'article L. 311-3. 
 
 L'enfant doit justifier avoir résidé légalement avec le résident de longue durée-CE dans l'autre Etat membre et disposer
 d'une assurance maladie. Il doit également disposer de ressources stables et suffisantes ou être pris en charge par son
-parent titulaire de la carte de séjour temporaire délivrée en application de l'article L. 313-4-1.
+parent titulaire de la carte de séjour temporaire délivrée en application de l'article L. 313-4-1. 
 
-La condition prévue à l'article L. 311-7 n'est pas exigée.
+La condition prévue à l'article L. 311-7 n'est pas exigée. 
 
 L'enfant mentionné au premier alinéa du présent II est celui qui répond à l'une des définitions données aux articles L. 411-1
-à L. 411-4.
+à L. 411-4. 
 
-III. - Pour l'application des I et II, sont prises en compte toutes les ressources propres du demandeur et, le cas échéant,
-de son conjoint ou parent, indépendamment des prestations familiales et des allocations prévues à l'article L. 262-1 du code
-de l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale et aux articles L. 351-9, L. 351-10
-et L. 351-10-1 du code du travail. Ces ressources doivent atteindre un montant au moins égal au salaire minimum de croissance
-et sont appréciées au regard des conditions de logement.
+III.-Pour l'application des I et II, sont prises en compte toutes les ressources propres du demandeur et, le cas échéant, de
+son conjoint ou parent, indépendamment des prestations familiales et des allocations prévues à l'article L. 262-1 du code de
+l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale et aux articles L. 351-9, L. 351-10 et
+L. 351-10-1 du code du travail. Les ressources doivent atteindre un montant qui tient compte de la taille de la famille du
+demandeur. Un décret en Conseil d'Etat fixe ce montant qui doit être au moins égal au salaire minimum de croissance mensuel
+et au plus égal à ce salaire majoré d'un cinquième. 
 
 Le caractère suffisant des ressources au regard des conditions de logement fait l'objet d'un avis du maire de la commune de
 résidence du demandeur. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire
-par l'autorité administrative.
+par l'autorité administrative. 
 
-IV. - La date d'expiration de la carte de séjour temporaire délivrée dans les conditions définies au présent article ne peut
+IV.-La date d'expiration de la carte de séjour temporaire délivrée dans les conditions définies au présent article ne peut
 être postérieure à celle de la carte de séjour temporaire délivrée, en application de l'article L. 313-4-1, à l'étranger
-titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne.
+titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne. 
 
-V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -3373,9 +3605,18 @@ V. - Un décret en Conseil d'Etat précise les conditions d'application du prés
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 25 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 3 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-1 (V)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
 	**Cité par**:
 
@@ -3397,28 +3638,18 @@ V. - Un décret en Conseil d'Etat précise les conditions d'application du prés
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
 	  - Code du travail - art. R5221-48 (M)
 
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L313-11, L311-7, L313-4-1, L311-3, L411-1 à L411-4
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-10-1 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code de la sécurité sociale. - art. L815-1 (M)
-	  - Code de l'action sociale et des familles - art. L262-1 (V)
-
 
 ###### Article L313-12
 
 La carte délivrée au titre de l'article L. 313-11 donne droit à l'exercice d'une activité professionnelle.
 
 Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article L. 313-11 est subordonné au fait que la
-communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue à l'initiative de l'étranger en
-raison des violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative peut accorder le
-renouvellement du titre.
+communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales
+qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de
+l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger
+mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa
+présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et
+familiale".
 
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du
 6° de l'article L. 313-11.
@@ -3440,7 +3671,8 @@ bénéficiaire séjourne en France depuis au moins un an.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 26 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 14 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 15 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -3520,7 +3752,8 @@ La carte délivrée au titre du présent article donne droit à l'exercice d'une
 
 ###### Article L313-14
 
-La carte de séjour temporaire mentionnée à l'article L. 313-11 peut être délivrée, sauf si sa présence constitue une menace
+La carte de séjour temporaire mentionnée à l'article L. 313-11 ou la carte de séjour temporaire mentionnée au 1° de l'article
+L. 313-10 sur le fondement du troisième alinéa de cet article peut être délivrée, sauf si sa présence constitue une menace
 pour l'ordre public, à l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond à des considérations
 humanitaires ou se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue
 à l'article L. 311-7.
@@ -3536,7 +3769,7 @@ d'admission exceptionnelle au séjour formée par l'étranger qui justifie par t
 depuis plus de dix ans.
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent article et en particulier la composition de la
-commission, ses modalités de fonctionnement ainsi que les conditions dans lesquelles le ministre de l'intérieur, saisi d'un
+commission, ses modalités de fonctionnement ainsi que les conditions dans lesquelles l'autorité administrative, saisie d'un
 recours hiérarchique contre un refus d'admission exceptionnelle au séjour, peut prendre l'avis de la commission.
 
 **Liens relatifs à cet article**
@@ -3558,15 +3791,21 @@ recours hiérarchique contre un refus d'admission exceptionnelle au séjour, peu
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 32 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 40 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 50 () JORF 21 novembre 2007
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-10 (MMN)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L312-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L313-11, L313-10, L311-7, L111-10, L312-1, KL314-9, L314-11, L314-12
 
 
 #### Chapitre IV : La carte de résident
@@ -3703,8 +3942,7 @@ La carte de résident peut être refusée à tout étranger dont la présence co
 
 Lorsqu'elle a été délivrée à un étranger résidant sur le territoire de la France métropolitaine, la carte de résident en
 cours de validité confère à son titulaire le droit d'exercer, sur ce territoire, la profession de son choix, dans le cadre de
-la législation en vigueur. Les titulaires de la carte de résident sont dispensés de l'autorisation prévue à l'article L.
-122-1 du code de commerce.
+la législation en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -3716,6 +3954,10 @@ la législation en vigueur. Les titulaires de la carte de résident sont dispens
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 18 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -3732,10 +3974,6 @@ la législation en vigueur. Les titulaires de la carte de résident sont dispens
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
 	  - Code du travail - art. R341-2 (VT)
 	  - Code du travail - art. R5221-3 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L122-1 (M)
 
 
 ###### Article L314-5
@@ -3777,9 +4015,8 @@ Le retrait, motivé par la rupture de la vie commune, de la carte de résident d
 314-9 ne peut intervenir que dans la limite de quatre années à compter de la célébration du mariage, sauf si un ou des
 enfants sont nés de cette union et à la condition que l'étranger titulaire de la carte de résident établisse contribuer
 effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants dans les conditions prévues à l'article
-371-2 du code civil. Toutefois, lorsque la communauté de vie a été rompue par le décès de l'un des conjoints ou à
-l'initiative de l'étranger en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité
-administrative ne peut pas procéder au retrait.
+371-2 du code civil. Toutefois, lorsque la communauté de vie a été rompue par le décès de l'un des conjoints ou en raison de
+violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut pas procéder au retrait.
 
 **Liens relatifs à cet article**
 
@@ -3788,18 +4025,18 @@ administrative ne peut pas procéder au retrait.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 35 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 16 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-9 (V)
+	  - Code civil - art. 371-2 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
-	  - Code civil - art. 371-2 (M)
 
 
 ###### Article L314-6
@@ -3904,11 +4141,11 @@ résidé en dehors du territoire national pendant une période de six ans consé
 
 Tout étranger qui justifie d'une résidence ininterrompue d'au moins cinq années en France, conforme aux lois et règlements en
 vigueur, sous couvert de l'une des cartes de séjour mentionnées aux articles L. 313-6, L. 313-8 et L. 313-9, aux 1°, 2° et 3°
-de l'article L. 313-10, aux articles L. 313-11, L. 313-11-1 et L. 314-9, aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de l'article L.
-314-11 et à l'article L. 315-1 peut obtenir une carte de résident portant la mention "résident de longue durée-CE" s'il
-dispose d'une assurance maladie. La décision d'accorder ou de refuser cette carte est prise en tenant compte des faits qu'il
-peut invoquer à l'appui de son intention de s'établir durablement en France, notamment au regard des conditions de son
-activité professionnelle s'il en a une, et de ses moyens d'existence.
+de l'article L. 313-10, aux articles L. 313-11, L. 313-11-1, L. 313-14 et L. 314-9, aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de
+l'article L. 314-11 et aux articles L. 314-12 et L. 315-1 peut obtenir une carte de résident portant la mention "résident de
+longue durée-CE" s'il dispose d'une assurance maladie. La décision d'accorder ou de refuser cette carte est prise en tenant
+compte des faits qu'il peut invoquer à l'appui de son intention de s'établir durablement en France, notamment au regard des
+conditions de son activité professionnelle s'il en a une, et de ses moyens d'existence.
 
 Les moyens d'existence du demandeur sont appréciés au regard de ses ressources qui doivent être stables et suffisantes pour
 subvenir à ses besoins. Sont prises en compte toutes les ressources propres du demandeur indépendamment des prestations
@@ -3934,7 +4171,7 @@ par l'autorité administrative.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 29 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 19 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -3971,10 +4208,12 @@ par l'autorité administrative.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-14 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-6 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-8 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-9 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
 	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
@@ -4225,15 +4464,55 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
 
 
+##### Sous-section 4 : La carte de résident permanent
+
+###### Article L314-14
+
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11 ou L. 314-12, une
+carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf si sa
+présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article L.
+314-2.
+
+Lors du dépôt de sa demande de renouvellement de carte de résident, l'étranger est dûment informé des conditions dans
+lesquelles il pourra se voir accorder une carte de résident permanent.
+
+Les articles L. 314-4 à L. 314-7 sont applicables à la carte de résident permanent.
+
+Lorsque la carte de résident permanent est retirée à un ressortissant étranger qui ne peut faire l'objet d'une mesure
+d'expulsion en application des articles L. 521-2 ou L. 521-3, une carte de séjour temporaire lui est délivrée de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 17 () JORF 21 novembre 2007
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 25
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (V)
+
+
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
 
 ###### Article L315-1
 
 La carte de séjour "compétences et talents" peut être accordée à l'étranger susceptible de participer, du fait de ses
-compétences et de ses talents, de façon significative et durable au développement économique ou au rayonnement, notamment
-intellectuel, scientifique, culturel, humanitaire ou sportif de la France et du pays dont il a la nationalité. Elle est
-accordée pour une durée de trois ans. Elle est renouvelable. Lorsque son titulaire a la nationalité d'un pays membre de la
-zone de solidarité prioritaire, son renouvellement est limité à une fois.
+compétences et de ses talents, de façon significative et durable au développement économique, au développement de
+l'aménagement du territoire ou au rayonnement, notamment intellectuel, scientifique, culturel, humanitaire ou sportif, de la
+France et, directement ou indirectement, du pays dont il a la nationalité. Elle est accordée pour une durée de trois ans.
+Elle est renouvelable. Lorsque son titulaire a la nationalité d'un pays membre de la zone de solidarité prioritaire, son
+renouvellement est limité à une fois.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 
 **Liens relatifs à cet article**
 
@@ -4244,7 +4523,11 @@ zone de solidarité prioritaire, son renouvellement est limité à une fois.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 38 () JORF 21 novembre 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
 
 	**Cité par**:
 
@@ -4300,33 +4583,42 @@ décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 ###### Article L315-3
 
 La carte mentionnée à l'article L. 315-1 est attribuée au vu du contenu et de la nature du projet de l'étranger et de
-l'intérêt de ce projet pour la France et pour le pays dont l'étranger a la nationalité.
+l'intérêt de ce projet pour la France et pour le pays dont l'étranger a la nationalité. 
 
-Lorsque l'étranger souhaitant bénéficier d'une carte "compétences et talents" réside régulièrement en France, il présente sa
-demande auprès du représentant de l'Etat dans le département. Lorsque l'étranger réside hors de France, il présente sa
-demande auprès des autorités diplomatiques et consulaires françaises territorialement compétentes. L'autorité administrative
-compétente pour délivrer cette carte est le ministre de l'intérieur.
+Lorsque l'étranger souhaitant bénéficier d'une carte " compétences et talents " réside régulièrement en France, il présente
+sa demande auprès du représentant de l'Etat dans le département. Lorsque l'étranger réside hors de France, il présente sa
+demande auprès des autorités diplomatiques et consulaires françaises territorialement compétentes.
+
+**Nota:**
+
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 15 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 50 () JORF 21 novembre 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-4 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-5 (VT)
 	  - Code du travail - art. R341-2-2 (VT)
 	  - Code du travail - art. R5221-5 (Ab)
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
 
 
 ###### Article L315-4
@@ -4780,14 +5072,6 @@ installation en France, dans des conditions qui sont fixées par un décret en C
 
 "Art. L. 341-3 du code du travail.
 
-"Le contrat de travail temporaire régi par le chapitre IV du titre II du livre Ier du présent code ne peut pas être assimilé
-au contrat de travail prévu à l'article précédent et qui permet l'entrée en France d'un étranger pour exercer une activité
-salariée.
-
-"Un contrat de travail temporaire ne peut permettre à un étranger d'obtenir en vue du premier exercice d'une activité
-salariée en France le titre prévu à l'article L. 341-6 lorsque la possession de celui-ci est exigée en vertu de traités ou
-d'accords internationaux.
-
 "Sous réserve des accords internationaux, il est interdit à une entreprise de travail temporaire de mettre à la disposition
 de quelque personne que ce soit des travailleurs étrangers si la prestation de service doit s'effectuer hors du territoire
 français.
@@ -4795,7 +5079,10 @@ français.
 "Art. L. 341-4 du code du travail.
 
 "Un étranger ne peut exercer une activité professionnelle salariée en France sans avoir obtenu au préalable l'autorisation
-mentionnée à l'article L. 341-2 et sans s'être fait délivrer un certificat médical.
+mentionnée à l'article L. 341-2.
+
+"L'autorisation de travail peut être retirée si l'étranger ne s'est pas fait délivrer un certificat médical dans les trois
+mois suivant la délivrance de cette autorisation.
 
 "L'autorisation de travail peut être limitée à certaines activités professionnelles ou zones géographiques.
 
@@ -4860,7 +5147,8 @@ territoire du département, toute activité professionnelle salariée de son cho
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 133 () JORF 27 décembre 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 43 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 54 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -4895,47 +5183,6 @@ professionnelles non salariées.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-
-###### Article L322-3
-
-L'exercice en France de la profession de commerçant par un étranger est régi par les dispositions des articles L. 122-1 et L.
-122-2 du code de commerce ci-après reproduites :
-
-"Art. L. 122-1 du code de commerce.
-
-"Un étranger qui exerce sur le territoire français, sans y résider, une profession profession commerciale, industrielle ou
-artisanale, dans des conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou
-au répertoire des métiers, doit en faire la déclaration au préfet du département dans lequel il envisage d'exercer pour la
-première fois son activité dans des conditions définies par décret. Les ressortissants des Etats membres de l'Union
-européenne, des autres Etats parties à l'accord sur l'Espace économique européen ou de la Confédération suisse sont dispensés
-de l'obligation de déclaration prévue au premier alinéa.
-
-"Art. L. 122-2 du code de commerce.
-
-"Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application qu'il prévoit est punie d'un
-emprisonnement de six mois et d'une amende de 3 750 Euros. En cas de récidive, les peines sont portées au double. Le tribunal
-peut, en outre, ordonner la fermeture de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 45 () JORF 21 novembre 2007
-
-	**Cite**:
-
-	  - Code de commerce. - art. L122-1 (M)
-	  - Code de commerce. - art. L122-2 (M)
 
 
 ### TITRE III : L'AIDE AU RETOUR VOLONTAIRE
@@ -5073,18 +5320,23 @@ regroupement partiel peut être autorisé pour des motifs tenant à l'intérêt 
 
 ###### Article L411-5
 
-Le regroupement familial ne peut être refusé que pour l'un des motifs suivants :
+Le regroupement familial ne peut être refusé que pour l'un des motifs suivants : 
 
 1° Le demandeur ne justifie pas de ressources stables et suffisantes pour subvenir aux besoins de sa famille. Sont prises en
 compte toutes les ressources du demandeur et de son conjoint indépendamment des prestations familiales et des allocations
 prévues à l'article L. 262-1 du code de l'action sociale et des familles, à l'article L. 815-1 du code de la sécurité sociale
-et aux articles L. 351-9, L. 351-10 et L. 351-10-1 du code du travail. Les ressources doivent atteindre un montant au moins
-égal au salaire minimum de croissance mensuel ;
+et aux articles L. 351-9, L. 351-10 et L. 351-10-1 du code du travail. Les ressources doivent atteindre un montant qui tient
+compte de la taille de la famille du demandeur. Le décret en Conseil d'Etat prévu à l'article L. 441-1 fixe ce montant qui
+doit être au moins égal au salaire minimum de croissance mensuel et au plus égal à ce salaire majoré d'un cinquième. Ces
+dispositions ne sont pas applicables lorsque la personne qui demande le regroupement familial est titulaire de l'allocation
+aux adultes handicapés mentionnée à l'article L. 821-1 du code de la sécurité sociale ou de l'allocation supplémentaire
+mentionnée à l'article L. 815-24 du même code ; 
 
 2° Le demandeur ne dispose pas ou ne disposera pas à la date d'arrivée de sa famille en France d'un logement considéré comme
-normal pour une famille comparable vivant dans la même région géographique ;
+normal pour une famille comparable vivant dans la même région géographique ; 
 
-3° Le demandeur ne se conforme pas aux principes fondamentaux reconnus par les lois de la République.
+3° Le demandeur ne se conforme pas aux principes essentiels qui, conformément aux lois de la République, régissent la vie
+familiale en France, pays d'accueil.
 
 **Liens relatifs à cet article**
 
@@ -5111,14 +5363,15 @@ normal pour une famille comparable vivant dans la même région géographique ;
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 45 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 2 () JORF 21 novembre 2007
 
 	**Cite**:
 
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-10-1 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code de la sécurité sociale. - art. L815-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L441-1 (V)
+	  - Code du travail - art. L351-9 (Ab)
+	  - Code de la sécurité sociale. - art. L815-1 (V)
+	  - Code de la sécurité sociale. - art. L815-24 (V)
+	  - Code de la sécurité sociale. - art. L821-1 (V)
 	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
 
@@ -5173,6 +5426,42 @@ conjoint ou d'un autre conjoint décédé ou déchu de ses droits parentaux, lui
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L752-1 (V)
+
+
+###### Article L411-8
+
+Pour lui permettre de préparer son intégration républicaine dans la société française, le ressortissant étranger âgé de plus
+de seize ans et de moins de soixante-cinq ans pour lequel le regroupement familial est sollicité bénéficie, dans son pays de
+résidence, d'une évaluation de son degré de connaissance de la langue et des valeurs de la République. Si cette évaluation en
+établit le besoin, l'autorité administrative organise à l'intention de l'étranger, dans son pays de résidence, une formation
+dont la durée ne peut excéder deux mois, au terme de laquelle il fait l'objet d'une nouvelle évaluation de sa connaissance de
+la langue et des valeurs de la République. La délivrance du visa est subordonnée à la production d'une attestation de suivi
+de cette formation. Cette attestation est délivrée immédiatement à l'issue de la formation. Un décret en Conseil d'Etat fixe
+les conditions d'application de ces dispositions, notamment le délai maximum dans lequel l'évaluation et la formation doivent
+être proposées à compter du dépôt du dossier complet de la demande de regroupement familial, le contenu de l'évaluation et de
+la formation, le nombre d'heures minimum que la formation doit compter ainsi que les motifs légitimes pour lesquels
+l'étranger peut en être dispensé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 1 () JORF 21 novembre 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-1 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-3 (Ab)
 
 
 ### TITRE II : INSTRUCTION DES DEMANDES
@@ -5343,9 +5632,11 @@ Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfan
 est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à
 l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil.
 
-En outre, lorsque la communauté de vie a été rompue à l'initiative de l'étranger admis au séjour au titre du regroupement
-familial, en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut
-procéder au retrait de son titre de séjour et peut en accorder le renouvellement.
+En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son
+conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du
+regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint
+mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence
+constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et familiale".
 
 **Liens relatifs à cet article**
 
@@ -5361,7 +5652,8 @@ procéder au retrait de son titre de séjour et peut en accorder le renouvelleme
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 47 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 4 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 5 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -5440,7 +5732,8 @@ I. - L'autorité administrative qui refuse la délivrance ou le renouvellement d
 retire son titre de séjour, son récépissé de demande de carte de séjour ou son autorisation provisoire de séjour, pour un
 motif autre que l'existence d'une menace à l'ordre public, peut assortir sa décision d'une obligation de quitter le
 territoire français, laquelle fixe le pays à destination duquel l'étranger sera renvoyé s'il ne respecte pas le délai de
-départ volontaire prévu au troisième alinéa (1).
+départ volontaire prévu au troisième alinéa. L'obligation de quitter le territoire français n'a pas à faire l'objet d'une
+motivation.
 
 La même autorité peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse à quitter le territoire français lorsqu'elle
@@ -5465,9 +5758,7 @@ en cours de validité ;
 soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France sans être titulaire
 d'un premier titre de séjour régulièrement délivré ;
 
-3°(2)  Si l'étranger auquel la délivrance ou le renouvellement d'un titre de séjour a été refusé, ou dont le titre de séjour
-a été retiré, s'est maintenu sur le territoire au-delà du délai d'un mois à compter de la date de notification du refus ou du
-retrait ;
+3° Si l'étranger fait l'objet d'une obligation de quitter le territoire français exécutoire prise depuis au moins un an ;
 
 4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire au-
 delà du délai d'un mois suivant l'expiration de ce titre ;
@@ -5475,8 +5766,7 @@ delà du délai d'un mois suivant l'expiration de ce titre ;
 5° Si l'étranger a fait l'objet d'une condamnation définitive pour contrefaçon, falsification, établissement sous un autre
 nom que le sien ou défaut de titre de séjour ;
 
-6°(2) Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à
-l'étranger lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
+6° Abrogé ;
 
 7° Si l'étranger a fait l'objet d'un retrait de son titre de séjour ou d'un refus de délivrance ou de renouvellement d'un
 titre de séjour, dans les cas où ce retrait ou ce refus ont été prononcés, en application des dispositions législatives et
@@ -5485,16 +5775,6 @@ réglementaires en vigueur, en raison d'une menace à l'ordre public.
 8° Si pendant la période de validité de son visa ou, s'il n'est pas soumis à l'obligation du visa, pendant la période définie
 au 2° ci-dessus, le comportement de l'étranger a constitué une menace pour l'ordre public ou si, pendant cette même durée,
 l'étranger a méconnu les dispositions de l'article L. 341-4 du code du travail.
-
-**Nota:**
-
-NOTA (1) : Loi 2006-911 du 24 juillet 2006 art. 118 : Les dispositions du I de l'article L. 511-1 entrent en vigueur à la
-date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
-2007.
-
-NOTA (2) : Loi 2006-911 du 24 juillet 2006 art. 118 : Les dispositions du 3° et du 6° de l'article L. 511-1 seront abrogées à
-la date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
-2007.
 
 **Liens relatifs à cet article**
 
@@ -5549,9 +5829,8 @@ la date de publication du décret en Conseil d'Etat modifiant le code de justice
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 52 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 41 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 42 () JORF 21 novembre 2007
 
 	**Cite**:
 
@@ -5980,8 +6259,7 @@ La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 20
 L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière est éloigné :
 
 1° A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la
-Commission des recours des réfugiés lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande
-d'asile ;
+Cour nationale du droit d'asile lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande d'asile ;
 
 2° Ou à destination du pays qui lui a délivré un document de voyage en cours de validité ;
 
@@ -6004,9 +6282,7 @@ l'homme et des libertés fondamentales du 4 novembre 1950.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 63 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -6114,8 +6390,7 @@ non-respect des prescriptions liées à l'assignation à résidence est sanction
 
 ###### Article L514-1
 
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et dans la commune de Saint-Martin (Guadeloupe), les
-dispositions suivantes :
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes :
 
 1° Si l'autorité consulaire le demande, la mesure de reconduite à la frontière ne peut être mise à exécution avant
 l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ;
@@ -6124,15 +6399,8 @@ l'expiration du délai d'un jour franc à compter de la notification de l'arrêt
 territoire français ou d'une mesure administrative de reconduite à la frontière et qui défère cet acte au tribunal
 administratif peut assortir son recours d'une demande de suspension de son exécution.
 
-En conséquence, les dispositions des articles L. 512-2 à L. 512-4 (1) ne sont pas applicables en Guyane ni dans la commune de
-Saint-Martin (Guadeloupe).
-
-**Nota:**
-
-NOTA (1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur
-à compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
-
-La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
+En conséquence, les dispositions des articles L. 512-1 et L. 512-2 à L. 512-4 ne sont pas applicables en Guyane ni à Saint-
+Martin.
 
 **Liens relatifs à cet article**
 
@@ -6148,10 +6416,7 @@ La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 20
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 66 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 98 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 55 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -6162,14 +6427,14 @@ La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 20
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-4
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-1, L512-2 à L512-4
 
 
 ###### Article L514-2
 
-Les dispositions de l'article L. 514-1 sont applicables dans les communes du département de la Guadeloupe autres que celle de
-Saint-Martin, pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006  relative à l'immigration
-et à l'intégration.
+Les dispositions de l'article L. 514-1 sont applicables dans le département de la Guadeloupe et à Saint-Barthélémy, pendant
+cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration.
 
 **Liens relatifs à cet article**
 
@@ -6180,12 +6445,12 @@ et à l'intégration.
 
 	**Cite**:
 
-	  - Loi n°2006-911 2006-07-24
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L514-1 (M)
+	  - Loi n°2006-911 du 24 juillet 2006 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 98 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 55 () JORF 21 novembre 2007
 
 
 ### TITRE II : L'EXPULSION
@@ -7314,9 +7579,9 @@ Quand un délai de quarante-huit heures s'est écoulé depuis la décision de pl
 la détention est saisi aux fins de prolongation de la rétention. Il statue par ordonnance au siège du tribunal de grande
 instance dans le ressort duquel se situe le lieu de placement en rétention de l'étranger, sauf exception prévue par voie
 réglementaire, après audition du représentant de l'administration, si celui-ci, dûment convoqué, est présent, et de
-l'intéressé en présence de son conseil, s'il en a un. Toutefois, si une salle d'audience attribuée au ministère de la justice
-lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, il statue
-dans cette salle.
+l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des libertés et de la détention qu'il lui soit
+désigné un conseil d'office. Toutefois, si une salle d'audience attribuée au ministère de la justice lui permettant de
+statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, il statue dans cette salle.
 
 **Liens relatifs à cet article**
 
@@ -7343,6 +7608,10 @@ dans cette salle.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 48 () JORF 21 novembre 2007
 
 
 ###### Article L552-2
@@ -7633,10 +7902,10 @@ L'intéressé peut bénéficier de l'aide juridictionnelle.
 
 ###### Article L552-12
 
-Par décision du juge sur proposition de l'autorité administrative, et avec le consentement de l'étranger, les audiences
-prévues au présent chapitre peuvent se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant
-la confidentialité de la transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un
-procès-verbal des opérations effectuées.
+Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une
+langue qu'il comprend ne s'est pas opposé, les audiences prévues au présent chapitre peuvent se dérouler avec l'utilisation
+de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans
+chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
 **Liens relatifs à cet article**
 
@@ -7648,6 +7917,10 @@ procès-verbal des opérations effectuées.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 47 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -8157,6 +8430,8 @@ territoire français ou qui, ayant été contrôlés à l'occasion du franchisse
 aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions d'entrée prévues à
 l'article 5 de cette convention ou à l'article L. 211-1.
 
+Il en est de même des bénéficiaires de l'aide au retour mentionnée au dernier alinéa du I de l'article L. 511-1.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8168,6 +8443,7 @@ l'article 5 de cette convention ou à l'article L. 211-1.
 	  - Loi n°78-17 1978-01-06
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
 
 	**Cité par**:
 
@@ -8185,6 +8461,10 @@ l'article 5 de cette convention ou à l'article L. 211-1.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 62 () JORF 21 novembre 2007
 
 
 ###### Article L611-4
@@ -9090,9 +9370,8 @@ l'expiration de sa peine d'emprisonnement.
 ###### Article L624-4
 
 Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence qui leur est assignée en application des
-articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5 ou qui, ultérieurement, ont quitté cette résidence sans autorisation du
-ministre de l'intérieur ou du représentant de l'Etat dans le département, ou, à Paris, du préfet de police, sont passibles
-d'une peine d'emprisonnement de trois ans.
+articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5 ou qui, ultérieurement, ont quitté cette résidence sans autorisation de
+l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans.
 
 **Liens relatifs à cet article**
 
@@ -9105,6 +9384,10 @@ d'une peine d'emprisonnement de trois ans.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 50 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -9227,13 +9510,13 @@ que, le cas échéant, les conditions dans lesquelles les personnes intéressée
 
 ###### Article L625-4
 
-Lorsque l'étranger débarqué en France est un mineur sans représentant légal, la somme de 3 000 Euros ou 5 000 Euros doit être
+Lorsque l'étranger débarqué en France est un mineur sans représentant légal, la somme de 3 000 euros ou 5 000 euros doit être
 immédiatement consignée auprès du fonctionnaire visé au premier alinéa de l'article L. 625-2. Tout ou partie de cette somme
-est restituée à l'entreprise selon le montant de l'amende prononcée ultérieurement par le ministre de l'intérieur. Si
-l'entreprise ne consigne pas la somme, le montant de l'amende est porté respectivement à 6 000 Euros ou 10 000 Euros.
+est restituée à l'entreprise selon le montant de l'amende prononcée ultérieurement par l'autorité administrative. Si
+l'entreprise ne consigne pas la somme, le montant de l'amende est porté respectivement à 6 000 euros ou 10 000 euros.
 
 Un décret en Conseil d'Etat fixe les conditions de cette consignation et de son éventuelle restitution, en particulier le
-délai maximum dans lequel cette restitution doit intervenir.
+délai maximal dans lequel cette restitution doit intervenir.
 
 **Liens relatifs à cet article**
 
@@ -9251,6 +9534,10 @@ délai maximum dans lequel cette restitution doit intervenir.
 	  - Décret n°2005-913 du 29 juillet 2005 - art. 1 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R625-13 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L625-5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 50 () JORF 21 novembre 2007
 
 	**Cite**:
 
@@ -9396,6 +9683,30 @@ sont régies par les dispositions applicables aux réfugiés en vertu de la conv
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R722-6 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-28 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L712-1 (M)
+
+
+###### Article L711-2
+
+L'étranger qui a obtenu le statut de réfugié en application du présent livre VII et a signé le contrat d'accueil et
+d'intégration prévu par l'article L. 311-9 bénéficie d'un accompagnement personnalisé pour l'accès à l'emploi et au logement.
+
+A cet effet, l'autorité administrative conclut avec les collectivités territoriales et les autres personnes morales
+concernées ou souhaitant participer à cet accompagnement une convention prévoyant les modalités d'organisation de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 30 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
 
 
 #### Chapitre II : La protection subsidiaire
@@ -9594,8 +9905,8 @@ au moment où il est statué sur la demande d'asile.
 
 ###### Article L721-1
 
-L'Office français de protection des réfugiés et apatrides, placé auprès du ministre des affaires étrangères, est un
-établissement public doté de la personnalité civile et de l'autonomie financière et administrative.
+L'Office français de protection des réfugiés et apatrides, placé auprès du ministre chargé de l'asile, est un établissement
+public doté de la personnalité civile et de l'autonomie financière et administrative.
 
 **Liens relatifs à cet article**
 
@@ -9608,6 +9919,10 @@ L'Office français de protection des réfugiés et apatrides, placé auprès du 
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 28 () JORF 21 novembre 2007
 
 
 ###### Article L721-2
@@ -9688,15 +10003,16 @@ le produit est versé au budget général.
 ###### Article L722-1
 
 L'office est administré par un conseil d'administration comprenant deux parlementaires, désignés l'un par l'Assemblée
-nationale et l'autre par le Sénat, des représentants de l'Etat et un représentant du personnel de l'office.
+nationale et l'autre par le Sénat, un représentant de la France au Parlement européen désigné par décret, des représentants
+de l'Etat et un représentant du personnel de l'office.
 
 Le conseil d'administration fixe les orientations générales concernant l'activité de l'office ainsi que, dans les conditions
 prévues par les dispositions communautaires en cette matière, la liste des pays considérés au niveau national comme des pays
 d'origine sûrs, mentionnés au 2° de l'article L. 741-4. Il délibère sur les modalités de mise en oeuvre des dispositions
 relatives à l'octroi du statut de réfugié ou de la protection subsidiaire.
 
-Le président du conseil d'administration est nommé parmi ses membres par décret sur proposition du ministre des affaires
-étrangères.
+Le président du conseil d'administration est nommé parmi ses membres par décret sur proposition du ministre chargé de
+l'asile.
 
 Le délégué du haut-commissaire des Nations unies pour les réfugiés ainsi que trois personnalités qualifiées nommées par
 décret assistent aux séances du conseil d'administration et peuvent y présenter leurs observations et leurs propositions. Au
@@ -9718,7 +10034,7 @@ en charge des demandeurs d'asile et des réfugiés.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 92 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 28 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -9736,8 +10052,8 @@ en charge des demandeurs d'asile et des réfugiés.
 
 ###### Article L722-2
 
-L'office est géré par un directeur général nommé par décret, nommé sur proposition conjointe du ministre des affaires
-étrangères et du ministre de l'intérieur.
+L'office est géré par un directeur général nommé par décret, sur proposition conjointe du ministre des affaires étrangères et
+du ministre chargé de l'asile.
 
 **Liens relatifs à cet article**
 
@@ -9751,6 +10067,10 @@ L'office est géré par un directeur général nommé par décret, nommé sur pr
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 28 () JORF 21 novembre 2007
 
 
 ###### Article L722-3
@@ -9775,12 +10095,12 @@ auront reçus dans l'exercice de leurs fonctions.
 ###### Article L722-4
 
 Les locaux de l'office ainsi que ses archives et, d'une façon générale, tous les documents lui appartenant ou détenus par lui
-sont inviolables.
+sont inviolables. 
 
 A l'expiration de leur période d'administration courante par l'office, les dossiers des demandeurs d'asile dont la demande
-aura été définitivement rejetée sont confiés à la garde du ministère des affaires étrangères. Seules les personnes autorisées
-par le directeur général de l'office y ont accès. Ces archives ne peuvent être librement consultées qu'à l'issue des délais
-prévus à l'article L. 213-2 du code du patrimoine.
+aura été définitivement rejetée sont confiés à la garde des services du ministre chargé de l'asile. Seules les personnes
+autorisées par le directeur général de l'office y ont accès. Ces archives ne peuvent être librement consultées qu'à l'issue
+des délais prévus à l'article L. 213-2 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -9794,6 +10114,14 @@ prévus à l'article L. 213-2 du code du patrimoine.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 28 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L213-2 (V)
 
 
 ###### Article L722-5
@@ -9943,6 +10271,37 @@ d) Des raisons médicales interdisent de procéder à l'entretien.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (V)
 
 
+###### Article L723-3-1
+
+L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et
+précise les voies et délais de recours.
+
+Aucune décision ne peut naître du silence gardé par l'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 31 () JORF 21 novembre 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-8 (V)
+
+
 ###### Article L723-4
 
 A la demande de l'autorité administrative, le directeur général de l'office communique à des agents habilités des documents
@@ -10013,13 +10372,13 @@ moment au bénéfice de cette protection dans le cas prévu au second alinéa de
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
 
 
-### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
 
-#### Chapitre Ier : Missions.
+#### Chapitre Ier : Missions
 
 ###### Article L731-1
 
-La Commission des recours des réfugiés est une juridiction administrative, placée sous l'autorité d'un président, membre du
+La Cour nationale du droit d'asile est une juridiction administrative, placée sous l'autorité d'un président, membre du
 Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -10035,11 +10394,15 @@ Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+
 
 ###### Article L731-2
 
-La Commission des recours des réfugiés statue sur les recours formés contre les décisions de l'Office français de protection
-des réfugiés et apatrides, prises en application des articles L. 711-1, L. 712-1 à L. 712-3 et L. 723-1 à L. 723-3. A peine
+La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des
+réfugiés et apatrides, prises en application des articles L. 711-1, L. 712-1 à L. 712-3 et L. 723-1 à L. 723-3. A peine
 d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de
 l'office.
 
@@ -10058,7 +10421,7 @@ l'office.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 94 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -10081,10 +10444,10 @@ l'office.
 
 ###### Article L731-3
 
-La Commission des recours des réfugiés examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des
-mesures prévues par les articles 31, 32 et 33 de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés
-et formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif
-d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine.
+La Cour nationale du droit d'asile examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des mesures
+prévues par les articles 31, 32 et 33 de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés et
+formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution.
+Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine.
 
 **Liens relatifs à cet article**
 
@@ -10099,6 +10462,10 @@ d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+
 	**Cité par**:
 
 	  - Arrêté du 8 mars 2012 - art. 2 (V)
@@ -10107,11 +10474,11 @@ d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-41 (V)
 
 
-#### Chapitre II : Organisation.
+#### Chapitre II : Organisation
 
 ###### Article L732-1
 
-La commission comporte des sections comprenant chacune :
+La Cour nationale du droit d'asile comporte des sections comprenant chacune :
 
 1° Un président nommé :
 
@@ -10150,13 +10517,18 @@ représentés au conseil d'administration de l'office.
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+	**Modifié par**:
 
-#### Chapitre III : Examen des recours.
+	  - Loi n°2007-1631 2007-11-20 art. 29 I, II JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+
+
+#### Chapitre III : Examen des recours
 
 ###### Article L733-1
 
-Les intéressés peuvent présenter leurs explications à la commission des recours et s'y faire assister d'un conseil et d'un
-interprète.
+Les intéressés peuvent présenter leurs explications à la Cour nationale du droit d'asile et s'y faire assister d'un conseil
+et d'un interprète.
 
 **Liens relatifs à cet article**
 
@@ -10170,6 +10542,11 @@ interprète.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 2007-11-20 art. 29 I, III JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -10201,6 +10578,10 @@ l'intervention d'une formation collégiale.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -10418,8 +10799,8 @@ Lorsqu'il est admis à séjourner en France en application des dispositions du c
 demande à bénéficier de l'asile se voit remettre un document provisoire de séjour lui permettant de déposer une demande
 d'asile auprès de l'Office français de protection des réfugiés et apatrides. L'office ne peut être saisi qu'après la remise
 de ce document au demandeur. Après le dépôt de sa demande d'asile, le demandeur se voit délivrer un nouveau document
-provisoire de séjour. Ce document est renouvelé jusqu'à ce que l'office statue et, si un recours est formé devant la
-commission des recours, jusqu'à ce que la commission statue.
+provisoire de séjour. Ce document est renouvelé jusqu'à ce que l'office statue et, si un recours est formé devant la Cour
+nationale du droit d'asile, jusqu'à ce que la cour statue.
 
 **Liens relatifs à cet article**
 
@@ -10433,6 +10814,10 @@ commission des recours, jusqu'à ce que la commission statue.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 IV JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -10495,8 +10880,7 @@ admission prévus aux 1° à 4° de l'article L. 741-4.
 
 L'étranger admis à séjourner en France bénéficie du droit de s'y maintenir jusqu'à la notification de la décision de l'Office
 français de protection des réfugiés et apatrides ou, si un recours a été formé, jusqu'à la notification de la décision de la
-commission des recours. Il dispose d'un délai d'un mois à compter de la notification du refus de renouvellement ou du retrait
-de son autorisation de séjour pour quitter volontairement le territoire français.
+Cour nationale du droit d'asile. Le I de l'article L. 511-1 est alors applicable.
 
 **Liens relatifs à cet article**
 
@@ -10509,6 +10893,11 @@ de son autorisation de séjour pour quitter volontairement le territoire frança
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 32 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -10530,11 +10919,15 @@ de son autorisation de séjour pour quitter volontairement le territoire frança
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
+
 
 ###### Article L742-4
 
 Dans le cas où l'admission au séjour a été refusée pour le motif mentionné au 1° de l'article L. 741-4, l'intéressé n'est pas
-recevable à saisir la commission des recours des réfugiés.
+recevable à saisir la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
@@ -10558,6 +10951,10 @@ recevable à saisir la commission des recours des réfugiés.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cite**:
 
@@ -10717,12 +11114,12 @@ ainsi que celles des personnalités qualifiées ;
 
 4° Les modalités de désignation et d'habilitation des agents mentionnés à l'article L. 723-4 ;
 
-5° La durée du mandat des membres de la Commission des recours des réfugiés ;
+5° La durée du mandat des membres de la Cour nationale du droit d'asile ;
 
 6° Les conditions d'exercice des recours prévus aux articles L. 731-2 et L. 731-3 ainsi que les conditions dans lesquelles le
-président et les présidents de section de la commission des recours peuvent, après instruction, statuer par ordonnance sur
-les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la décision du directeur
-général de l'office ;
+président et les présidents de section de la Cour nationale du droit d'asile peuvent, après instruction, statuer par
+ordonnance sur les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la
+décision du directeur général de l'office ;
 
 7° Le délai prévu pour la délivrance du document provisoire de séjour mentionné à l'article L. 742-1 et permettant de déposer
 une demande d'asile ;
@@ -10733,8 +11130,8 @@ auprès de l'office ;
 9° Le délai prévu pour la délivrance, après le dépôt de la demande d'asile auprès de l'office, du nouveau document provisoire
 de séjour mentionné à l'article L. 742-1 ainsi que la nature et la durée de validité de ce document ;
 
-10° Le délai pour la délivrance du titre de séjour après la décision d'octroi par l'office ou la commission des recours du
-statut de réfugié ou de la protection subsidiaire ;
+10° Le délai pour la délivrance du titre de séjour après la décision d'octroi par l'office ou la Cour nationale du droit
+d'asile du statut de réfugié ou de la protection subsidiaire ;
 
 11° Les délais dans lesquels l'office doit se prononcer lorsqu'il statue selon la procédure prioritaire prévue au second
 alinéa de l'article L. 723-1.
@@ -10750,6 +11147,11 @@ alinéa de l'article L. 723-1.
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 2007-11-20 art. 29 I, III JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -11508,9 +11910,10 @@ Les marchés prévus à l'article L. 821-1 peuvent être passés à compter de l
 
 ###### Article L831-1
 
-Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, les termes : " département ", " tribunal de
-grande instance " et " cour d'appel " sont respectivement remplacés par les termes : " collectivité territoriale de Saint-
-Pierre-et-Miquelon ", " tribunal de première instance " et " tribunal supérieur d'appel ".
+Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, les termes : " département ", " conseil
+général ", " tribunal de grande instance " et " cour d'appel " sont respectivement remplacés par les termes : " collectivité
+territoriale de Saint-Pierre-et-Miquelon ", " conseil territorial " et " tribunal de première instance " et " tribunal
+supérieur d'appel ".
 
 **Liens relatifs à cet article**
 
@@ -11518,6 +11921,99 @@ Pierre-et-Miquelon ", " tribunal de première instance " et " tribunal supérieu
 
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 56 () JORF 21 novembre 2007
+
+
+## LIVRE IX : LE CODÉVELOPPEMENT
+
+###### Article L900-1
+
+Le financement des projets de codéveloppement des migrants peut être assuré par la mise en oeuvre des dispositifs prévus par
+les articles L. 221-33 et L. 221-34 du code monétaire et financier, ci-après reproduits : 
+
+Art. L. 221-33. I.-Un compte épargne codéveloppement peut être proposé par tout établissement de crédit et par tout
+établissement autorisé à recevoir des dépôts qui s'engage par convention avec l'Etat à respecter les règles fixées pour le
+fonctionnement de l'épargne codéveloppement. 
+
+II. - Le compte épargne codéveloppement est destiné à recevoir l'épargne d'étrangers ayant la nationalité d'un pays en voie
+de développement, figurant sur une liste de pays fixée par arrêté conjoint du ministre des affaires étrangères, du ministre
+de l'intérieur, du ministre chargé de l'économie et du ministre chargé du budget, et titulaires d'une carte de séjour
+permettant l'exercice d'une activité professionnelle, aux fins de financer des opérations dans leur pays d'origine telles que
+prévues au III. 
+
+III. - Les investissements autorisés à partir des comptes épargne codéveloppement sont ceux qui concourent au développement
+économique des pays bénéficiaires, notamment : 
+
+a) La création, la reprise ou la prise de participation dans les entreprises locales ; 
+
+b) L'abondement de fonds destinés à des activités de microfinance ; 
+
+c) L'acquisition d'immobilier d'entreprise, d'immobilier commercial ou de logements locatifs ; 
+
+d) Le rachat de fonds de commerce ; 
+
+e) Le versement à des fonds d'investissement dédiés au développement ou des sociétés financières spécialisées dans le
+financement à long terme, opérant dans les pays visés au II. 
+
+IV.-Les opérations relatives aux comptes épargne codéveloppement sont soumises au contrôle sur pièces et sur place de
+l'inspection générale des finances.
+
+V.-Un comité examine périodiquement la cohérence des projets financés au travers du compte épargne codéveloppement avec les
+différentes actions de financement du développement et formule des recommandations aux ministres concernés. Ce comité est
+institué par arrêté conjoint du ministre des affaires étrangères, du ministre de l'intérieur, du ministre chargé de
+l'économie et du ministre chargé du budget. 
+
+VI. - Un décret fixe les modalités d'application du présent article, notamment les obligations des titulaires d'un compte
+épargne codéveloppement et des établissements distributeurs. 
+
+Art. L. 221-34. I.-Un livret d'épargne pour le codéveloppement peut être proposé par tout établissement de crédit et par tout
+établissement autorisé à recevoir des dépôts qui s'engage par convention avec l'Etat à respecter les règles fixées pour le
+fonctionnement de ce livret. 
+
+II. - Le livret d'épargne pour le codéveloppement est destiné à recevoir l'épargne d'étrangers majeurs ayant la nationalité
+d'un pays en voie de développement, figurant sur la liste de pays fixée par l'arrêté prévu au II de l'article L. 221-33,
+titulaires d'un titre de séjour d'une durée supérieure ou égale à un an et fiscalement domiciliés en France, aux fins de
+financer des opérations d'investissement dans les pays signataires d'un accord avec la France prévoyant la distribution du
+livret d'épargne pour le codéveloppement. 
+
+III. - A l'issue d'une phase d'épargne au cours de laquelle les sommes placées sur le livret d'épargne pour le
+codéveloppement sont bloquées pour une durée au moins égale à trois années consécutives et régulièrement alimentées dans des
+conditions fixées par décret en Conseil d'Etat, les titulaires d'un livret d'épargne pour le codéveloppement qui contractent
+un prêt aux fins d'investissement dans un pays signataire avec la France d'un accord prévoyant la distribution du livret
+d'épargne pour le codéveloppement bénéficient d'une prime d'épargne plafonnée dont le montant est fixé compte tenu de leur
+effort d'épargne. Les investissements ouvrant droit à la prime sont définis dans les accords signés entre les pays en
+développement et la France. 
+
+IV. - Les conditions de transfert dans un autre établissement de crédit et de plafonnement des sommes versées sur le livret
+d'épargne pour le codéveloppement sont fixées par décret en Conseil d'Etat.
+
+V. - Les opérations relatives aux livrets d'épargne pour le codéveloppement sont soumises au contrôle sur pièces et sur place
+de l'inspection générale des finances. 
+
+VI. - Le comité prévu au V de l'article L. 221-33 examine périodiquement la cohérence des projets financés au travers du
+livret d'épargne pour le codéveloppement avec les différentes actions de financement du développement et formule des
+recommandations aux ministres concernés. 
+
+VII. - Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 53 () JORF 21 novembre 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-33 (V)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-34 (V)
 
 
 # Partie réglementaire
