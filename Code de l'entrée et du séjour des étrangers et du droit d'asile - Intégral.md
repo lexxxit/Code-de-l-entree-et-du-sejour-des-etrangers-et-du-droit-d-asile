@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-12-07
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -1790,42 +1790,33 @@ concours d'un interprète et la communication de son dossier.
 
 Le juge des libertés et de la détention statue au siège du tribunal de grande instance. Toutefois, si une salle d'audience
 attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée sur l'emprise
-ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle.
+ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle. 
 
 En cas de nécessité, le président du tribunal de grande instance peut décider de tenir une seconde audience au siège du
-tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée.
+tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée. 
 
 Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une
 langue qu'il comprend ne s'est pas opposé, l'audience peut également se dérouler avec l'utilisation de moyens de
 télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des
-deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
+deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées. 
 
-Sous réserve de l'application de l'article 435 du nouveau code de procédure civile, le juge des libertés et de la détention
-statue publiquement.
+Sous réserve de l'application de l'article 435 du    code de procédure civile, le juge des libertés et de la détention statue
+publiquement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Nouveau code de procédure civile 435
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 35 quater, paragraphe III al. 1, phrases 6 à 11
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 47 () JORF 21 novembre 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L222-6 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R222-3 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 435
 
 
 ###### Article L222-5
