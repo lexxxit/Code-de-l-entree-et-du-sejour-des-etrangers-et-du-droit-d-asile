@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 
 # Partie législative
 
@@ -1041,25 +1041,18 @@ lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 ###### Article L211-8
 
 Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de
-l'accueil des étrangers et des migrations, d'une taxe d'un montant de 30 euros acquittée par l'hébergeant. Cette taxe est
+l'accueil des étrangers et des migrations, d'une taxe d'un montant de 45 euros acquittée par l'hébergeant. Cette taxe est
 recouvrée comme en matière de droit de timbre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 5-3, al. 14
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (M)
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 133 () JORF 27 décembre 2006
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 103
 
 
 ###### Article L211-9
