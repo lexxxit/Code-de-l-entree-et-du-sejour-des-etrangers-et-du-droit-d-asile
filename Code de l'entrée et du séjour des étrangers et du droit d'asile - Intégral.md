@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-03-08
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -21979,26 +21979,26 @@ applicables.
 
 ###### Article R552-12
 
-L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre
-heures de son prononcé, par l'étranger, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi
-prévu est calculé et prorogé conformément aux articles 640 et 642 du nouveau code de procédure civile.
+L' ordonnance est susceptible d' appel devant le premier président de la cour d' appel ou son délégué, dans les vingt- quatre
+heures de son prononcé, par l' étranger, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi
+prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
-Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu'il a renoncé
-à solliciter la suspension provisoire.
+Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu' il a
+renoncé à solliciter la suspension provisoire. 
 
-Toutefois, il doit former appel dans le délai de quatre heures s'il entend solliciter du premier président ou de son délégué
-qu'il déclare l'appel suspensif.
+Toutefois, il doit former appel dans le délai de quatre heures s' il entend solliciter du premier président ou de son délégué
+qu' il déclare l' appel suspensif. 
 
-Dans le cas prévu à l'alinéa précédent, le ministère public fait notifier la déclaration d'appel, immédiatement et par tout
-moyen, à l'autorité administrative, à l'étranger et, le cas échéant, à son avocat, qui en accusent réception. La notification
-mentionne que des observations en réponse à la demande de déclaration d'appel suspensif peuvent être transmises par tout
-moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
+Dans le cas prévu à l' alinéa précédent, le ministère public fait notifier la déclaration d' appel, immédiatement et par tout
+moyen, à l' autorité administrative, à l' étranger et, le cas échéant, à son avocat, qui en accusent réception. La
+notification mentionne que des observations en réponse à la demande de déclaration d' appel suspensif peuvent être transmises
+par tout moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 	**Cité par**:
 
@@ -22051,15 +22051,15 @@ maintien. Il en informe sans délai l'étranger et l'autorité administrative qu
 
 ###### Article R552-15
 
-Le greffier de la cour d'appel fait connaître aux parties et au ministère public la date de l'audience au fond.
+Le greffier de la cour d'appel fait connaître aux parties et au ministère public la date de l'audience au fond. 
 
 L'autorité qui a ordonné la rétention, l'avocat de l'étranger et l'étranger lui-même peuvent demander à être entendus à
-l'audience.
+l'audience. 
 
-Le ministère public peut faire connaître son avis.
+Le ministère public peut faire connaître son avis. 
 
 Le premier président ou son délégué statue au fond dans les quarante-huit heures de sa saisine. Le délai ainsi prévu est
-calculé et prorogé conformément aux articles 640 et 642 du nouveau code de procédure civile.
+calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile. 
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée à l'étranger et à son conseil, s'il en a un, ainsi qu'à
 l'autorité qui a prononcé la rétention. La notification est faite sur place aux parties présentes qui en accusent réception.
@@ -22067,15 +22067,20 @@ Le greffier la notifie par tout moyen et dans les meilleurs délais aux autres p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 3 mars 2010 - art. Annexe C (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-17 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-23 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 640 (V)
+	  - Code de procédure civile - art. 642 (V)
 
 
 ##### Sous-section 2 : Pourvoi en cassation
