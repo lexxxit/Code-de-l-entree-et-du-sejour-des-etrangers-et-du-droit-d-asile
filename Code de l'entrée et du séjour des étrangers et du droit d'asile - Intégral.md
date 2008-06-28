@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-29
 
 # Partie législative
 
@@ -15718,64 +15718,93 @@ ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de 
 
 ###### Article R311-15
 
-I. - Le titre de séjour peut être retiré :
+I.-Le titre de séjour peut être retiré : 
 
-1° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour "compétences et talents", est passible
-de poursuites pénales sur le fondement des articles 222-39, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7,
-311-4 (7°), 312-12-1 et 321-6-1 du code pénal ;
+1° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour " compétences et talents ", est
+passible de poursuites pénales sur le fondement des articles 222-39, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à
+225-12-7, 311-4 (7°), 312-12-1 et 321-6-1 du code pénal ; 
 
-2° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour "compétences et talents", a occupé un
+2° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour " compétences et talents ", a occupé un
 travailleur étranger en infraction avec les dispositions de l'article L. 341-6 du code du travail ou a méconnu les
 dispositions de l'article L. 341-4 du même code ou a exercé une activité professionnelle non salariée sans en avoir
-l'autorisation ;
+l'autorisation ; 
 
-3° Si l'étranger titulaire d'une carte de séjour "étudiant" ne respecte pas la limite de la durée de travail annuelle prévue
-à l'article L. 313-7 ;
+3° Si l'étranger titulaire d'une carte de séjour " étudiant " ne respecte pas la limite de la durée de travail annuelle
+prévue à l'article L. 313-7 ; 
 
 4° Si l'étranger autorisé à séjourner en France au titre du regroupement familial n'est plus en situation de vie commune avec
 le conjoint qu'il est venu rejoindre dans les trois ans qui suivent la délivrance du titre de séjour, sauf dans les cas
-mentionnés à l'article L. 431-2 ;
+mentionnés à l'article L. 431-2 ; 
 
 5° Sous réserve des dispositions des articles L. 511-4, L. 521-2 et L. 521-3, si l'étranger a fait venir son conjoint ou ses
 enfants en dehors de la procédure de regroupement familial, sauf s'il est titulaire de la carte de résident portant la
-mention "résident de longue durée-CE" accordée par la France en application de l'article L. 314-8 ;
+mention " résident de longue durée-CE " accordée par la France en application de l'article L. 314-8 ; 
 
 6° Si l'étranger titulaire d'une carte de résident sur le fondement du 3° de l'article L. 314-9 a mis fin à sa vie commune
 avec un ressortissant de nationalité française dans les quatre années qui suivent la célébration du mariage, sauf dans les
-cas mentionnés à l'article L. 314-5-1 ;
+cas mentionnés à l'article L. 314-5-1 ; 
 
 7° Si l'étranger, titulaire de la carte de résident de longue durée-CE dans un autre Etat membre, autorisé à séjourner en
 France en application de l'article L. 313-4-1, exerce dans les douze mois qui suivent la délivrance de la carte de séjour
 temporaire mentionnée au 1°, 2° ou 3° de l'article L. 313-10, des activités salariées autres que celles pour lesquelles il
-s'est vu accorder son droit au séjour en France ;
+s'est vu accorder son droit au séjour en France ; 
 
 8° Si l'étranger, titulaire d'une carte de résident, a occupé un travailleur étranger en infraction avec les dispositions de
-l'article L. 341-6 du code du travail.
+l'article L. 341-6 du code du travail ; 
 
-II. - La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire :
+9° Si l'étranger admis à séjourner en France pour y exercer une activité salariée se voit retirer son autorisation de travail
+au motif qu'il ne s'est pas conformé à l'obligation de produire le certificat médical prévu par l'article L. 5221-5 du code
+du travail. 
+
+II.-La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire : 
 
 1° Si l'étranger, titulaire d'une carte de résident, ne peut faire l'objet d'une mesure d'expulsion en application des
 articles L. 521-2 ou L. 521-3 du présent code et a été condamné de manière définitive sur le fondement des articles 433-3,
 433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième alinéa de l'article 433-5-1 ou de l'article 433-6 du
-code pénal ;
+code pénal ; 
 
-2° Si l'étranger, titulaire de la carte de résident portant la mention "résident de longue durée-CE" accordée par la France
+2° Si l'étranger, titulaire de la carte de résident portant la mention " résident de longue durée-CE " accordée par la France
 en application de l'article L. 314-8 et dont la présence en France constitue une menace grave pour l'ordre public, ne peut
 faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 7 () JORF 22 mars 2007
+	  - Décret n°2008-614 du 27 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-5-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L431-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-3
+	  - Code pénal - art. 222-39
+	  - Code pénal - art. 225-12-5
+	  - Code pénal - art. 225-4-1
+	  - Code pénal - art. 225-4-7
+	  - Code pénal - art. 225-5
+	  - Code pénal - art. 311-4
+	  - Code pénal - art. 312-12-1
+	  - Code pénal - art. 321-6-1
+	  - Code pénal - art. 433-3
+	  - Code pénal - art. 433-4
+	  - Code pénal - art. 433-5
+	  - Code pénal - art. 433-5-1
+	  - Code pénal - art. 433-6
+	  - Code du travail - art. L341-4
+	  - Code du travail - art. L341-6
+	  - Code du travail - art. L5221-5
 
 
 ###### Article R311-16
@@ -15825,34 +15854,35 @@ de leur département de résidence dans les conditions définies aux articles D.
 
 ###### Article R311-19
 
-I. - Le contrat d'accueil et d'intégration prévu à l'article L. 311-9 est souscrit par l'étranger mentionné au premier alinéa
+I.-Le contrat d'accueil et d'intégration prévu à l'article L. 311-9 est souscrit par l'étranger mentionné au premier alinéa
 de cet article, sous réserve qu'il ne soit pas ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie à
 l'accord sur l'Espace économique européen ou de la Confédération suisse et qu'il remplisse les conditions requises pour
-l'obtention :
+l'obtention : 
 
-a) D'une carte de séjour temporaire portant la mention "scientifique" délivrée en application de l'article L. 313-8, sur
-présentation d'un contrat à durée indéterminée ;
+a) D'une carte de séjour temporaire portant la mention " scientifique " délivrée en application de l'article L. 313-8, sur
+présentation d'un contrat à durée indéterminée ; 
 
-b) D'une carte de séjour temporaire portant la mention "profession artistique et culturelle" délivrée en application de
-l'article L. 313-9, sur présentation d'un contrat à durée indéterminée ;
+b) D'une carte de séjour temporaire portant la mention " profession artistique et culturelle " délivrée en application de
+l'article L. 313-9, sur présentation d'un contrat à durée indéterminée ; 
 
 c) D'une carte de séjour temporaire autorisant l'exercice d'une activité professionnelle délivrée en application de l'article
-L. 313-10, à l'exception des cartes portant les mentions "travailleur saisonnier" ou "travailleur temporaire" ;
+L. 313-10, à l'exception des cartes portant les mentions " travailleur saisonnier ", " travailleur temporaire " ou " salarié
+en mission " ; 
 
-d) D'une carte de séjour temporaire portant la mention "vie privée et familiale" délivrée en application de l'article L.
-313-11, à l'exception des étrangers visés au 11° de cet article, ainsi que des articles L. 313-13 et L. 316-1 ;
+d) D'une carte de séjour temporaire délivrée en application de l'article L. 313-11, à l'exception des étrangers mentionnés
+aux 3° et 11° de cet article, ou des articles L. 313-13, L. 313-14 et L. 316-1 ; 
 
-e) D'une carte de séjour portant la mention "compétences et talents" délivrée en application de l'article L. 315-1 ;
+e) (alinéa supprimé) ; 
 
-f) D'une carte de résident délivrée en application des dispositions des articles L. 314-8 et L. 314-11, lorsque l'étranger
-n'a pas signé le contrat d'accueil et d'intégration à un autre titre.
+f) D'une carte de résident délivrée en application des dispositions des articles L. 314-8, L. 314-9 et L. 314-11, lorsque
+l'étranger n'a pas signé le contrat d'accueil et d'intégration à un autre titre. 
 
-II. - Le contrat d'accueil et d'intégration peut également être souscrit par l'étranger qui n'a pas signé de contrat
-d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en France, conformément au cinquième alinéa
-de l'article L. 311-9, sous réserve qu'il séjourne régulièrement en France sous le couvert d'un des titres mentionnés aux a à
-f du I du présent article.
+II.-Le contrat d'accueil et d'intégration peut également être souscrit par l'étranger qui n'a pas signé de contrat d'accueil
+et d'intégration lorsqu'il a été admis pour la première fois au séjour en France, conformément au cinquième alinéa de
+l'article L. 311-9, sous réserve qu'il séjourne régulièrement en France sous le couvert d'un des titres mentionnés aux a à f
+du I du présent article. 
 
-III. - Est dispensé de la signature d'un contrat d'accueil et d'intégration l'étranger mentionné au quatrième alinéa de
+III.-Est dispensé de la signature d'un contrat d'accueil et d'intégration l'étranger mentionné au quatrième alinéa de
 l'article L. 311-9, sur présentation d'une attestation établie par le chef de l'établissement d'enseignement secondaire
 français à l'étranger dans lequel il a effectué sa scolarité pendant au moins trois ans, dès lors que cet établissement
 figure sur la liste mentionnée à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires
@@ -15860,13 +15890,26 @@ français à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°93-1064 du 9 septembre 1993 - art. 2
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-14
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2008-614 du 27 juin 2008 - art. 2
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2008-614 du 27 juin 2008, v. init.
 
 	**Cité par**:
 
@@ -16403,21 +16446,24 @@ L'étranger qui occupe l'emploi mentionné à l'article L. 311-11 sollicite la d
 
 ###### Article R312-1
 
-Le préfet met en place la commission du titre de séjour mentionnée à l'article L. 312-1 par un arrêté :
+Le préfet ou, à Paris, le préfet de police met en place la commission du titre de séjour mentionnée à l'article L. 312-1 par
+un arrêté : 
 
-1° Constatant la désignation par le président du tribunal administratif d'un conseiller délégué, s'il y a lieu, et d'un
-suppléant, et par l'assemblée générale du tribunal de grande instance du chef-lieu du département d'un magistrat et de son
-suppléant ;
+1° Constatant la désignation des élus locaux mentionnés au a du même article ; 
 
-2° Constatant la désignation des élus locaux mentionnés au e du même article ;
+2° Désignant les personnalités qualifiées mentionnées au b du même article ; 
 
-3° Désignant les personnalités qualifiées mentionnées aux c et d du même article.
+3° Désignant le président de la commission.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-614 du 27 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L312-1
 
 
 ###### Article R312-2
@@ -16581,28 +16627,26 @@ départemental du travail, de l'emploi et de la formation professionnelle ou de 
 ###### Article R313-1
 
 L'étranger qui, n'étant pas déjà admis à résider en France, sollicite la délivrance d'une carte de séjour temporaire présente
-à l'appui de sa demande :
+à l'appui de sa demande : 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
-2° Les documents, mentionnés à l'article R. 211-1, justifiant qu'il est entré régulièrement en France ;
+2° Les documents, mentionnés à l'article R. 211-1, justifiant qu'il est entré régulièrement en France ; 
 
 3° Sauf stipulation contraire d'une convention internationale applicable en France, un visa pour un séjour d'une durée
-supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-3 ;
+supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-3 ; 
 
-4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ;
+4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ; 
 
-5° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes.
+5° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ; 
+
+6° Un justificatif de domicile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 10 () JORF 22 mars 2007
+	  - Décret n°2008-614 du 27 juin 2008 - art. 4
 
 	**Cité par**:
 
@@ -16646,6 +16690,10 @@ supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
 	  - Code du travail - art. R341-1 (VT)
 	  - Code du travail - art. R5221-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R211-1
 
 
 ###### Article R313-2
@@ -16965,25 +17013,32 @@ d'enseignement qu'elle prévoit.
 ###### Article R313-12
 
 Le scientifique étranger qui exerce son activité en France dans les conditions prévues au deuxième alinéa de l'article L.
-313-8 et qui souhaite s'y maintenir plus de trois mois pour continuer à exercer les mêmes travaux peut solliciter le visa
-prévu pour la délivrance de la carte de séjour temporaire mention "scientifique" auprès du préfet compétent pour la
-délivrance de cette carte.
+313-8 et qui souhaite s'y maintenir plus de trois mois pour poursuivre les mêmes travaux présente, outre les justificatifs
+prévus à l'article R. 313-1 : 
+
+1° Les documents prévus à l'article R. 313-11, selon les conditions de son séjour en France ; 
+
+2° Le titre de séjour qui lui a été délivré en qualité de scientifique par un autre Etat membre de l'Union européenne, par un
+Etat partie à l'Espace économique européen ou par la Confédération suisse ; 
+
+3° La convention d'accueil qui a été souscrite dans cet Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 18 () JORF 22 mars 2007
+	  - Décret n°2008-614 du 27 juin 2008 - art. 5
 
 	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-11 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-13 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-11
 
 
 ###### Article R313-13
@@ -17041,31 +17096,35 @@ réalité de l'activité de l'entreprise ou de l'établissement et, d'autre part
 
 ###### Article R313-15
 
-Pour l'application du 1° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention "salarié" présente, outre
-les pièces prévues à l'article R. 313-1, un contrat de travail conclu pour une durée égale ou supérieure à douze mois avec un
-employeur établi en France. Ce contrat est conforme au modèle fixé par arrêté du ministre chargé du travail et est revêtu du
-visa de ses services.
+Pour l'application du 1° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention " salarié " présente,
+outre les pièces prévues à l'article R. 313-1 à l'exception du certificat médical prévu au 4° de cet article, un contrat de
+travail conclu pour une durée égale ou supérieure à douze mois avec un employeur établi en France. Ce contrat est conforme au
+modèle fixé par arrêté du ministre chargé du travail et est revêtu du visa de ses services.
 
-L'étranger qui sollicite la délivrance de la carte de séjour mention "travailleur temporaire" présente un contrat de travail
-conclu pour une durée inférieure à douze mois.
+L'étranger qui sollicite la délivrance de la carte de séjour mention " travailleur temporaire " présente un contrat de
+travail conclu pour une durée inférieure à douze mois. 
 
 Ces cartes autorisent l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 341-2-1, R.
 341-2-2 et R. 341-2-4 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-1292 du 30 août 2007 - art. 2 () JORF 1er septembre 2007
+	  - Décret n°2008-614 du 27 juin 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R833-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
+	  - Code du travail - art. R341-2-1
+	  - Code du travail - art. R341-2-2
+	  - Code du travail - art. R341-2-4
 
 
 ###### Article R313-16
@@ -17235,43 +17294,51 @@ cause.
 
 ###### Article R313-18
 
-Pour l'application du 4° de l'article L. 313-10, l'étranger qui sollicite une carte de séjour mention "travailleur
-saisonnier" présente, outre les pièces prévues à l'article R. 313-1, un contrat de travail conclu dans les conditions
-définies à l'article R. 341-4-2 du code du travail.
+Pour l'application du 4° de l'article L. 313-10, l'étranger qui sollicite une carte de séjour mention " travailleur
+saisonnier " présente, outre les pièces prévues à l'article R. 313-1 à l'exception du certificat médical prévu au 4° de cet
+article, un contrat de travail conclu dans les conditions définies à l'article R. 341-4-2 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-614 du 27 juin 2008 - art. 6
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-1292 du 30 août 2007 - art. 3 () JORF 1er septembre 2007
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-19 (Ab)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
+	  - Code du travail - art. R341-4-2
+
 
 ###### Article R313-19
 
-Pour l'application du 5° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention "salarié en mission"
-présente, outre les pièces prévues à l'article R. 313-1, un contrat de travail ou une demande d'introduction en France
-revêtus du visa des services du ministre chargé du travail.
+Pour l'application du 5° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention " salarié en mission "
+présente, outre les pièces prévues à l'article R. 313-1 à l'exception du certificat médical prévu au 4° de cet article, un
+contrat de travail ou une demande d'introduction en France revêtus du visa des services du ministre chargé du travail.
 
 L'étranger justifie annuellement, par une déclaration conforme à un modèle fixé par arrêté du ministre chargé du travail, que
 les conditions d'emploi et de rémunération déclarées au moment de la délivrance de la carte continuent d'être satisfaites.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-614 du 27 juin 2008 - art. 6
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-1292 du 30 août 2007 - art. 3 () JORF 1er septembre 2007
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
 
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
@@ -17425,42 +17492,45 @@ une autorisation provisoire de séjour renouvelable pendant la durée du traitem
 
 L'étranger mentionné au I ou au II de l'article L. 313-11-1 qui souhaite séjourner en France auprès de son conjoint ou parent
 titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et admis au séjour en
-France en application de l'article L. 313-4-1 doit présenter les pièces suivantes :
+France en application de l'article L. 313-4-1 doit présenter les pièces suivantes : 
 
 1° La justification qu'il est autorisé à résider légalement, en qualité de membre de famille, sur le territoire de l'Etat
-membre de l'Union européenne qui a accordé le statut de résident de longue durée-CE à son conjoint ou parent ;
+membre de l'Union européenne qui a accordé le statut de résident de longue durée-CE à son conjoint ou parent ; 
 
-2° La justification qu'il dispose de ressources propres, stables et régulières, suffisant à son entretien indépendamment des
-prestations familiales et des allocations mentionnées au III de l'article L. 313-1-1 ou qu'il bénéficie de la prise en charge
-effective de ses besoins par son conjoint ou parent ; les ressources mensuelles du demandeur doivent atteindre un montant au
-moins égal au salaire minimum de croissance apprécié à la date du dépôt de la demande ;
+2° De la justification que son entretien sera assuré par des ressources stables et régulières, indépendamment des prestations
+familiales et des allocations mentionnées au III de l'article L. 313-11-1 ; les ressources stables du demandeur et de son
+conjoint ou parent contribuant à la prise en charge effective de ses besoins sont appréciées par référence au montant du
+salaire minimum de croissance et sont considérées comme suffisantes lorsqu'elles atteignent :
+
+- ce montant pour une famille de deux ou trois personnes ;
+
+- ce montant majoré d'un dixième pour une famille de quatre ou cinq personnes ;
+
+- ce montant majoré d'un cinquième pour une famille de six personnes ou plus ; 
 
 3° La justification qu'il dispose d'un logement approprié, qui peut notamment être apportée par tout document attestant sa
-qualité de propriétaire ou de locataire du logement ;
+qualité de propriétaire ou de locataire du logement ; 
 
-4° La justification qu'il bénéficie d'une assurance maladie ;
+4° La justification qu'il bénéficie d'une assurance maladie ; 
 
 5° Les pièces justificatives de l'état civil de son conjoint ou parent permettant d'attester le lien matrimonial ou de
 filiation.
 
-**Nota:**
-
-Il convient de lire au 2° L. 313-11-1 au lieu de L. 313-1-1.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2007-373 du 21 mars 2007 - art. 22 () JORF 22 mars 2007
+	  - Décret n°2008-614 du 27 juin 2008 - art. 7
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-3 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
 
 
 ##### Paragraphe 2 : Commission médicale régionale
@@ -18302,6 +18372,33 @@ statut "résident longue durée-CE" dans un autre Etat membre de l'Union europé
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-7 (M)
+
+
+##### Section 4 : Délivrance de la carte de résident permanent
+
+###### Article R314-4
+
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11 ou L. 314-12,
+l'étranger qui sollicite la carte de résident permanent présente à l'appui de sa demande, outre les pièces prévues à
+l'article R. 314-3, celles prévues au 5° de l'article R. 314-1 lorsque son intégration républicaine dans la société française
+n'a pas été vérifiée en application des dispositions de l'article L. 314-2 à l'occasion d'une précédente demande de titre de
+séjour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-614 du 27 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-12
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-3
 
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
@@ -19848,25 +19945,31 @@ L'âge du conjoint et des enfants pouvant bénéficier du regroupement familial 
 
 ###### Article R411-4
 
-Pour l'application du 1° de l'article L. 411-5, le niveau des ressources du demandeur est apprécié par référence à la moyenne
-du salaire minimum de croissance sur une durée de douze mois. Les ressources du conjoint sont prises en compte dans les mêmes
-conditions pour l'appréciation des ressources qui alimenteront de manière stable le budget de la famille. Lorsque le niveau
-de cette référence est atteint, les ressources sont considérées comme suffisantes.
+Pour l'application du 1° de l'article L. 411-5, les ressources du demandeur et de son conjoint qui alimenteront de façon
+stable le budget de la famille sont appréciées sur une période de douze mois par référence à la moyenne mensuelle du salaire
+minimum de croissance au cours de cette période. Ces ressources sont considérées comme suffisantes lorsqu'elles atteignent un
+montant équivalent à :
+
+- cette moyenne pour une famille de deux ou trois personnes ;
+
+- cette moyenne majorée d'un dixième pour une famille de quatre ou cinq personnes ;
+
+- cette moyenne majorée d'un cinquième pour une famille de six personnes ou plus.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+	  - Décret n°2008-614 du 27 juin 2008 - art. 9
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-12 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-19 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-5
 
 
 ###### Article R411-5
