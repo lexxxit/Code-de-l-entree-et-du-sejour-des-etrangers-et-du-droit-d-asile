@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-07-01
+Version Consolidée au 2008-07-18
 
 # Partie législative
 
@@ -12442,26 +12442,26 @@ recueillis sur le mineur.
 ###### Article R111-20
 
 Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à
-l'article R. 111-13 :
+l'article R. 111-13 : 
 
 1° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur durant son maintien en zone
 d'attente et sa représentation dans toutes les procédures administratives et juridictionnelles relatives à ce maintien ainsi
 que celles afférentes à son entrée sur le territoire national en vertu des dispositions du titre II du livre II et de
-l'article L. 624-1 du présent code et des articles L. 521-1, L. 521-2 et L. 521-3 du code de justice administrative ;
+l'article L. 624-1 du présent code et des articles L. 521-1, L. 521-2 et L. 521-3 du code de justice administrative ; 
 
 2° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans
 la procédure relative à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides en
-application des dispositions du livre VII du présent code ;
+application des dispositions du livre VII du présent code ; 
 
 3° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans
-les procédures relatives à l'examen de sa demande d'asile devant la Commission des recours des réfugiés et devant le Conseil
+les procédures relatives à l'examen de sa demande d'asile devant la Cour nationale du droit d'asile et devant le Conseil
 d'Etat, en application des dispositions du livre VII du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -14572,11 +14572,14 @@ décision le ministre chargé de la recherche et le ministre des affaires étran
 L'autorité administrative compétente pour prendre la décision mentionnée à l'article R. 213-2 de refuser l'entrée en France à
 un étranger demandant à bénéficier du droit d'asile est le ministre chargé de l'immigration.
 
+L'étranger est informé du caractère positif ou négatif de cette décision dans une langue dont il est raisonnable de penser
+qu'il la comprend.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 3
 
 	**Cité par**:
 
@@ -14584,6 +14587,10 @@ un étranger demandant à bénéficier du droit d'asile est le ministre chargé 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-20 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-32 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-2
 
 
 ###### Article R213-1
@@ -14607,14 +14614,22 @@ un militaire désigné par lui, titulaire au moins du grade de gendarme.
 
 ###### Article R213-2
 
-Lorsque l'étranger qui se présente à la frontière demande à bénéficier du droit d'asile, une décision de refus d'entrée en
-France ne peut être prise qu'après consultation de l'Office français de protection des réfugiés et apatrides.
+Lorsque l'étranger qui se présente à la frontière demande à bénéficier du droit d'asile, il est informé sans délai, dans une
+langue dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et obligations
+au cours de cette procédure, des conséquences que pourrait avoir le non-respect de ses obligations ou le refus de coopérer
+avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande. 
+
+La décision de refus d'entrée ne peut être prise qu'après consultation de l'Office français de protection des réfugiés et
+apatrides, qui procède à l'audition de l'étranger. 
+
+Lorsque l'audition du demandeur d'asile nécessite l'assistance d'un interprète, sa rétribution est prise en charge par
+l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 2
 
 	**Cité par**:
 
@@ -24123,27 +24138,29 @@ Les représentants de l'Etat au conseil d'administration sont :
 
 1° Une personnalité nommée par décret du Premier ministre pour une durée de trois ans ;
 
-2° Le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ;
+2° Le secrétaire général du ministère chargé de l'asile ; 
 
-3° Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur ;
+3° Le directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ; 
 
-4° Le directeur de la population et des migrations au ministère des affaires sociales ;
+4° Le secrétaire général du ministère des affaires étrangères ; 
 
 5° Le directeur des affaires civiles et du sceau au ministère de la justice ;
 
-6° Le directeur du budget au ministère de l'économie, des finances et de l'industrie.
+6° Le directeur du budget au ministère chargé du budget ;
 
-Les ministres intéressés désignent des suppléants permanents aux directeurs d'administration qui les représentent.
+7° Le chef du service de l'asile au ministère chargé de l'asile. 
 
-En cas d'empêchement du président, la présidence du conseil est assurée par le directeur des Français à l'étranger et des
-étrangers en France au ministère des affaires étrangères et, à défaut, par le représentant de l'Etat le plus ancien dans ses
-fonctions.
+Les ministres intéressés désignent des suppléants permanents aux secrétaires généraux, directeurs d'administration ou chefs
+de service qui les représentent.
+
+En cas d'empêchement du président, la présidence du conseil est assurée par le secrétaire général du ministère chargé de
+l'asile et, à défaut, par le représentant de l'Etat le plus ancien dans ses fonctions.
 
 Le représentant du personnel de l'office au conseil d'administration et son suppléant sont élus pour une durée de trois ans
-par le personnel de l'office dans des conditions fixées par arrêté du ministre des affaires étrangères.
+par le personnel de l'office dans des conditions fixées par arrêté du ministre chargé de l'asile.
 
 Les trois personnalités qualifiées qui assistent aux séances du conseil d'administration sont nommées pour trois ans par
-décret sur proposition du ministre des affaires étrangères après avis des ministres représentés au conseil d'administration.
+décret sur proposition du ministre chargé de l'asile après avis des ministres représentés au conseil d'administration.
 
 Le directeur général participe avec voix consultative aux séances du conseil d'administration.
 
@@ -24151,9 +24168,9 @@ Le conseil d'administration peut inviter toute personne concernée par l'ordre d
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 10
 
 	**Cité par**:
 
@@ -24163,67 +24180,75 @@ Le conseil d'administration peut inviter toute personne concernée par l'ordre d
 ###### Article R722-2
 
 Dans le cadre de ses attributions fixées à l'article L. 722-1, le conseil d'administration de l'office délibère sur les
-objets suivants :
+objets suivants : 
 
-1° L'organisation générale de l'établissement ;
+1° L'organisation générale de l'établissement ; 
 
-2° Le rapport d'activité ;
+2° Le rapport d'activité ; 
 
-3° Le budget et ses modifications ;
+3° Le budget et ses modifications ; 
 
-4° Le compte financier ;
+4° Le compte financier ; 
 
-5° Les dons et legs ;
+5° Les dons et legs ; 
 
-6° Les projets d'achat, d'échange, de vente ou de location d'immeubles.
+6° Les projets d'achat, d'échange, de vente ou de location d'immeubles. 
 
-Il arrête son règlement intérieur.
+Il arrête son règlement intérieur. 
 
 Il émet un avis sur les nominations aux emplois de directeur général adjoint, de secrétaire général, de secrétaire général
-adjoint et de chef de division.
+adjoint et de chef de division. 
 
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de
-l'office.
+l'office. 
 
-Il adresse chaque année le rapport d'activité aux ministres intéressés.
+Il adresse chaque année le rapport d'activité aux ministres intéressés. 
 
 Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de
-la Commission des recours des réfugiés sur les moyens à affecter au fonctionnement de cette dernière.
+la Cour nationale du droit d'asile sur les moyens à affecter au fonctionnement de cette dernière.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R722-3 (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-1
 
 
 ###### Article R722-3
 
 Le conseil d'administration de l'office se réunit au moins deux fois par an et chaque fois que cela est nécessaire, sur
 convocation de son président ou à la demande d'au moins quatre de ses membres adressée au président et comportant un projet
-d'ordre du jour précis.
+d'ordre du jour précis. 
 
-Le conseil ne peut délibérer que si sont présents au moins six de ses membres titulaires ou suppléants.
+Le conseil ne peut délibérer que si sont présents au moins six de ses membres titulaires ou suppléants. 
 
 Les délibérations sont prises à la majorité relative des membres présents. En cas de partage égal des voix, celle du
-président est prépondérante.
+président est prépondérante. 
 
 Les délibérations font l'objet de procès-verbaux signés par le président. La copie des procès-verbaux est transmise aux
-ministres représentés au conseil d'administration.
+ministres représentés au conseil d'administration. 
 
 Les délibérations sur les matières énumérées aux 3°, 4°, 5° et 6° de l'article R. 722-2 deviennent exécutoires de plein droit
-quinze jours après leur réception par le ministre des affaires étrangères et le ministre chargé du budget, sauf opposition ou
+quinze jours après leur réception par le ministre chargé de l'asile et le ministre chargé du budget, sauf opposition ou
 demande de surseoir à exécution adressée au directeur général de l'office.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R722-2
 
 
 ##### Section 2 : Le directeur général de l'office
@@ -24265,36 +24290,40 @@ délivré et indiquer pour chaque cas la liste des pays autorisés.
 
 ###### Article R722-5
 
-Le directeur général prépare et exécute les délibérations du conseil d'administration.
+Le directeur général prépare et exécute les délibérations du conseil d'administration. 
 
 Dans le cadre des orientations définies par le conseil, le directeur général dirige l'office dont les services sont placés
-sous son autorité. A ce titre, il exerce notamment les compétences suivantes :
+sous son autorité.A ce titre, il exerce notamment les compétences suivantes : 
 
-1° Il est l'ordonnateur des recettes et des dépenses ;
+1° Il est l'ordonnateur des recettes et des dépenses ; 
 
-2° Il représente l'office en justice et dans tous les actes de la vie civile ;
+2° Il représente l'office en justice et dans tous les actes de la vie civile ; 
 
 3° Il pourvoit aux emplois et gère le personnel, notamment en affectant les agents titulaires de l'office et en recrutant les
-agents contractuels ;
+agents contractuels ; 
 
-4° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+4° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ; 
 
-5° Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ;
+5° Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ; 
 
 6° Il peut créer des régies de recettes et d'avances sur avis conforme de l'agent comptable dans les conditions prévues à
-l'article R. 722-8 ;
+l'article R. 722-8 ; 
 
-7° Il rend compte de sa gestion au conseil d'administration.
+7° Il rend compte de sa gestion au conseil d'administration. 
 
 Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et
-de chefs de division. S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le
-ministre des affaires étrangères et le ministre de l'intérieur.
+de chefs de division.S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le
+ministre des affaires étrangères et le ministre chargé de l'asile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 12
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R722-8
 
 
 ###### Article R722-6
@@ -24313,38 +24342,6 @@ courante.
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L711-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
-
-
-##### Section 3 : La mission de liaison avec le ministère de l'intérieur.
-
-###### Article R722-7
-
-Une mission créée au sein de l'office assure la liaison entre cet établissement public et les services compétents du
-ministère de l'intérieur pour la mise en oeuvre des dispositions législatives et réglementaires du présent livre. 
-
-Elle est consultée en tant que de besoin sur les éléments relevant de la compétence du ministère de l'intérieur utiles à
-l'instruction de la demande d'asile. 
-
-Elle veille à l'application des dispositions des articles L. 723-4 et R. 723-5 concernant la transmission de documents d'état
-civil ou de voyage ainsi que des décisions de l'office. 
-
-Les agents de la mission sont nommés, sur proposition du ministre de l'intérieur, par décision du directeur général de
-l'office. Ils sont placés sous l'autorité directe de ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 13
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-5 (V)
 
 
 ##### Section 4 : Opérations comptables et financières
@@ -24388,21 +24385,25 @@ organismes publics.
 
 ###### Article R722-9
 
-Les recettes de l'office sont celles mentionnées à l'article L. 722-5.
+Les recettes de l'office sont celles mentionnées à l'article L. 722-5. 
 
-Les dépenses de l'office comprennent :
+Les dépenses de l'office comprennent : 
 
-1° Les frais de personnel ;
+1° Les frais de personnel ; 
 
-2° Les frais de fonctionnement et d'équipement ;
+2° Les frais de fonctionnement et d'équipement ; 
 
-3° De façon générale, toutes dépenses nécessaires à l'activité de l'office et de la Commission des recours des réfugiés.
+3° De façon générale, toutes dépenses nécessaires à l'activité de l'office et de la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-5
 
 
 #### Chapitre III : Examen des demandes d'asile.
@@ -24457,29 +24458,62 @@ Le préfet transmet des réception le dossier à l'office en mentionnant son car
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
 
 
+###### Article R723-1-1
+
+Le troisième alinéa de l'article R. 213-2 est applicable à l'audition mentionnée au premier alinéa de l'article L. 723-3.
+Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à
+l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses
+nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de
+voyage. 
+
+Une copie du rapport est transmise à l'intéressé avec la décision du directeur général de l'office lorsque celui-ci refuse la
+reconnaissance de la qualité de réfugié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-2
+
+
 ###### Article R723-2
 
 Le directeur général de l'office reconnaît la qualité de réfugié ou d'apatride ou accorde le bénéfice de la protection
-subsidiaire au terme d'une instruction unique, au vu des pièces et des informations dont il dispose à la date de sa décision.
+subsidiaire au terme d'une instruction unique, au vu des pièces et des informations dont il dispose à la date de sa
+décision. 
+
+La collecte d'informations nécessaires à cette instruction ne doit pas avoir pour effet la divulgation directe, aux auteurs
+présumés de persécutions à l'encontre de l'étranger demandeur d'asile, d'informations concernant la demande d'asile ou le
+fait qu'une demande d'asile a été introduite. 
 
 La décision du directeur général de l'office sur la demande d'asile est communiquée à l'intéressé par lettre recommandée avec
-demande d'avis de réception. La notification de la décision mentionne les voies et délais de recours. Le silence gardé
-pendant deux mois à compter de la date d'enregistrement de la demande d'asile constitue une décision implicite de rejet.
+demande d'avis de réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Lorsqu'une décision ne
+peut pas être prise dans le délai de six mois, l'office en informe l'intéressé dans les quinze jours qui précèdent
+l'expiration de ce délai. 
 
 Simultanément, le directeur général de l'office fait connaître le caractère positif ou négatif de sa décision au préfet de
 département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence nationale de l'accueil des
 étrangers et des migrations. Il communique au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la
-demande, copie de l'avis de réception.
+demande, copie de l'avis de réception. 
 
-Si le demandeur est placé en rétention administrative en application de l'article L. 551-1, le directeur général de l'office
-notifie sa décision à l'intéressé par voie administrative. Il informe simultanément le chef du centre de rétention du
-caractère positif ou négatif de sa décision.
+Si le demandeur est placé en rétention administrative, le directeur général de l'office notifie la décision par voie
+administrative et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Le chef du centre de rétention est
+informé simultanément du sens de la décision.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 5
 
 	**Cité par**:
 
@@ -24488,25 +24522,30 @@ caractère positif ou négatif de sa décision.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
+
 
 ###### Article R723-3
 
 Lorsqu'il est saisi en application de la procédure prioritaire prévue au second alinéa de l'article L. 723-1, l'office statue
 dans un délai de quinze jours sur la demande d'asile. Ce délai est ramené à 96 heures lorsque le demandeur d'asile est placé
-en rétention administrative en application de l'article L. 551-1.
+en rétention administrative en application de l'article L. 551-1. 
 
 Lorsque, à la suite d'une décision de rejet devenue définitive, la personne intéressée entend soumettre à l'office des
 éléments nouveaux, sa demande de réexamen doit être précédée d'une nouvelle demande d'admission au séjour et être présentée
 selon la procédure prévue à l'article R. 723-1. Le délai prévu au premier alinéa de cet article est alors limité à huit
-jours. Dans un délai de 96 heures suivant l'enregistrement de la demande, le directeur général de l'office décide, au vu des
-éléments produits, s'il y a lieu de procéder à un nouvel examen de la situation de l'intéressé. Le silence gardé par le
-directeur général au terme de ce délai vaut rejet de la demande.
+jours. 
+
+La décision du directeur général de l'office sur la demande de réexamen est communiquée par lettre recommandée avec demande
+d'avis de réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 6
 
 	**Cité par**:
 
@@ -24516,6 +24555,13 @@ directeur général au terme de ce délai vaut rejet de la demande.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R762-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R764-1 (M)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
 
 
 ###### Article R723-4
@@ -24576,23 +24622,23 @@ responsabilités dans le domaine de l'application de la réglementation des étr
 
 ###### Article R732-1
 
-Le président de la Commission des recours des réfugiés est nommé pour une durée de cinq ans, renouvelable.
+Le président de la Cour nationale du droit d'asile est nommé pour une durée de cinq ans, renouvelable. 
 
-Il est responsable de l'organisation et du fonctionnement de la commission. Il prend notamment les mesures nécessaires à la
-constitution et au fonctionnement des sections.
+Il est responsable de l'organisation et du fonctionnement de la cour. Il prend notamment les mesures nécessaires à la
+constitution et au fonctionnement des sections. 
 
-Il peut présider chacune des sections.
+Il peut présider chacune des sections. 
 
-Il est assisté de vice-présidents qu'il désigne chaque année parmi les présidents de section.
+Il est assisté de vice-présidents qu'il désigne chaque année parmi les présidents de section. 
 
 Pour les actes de gestion et d'administration courante, le président peut déléguer sa signature au secrétaire général et aux
 secrétaires généraux adjoints.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -24601,28 +24647,28 @@ secrétaires généraux adjoints.
 
 ###### Article R732-2
 
-Le secrétariat de la commission des recours est assuré par un secrétaire général nommé par le président de la commission.
+Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le président de la cour. 
 
 Le secrétaire général est assisté de secrétaires généraux adjoints. Il a également sous son autorité des chefs de service
 chargés de la mise en état des affaires en vue de leur jugement et de l'expédition des décisions rendues.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R732-3
 
-Le directeur général de l'office met à la disposition de la commission les moyens nécessaires au fonctionnement de celle-ci.
-L'affectation du personnel mis à disposition est décidée par le président de la commission.
+Le directeur général de l'office met à la disposition de la cour les moyens nécessaires au fonctionnement de celle-ci.
+L'affectation du personnel mis à disposition est décidée par le président de la cour.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -24631,29 +24677,29 @@ L'affectation du personnel mis à disposition est décidée par le président de
 
 ###### Article R732-4
 
-Les membres des formations de jugement de la commission sont nommés pour une période de cinq ans, renouvelable.
+Les membres des formations de jugement de la cour sont nommés pour une période de cinq ans, renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R732-5
 
 La formation de sections réunies comprend la section saisie du recours et deux autres sections, désignées selon un tableau
-établi annuellement.
+établi annuellement. 
 
-Elle est présidée par le président de la commission et, en cas d'empêchement, par le plus ancien des présidents de section.
+Elle est présidée par le président de la cour et, en cas d'empêchement, par le plus ancien des présidents de section. 
 
 Le moins ancien des présidents de section, autre que le président de la section saisie du recours, ne siège pas.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -24668,48 +24714,49 @@ Le moins ancien des présidents de section, autre que le président de la sectio
 
 ###### Article R733-1
 
-La commission se réunit sur convocation de son président toutes les fois que le nombre ou l'urgence des affaires l'exige.
+La cour se réunit sur convocation de son président toutes les fois que le nombre ou l'urgence des affaires l'exige.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R733-2
 
-La procédure devant la commission est gratuite et sans frais.
+La procédure devant la cour est gratuite et sans frais.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R733-3
 
-Les rapporteurs chargés de l'instruction des affaires peuvent être pris en dehors du personnel affecté à la commission ; ils
-sont alors désignés par arrêté du ministre des affaires étrangères.
+Les rapporteurs chargés de l'instruction des affaires peuvent être pris en dehors du personnel affecté à la cour ; ils sont
+alors désignés par arrêté du ministre chargé de l'asile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 11
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R733-4
 
-A tout moment de la procédure, le président de la commission ou la section à laquelle une affaire est attribuée peut renvoyer
-le jugement du recours à la formation de sections réunies.
+A tout moment de la procédure, le président de la cour ou la section à laquelle une affaire est attribuée peut renvoyer le
+jugement du recours à la formation de sections réunies.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -24718,26 +24765,30 @@ le jugement du recours à la formation de sections réunies.
 
 ##### Section 2 : Recours formés contre les décisions en matière d'asile
 
-##### Sous-section 1 : Compétence de la commission.
+##### Sous-section 1 : Compétence de la cour.
 
 ###### Article R733-6
 
-La Commission des recours des réfugiés statue :
+La Cour nationale du droit d'asile statue : 
 
-1° Sur les recours formés contre les décisions de l'office accordant ou refusant le bénéfice de l'asile ;
+1° Sur les recours formés contre les décisions de l'office accordant ou refusant le bénéfice de l'asile ; 
 
 2° Sur les recours formés contre les décisions de l'office prises à la suite d'une procédure retirant ou mettant fin au
-bénéfice de l'asile ;
+bénéfice de l'asile ; 
 
-3° Sur les recours en révision dans le cas où il est soutenu que la décision de la commission a résulté d'une fraude ;
+3° Sur les recours en révision dans le cas où il est soutenu que la décision de la cour a résulté d'une fraude ; 
 
 4° Sur les recours formés contre les décisions portant rejet d'une demande de réexamen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -24798,15 +24849,15 @@ Il peut lui être annexé toutes pièces de nature à établir le bien-fondé de
 
 ###### Article R733-8
 
-Le recours est adressé au secrétariat de la commission sous pli recommandé avec demande d'avis de réception.
+Le recours est adressé au secrétariat de la cour sous pli recommandé avec demande d'avis de réception. 
 
-Les recours sont inscrits sur un registre spécial, suivant leur date d'arrivée à la commission.
+Les recours sont inscrits sur un registre spécial, suivant leur date d'arrivée à la cour.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -24845,22 +24896,32 @@ constatée.
 
 ###### Article R733-10
 
-La liste des recours est communiquée sans délai par le secrétaire général de la commission au directeur général de l'office.
+La liste des recours est communiquée sans délai par le secrétaire général de la cour au directeur général de l'office. 
 
 Ce dernier doit transmettre le dossier de chaque requérant en possession de l'office dans un délai de quinze jours à compter
-de la date à laquelle il reçoit la liste des recours.
+de la date à laquelle il reçoit la liste des recours. Le dossier est tenu à la disposition de l'avocat du requérant. 
 
 Dans ce même délai, le directeur général peut demander à avoir communication de tout recours afin de présenter des
-observations dans un délai d'un mois à compter de cette communication.
+observations dans un délai d'un mois à compter de cette communication. 
 
-Lorsqu'il apparaît, au vu du recours, que la solution de l'affaire est d'ores et déjà certaine, le président de la commission
-peut décider qu'il n'y a pas lieu de communiquer le dossier au directeur général de l'office.
+Dans le délai susmentionné de quinze jours lorsqu'il apparaît, au vu du recours, que la solution de l'affaire est d'ores et
+déjà certaine, le président de la cour peut décider qu'il n'y a pas lieu de communiquer le recours au directeur général de
+l'office.
+
+**Nota:**
+
+Conformément au II de l'article 2 du décret n° 2013-751 du 16 août 2013,  les dispositions des deux premiers alinéas de
+l'article R. 733-10 s'appliquent aux recours inscrits aux audiences convoquées à compter du  premier jour du dix-huitième
+mois suivant celui de la publication du  présent décret, soit à compter du 1er février 2015. Restent d’ici là  applicables
+les dispositions de l’article R. 733-10 dans leur rédaction  antérieure au décret du 16 août 2013 précité. Le troisième
+alinéa de  l’article R.733-10 dans la rédaction que lui donne le décret du 16 août  2013 est immédiatement applicable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 7
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 ###### Article R733-11
@@ -24907,13 +24968,17 @@ jusqu'au 30 avril 2014, en lieu et place de l'article R. 733-13 et de l'article 
 ###### Article R733-13
 
 Les mémoires produits après la clôture de l'instruction ne donnent pas lieu à communication et ne sont pas visés dans la
-décision. Les conclusions et moyens qu'ils contiennent ne sont pas examinés par la commission.
+décision. Les conclusions et moyens qu'ils contiennent ne sont pas examinés par la cour.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -24957,15 +25022,19 @@ communiqués aux parties.
 
 ###### Article R733-16
 
-Lorsque, en application de l'article L. 733-2, le président de la commission et les présidents statuent, par ordonnance, sur
-les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la décision du directeur
+Lorsque, en application de l'article L. 733-2, le président de la cour et les présidents statuent, par ordonnance, sur les
+demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la décision du directeur
 général de l'office, cette ordonnance ne peut être prise qu'après étude du dossier par un rapporteur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -24974,25 +25043,29 @@ général de l'office, cette ordonnance ne peut être prise qu'après étude du 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-25 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-4 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-2
+
 
 ###### Article R733-17
 
-Les audiences de la commission sont publiques.
+Les audiences de la cour sont publiques. 
 
-Les parties peuvent présenter leurs observations à la commission.
+Les parties peuvent présenter leurs observations à la cour. 
 
 Le président de la formation de jugement veille à l'ordre de l'audience. Lorsque les circonstances l'exigent, il peut
-ordonner que l'audience se tienne à huis clos. Il statue sur les demandes de renvoi présentées par les parties.
+ordonner que l'audience se tienne à huis clos. Il statue sur les demandes de renvoi présentées par les parties. 
 
-Les décisions prises sur le fondement de l'alinéa précédent ne sont pas susceptibles de recours.
+Les décisions prises sur le fondement de l'alinéa précédent ne sont pas susceptibles de recours. 
 
 Les rapporteurs n'ont pas voix délibérative.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -25003,35 +25076,43 @@ Les rapporteurs n'ont pas voix délibérative.
 
 ###### Article R733-18
 
-La commission peut prescrire toute mesure d'instruction qu'elle jugera utile.
+La cour peut prescrire toute mesure d'instruction qu'elle jugera utile. 
 
 Sans préjudice des droits que les intéressés tiennent de l'article L. 733-1, elle peut notamment ordonner la comparution
 personnelle du requérant ou entendre le directeur général de l'office ou son représentant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R732-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-23 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
+
 
 ###### Article R733-19
 
-Les décisions de la commission sont motivées. Elles sont lues en audience publique.
+Les décisions de la cour sont motivées. Elles sont lues en audience publique. 
 
 La minute de chaque décision est signée par le président de la formation de jugement qui a rendu cette décision et par le
-secrétaire général de la commission ou par un chef de service.
+secrétaire général de la cour ou par un chef de service.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -25041,21 +25122,23 @@ secrétaire général de la commission ou par un chef de service.
 
 ###### Article R733-20
 
-Le secrétaire général de la commission notifie la décision de la commission au requérant par lettre recommandée avec demande
-d'avis de réception. Il la notifie également au directeur général de l'office lorsque celui-ci n'est pas le requérant. Il
-informe simultanément du caractère positif ou négatif de cette décision le préfet compétent et, à Paris, le préfet de police,
-ainsi que le directeur de l'Agence nationale de l'accueil des étrangers et des migrations. 
+Le secrétaire général de la cour notifie la décision de la cour au requérant par lettre recommandée avec demande d'avis de
+réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Il la notifie également au directeur
+général de l'office lorsque celui-ci n'est pas le requérant. Il informe simultanément du caractère positif ou négatif de
+cette décision le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence nationale de
+l'accueil des étrangers et des migrations. 
 
-La commission communique au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de
-l'avis de réception. 
+La cour communique au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de l'avis
+de réception. 
 
-Les décisions de rejet sont transmises au    ministre chargé de l'immigration .
+Les décisions de rejet sont transmises au ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 8
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -25065,37 +25148,45 @@ Les décisions de rejet sont transmises au    ministre chargé de l'immigration 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
+
 
 ##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.
 
 ###### Article R733-21
 
 Le réfugié auquel il est fait application d'une des mesures prévues aux articles 31, 32 et 33 de la convention de Genève
-relative au statut des réfugiés du 28 juillet 1951 peut adresser une requête à la commission des recours.
+relative au statut des réfugiés du 28 juillet 1951 peut adresser une requête à la Cour nationale du droit d'asile. 
 
 Les dispositions du premier alinéa de l'article R. 733-7 et celles de l'article R. 733-8 sont applicables à cette requête qui
-doit, à peine d'irrecevabilité, être adressée à la commission dans un délai d'une semaine à compter de la notification de la
-mesure qui la motive. Le requérant qui invoque le bénéfice des articles 32 ou 33 de la convention du 28 juillet 1951 doit
-joindre à l'appui de sa demande une copie de la mesure faisant l'objet de la requête, une copie de la décision du directeur
-général de l'office le concernant ainsi que tous éléments de nature à établir le bien-fondé de la requête.
+doit, à peine d'irrecevabilité, être adressée à la cour dans un délai d'une semaine à compter de la notification de la mesure
+qui la motive. Le requérant qui invoque le bénéfice des articles 32 ou 33 de la convention du 28 juillet 1951 doit joindre à
+l'appui de sa demande une copie de la mesure faisant l'objet de la requête, une copie de la décision du directeur général de
+l'office le concernant ainsi que tous éléments de nature à établir le bien-fondé de la requête.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-7
 
 
 ###### Article R733-22
 
-La requête est immédiatement communiquée par le secrétaire général de la commission au ministre de l'intérieur et au ministre
+La requête est immédiatement communiquée par le secrétaire général de la cour au ministre de l'intérieur et au ministre
 chargé de l'asile, qui doivent produire leurs observations dans un délai de dix jours à compter de la réception.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 20
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -25107,21 +25198,21 @@ chargé de l'asile, qui doivent produire leurs observations dans un délai de di
 
 ###### Article R733-23
 
-Dès réception de la réponse du ministre de l'intérieur et du ministre chargé de l'asile ou à l'expiration du délai, la
-commission se réunit sur convocation de son président. 
+Dès réception de la réponse du ministre de l'intérieur et du ministre chargé de l'asile ou à l'expiration du délai, la cour
+se réunit sur convocation de son président. 
 
 Les dispositions des troisième et cinquième alinéas de l'article R. 733-17 et du premier alinéa de l'article R. 733-18 sont
-applicables pour la procédure devant la commission. 
+applicables pour la procédure devant la cour. 
 
-La commission formule un avis motivé sur le maintien ou l'annulation de la mesure qui a provoqué la requête. Cet avis est
-transmis sans délai au ministre de l'intérieur et au ministre chargé de l'asile par lettre recommandée avec demande d'avis de
+La cour formule un avis motivé sur le maintien ou l'annulation de la mesure qui a provoqué la requête. Cet avis est transmis
+sans délai au ministre de l'intérieur et au ministre chargé de l'asile par lettre recommandée avec demande d'avis de
 réception.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 21
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -25130,6 +25221,17 @@ réception.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R762-1 (M)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-17
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-18
+
+
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
+
+#### Chapitre II : Organisation
+
+#### Chapitre III : Examen des recours
 
 ### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE
 
@@ -25319,29 +25421,25 @@ de l'enregistrement de sa demande d'asile par l'office, une décision refusant l
 
 ###### Article R742-3
 
-Sur présentation de l'accusé de réception d'un recours devant la Commission des recours des réfugiés contre une décision
-négative de l'Office français de protection des réfugiés et apatrides ou du reçu de l'enregistrement du recours délivré par
-la Commission des recours, le demandeur d'asile obtient le renouvellement du récépissé de la demande d'asile visé à l'article
-R. 742-2 d'une durée de validité de trois mois renouvelable jusqu'à la notification de la décision de la commission.
+Sur présentation de l'accusé de réception d'un recours devant la Cour nationale du droit d'asile contre une décision négative
+de l'Office français de protection des réfugiés et apatrides ou du reçu de l'enregistrement du recours délivré par la Cour
+nationale du droit d'asile, le demandeur d'asile obtient le renouvellement du récépissé de la demande d'asile visé à
+l'article R. 742-2 d'une durée de validité de trois mois renouvelable jusqu'à la notification de la décision de la cour. 
 
-Lorsqu'un recours est formé devant la Commission des recours des réfugiés, le demandeur d'asile qui a obtenu le
-renouvellement de son récépissé dans les conditions prévues à l'alinéa précédent est soumis aux règles de droit commun
-applicables aux travailleurs étrangers pour la délivrance d'une autorisation provisoire de travail.
+Lorsqu'un recours est formé devant la Cour nationale du droit d'asile, le demandeur d'asile qui a obtenu le renouvellement de
+son récépissé dans les conditions prévues à l'alinéa précédent est soumis aux règles de droit commun applicables aux
+travailleurs étrangers pour la délivrance d'une autorisation provisoire de travail. 
 
 Indépendamment des dispositions du deuxième alinéa de l'article L. 723-1 et de l'article L. 742-2, le récépissé prévu au
 premier alinéa peut ne pas être délivré s'il apparaît que le demandeur d'asile auquel a été notifiée une décision de rejet de
-l'Office français de protection des réfugiés et apatrides s'est abstenu de contester celle-ci devant la Commission des
-recours des réfugiés dans le délai fixé à l'article R. 733-9.
+l'Office français de protection des réfugiés et apatrides s'est abstenu de contester celle-ci devant la Cour nationale du
+droit d'asile dans le délai fixé à l'article R. 733-9. 
 
-Dans cette hypothèse, l'étranger bénéficie du délai de départ volontaire d'un mois prévu à l'article L. 742-3 et, si la
-Commission des recours des réfugiés est saisie au cours de ce délai, il lui est délivré le récépissé mentionné au premier
-alinéa du présent article, renouvelable jusqu'à la notification de la décision de cette commission.
+Dans cette hypothèse, l'étranger bénéficie du délai de départ volontaire d'un mois prévu à l'article L. 742-3 et, si la Cour
+nationale du droit d'asile est saisie au cours de ce délai, il lui est délivré le récépissé mentionné au premier alinéa du
+présent article, renouvelable jusqu'à la notification de la décision de cette cour.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 	**Cité par**:
 
@@ -25355,6 +25453,17 @@ alinéa du présent article, renouvelable jusqu'à la notification de la décisi
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R742-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
 
 
 ###### Article R742-4
@@ -25385,21 +25494,26 @@ R. 742-3 présente à l'appui de sa demande :
 
 ###### Article R742-5
 
-L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la
-Commission des recours est admis à souscrire une demande de délivrance de carte de résident dans les conditions prévues à
-l'article R. 314-2.
+L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour
+nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident dans les conditions prévues à
+l'article R. 314-2. 
 
 Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de la demande de titre de séjour
-qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable et qui porte la mention "reconnu réfugié".
+qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable et qui porte la mention " reconnu réfugié
+". 
 
 Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
 314-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 18
 
 	**Cité par**:
 
@@ -25408,30 +25522,39 @@ Ce récépissé confère à son titulaire le droit d'exercer la profession de so
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-2
+
 
 ###### Article R742-6
 
 L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et
-apatrides ou la Commission des recours des réfugiés est admis à souscrire une demande de délivrance de carte de séjour
-temporaire dans les conditions prévues à l'article R. 313-1.
+apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour temporaire
+dans les conditions prévues à l'article R. 313-1. 
 
 Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour
-qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable.
+qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable. 
 
 Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
-314-4.
+314-4. 
 
 Le bénéficiaire de la protection subsidiaire est ensuite mis en possession de la carte de séjour temporaire prévue à
-l'article L. 313-13.
+l'article L. 313-13. 
 
 La carte de séjour temporaire est renouvelée selon les modalités définies aux articles R. 313-35 et R. 313-36 sous réserve de
 l'application des dispositions de l'article L. 723-5.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 18
 
 	**Cité par**:
 
@@ -25439,6 +25562,14 @@ l'application des dispositions de l'article L. 723-5.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
 
 
 ### TITRE V : DISPOSITIONS DIVERSES.
@@ -25473,8 +25604,8 @@ mentionnés à l'article L. 751-1, sont désignés et indemnisés conformément 
 
 Le présent livre est applicable à Mayotte sous réserve des dispositions suivantes : 
 
-1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant à Mayotte ; 
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
+fonctionnement de sections de la cour siégeant à Mayotte ; 
 
 1° bis A l'article R. 723-1 : 
 
@@ -25586,13 +25717,33 @@ avril 2000 ".
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 24
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 4
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 48
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
+
 	**Cité par**:
 
 	  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 23
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.
@@ -25601,8 +25752,8 @@ avril 2000 ".
 
 Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des dispositions suivantes : 
 
-1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant dans les îles Wallis et Futuna ; 
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
+fonctionnement de sections de la cour siégeant dans les îles Wallis et Futuna ; 
 
 1° bis A l'article R. 723-1 : 
 
@@ -25643,12 +25794,12 @@ b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au pr�
 " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande
 " ; 
 
-7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
-observations" sont remplacés par les mots : "à l'administrateur supérieur des îles Wallis et Futuna, qui doit produire ses
-observations", au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
-l'asile sont remplacés par les mots : de l'administrateur supérieur des îles Wallis et Futuna et au troisième alinéa du même
-article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots : "à
-l'administrateur supérieur des îles Wallis et Futuna" ; 
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
+leurs observations " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, qui doit
+produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre
+chargé de l'asile sont remplacés par les mots : de l'administrateur supérieur des îles Wallis et Futuna et au troisième
+alinéa du même article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots :
+" à l'administrateur supérieur des îles Wallis et Futuna " ; 
 
 8° A l'article R. 741-2 : 
 
@@ -25720,6 +25871,22 @@ avril 2000 ".
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 24
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
+
 	**Cité par**:
 
 	  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
@@ -25727,7 +25894,7 @@ avril 2000 ".
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 24
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.
@@ -25736,8 +25903,8 @@ avril 2000 ".
 
 Le présent livre est applicable en Polynésie française sous réserve des dispositions suivantes : 
 
-1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant en Polynésie française ; 
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
+fonctionnement de sections de la cour siégeant en Polynésie française ; 
 
 1° bis A l'article R. 723-1 : 
 
@@ -25852,13 +26019,31 @@ avril 2000 ".
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 18
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 4
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 50
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
+
 	**Cité par**:
 
 	  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 25
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
@@ -25867,8 +26052,8 @@ avril 2000 ".
 
 Le présent livre est applicable en Nouvelle-Calédonie sous réserve des dispositions suivantes : 
 
-1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant en Nouvelle-Calédonie ; 
+1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
+fonctionnement de sections de la cour siégeant en Nouvelle-Calédonie ; 
 
 1° bis A l'article R. 723-1 : 
 
@@ -25984,13 +26169,34 @@ c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'a
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 18
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 26
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 50
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-23
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
+
 	**Cité par**:
 
 	  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 26
+	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.
