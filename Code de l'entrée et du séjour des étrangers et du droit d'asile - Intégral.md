@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-07-18
+Version Consolidée au 2008-08-03
 
 # Partie législative
 
@@ -12473,40 +12473,6 @@ d'Etat, en application des dispositions du livre VII du présent code.
 	  - Code de procédure pénale - art. R93 (V)
 
 
-###### Article R111-21
-
-Le montant des indemnités prévues à l'article R. 111-20 est fixé à :
-
-- 100 euros pour l'indemnité forfaitaire prévue au 1° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 2° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 3°.
-
-Ces sommes peuvent être revalorisées par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé
-de l'économie et des finances compte tenu notamment de l'évolution des prix à la consommation hors tabac prévue dans le
-rapport économique et financier annexé à la loi de finances.
-
-**Nota:**
-
-Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
-présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-764 du 30 juillet 2008 - art. 14
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-20
-
-
 ###### Article R111-22
 
 Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'Etat.
@@ -12547,26 +12513,6 @@ Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-
-###### Article R111-24
-
-Les dispositions de la présente section ne sont pas applicables à Mayotte.
-
-**Nota:**
-
-Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
-présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-764 du 30 juillet 2008 - art. 14
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE
@@ -24616,7 +24562,7 @@ responsabilités dans le domaine de l'application de la réglementation des étr
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
 
 
-### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
 
 #### Chapitre II : Organisation
 
@@ -25226,12 +25172,6 @@ réception.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-17
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-18
 
-
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
-
-#### Chapitre II : Organisation
-
-#### Chapitre III : Examen des recours
 
 ### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE
 
