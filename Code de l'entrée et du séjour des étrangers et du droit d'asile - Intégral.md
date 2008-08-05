@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-08-03
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -4452,34 +4452,63 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 
 ###### Article L314-14
 
-A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11 ou L. 314-12, une
-carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf si sa
-présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article L.
-314-2.
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11, L. 314-12 ou L.
+314-15, une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf
+si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article L.
+314-2. 
 
 Lors du dépôt de sa demande de renouvellement de carte de résident, l'étranger est dûment informé des conditions dans
-lesquelles il pourra se voir accorder une carte de résident permanent.
+lesquelles il pourra se voir accorder une carte de résident permanent. 
 
-Les articles L. 314-4 à L. 314-7 sont applicables à la carte de résident permanent.
+Les articles L. 314-4 à L. 314-7 sont applicables à la carte de résident permanent. 
 
 Lorsque la carte de résident permanent est retirée à un ressortissant étranger qui ne peut faire l'objet d'une mesure
 d'expulsion en application des articles L. 521-2 ou L. 521-3, une carte de séjour temporaire lui est délivrée de plein droit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Créé par**:
-
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 17 () JORF 21 novembre 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 124
 
 	**Cité par**:
 
 	  - Décret n°2016-1456 du 28 octobre 2016 - art. 25
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-2
+
+
+##### Sous-section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle
+
+###### Article L314-15
+
+L'étranger qui apporte une contribution économique exceptionnelle à la France peut, sous réserve de la régularité du séjour,
+se voir délivrer la carte de résident. 
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article. Il détermine notamment les motifs pour
+lesquels la carte peut être retirée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 124
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-14 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-5 (Ab)
+	  - Code général des impôts, CGI. - art. 155 B (V)
+	  - Code général des impôts, CGI. - art. 81 C (T)
 
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
