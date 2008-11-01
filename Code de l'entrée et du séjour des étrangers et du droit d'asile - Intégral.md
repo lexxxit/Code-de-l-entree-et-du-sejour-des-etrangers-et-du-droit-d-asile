@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-09-11
+Version Consolidée au 2008-11-02
 
 # Partie législative
 
@@ -13599,6 +13599,47 @@ de ses empreintes digitales, aux fins d'enregistrement dans le traitement automa
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-6 (V)
 
 
+###### Article R211-4-2
+
+Par dérogation aux dispositions du premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits
+des citoyens dans leurs relations avec les administrations, les autorités diplomatiques et consulaires, lorsqu'elles sont
+saisies d'une demande de visa par une personne postulant au regroupement familial ou par un conjoint de Français mentionné au
+deuxième alinéa de l'article L. 211-2-1, sursoient à statuer pendant la période nécessaire à l'accomplissement des opérations
+prévues aux articles R. 311-30-1 à R. 311-30-11. 
+
+La suspension du délai imparti à l'autorité compétente pour statuer sur la demande de visa, dont la durée ne peut excéder six
+mois, expire à la date soit de la délivrance de l'attestation mentionnée, selon le cas, à l'article R. 311-30-3 ou à
+l'article R. 311-30-7, soit de la décision de l'autorité diplomatique ou consulaire accordant à l'étranger une dispense de
+formation sur le fondement des dispositions des articles R. 311-30-2 et R. 311-30-10. 
+
+Si, en dépit de cette suspension, l'une ou plusieurs des opérations prévues aux articles R. 311-30-1 à R. 311-30-11 n'ont pu
+être accomplies dans le délai imparti à l'autorité compétente pour statuer sur la demande de visa pour une raison
+indépendante de la personne postulant au regroupement familial ou du conjoint de Français, cette circonstance ne peut être
+opposée à l'étranger pour rejeter sa demande.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R211-4-2 du code de l'entrée et du séjour
+des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à compter du
+1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 21 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-7 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 5
+
+
 ##### Sous-section 2 : Recours contre les refus de visa
 
 ###### Article D211-5
@@ -15676,6 +15717,8 @@ de leur département de résidence dans les conditions définies aux articles D.
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
 
+##### Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration
+
 ###### Article R311-19
 
 I.-Le contrat d'accueil et d'intégration prévu à l'article L. 311-9 est souscrit par l'étranger mentionné au premier alinéa
@@ -15712,12 +15755,14 @@ français à l'étranger dans lequel il a effectué sa scolarité pendant au moi
 figure sur la liste mentionnée à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires
 français à l'étranger.
 
+Est également dispensé de la signature d'un contrat d'accueil et d'intégration l'étranger qui a suivi des études supérieures
+en France d'une durée au moins égale à une année, sur présentation de documents attestant de la réalité de ces études.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°93-1064 du 9 septembre 1993 - art. 2
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
@@ -15725,15 +15770,16 @@ français à l'étranger.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-14
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
-
-	**Modifié par**:
-
-	  - Décret n°2008-614 du 27 juin 2008 - art. 2
 
 	**Liens**:
 
-	  - RECTIFICATION: Décret n°2008-614 du 27 juin 2008, v. init.
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 2
 
 	**Cité par**:
 
@@ -15752,13 +15798,9 @@ admis régulièrement au séjour en France.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15769,18 +15811,18 @@ admis régulièrement au séjour en France.
 ###### Article R311-21
 
 L'Agence nationale de l'accueil des étrangers et des migrations organise et finance les formations et les prestations
-dispensées dans le cadre du contrat d'accueil et d'intégration et mentionnées à l'article L. 311-9, à l'exception du bilan de
-compétences professionnelles. A cet effet, elle assure l'inscription de l'étranger aux formations et veille à son assiduité.
+dispensées dans le cadre du contrat d'accueil et d'intégration et mentionnées à l'article L. 311-9.A cet effet, elle assure
+l'inscription de l'étranger aux formations et veille à son assiduité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 3
 
 	**Cité par**:
 
@@ -15789,7 +15831,7 @@ compétences professionnelles. A cet effet, elle assure l'inscription de l'étra
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 
 
 ###### Article R311-22
@@ -15804,13 +15846,9 @@ ayant assuré la formation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15832,13 +15870,9 @@ prévu par l'article L. 311-9 ainsi que de la connaissance suffisante de la lang
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15851,10 +15885,10 @@ prévu par l'article L. 311-9 ainsi que de la connaissance suffisante de la lang
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-20 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-29 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-29
 
 
 ###### Article R311-24
@@ -15879,13 +15913,9 @@ du diplôme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15898,10 +15928,10 @@ du diplôme.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-23 (V)
-	  - Code de l'éducation - art. D338-23 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
+	  - Code de l'éducation - art. D338-23
 
 
 ###### Article R311-25
@@ -15916,13 +15946,9 @@ session d'information.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15930,31 +15956,44 @@ session d'information.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 
 
 ###### Article R311-26
 
-Dès lors qu'il est inscrit comme demandeur d'emploi, l'étranger signataire du contrat d'accueil et d'intégration peut
-bénéficier, à sa demande et sur prescription de l'Agence nationale pour l'emploi qui en assure le financement, d'un bilan de
-compétences approfondi tenant compte de sa situation personnelle et de son expérience professionnelle. Cette prestation est
-destinée à lui permettre de construire ou réorienter son projet d'accès à l'emploi.
+Le bilan de compétences professionnelles prévu à l'article L. 311-9 est organisé par l'Agence nationale de l'accueil des
+étrangers et des migrations à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de
+connaître et de valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche
+d'emploi. 
 
-**Nota:**
+La durée des opérations concourant à la réalisation de ce bilan est fixée par l'agence en fonction des besoins de la personne
+intéressée. 
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail.
+Le bilan de compétences professionnelles n'est pas proposé : 
+
+a) A l'étranger mineur de 18 ans dès lors qu'il est scolarisé ; 
+
+b) A l'étranger de plus de 55 ans ; 
+
+c) A l'étranger admis au séjour en France sous couvert de l'un des titres mentionnés aux articles L. 313-8, L. 313-9 et L.
+313-10 ; 
+
+d) A l'étranger qui déclare à l'agence et justifie auprès d'elle avoir déjà une activité professionnelle et ne pas être à la
+recherche d'un emploi. 
+
+II. - L'Agence nationale de l'accueil des étrangers et des migrations et l'institution publique mentionnée à l'article L.
+5312-1 du code du travail établissent par convention les modalités de leur action commune pour favoriser l'insertion
+professionnelle des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention
+précise les conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe,
+nationalité, niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de
+compétences professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la
+promotion dont elles bénéficient ou ont bénéficié.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 3
 
 
 ###### Article R311-27
@@ -15971,13 +16010,9 @@ l'examen conduisant à la délivrance du diplôme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -15996,19 +16031,15 @@ porte mention de cette résiliation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-29 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-29
 
 
 ###### Article R311-29
@@ -16027,13 +16058,9 @@ nominative est transmise par l'agence au préfet du lieu de résidence de l'étr
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -16042,9 +16069,9 @@ nominative est transmise par l'agence au préfet du lieu de résidence de l'étr
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-22 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-24 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-25 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-24
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-25
 
 
 ###### Article R311-30
@@ -16056,20 +16083,447 @@ dans les deux années suivant son installation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-19 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-23 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-24 (V)
-	  - Code du travail - art. L341-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-19
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
+
+
+##### Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine
+
+###### Article R311-30-1
+
+L'Agence nationale de l'accueil des étrangers et des migrations organise, à l'étranger, les opérations d'évaluation et de
+formation prévues à l'article L. 411-8. Elle peut confier tout ou partie de ces opérations à un ou des organismes avec
+lesquels elle passe à cette fin une convention. Dans ce cas, elle transmet à l'autorité diplomatique ou consulaire copie de
+la convention qu'elle a passée avec chacun des organismes chargés d'intervenir dans le ressort de cette autorité.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 1er juillet 2016 - art. 6
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-11 (Ab)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-8
+
+
+###### Article R311-30-2
+
+Dans le cadre de l'instruction de la demande de visa mentionnée au premier alinéa de l'article L. 211-2-1, l'Agence nationale
+de l'accueil des étrangers et des migrations ou l'organisme délégataire évalue, dans le pays où réside la personne postulant
+au regroupement familial, le degré de connaissance de la langue française et des valeurs de la République de cette personne
+dans les soixante jours suivant la délivrance de l'attestation de dépôt du dossier complet prévue à l'article R. 421-8. 
+
+Le degré de connaissance de la langue française par l'étranger est apprécié au moyen du test de connaissances orales et
+écrites en langue française mentionné à l'article R. 311-23. Toutefois, l'étranger qui justifie avoir suivi au moins trois
+ans d'études secondaires dans un établissement scolaire français à l'étranger ou dans un établissement scolaire francophone à
+l'étranger, ou au moins une année d'études supérieures en France peut être, à sa demande, dispensé de ce test par l'autorité
+diplomatique ou consulaire.
+
+L'évaluation du degré de connaissance par l'étranger des valeurs de la République prend la forme de questions orales posées à
+la personne dans une langue qu'elle déclare comprendre. Ces questions sont établies par référence aux valeurs de la
+République, notamment celles mentionnées à l'article R. 311-22. Les modalités de cette évaluation sont fixées par arrêté du
+ministre chargé de l'intégration. 
+
+Les résultats de l'évaluation du degré de connaissance de la langue française et des valeurs de la République sont
+communiqués à l'étranger et à l'autorité diplomatique ou consulaire dans les huit jours par l'Agence nationale de l'accueil
+des étrangers et des migrations ou par l'organisme délégataire.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-2 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 1er décembre 2008 - art. 1 (Ab)
+	  - Arrêté du 1er décembre 2008 - art. 2 (Ab)
+	  - Arrêté du 1er décembre 2008 - art. 4 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-22 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-8
+
+
+###### Article R311-30-3
+
+Lorsque l'étranger obtient à cette évaluation, dans chacun des deux domaines de connaissance de la langue française et de
+connaissance des valeurs de la République, des résultats égaux ou supérieurs à un barème fixé par arrêté du ministre chargé
+de l'intégration ainsi que dans le cas où il est dispensé de test de connaissance de la langue française, l'office ou
+l'organisme délégataire lui adresse une attestation mentionnant qu'il a satisfait à l'obligation d'évaluation prévue à
+l'article L. 411-8 et qu'il est dispensé de formation à l'étranger.
+
+S'agissant du degré de connaissance linguistique, cette attestation a la même valeur que celle prévue à l'article R. 311-23.
+Cette attestation dispense son bénéficiaire à son arrivée en France de l'évaluation et de la formation linguistiques prévues
+par les articles R. 311-24 et R. 311-25.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-3 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-24 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
+
+
+###### Article R311-30-4
+
+Si les résultats de l'évaluation font apparaître un degré insuffisant de connaissance de la langue française ou des valeurs
+de la République, l'étranger bénéficie d'une formation portant sur le ou les domaines où l'insuffisance est constatée. Cette
+formation est organisée par l'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire. 
+
+Les formations doivent débuter dans un délai maximum de deux mois après la notification des résultats de l'évaluation.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-4 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+
+###### Article R311-30-5
+
+La formation aux valeurs de la République porte sur un ensemble de connaissances relatives à l'égalité entre les hommes et
+les femmes, la laïcité, le respect des droits individuels et collectifs, les libertés publiques, la sécurité et la sûreté des
+personnes et des biens ainsi que les règles régissant l'éducation et la scolarité des enfants. Un arrêté du ministre chargé
+de l'intégration en précise le contenu et les modalités. 
+
+La formation aux valeurs de la République est dispensée en une demi-journée au moins.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-5 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 1er décembre 2008 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+
+###### Article R311-30-6
+
+L'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire notifie à l'étranger et à
+l'autorité diplomatique ou consulaire le nombre d'heures de formation à la langue française prescrit en fonction des
+résultats de l'évaluation. 
+
+La durée de la formation à la langue française ne peut être inférieure à 40 heures.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-6 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+
+###### Article R311-30-7
+
+A l'issue de la ou des formations, l'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire
+délivre sans délai à l'étranger une attestation de suivi de cette ou de ces formations. Ce document fait état, le cas
+échéant, du défaut d'assiduité de l'étranger.L'agence ou l'organisme délégataire en transmet un double à l'autorité
+diplomatique ou consulaire en vue de l'instruction de la demande de visa.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-7 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+
+
+###### Article R311-30-8
+
+A l'issue de la ou des formations, l'étranger fait l'objet d'une nouvelle évaluation organisée dans les mêmes conditions que
+celle prévue à l'article R. 311-11-2.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-8 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+
+###### Article R311-30-9
+
+Si, à l'issue de la seconde évaluation, l'étranger atteint le niveau linguistique requis, il est dispensé de formation
+linguistique à son arrivée en France. Les dispositions du troisième alinéa de l'article R. 311-24 lui sont toutefois
+applicables. Il peut alors bénéficier, à sa demande, d'un accompagnement à la préparation du diplôme initial de langue
+française organisé par l'Agence nationale de l'accueil des étrangers et des migrations. 
+
+Dans le cas où l'étranger n'atteint pas le niveau linguistique requis, cette évaluation permet de déterminer les
+caractéristiques de la formation qui lui est prescrite dans le cadre du contrat d'accueil et d'intégration à son arrivée en
+France.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-9 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-24
+
+
+###### Article R311-30-10
+
+En cas de troubles à l'ordre public, de faits de guerre, de catastrophe naturelle ou technologique dans le pays de résidence
+entraînant des difficultés importantes de déplacement ou mettant en danger la sécurité de l'étranger ou lorsque le suivi
+d'une formation entraîne pour lui des contraintes incompatibles avec ses capacités physiques ou financières, ou ses
+obligations professionnelles ou sa sécurité, l'étranger peut être dispensé, à sa demande, de formation par l'autorité
+diplomatique ou consulaire qui en informe immédiatement l'Agence nationale de l'accueil des étrangers et des migrations ou
+l'organisme délégataire. 
+
+L'étranger qui a bénéficié d'une dispense est assujetti à son arrivée en France aux dispositions prévues à la sous-section 1
+de la présente section.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-10 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
+
+
+###### Article R311-30-11
+
+Les dispositions prévues aux articles R. 311-30-1 à R. 311-30-10 sont applicables aux conjoints de Français âgés de moins de
+soixante-cinq ans dans les conditions fixées au présent article. 
+
+Le délai de soixante jours imparti à l'Agence nationale de l'accueil des étrangers et des migrations ou à l'organisme
+délégataire pour évaluer le degré de connaissance de la langue française et des valeurs de la République par l'étranger
+s'apprécie à compter de la présentation à l'agence ou à l'organisme délégataire du récépissé mentionné au premier alinéa de
+l'article L. 211-2-1.
+
+**Nota:**
+
+Décret n° 2008-1115 du 30 octobre 2008 JORF du 1er novembre 2008 art. 8 : L'article R311-30-11 du code de l'entrée et du
+séjour des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées à l'article L211-2-1 présentées à
+compter du 1er décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-1
+
+
+##### Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille
+
+###### Article R311-30-12
+
+Lorsqu'un ou plusieurs enfants ont bénéficié de la procédure de regroupement familial, l'étranger admis au séjour en France
+et, le cas échéant, son conjoint de nationalité étrangère, sous réserve que celui-ci ne soit pas ressortissant d'un Etat
+membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse,
+s'obligent, en signant le contrat d'accueil et d'intégration pour la famille prévu à l'article L. 311-9-1, à suivre une
+formation d'une durée d'une journée au moins portant sur les droits et les devoirs des parents en France, notamment le
+respect de l'obligation scolaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 1er décembre 2008 (Ab)
+	  - Arrêté du 1er décembre 2008 - art. 1 (Ab)
+	  - Arrêté du 1er juillet 2016 - art. 6
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-14 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-15 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9-1
+
+
+###### Article R311-30-13
+
+Le contrat d'accueil et d'intégration pour la famille est établi par l'Agence nationale de l'accueil des étrangers et des
+migrations selon un modèle fixé par arrêté du ministre chargé de l'intégration et signé par le préfet qui a délivré le titre
+de séjour. Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'agence à l'étranger au
+cours d'un entretien individuel. 
+
+L'agence organise et finance les formations et les prestations dispensées dans le cadre du contrat d'accueil et d'intégration
+pour la famille. 
+
+L'agence informe le président du conseil général du département du lieu de résidence du ou des parents de la conclusion de ce
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+
+
+###### Article R311-30-14
+
+La formation mentionnée à l'article R. 311-30-12 porte notamment sur l'autorité parentale, l'égalité entre les hommes et les
+femmes, la protection des enfants et les principes régissant leur scolarité en France. 
+
+Cette formation est suivie dans les conditions de délai prévues à l'article R. 311-27 pour le contrat d'accueil et
+d'intégration individuel souscrit par l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-27
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-12
+
+
+###### Article R311-30-15
+
+L'Agence nationale de l'accueil des étrangers et des migrations délivre à l'étranger, à la fin de la formation prévue à
+l'article R. 311-30-12, une attestation de suivi. 
+
+Le respect de l'obligation scolaire relative aux enfants est attesté par la transmission à l'agence, en fin de contrat
+d'accueil et d'intégration pour la famille, du certificat d'inscription établi par les directeurs des établissements
+d'enseignement supérieur, secondaire, technique ou professionnel prévu à l'article R. 513-3 du code de la sécurité sociale. 
+
+Si le ou les étrangers mentionnés à l'article R. 311-30-12 n'ont pas suivi la formation prévue au même article sans motif
+légitime, l'agence en informe le préfet. 
+
+Lorsqu'il est saisi en application du deuxième alinéa de l'article L. 311-9-1, le président du conseil général tient le
+préfet informé des suites qu'il a données à sa saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-12 (V)
+	  - Code de la sécurité sociale. - art. R513-3 (V)
 
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
@@ -20458,17 +20912,15 @@ responsabilité du préfet.
 ###### Article R421-28
 
 Pour être admis sur le territoire français, les membres de la famille du ressortissant étranger doivent être munis du visa
-d'entrée délivré par l'autorité diplomatique et consulaire après réception de la décision du préfet.
-
-La demande de visa est formulée dans un délai qui ne peut excéder six mois à compter de la notification au demandeur de la
-décision du préfet. L'autorisation de regroupement familial est réputée caduque si l'entrée de la famille sur le territoire
-français n'est pas intervenue dans un délai de trois mois à compter de la délivrance du visa.
+d'entrée délivré par l'autorité diplomatique et consulaire. L'autorisation du regroupement familial est réputée caduque si
+l'entrée de la famille sur le territoire français n'est pas intervenue dans un délai de trois mois à compter de la délivrance
+du visa.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2008-1115 du 30 octobre 2008 - art. 7
 
 
 ###### Article R421-29
