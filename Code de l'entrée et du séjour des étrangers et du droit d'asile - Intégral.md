@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-11-02
+Version Consolidée au 2008-12-29
 
 # Partie législative
 
@@ -2357,8 +2357,9 @@ n'a pas établi le besoin d'une formation est réputé ne pas avoir besoin d'une
 comporte une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes
 et les femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat.
 L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan de compétences professionnelles. Toutes
-ces formations et prestations sont dispensées gratuitement. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat
-d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France.
+ces formations et prestations sont dispensées gratuitement et financées par l'Agence nationale de l'accueil des étrangers et
+des migrations ou par l'établissement public appelé à lui succéder. Lorsque l'étranger est âgé de seize à dix-huit ans, le
+contrat d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France. 
 
 Lors du premier renouvellement de la carte de séjour, l'autorité administrative tient compte du non-respect, manifesté par
 une volonté caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
@@ -2370,7 +2371,7 @@ l'étranger titulaire de la carte de séjour mentionnée au 5° de l'article L. 
 et de ses enfants âgés de plus de seize ans.
 
 L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en
-France peut demander à signer un tel contrat.
+France peut demander à signer un tel contrat. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine la durée du contrat d'accueil
 et d'intégration et ses conditions de renouvellement, les actions prévues par le contrat et les conditions de suivi et de
@@ -2380,17 +2381,9 @@ sont dispensées. Il fixe les situations dans lesquelles le bilan de compétence
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 11 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 7 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 8 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 9 () JORF 21 novembre 2007
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
 
 	**Cité par**:
 
@@ -2416,11 +2409,11 @@ sont dispensées. Il fixe les situations dans lesquelles le bilan de compétence
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-2-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-10 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L315-1 (T)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-12
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-8
 
 
 ###### Article L311-9-1
@@ -2593,6 +2586,148 @@ autorisation peut être assortie d'une autorisation provisoire de travail, sur p
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-7 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+
+
+##### Section 4 : Dispositions fiscales
+
+###### Article L311-13
+
+A.-La délivrance d'un premier titre de séjour figurant parmi ceux mentionnés aux 1° à 3° de l'article L. 311-2 donne lieu à
+la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public
+appelé à lui succéder, d'une taxe dont le montant est fixé par décret entre 200 euros et 340 euros. Ces limites sont
+respectivement ramenées à 55 euros et 70 euros pour les étrangers auxquels est délivrée une carte de séjour au titre des
+articles L. 313-7 et L. 313-7-1, du 9° de l'article L. 313-11, du 3° de l'article L. 314-11, ainsi que la carte de séjour
+portant la mention " salarié " ou " salarié en mission " prévue aux 1° et 5° de l'article L. 313-10. Elles sont ramenées à
+100 euros et 170 euros pour les étrangers entrés en France au titre du regroupement familial en tant qu'enfants mineurs. 
+
+Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre de séjour au titre des 10° et 11° de
+l'article L. 313-11, de l'article L. 313-13 et des 4°, 5°, 6°, 8° et 9° de l'article L. 314-11 ni aux travailleurs
+temporaires et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10. La délivrance d'un visa de long séjour valant ou
+dispensant de titre de séjour donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à la perception,
+au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui
+succéder, de la taxe correspondant au titre de séjour que ce visa remplace.
+
+B.-Le renouvellement des titres de séjour ainsi que la fourniture de duplicata donnent lieu à la perception, au profit de
+l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, d'une
+taxe dont le montant est fixé par décret entre un minimum égal à 55 euros et un maximum égal à 110 euros. Ces limites sont
+respectivement ramenées à 15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour au titre de
+l'article L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un an. Elle n'est pas exigée des
+réfugiés et des étrangers bénéficiaires de la protection subsidiaire.
+
+C.-La délivrance, le renouvellement et la fourniture de duplicata des documents de circulation délivrés aux étrangers mineurs
+au titre des articles L. 321-3 et L. 321-4 donnent lieu à la perception, au profit de l'Agence nationale de l'accueil des
+étrangers et des migrations ou de l'établissement public appelé à lui succéder, d'une taxe dont le montant est de 30 euros.
+
+D.-Les taxes prévues aux A, B et C sont acquittées soit au moyen de timbres mobiles d'un modèle spécial à l'Agence nationale
+de l'accueil des étrangers et des migrations ou à l'établissement public appelé à lui succéder, soit par la voie électronique
+au moyen d'un timbre dématérialisé, dans les conditions prévues au chapitre II du titre IV de la première partie du livre Ier
+du code général des impôts.
+
+E.-Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+	  - Décret n°2009-2 du 2 janvier 2009 (V)
+	  - Arrêté du 19 mai 2009 - art. 5 (V)
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+	  - Décret n°2016-1462 du 28 octobre 2016 (V)
+	  - Arrêté du 6 novembre 2016 (V)
+	  - Arrêté du 6 novembre 2016 - art.
+	  - Arrêté du 14 avril 2017 - art.
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-16 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L322-1 (V)
+	  - Code général des impôts, CGI. - art. 958 (V)
+	  - Code général des impôts, CGI. - art. 960 (T)
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L321-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L321-4 (V)
+
+
+###### Article L311-14
+
+L'article L. 311-13 est applicable à la délivrance, au renouvellement et à la fourniture de duplicata des titres de séjour et
+des documents de circulation pour étrangers mineurs prévus par les traités ou accords internationaux, sauf stipulations
+contraires prévues par ces traités ou accords.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 14 avril 2017 - art.
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
+
+
+###### Article L311-15
+
+Tout employeur qui embauche un travailleur étranger acquitte, lors de la première entrée en France de cet étranger ou lors de
+sa première admission au séjour en qualité de salarié, une taxe au profit de l'Agence nationale de l'accueil des étrangers et
+des migrations ou de l'établissement public appelé à lui succéder. 
+
+Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est de : 
+
+- 900 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal à une fois et demie le montant mensuel à
+temps plein du salaire minimum de croissance ; 
+
+- 1 600 euros lorsque le salaire versé à ce travailleur étranger est supérieur à une fois et demie le montant mensuel à temps
+plein du salaire minimum de croissance. 
+
+A compter du 1er janvier 2010, le montant de cette taxe est égal à 60 % du salaire versé à ce travailleur étranger, pris en
+compte dans la limite de 2, 5 fois le salaire minimum de croissance. 
+
+Lorsque l'embauche intervient pour un emploi temporaire d'une durée supérieure à trois mois et inférieure à douze mois, le
+montant de cette taxe, fixé par décret, varie selon le niveau du salaire dans des limites comprises entre 50 euros et 300
+euros. 
+
+Lorsque l'embauche intervient pour un emploi à caractère saisonnier, le montant de cette taxe est modulé selon la durée de
+l'embauche à raison de 50 euros par mois d'activité salariée complet ou incomplet. Chaque embauche donne lieu à
+l'acquittement de la taxe. 
+
+La taxe prévue au présent article est perçue comme en matière de recettes des établissements publics nationaux à caractère
+administratif. 
+
+Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code du travail - art. R5223-35 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
 
 
 #### Chapitre II : La commission du titre de séjour
