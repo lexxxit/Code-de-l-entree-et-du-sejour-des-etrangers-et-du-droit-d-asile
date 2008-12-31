@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -23447,23 +23447,23 @@ nationale chargés des missions de prévention et de répression des actes de te
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
 terrorisme. 
 
-III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 33 (V)
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 9 (VT)
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 33
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D611-2
-
-	**Modifié par**:
-
-	  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2008-1459 du 30 décembre 2008 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1459 du 30 décembre 2008 - art. 1
 
 
 ###### Article D611-4
@@ -23721,28 +23721,24 @@ gendarmerie nationale ;
 terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
 directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2008.
+IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2006-64 2006-01-23 art. 9, art. 33
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
-	  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+	  - Loi n°2006-64 du 23 janvier 2006
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
+	  - Code de procédure pénale - art. 78-3
 
 	**Cité par**:
 
 	  - Décret n°2008-1456 du 30 décembre 2008 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1456 du 30 décembre 2008 - art. 1
 
 
 ###### Article R611-13
@@ -23961,7 +23957,7 @@ gendarmerie nationale ;
 terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
 directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
 
 IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les agents mentionnés au I.
 
@@ -23971,17 +23967,13 @@ IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les a
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile annexe 6-6
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
-
 	**Cité par**:
 
 	  - Décret n°2008-1456 du 30 décembre 2008 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1456 du 30 décembre 2008 - art. 1
 
 
 ###### Article R611-22
@@ -25038,16 +25030,13 @@ adjoint et de chef de division.
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de
 l'office. 
 
-Il adresse chaque année le rapport d'activité aux ministres intéressés. 
-
-Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de
-la Cour nationale du droit d'asile sur les moyens à affecter au fonctionnement de cette dernière.
+Il adresse chaque année le rapport d'activité aux ministres intéressés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -25229,13 +25218,13 @@ Les dépenses de l'office comprennent :
 
 2° Les frais de fonctionnement et d'équipement ; 
 
-3° De façon générale, toutes dépenses nécessaires à l'activité de l'office et de la Cour nationale du droit d'asile.
+3° De façon générale, toutes dépenses nécessaires à l'activité de l'office.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 	**Cite**:
 
@@ -25460,21 +25449,25 @@ responsabilités dans le domaine de l'application de la réglementation des étr
 
 Le président de la Cour nationale du droit d'asile est nommé pour une durée de cinq ans, renouvelable. 
 
-Il est responsable de l'organisation et du fonctionnement de la cour. Il prend notamment les mesures nécessaires à la
-constitution et au fonctionnement des sections. 
+Il est responsable de l'organisation et du fonctionnement de la juridiction qu'il préside. Il assure la direction des
+services de cette juridiction et le maintien de la discipline intérieure.
+
+Il détermine la composition des sections, la répartition des affaires entre chacune d'elles ainsi que l'affectation de leurs
+membres. 
 
 Il peut présider chacune des sections. 
 
 Il est assisté de vice-présidents qu'il désigne chaque année parmi les présidents de section. 
 
 Pour les actes de gestion et d'administration courante, le président peut déléguer sa signature au secrétaire général et aux
-secrétaires généraux adjoints.
+secrétaires généraux adjoints  ainsi qu'aux fonctionnaires appartenant à un corps de catégorie A et aux agents contractuels
+chargés de fonctions d'un niveau équivalent.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -25483,28 +25476,37 @@ secrétaires généraux adjoints.
 
 ###### Article R732-2
 
-Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le président de la cour. 
+Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le vice-président du
+Conseil d'Etat sur proposition du président de la cour.
 
-Le secrétaire général est assisté de secrétaires généraux adjoints. Il a également sous son autorité des chefs de service
-chargés de la mise en état des affaires en vue de leur jugement et de l'expédition des décisions rendues.
+Sous l'autorité du président de la cour, le secrétaire général encadre les services de la juridiction et veille à leur bon
+fonctionnement. Il est assisté par des secrétaires généraux adjoints.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 
 ###### Article R732-3
 
-Le directeur général de l'office met à la disposition de la cour les moyens nécessaires au fonctionnement de celle-ci.
-L'affectation du personnel mis à disposition est décidée par le président de la cour.
+Le vice-président du Conseil d'Etat ordonnance les dépenses de la Cour nationale du droit d'asile.
+
+Il peut, à cet effet, déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat.
+Délégation peut également être donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du
+secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau
+équivalent.
+
+Le président de la Cour nationale du droit d'asile est institué ordonnateur secondaire des dépenses de fonctionnement de la
+juridiction qu'il préside. Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la
+cour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -25513,13 +25515,19 @@ L'affectation du personnel mis à disposition est décidée par le président de
 
 ###### Article R732-4
 
-Les membres des formations de jugement de la cour sont nommés pour une période de cinq ans, renouvelable.
+Les membres des formations de jugement de la cour sont nommés pour une période de trois ans, renouvelable.
+
+**Nota:**
+
+Décret 2008-1481 art.2 : Les dispositions de l'article R. 732-4 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, dans leur rédaction issue du présent décret, sont applicables aux membres des formations de jugement nommés à
+compter de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 
 ###### Article R732-5
@@ -25542,6 +25550,33 @@ Le moins ancien des présidents de section, autre que le président de la sectio
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-18-1 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-34 (V)
+
+
+###### Article R732-6
+
+Chaque année, avant le 1er février, le président de la cour adresse au vice-président du Conseil d'Etat un rapport d'activité
+de la juridiction qu'il préside.
+
+Le président de la cour joint à ce rapport toutes observations utiles au sujet des questions d'intérêt général se rapportant
+aux travaux de la juridiction qu'il préside.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
+
+
+###### Article R732-7
+
+L'assemblée générale des présidents de section se réunit au moins une fois par an. Le président de la cour la convoque pour
+la consulter sur les sujets d'intérêt commun qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 
 #### Chapitre III : Examen des recours
@@ -25573,14 +25608,13 @@ La procédure devant la cour est gratuite et sans frais.
 ###### Article R733-3
 
 Les rapporteurs chargés de l'instruction des affaires peuvent être pris en dehors du personnel affecté à la cour ; ils sont
-alors désignés par arrêté du ministre chargé de l'asile.
+alors désignés par arrêté du  vice-président du Conseil d'Etat, sur proposition du président de la cour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 11
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
 
 
 ###### Article R733-4
