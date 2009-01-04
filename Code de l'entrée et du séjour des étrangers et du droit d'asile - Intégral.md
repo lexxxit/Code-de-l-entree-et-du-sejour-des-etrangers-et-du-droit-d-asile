@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-05
 
 # Partie législative
 
@@ -15848,6 +15848,99 @@ de leur département de résidence dans les conditions définies aux articles D.
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D331-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D331-8 (V)
+
+
+##### Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations. 
+
+
+###### Article D311-18-1
+
+Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre de séjour, de son renouvellement ou de la
+délivrance d'un duplicata versent, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de
+l'établissement public appelé à lui succéder, les taxes mentionnées aux articles L. 311-13 et L. 311-14 selon les modalités
+suivantes : 
+
+1. Pour la délivrance d'un premier titre de séjour, le montant de la taxe est fixé comme suit : 
+
+a) 300 euros pour la délivrance d'un titre figurant parmi ceux mentionnés aux 1° à 3° de l'article L. 311-2, à l'exception
+des titres mentionnés à la première phrase du deuxième alinéa du A de l'article L. 311-13 et, jusqu'au 31 décembre 2011, des
+titres délivrés aux conjoints d'étrangers dont la demande de regroupement familial a été autorisée avant le 28 décembre 2008
+et ayant acquitté à ce titre la redevance prévue à l'article R. 421-29 ; 
+
+b) 55 euros pour la délivrance d'un titre de séjour mentionné aux articles L. 313-7, L. 313-7-1, au 9° de l'article L. 313-11
+et au 3° de l'article L. 314-11 ; 
+
+c) 70 euros pour la délivrance d'un titre de séjour portant la mention " salarié ” ou " salarié en mission ” mentionnés aux
+1° et 5° de l'article L. 313-10 ; 
+
+d) 110 euros pour la délivrance du titre de séjour mentionné à l'article L. 313-11 aux ressortissants étrangers entrés sur le
+territoire national avant le terme de leur dix-huitième anniversaire dans le cadre de la procédure du regroupement familial,
+à l'exception, jusqu'au 31 décembre 2011, du titre délivré aux enfants d'étrangers dont la demande de regroupement familial a
+été autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevance prévue à l'article R. 421-29. 
+
+2. Pour le renouvellement d'un titre de séjour ou pour la délivrance d'un duplicata, le montant de la taxe est fixé à 70
+euros, à l'exception : 
+
+a) Du renouvellement ou de la délivrance d'un duplicata du titre mentionné aux articles L. 313-7-1, au 9° de l'article L.
+313-11 et au 3° de l'article L. 314-11 pour lesquels ce montant est fixé à 55 euros ; 
+
+b) Du renouvellement ou de la délivrance d'un duplicata du titre mentionné à l'article L. 313-7 pour lesquels ce montant est
+fixé à 30 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-2 du 2 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+	  - Arrêté du 6 novembre 2016 (V)
+	  - Arrêté du 6 novembre 2016 - art.
+	  - Arrêté du 14 avril 2017 - art.
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-29
+
+
+###### Article D311-18-2
+
+Tout employeur qui embauche un travailleur étranger pour un emploi temporaire d'une durée supérieure à trois mois et
+inférieure à douze mois acquitte, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de
+l'établissement public appelé à lui succéder, la taxe mentionnée à l'article L. 311-15 selon les modalités suivantes : 
+
+1. 70 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal au montant mensuel à temps plein du
+salaire minimum de croissance ; 
+
+2. 200 euros lorsque le salaire versé à ce travailleur étranger est supérieur au montant mensuel à temps plein du salaire
+minimum de croissance et inférieur ou égal à une fois et demie le montant mensuel à temps plein du salaire minimum de
+croissance ; 
+
+3. 300 euros lorsque le salaire versé à ce travailleur étranger est supérieur à une fois et demie le montant mensuel à temps
+plein du salaire minimum de croissance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-2 du 2 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-15
 
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
