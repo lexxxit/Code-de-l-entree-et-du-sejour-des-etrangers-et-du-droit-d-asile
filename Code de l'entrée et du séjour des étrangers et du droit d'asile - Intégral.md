@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-01-05
+Version Consolidée au 2009-02-01
 
 # Partie législative
 
@@ -21287,7 +21287,7 @@ annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 77
 " Art.R. 776-2 du code de justice administrative : 
 
 " Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
-commissaire du Gouvernement. 
+rapporteur public. 
 
 " Art.R. 776-2-1 du code de justice administrative : 
 
@@ -21420,41 +21420,9 @@ administrative d'appel ou un magistrat délégué par lui. Cet appel n'est pas s
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 10 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 9 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L776-1, L776-2, R776-1
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-10 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-11 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-12 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-13 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-14 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-15 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-16 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-17 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-18 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-19 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-2 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-2-1 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-20 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-3 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-4 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-5 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-6 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-7 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-8 (V)
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-9 (V)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R512-3
