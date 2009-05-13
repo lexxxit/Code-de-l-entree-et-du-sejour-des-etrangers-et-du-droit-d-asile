@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-04-03
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -8336,15 +8336,16 @@ l'article 729-2 du code de procédure pénale, ci-après reproduit :
 " Art. 729-2 du code de procédure pénale. 
 
 " Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire
-français, de reconduite à la frontière, d'expulsion ou d'extradition, sa libération conditionnelle est subordonnée à la
-condition que cette mesure soit exécutée. Elle peut être décidée sans son consentement. 
+français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt
+européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée
+sans son consentement. 
 
-" Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application
+Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application
 des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire
 d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures
-d'assistance et de contrôle prévue à l'article 732.A l'issue de cette durée, si la décision de mise en liberté conditionnelle
-n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français. Dans le cas
-contraire, la mesure redevient exécutoire. "
+d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté
+conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français.
+Dans le cas contraire, la mesure redevient exécutoire. "
 
 **Liens relatifs à cet article**
 
@@ -8377,10 +8378,21 @@ contraire, la mesure redevient exécutoire. "
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R561-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R561-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 130
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L571-1 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 732 (V)
 
 
 ###### Article L561-2
@@ -9165,36 +9177,26 @@ du territoire français, dans les conditions prévues par les articles 131-30 à
 
 ###### Article L622-8
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions prévues aux articles L. 622-1 et L. 622-5.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 1°, 2°, 3°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 622-1 et L. 622-5 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par les 1° à 5°, 8° et 9° de l'article 131-39 du même code. 
 
 L'interdiction visée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 21 ter, al. 1 à 5
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-5 (V)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-5 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 
 ###### Article L622-9
@@ -9328,17 +9330,12 @@ immeubles, divis ou indivis.
 
 ###### Article L623-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions prévues aux deuxième et troisième alinéas de l'article L. 623-1.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 1°, 2°, 3°, 4°, 5° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux deuxième et troisième alinéas de l'article L. 623-1 encourent, outre l'amende suivant les modalités
+prévues par l'article 131-38 du code pénal, les peines prévues par les 1° à 5° et 9° de l'article 131-39 du même code.
 
 L'interdiction visée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise.
+l'exercice de laquelle l'infraction a été commise. 
 
 Les personnes morales condamnées au titre de l'infraction visée au troisième alinéa de l'article L. 623-1 encourent également
 la peine de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou
@@ -9346,29 +9343,20 @@ indivis.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 21 quater, paragraphe II
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 90 () JORF 25 juillet 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L623-1 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L622-4 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L623-1 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
 
 
 #### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence
