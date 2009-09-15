@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-06-01
+Version Consolidée au 2009-09-16
 
 # Partie législative
 
@@ -15643,45 +15643,47 @@ En cas de refus de délivrance de tout titre de séjour, l'étranger est tenu de
 
 ###### Article R311-14
 
-Le titre de séjour est retiré :
+Le titre de séjour est retiré : 
 
 1° Si son titulaire, qui réside en France avec un premier conjoint, a fait venir dans le cadre du regroupement familial un
-autre conjoint ou des enfants autres que ceux mentionnés aux articles L. 411-1 à L. 411-7 ;
+autre conjoint ou des enfants autres que ceux mentionnés aux articles L. 411-1 à L. 411-7 ; 
 
 2° Si l'étranger titulaire d'une carte de résident vit en France en état de polygamie ; dans ce cas, la carte de résident est
-également retirée au conjoint ;
+également retirée au conjoint ; 
 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire français pendant une période de plus de trois
-ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ;
+ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ; 
 
-4° Si l'étranger titulaire d'une carte de résident portant la mention "résident de longue durée-CE" accordée par la France a
-résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs
+4° Si l'étranger titulaire d'une carte de résident portant la mention " résident de longue durée-CE " accordée par la France
+a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs
 sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français
 pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-CE dans un autre Etat
-membre de l'Union européenne ;
+membre de l'Union européenne ; 
 
-5° Si son détenteur fait l'objet d'une mesure d'expulsion ;
+5° Si son détenteur fait l'objet d'une mesure d'expulsion ; 
 
-6° Si son détenteur fait l'objet d'une décision judiciaire d'interdiction du territoire ;
+6° Si son détenteur fait l'objet d'une décision judiciaire d'interdiction du territoire ; 
 
 7° Si l'étranger titulaire d'une carte de résident est condamné pour avoir commis sur un mineur de quinze ans l'infraction
-définie à l'article 222-9 du code pénal ou s'être rendu complice de celle-ci ;
+définie à l'article 222-9 du code pénal ou s'être rendu complice de celle-ci ; 
 
-8° Si l'étranger titulaire de la carte de séjour temporaire ou de la carte de séjour "compétences et talents" cesse de
-remplir l'une des conditions exigées pour sa délivrance.
+8° Si l'étranger titulaire de la carte de séjour temporaire ou de la carte de séjour " compétences et talents " cesse de
+remplir l'une des conditions exigées pour sa délivrance ; 
 
-Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la mention "salarié" ou "travailleur temporaire"
-ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+9° Si l'opération ou l'engagement mentionné à l'article R. 314-6 qui a motivé la délivrance de la carte ne connaît aucun
+début d'exécution dans un délai d'un an suivant la date de délivrance de la carte de résident ; 
+
+10° S'il est établi que les fonds nécessaires à l'opération mentionnée à l'article R. 314-6 proviennent d'activités
+illicites. 
+
+Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la mention " salarié " ou " travailleur temporaire
+" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 6 () JORF 22 mars 2007
+	  - Décret n°2009-1114 du 11 septembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -15689,8 +15691,9 @@ ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de 
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L411-1 à L411-7
-	  - Code pénal - art. 222-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-6
+	  - Code pénal - art. 222-9
 
 
 ###### Article R311-15
@@ -15731,7 +15734,10 @@ l'article L. 341-6 du code du travail ;
 
 9° Si l'étranger admis à séjourner en France pour y exercer une activité salariée se voit retirer son autorisation de travail
 au motif qu'il ne s'est pas conformé à l'obligation de produire le certificat médical prévu par l'article L. 5221-5 du code
-du travail. 
+du travail ;
+
+10° Si l'étranger, titulaire d'une carte de résident délivrée pour une contribution économique exceptionnelle, cesse de
+remplir la condition prévue à l'article L. 314-15 sur le fondement de laquelle la carte lui a été délivrée.  
 
 II.-La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire : 
 
@@ -15748,7 +15754,7 @@ faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L
 
 	**Modifié par**:
 
-	  - Décret n°2008-614 du 27 juin 2008 - art. 1
+	  - Décret n°2009-1114 du 11 septembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -19112,27 +19118,99 @@ statut "résident longue durée-CE" dans un autre Etat membre de l'Union europé
 
 ###### Article R314-4
 
-A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11 ou L. 314-12,
-l'étranger qui sollicite la carte de résident permanent présente à l'appui de sa demande, outre les pièces prévues à
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11, L. 314-12 ou L.
+314-15, l'étranger qui sollicite la carte de résident permanent présente à l'appui de sa demande, outre les pièces prévues à
 l'article R. 314-3, celles prévues au 5° de l'article R. 314-1 lorsque son intégration républicaine dans la société française
 n'a pas été vérifiée en application des dispositions de l'article L. 314-2 à l'occasion d'une précédente demande de titre de
 séjour.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-614 du 27 juin 2008 - art. 8
+	  - Décret n°2009-1114 du 11 septembre 2009 - art. 4
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-15 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-12
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-3
+
+
+##### Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle
+
+###### Article R314-5
+
+Pour l'application des dispositions de l'article L. 314-15, l'étranger qui souhaite bénéficier de la carte de résident
+délivrée pour une contribution économique exceptionnelle présente sa demande auprès du préfet du département dans lequel il
+réalise ou envisage de réaliser l'opération au titre de laquelle il sollicite la délivrance de cette carte. A Paris, le
+préfet compétent est le préfet de police.
+
+A l'appui de sa demande, l'étranger produit : 
+
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
+
+2° Un justificatif de résidence en France ; 
+
+3° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
+il ne vit pas en France en état de polygamie ; 
+
+4° Trois photographies de face, tête nue, de format 3,5 × 4,5 cm, récentes et parfaitement ressemblantes ; 
+
+5° Les pièces justifiant qu'il satisfait aux critères énoncés à l'article R. 314-6 ; 
+
+6° Les pièces attestant de la régularité de son séjour en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1114 du 11 septembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-15
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-6
+
+
+###### Article R314-6
+
+Peut être regardé comme apportant une contribution économique exceptionnelle à la France l'étranger qui, personnellement ou
+par l'intermédiaire d'une société qu'il dirige ou dont il détient au moins 30 % du capital, remplit l'une des deux conditions
+suivantes : 
+
+1° Créer ou sauvegarder, ou s'engager à créer ou sauvegarder, au moins 50 emplois sur le territoire français ; 
+
+2° Effectuer ou s'engager à effectuer sur le territoire français un investissement en immobilisations corporelles ou
+incorporelles d'au moins 10 millions d'euros. 
+
+Toutefois, lorsqu'il estime que la contribution économique réalisée par le demandeur ou à la réalisation de laquelle il s'est
+engagé présente, sans atteindre les seuils fixés aux deux alinéas précédents, un caractère exceptionnel compte tenu de ses
+caractéristiques particulières ou de la situation du bassin d'emploi concerné, le préfet peut délivrer la carte de résident.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1114 du 11 septembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 11
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-14 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-5 (Ab)
 
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
