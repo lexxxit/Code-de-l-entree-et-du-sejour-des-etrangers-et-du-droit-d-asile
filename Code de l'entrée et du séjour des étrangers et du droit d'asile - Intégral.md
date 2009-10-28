@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-09-16
+Version Consolidée au 2009-10-29
 
 # Partie législative
 
@@ -24690,9 +24690,169 @@ relation ou rapprochements avec aucun autre traitement automatisé de données �
 	  - Décret n°2011-638 du 8 juin 2011 - art. 6
 
 
-##### Section 5 : Dispositions diverses.
+##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration
 
 ###### Article R611-35
+
+Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé  Outil de statistique et de
+contrôle de l'aide au retour  relevant de l'Office français de l'immigration et de l'intégration.
+
+Ce traitement a pour finalités :
+
+a) De liquider l'aide au retour en permettant de déceler une nouvelle demande présentée par une personne ayant déjà bénéficié
+de cette aide, le cas échéant sous une autre identité ;
+
+b) De permettre le suivi administratif, budgétaire et comptable des procédures d'aide au retour gérées par l'Office français
+de l'immigration et de l'intégration ;
+
+c) D'établir des statistiques relatives à ces procédures et à leur exécution.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 2014 - art. Annexe I (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-39 (V)
+
+
+###### Article R611-36
+
+Les données enregistrées dans le traitement sont les suivantes : 
+
+1° Les images numérisées des empreintes des dix doigts du bénéficiaire et de ses enfants mineurs âgés d'au moins douze ans,
+ou la mention de l'impossibilité de collecte totale ou partielle de ces empreintes ; 
+
+2° Les données à caractère personnel relatives aux bénéficiaires énumérées à l'annexe 6-8. 
+
+Le traitement ne comporte pas de dispositif d'identification nominative à partir des empreintes ni de dispositif de
+reconnaissance faciale à partir de la photographie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-37 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-38 (V)
+
+
+###### Article R611-37
+
+Les données mentionnées à l'article R. 611-36 sont effacées : 
+
+1° Sans délai lorsque l'Office français de l'immigration et de l'intégration refuse une aide sollicitée et dans le cas où
+l'intéressé renonce au bénéfice de l'aide avant la décision de l'Office français de l'immigration et de l'intégration ; 
+
+2° A l'issue d'un délai de cinq ans à compter de la date de la décision de l'Office français de l'immigration et de
+l'intégration lorsque l'aide est accordée. 
+
+Les intéressés sont informés par écrit dans une langue qu'ils comprennent des conditions de conservation des données les
+concernant, de leur droit d'accès à ces données et des destinataires de ces données.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-36
+
+
+###### Article R611-38
+
+Sont autorisés à accéder aux données mentionnées à l'article R. 611-36, à l'exception des données biométriques, les agents de
+l'Office français de l'immigration et de l'intégration chargés de la mise en œuvre du dispositif d'aide au retour,
+individuellement désignés et spécialement habilités à cette fin par le directeur général de cet office. 
+
+Peuvent également recevoir communication par l'intermédiaire du responsable du traitement, à l'exclusion des données
+biométriques, des données mentionnées à l'article R. 611-36 : 
+
+1° Les agents des préfectures compétents pour l'application de la réglementation relative aux étrangers, individuellement
+désignés et spécialement habilités par le préfet ; 
+
+2° Les agents des ambassades et des consulats français à l'étranger, individuellement désignés et spécialement habilités par
+l'ambassadeur ou le consul ; 
+
+3° Les personnels des organismes liés à l'Office français de l'immigration et de l'intégration par une convention relative à
+la mise en œuvre des aides au retour à la seule fin de la réalisation des missions qui leur sont confiées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-36
+
+
+###### Article R611-39
+
+Lors du dépôt d'une demande d'aide au retour, il est procédé au recueil des empreintes digitales des dix doigts des personnes
+âgées d'au moins douze ans au bénéfice desquelles l'aide est demandée, aux fins de comparaison avec les empreintes
+enregistrées dans le traitement automatisé mentionné à l'article R. 611-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
+
+
+###### Article R611-40
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés s'exercent auprès du directeur général de l'Office français de l'immigration et de
+l'intégration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+
+###### Article R611-41
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+
+##### Section 6 : Dispositions diverses
+
+###### Article R611-42
 
 Les aubergistes, hôteliers, logeurs ou loueurs de maisons garnies, les gestionnaires de droit ou de fait de terrains de
 camping aménagés ou de terrains aménagés destinés au stationnement des caravanes sont tenus de faire remplir et signer par
@@ -24717,24 +24877,15 @@ dessus.
 
 	**Créé par**:
 
-	  - Décret n°2007-1890 du 26 décembre 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1310 du 26 octobre 2009 - art. 1
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
 
 	**Cité par**:
 
-	  - Arrêté du 17 février 2014 - art. Annexe I (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-8 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-39 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-25 (Ab)
+	  - Arrêté du 1er octobre 2015 - art. (V)
+	  - Arrêté du 1er octobre 2015 - art. 1 (V)
 
 
-###### Article R611-36
+###### Article R611-43
 
 Le ministre de l'intérieur établit par arrêté la liste des péages mentionnés à l'article L. 611-9.
 
@@ -24742,24 +24893,11 @@ Le ministre de l'intérieur établit par arrêté la liste des péages mentionn�
 
 	**Créé par**:
 
-	  - Décret n°2007-1890 du 26 décembre 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1310 du 26 octobre 2009 - art. 1
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-9 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-26 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-37 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-38 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-9
 
 
 ### TITRE II : SANCTIONS
@@ -28169,5 +28307,88 @@ d'identification mentionné au 2° de l'article D. 611-2 du code de l'entrée et
 	**Abrogé par**:
 
 	  - Décret n°2011-638 du 8 juin 2011 - art. 6
+
+
+## Annexe 6-8 mentionnée à l'article R. 611-36
+
+
+
+###### Article Annexe 6-8
+
+LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER BÉNÉFICIAIRE D'UNE AIDE AU RETOUR SUSCEPTIBLES D'ÊTRE
+ENREGISTRÉES DANS LE TRAITEMENT PRÉVU À L'ARTICLE R. 611-35 
+
+A. ― Données relatives à l'étranger bénéficiaire de l'aide au retour : 
+
+Les informations d'identification du bénéficiaire : 
+
+1° Noms et prénoms ; 
+
+2° Sexe ; 
+
+3° Situation maritale déclarée ; 
+
+4° Date et lieu de naissance ; 
+
+5° Nationalité ; 
+
+6° Coordonnées du bénéficiaire en France et dans le pays de retour ; 
+
+7° Photographie d'identité ; 
+
+8° Date d'entrée en France ; 
+
+9° Numéro national d'identification mentionné au 2° de l'article D. 611-2 ; 
+
+10° Numéro, date et lieu de délivrance du passeport ou laissez-passer ; 
+
+11° Motifs de la demande : 
+
+― situation de dénuement ; 
+
+― volonté de départ ; 
+
+12° Nombre de personnes concernées par la mesure, liens unissant les bénéficiaires ; 
+
+13° Mesure d'éloignement, date et nature.
+
+B. ― Gestion administrative et comptable du dossier : 
+
+14° Numéro de dossier ; 
+
+15° Date de la décision de l'Office français de l'immigration et de l'intégration ; 
+
+16° Numéro de l'ordre de paiement ; 
+
+17° Nature et montant de l'aide accordée ; 
+
+18° Dates et montants des versements effectués ou à effectuer ; 
+
+19° Autres secours dont aide exceptionnelle d'acheminement.
+
+C. ― Organisation du voyage : 
+
+20° Hébergement avant départ ; 
+
+21° Moyens de transport ; 
+
+22° Date et lieu du départ du territoire français ; 
+
+23° Pays et ville de destination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-36 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D611-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
 
 
