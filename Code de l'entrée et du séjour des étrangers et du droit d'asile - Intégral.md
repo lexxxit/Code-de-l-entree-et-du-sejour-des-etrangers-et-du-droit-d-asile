@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-10-29
+Version Consolidée au 2009-10-31
 
 # Partie législative
 
@@ -26064,6 +26064,30 @@ la consulter sur les sujets d'intérêt commun qu'il détermine.
 	**Créé par**:
 
 	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
+
+
+###### Article R732-8
+
+Les actes relatifs à la gestion et à l'administration des personnels de la Cour nationale du droit d'asile sont pris sous les
+réserves prévues par l'article R. 121-13 du code de justice administrative par le vice-président du Conseil d'Etat sur
+proposition du président de la Cour. 
+
+Le vice-président peut, par arrêté, déléguer ses pouvoirs au président de la Cour pour les actes de gestion qui ne sont pas
+soumis à l'avis préalable des commissions administratives paritaires. 
+
+Pour les actes qui ne font pas l'objet de cette délégation de pouvoir, il peut déléguer sa signature dans les conditions
+prévues au deuxième alinéa de l'article R. 732-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1324 du 28 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R732-3
+	  - Code de justice administrative - art. R121-13
 
 
 #### Chapitre III : Examen des recours
