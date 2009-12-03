@@ -24,14 +24,20 @@ nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
 d'attente ; 
 
 11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par
-le ministre chargé de l'immigration.
+le ministre chargé de l'immigration ;
+
+12° Numéro MZA (maintien en zone d'attente).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2009-1483 du 1er décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L625-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L625-1

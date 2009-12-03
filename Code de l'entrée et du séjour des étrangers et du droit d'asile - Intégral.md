@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-11-14
+Version Consolidée au 2009-12-04
 
 # Partie législative
 
@@ -24158,37 +24158,32 @@ donnant lieu à un rapport communiqué à la Commission nationale de l'informati
 
 ###### Article R611-18
 
-Il est créé, à titre expérimental, pour une durée de deux ans à compter de la date de publication du décret n° 2007-1136 du
+Il est créé, à titre expérimental, pour une durée de quatre ans à compter de la date de publication du décret n° 2007-1136 du
 25 juillet 2007, un traitement automatisé de données à caractère personnel pris pour l'application des articles L. 611-3 à L.
-611-5, relevant du ministère chargé de l'immigration.
+611-5, relevant du ministère chargé de l'immigration. 
 
 La finalité de ce traitement est de lutter contre l'entrée et le séjour irréguliers en France des étrangers non
 ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou
 de la Confédération suisse, en facilitant l'identification des étrangers qui, lors de leur contrôle à l'occasion du
-franchissement de la frontière à l'aéroport Roissy - Charles-de-Gaulle, en provenance d'un pays tiers aux Etats parties à la
+franchissement de la frontière à l'aéroport Roissy-Charles-de-Gaulle, en provenance d'un pays tiers aux Etats parties à la
 convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions prévues à l'article 5 du règlement (CE) n°
-562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de
-franchissement des frontières par les personnes (code frontières Schengen) ou à l'article L. 211-1.
+562 / 2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de
+franchissement des frontières par les personnes (code frontières Schengen) ou à l'article L. 211-1. 
 
-Il est procédé à son évaluation.
+Ce traitement est mis en œuvre par la direction centrale de la police aux frontières sous l'appellation " fichier des non-
+admis " (FNAD). 
+
+Il est procédé à son évaluation à l'issue de la troisième année ainsi qu'au terme de l'expérimentation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Cite**:
-
-	  - Décret n°2007-1136 2007-07-25
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L611-3 à L611-5, L211-1
-	  - Convention 1990-06-19 Schengen
-	  - Règlement 562-2006 CE 2006-03-15 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+	  - Décret n°2009-1483 du 1er décembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 	**Cité par**:
 
@@ -24200,52 +24195,59 @@ Il est procédé à son évaluation.
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-25 (V)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
+	  - article 5 du règlement (CE) n°562
+
 
 ###### Article R611-19
 
-Les données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-18 sont :
+Les données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-18 sont : 
 
-1° L'identité de l'étranger : nom, nom marital, alias ou surnom, prénom(s), date et lieu de naissance, sexe, nationalité,
-lieu de résidence, complétée par l'identité des mineurs dont il est accompagné ;
+1° L'identité de l'étranger : nom, nom marital, alias ou surnom, prénom (s), date et lieu de naissance, sexe, nationalité,
+lieu de résidence, complétée par l'identité des mineurs dont il est accompagné ; 
 
 2° Le titre de voyage : type de document de voyage, Etat ou organisme émetteur du document de voyage, numéro perforé ou
-imprimé sur le document de voyage ;
+imprimé sur le document de voyage ; 
 
-3° Les images numérisées de la photographie et des empreintes digitales des dix doigts ;
+3° Les images numérisées de la photographie et des empreintes digitales des dix doigts ou la mention de l'impossibilité de
+collecte totale ou partielle des empreintes digitales ; 
 
-4° L'image numérisée de la page du document d'identité ou de voyage supportant la photographie du titulaire ;
+4° L'image numérisée de la page du document d'identité ou de voyage supportant la photographie du titulaire ; 
 
 5° Les données relatives au transport : titre de transport, provenance, compagnie ayant acheminé l'étranger, date et numéro
-de vol ;
+de vol ; 
 
-6° Le motif du refus d'entrée sur le territoire ;
+6° Le motif du refus d'entrée sur le territoire ; 
 
-7° La suite réservée à la procédure de non-admission.
+7° La suite réservée à la procédure de non-admission. 
 
 Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir de l'image numérisée de la photographie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-1136 2007-07-25 art. 1 3° JORF 27 juillet 2007
+	  - Décret n°2009-1483 du 1er décembre 2009 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-21 (Ab)
 
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-18 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R611-26 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-18
 
 
 ###### Article R611-20
@@ -24282,37 +24284,44 @@ informations sont effacées.
 
 ###### Article R611-21
 
-I Les destinataires des données à caractère personnel mentionnées à l'article R. 611-19 sont :
+I Les destinataires des données à caractère personnel mentionnées à l'article R. 611-19 sont : 
 
 1° Les agents de la police aux frontières, individuellement désignés et spécialement habilités par le directeur central de la
-police aux frontières ;
+police aux frontières ; 
 
 2° A l'exclusion des données biométriques, les agents chargés de l'application de la réglementation relative aux étrangers à
 la direction des libertés publiques et des affaires juridiques, individuellement désignés et spécialement habilités par le
-directeur des libertés publiques et des affaires juridiques.
+directeur des libertés publiques et des affaires juridiques ; 
 
-II. - Peuvent également accéder aux données mentionnées au I, dans les conditions fixées aux articles 9 et 33 de la loi du 23
+3° A l'exclusion des données biométriques, les agents chargés de l'application de la réglementation relative aux étrangers à
+la direction de l'immigration et au service de l'asile du ministère chargé de l'immigration, individuellement désignés et
+spécialement habilités par le secrétaire général. 
+
+II.-Peuvent également accéder aux données mentionnées au I, dans les conditions fixées aux articles 9 et 33 de la loi du 23
 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux
-contrôles frontaliers :
+contrôles frontaliers : 
 
 1° Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
 nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et
 spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la
-gendarmerie nationale ;
+gendarmerie nationale ; 
 
 2° Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de
 terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
-directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
+directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire. 
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2012. 
 
-IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les agents mentionnés au I.
+IV.-Les destinataires des informations mentionnées à l'annexe 6-6 sont les agents mentionnés au I.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile annexe 6-6
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 33
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile.
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-19
 
 	**Cité par**:
 
@@ -24320,7 +24329,11 @@ IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les a
 
 	**Modifié par**:
 
-	  - Décret n°2008-1456 du 30 décembre 2008 - art. 1
+	  - Décret n°2009-1483 du 1er décembre 2009 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 
 ###### Article R611-22
@@ -28149,17 +28162,23 @@ nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
 d'attente ; 
 
 11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par
-le ministre chargé de l'immigration.
+le ministre chargé de l'immigration ;
+
+12° Numéro MZA (maintien en zone d'attente).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2009-1483 du 1er décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L625-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L625-1
 
 
 ## Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI
