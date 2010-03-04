@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-03-05
 
 # Partie législative
 
@@ -12460,10 +12460,10 @@ remplit les conditions prévues audit article.
 
 Les demandes d'inscription sont adressées au procureur de la République près le tribunal de grande instance dans le ressort
 duquel le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du juge des
-enfants, du juge des libertés et de la détention, du président du conseil général et du directeur régional de la protection
-judiciaire de la jeunesse.
+enfants, du juge des libertés et de la détention, du président du conseil général et du        directeur interrégional de la
+protection judiciaire de la jeunesse. 
 
-Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du tribunal de grande instance.
+Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du tribunal de grande instance. 
 
 Le procureur de la République transmet ensuite le dossier avec l'avis de l'assemblée générale du tribunal au procureur
 général qui en saisit le premier président de la cour d'appel aux fins d'examen par l'assemblée générale de la cour.
@@ -12471,11 +12471,15 @@ général qui en saisit le premier président de la cour d'appel aux fins d'exam
 L'assemblée générale dresse la liste des administrateurs ad hoc, après avoir entendu le magistrat chargé du rapport et le
 ministère public.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2010-214 du 2 mars 2010 - art. 8 (V)
 
 	**Cité par**:
 
