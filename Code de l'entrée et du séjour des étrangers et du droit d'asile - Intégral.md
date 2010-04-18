@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-04-19
 
 # Partie législative
 
@@ -23295,14 +23295,13 @@ communes du centre.
 
 Les locaux mentionnés à l'article R. 551-3 sont créés, à titre permanent ou pour une durée déterminée, par arrêté
 préfectoral. Une copie de cet arrêté est transmise sans délai au procureur de la République, au directeur départemental des
-affaires sanitaires et sociales et au président de la Commission nationale de contrôle des centres et locaux de rétention
-administrative et des zones d'attente.
+affaires sanitaires et sociales et au Contrôleur général des lieux de privation de liberté.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2010-387 du 16 avril 2010 - art. 1
 
 	**Cité par**:
 
@@ -23390,27 +23389,6 @@ personnels de santé ainsi que les dispositions sanitaires applicables en dehors
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-3
 	  - Code de la santé publique - art. L6112-1
 	  - Code de la santé publique - art. L6112-8
-
-
-###### Article R553-9
-
-Les crédits relatifs à la construction et à l'entretien immobilier des centres et locaux de rétention sont inscrits aux
-budgets des ministères de l'intérieur et de la défense, chacun en ce qui le concerne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2010-387 du 16 avril 2010 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 28 octobre 2016 - art. 1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
 ##### Section 2 : Droits des étrangers retenus
