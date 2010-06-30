@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-06-26
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -26681,7 +26681,7 @@ réception.
 
 #### Chapitre Ier : Admission au séjour.
 
-###### Article R741-1
+###### Article R*741-1
 
 Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande
 d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
@@ -26702,7 +26702,7 @@ département et, à Paris, au préfet de police, pour exercer cette mission dans
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 22
+	  - Décret n°2010-687 du 24 juin 2010 - art. 31
 
 
 ###### Article R741-2
