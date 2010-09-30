@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-07-31
+Version Consolidée au 2010-10-01
 
 # Partie législative
 
@@ -3756,18 +3756,23 @@ V.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 ###### Article L313-12
 
-La carte délivrée au titre de l'article L. 313-11 donne droit à l'exercice d'une activité professionnelle.
+La carte délivrée au titre de l'article L. 313-11 donne droit à l'exercice d'une activité professionnelle. 
 
 Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article L. 313-11 est subordonné au fait que la
 communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales
 qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de
 l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger
 mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa
-présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et
-familiale".
+présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et
+familiale ". 
+
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais,
+la délivrance ou le renouvellement du titre de séjour de l'étranger qui bénéficie d'une ordonnance de protection en vertu de
+l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de
+solidarité ou son concubin. 
 
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du
-6° de l'article L. 313-11.
+6° de l'article L. 313-11. 
 
 La carte de séjour délivrée au titre de l'article L. 313-11-1 ne donne pas droit à l'exercice d'une activité professionnelle
 dans l'année qui suit sa première délivrance, sauf si elle est accordée en application du II de cet article et que son
@@ -3775,19 +3780,15 @@ bénéficiaire séjourne en France depuis au moins un an.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 12 bis, al. 13 à 16
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 14 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 15 () JORF 21 novembre 2007
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (V)
+	  - Code civil - art. 515-9 (V)
 
 	**Cité par**:
 
@@ -3796,11 +3797,6 @@ bénéficiaire séjourne en France depuis au moins un an.
 	  - Code du travail - art. R341-2-2 (VT)
 	  - Code du travail - art. R5221-3 (M)
 	  - Code du travail - art. R5221-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
 
 
 ###### Article L313-13
@@ -4948,6 +4944,8 @@ décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 
 #### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale.
 
+#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions, témoigné dans une procédure pénale ou bénéficiant de mesures de protection
+
 ###### Article L316-1
 
 Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et
@@ -5037,6 +5035,50 @@ L. 316-1 et les modalités de protection, d'accueil et d'hébergement de l'étra
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+
+
+###### Article L316-3
+
+Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention vie privée et
+familiale est délivrée à l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil.
+La condition prévue à l'article L. 311-7 du présent code n'est pas exigée. Cette carte de séjour temporaire ouvre droit à
+l'exercice d'une activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 12
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 25
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-3 (V)
+	  - Code du travail - art. R5221-48 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code civil - art. 515-9 (V)
+
+
+###### Article L316-4
+
+En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant
+déposé plainte pour une infraction mentionnée au premier alinéa de l'article 132-80 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 132-80 (V)
 
 
 #### Chapitre VII : La carte de séjour portant la mention "retraité"
@@ -5748,36 +5790,30 @@ vigueur.
 
 En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au
 conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner en France au titre du regroupement
-familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
+familial, faire l'objet d'un retrait ou d'un refus de renouvellement. 
 
-Lorsque la rupture de la vie commune est antérieure à la demande de titre, l'autorité administrative refuse de l'accorder.
+Lorsque la rupture de la vie commune est antérieure à la demande de titre, l'autorité administrative refuse de l'accorder. 
 
 Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfants sont nés de cette union, lorsque l'étranger
 est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à
-l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil.
+l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil. 
 
 En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son
 conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du
 regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint
 mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence
-constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et familiale".
+constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ". 
+
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais,
+la délivrance ou le renouvellement de la carte de séjour temporaire de l'étranger qui bénéfice d'une ordonnance de protection
+en vertu de l'application de l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire
+lié par un pacte civil de solidarité ou son concubin.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe IV
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 4 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 5 () JORF 21 novembre 2007
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 11
 
 	**Cité par**:
 
@@ -5786,7 +5822,8 @@ constitue une menace pour l'ordre public, une carte de séjour temporaire portan
 
 	**Cite**:
 
-	  - Code civil - art. 371-2 (M)
+	  - Code civil - art. 371-2 (V)
+	  - Code civil - art. 515-9 (V)
 
 
 ###### Article L431-3
