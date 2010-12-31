@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-10-01
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -1045,9 +1045,9 @@ lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 
 ###### Article L211-8
 
-Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'          Office français
-de l'immigration et de l'intégration, d'une taxe d'un montant de 45 euros acquittée par l'hébergeant. Cette taxe est
-recouvrée comme en matière de droit de timbre.
+Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Office français de
+l'immigration et de l'intégration, d'une taxe d'un montant de 30 euros acquittée par l'hébergeant. Cette taxe est recouvrée
+comme en matière de droit de timbre.
 
 **Liens relatifs à cet article**
 
@@ -1057,7 +1057,7 @@ recouvrée comme en matière de droit de timbre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 2
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
 
 
 ###### Article L211-9
@@ -2363,8 +2363,8 @@ comporte une présentation des institutions françaises et des valeurs de la Ré
 et les femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat.
 L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan de compétences professionnelles. Toutes
 ces formations et prestations sont dispensées gratuitement et financées par l'Office français de l'immigration et de
-l'intégration ou par l'établissement public appelé à lui succéder. Lorsque l'étranger est âgé de seize à dix-huit ans, le
-contrat d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France. 
+l'intégration. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat d'accueil et d'intégration doit être cosigné
+par son représentant légal régulièrement admis au séjour en France. 
 
 Lors du premier renouvellement de la carte de séjour, l'autorité administrative tient compte du non-respect, manifesté par
 une volonté caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
@@ -2388,7 +2388,7 @@ sont dispensées. Il fixe les situations dans lesquelles le bilan de compétence
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
 
 	**Cité par**:
 
@@ -2589,37 +2589,51 @@ contrat de travail.
 ###### Article L311-13
 
 A.-La délivrance d'un premier titre de séjour figurant parmi ceux mentionnés aux 1° à 3° de l'article L. 311-2 donne lieu à
-la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public
-appelé à lui succéder, d'une taxe dont le montant est fixé par décret entre 200 euros et 340 euros. Ces limites sont
-respectivement ramenées à 55 euros et 70 euros pour les étrangers auxquels est délivrée une carte de séjour au titre des
-articles L. 313-7 et L. 313-7-1, du 9° de l'article L. 313-11, du 3° de l'article L. 314-11, ainsi que la carte de séjour
-portant la mention " salarié " ou " salarié en mission " prévue aux 1° et 5° de l'article L. 313-10. Elles sont ramenées à
-100 euros et 170 euros pour les étrangers entrés en France au titre du regroupement familial en tant qu'enfants mineurs. 
+la perception, au profit de l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est fixé par
+décret entre 200 euros et 385 euros. Ces limites sont respectivement ramenées à 55 euros et 70 euros pour les étrangers
+auxquels est délivrée une carte de séjour au titre des articles L. 313-7 et L. 313-7-1, du 9° de l'article L. 313-11, du 3°
+de l'article L. 314-11, ainsi que la carte de séjour portant la mention " salarié " ou " salarié en mission " prévue aux 1°
+et 5° de l'article L. 313-10. Elles sont ramenées à 100 euros et 170 euros pour les étrangers entrés en France au titre du
+regroupement familial en tant qu'enfants mineurs. 
 
 Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre de séjour au titre des 10° et 11° de
-l'article L. 313-11, de l'article L. 313-13 et des 4°, 5°, 6°, 8° et 9° de l'article L. 314-11 ni aux travailleurs
-temporaires et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10. La délivrance d'un visa de long séjour valant ou
-dispensant de titre de séjour donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à la perception,
-au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui
-succéder, de la taxe correspondant au titre de séjour que ce visa remplace.
+l'article L. 313-11, de l'article L. 313-13 et des 4°,5°,6°,8° et 9° de l'article L. 314-11 ni aux travailleurs temporaires
+et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10. La délivrance d'un visa de long séjour valant ou dispensant de
+titre de séjour donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à la perception, au profit de
+l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, de la
+taxe correspondant au titre de séjour que ce visa remplace.
 
 B.-Le renouvellement des titres de séjour ainsi que la fourniture de duplicata donnent lieu à la perception, au profit de
-l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, d'une
-taxe dont le montant est fixé par décret entre un minimum égal à 55 euros et un maximum égal à 110 euros. Ces limites sont
-respectivement ramenées à 15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour au titre de
-l'article L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un an. Elle n'est pas exigée des
-réfugiés et des étrangers bénéficiaires de la protection subsidiaire.
+l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est fixé par décret, selon la nature et la
+durée du titre, entre un minimum égal à 55 euros et un maximum égal à 220 euros. Ces limites sont respectivement ramenées à
+15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour d'une durée d'un an au plus au titre de
+l'article L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un an.
 
 C.-La délivrance, le renouvellement et la fourniture de duplicata des documents de circulation délivrés aux étrangers mineurs
-au titre des articles L. 321-3 et L. 321-4 donnent lieu à la perception, au profit de l'Agence nationale de l'accueil des
-étrangers et des migrations ou de l'établissement public appelé à lui succéder, d'une taxe dont le montant est de 30 euros.
+au titre des articles L. 321-3 et L. 321-4 donnent lieu à la perception, au profit de l'Office français de l'immigration et
+de l'intégration, d'une taxe dont le montant est de 45 euros.
 
-D.-Les taxes prévues aux A, B et C sont acquittées soit au moyen de timbres mobiles d'un modèle spécial à l'Agence nationale
-de l'accueil des étrangers et des migrations ou à l'établissement public appelé à lui succéder, soit par la voie électronique
-au moyen d'un timbre dématérialisé, dans les conditions prévues au chapitre II du titre IV de la première partie du livre Ier
-du code général des impôts.
+D. ― Sans préjudice des dispositions de l'article L. 311-7, préalablement à la délivrance d'un premier titre de séjour,
+l'étranger qui n'est pas entré en France muni des documents et visas exigés par les conventions internationales et les
+règlements en vigueur ou qui, âgé de plus de dix-huit ans, n'a pas, après l'expiration depuis son entrée en France d'un délai
+de trois mois ou d'un délai supérieur fixé par décret en Conseil d'Etat, été muni d'une carte de séjour, acquitte au profit
+de l'Office français de l'immigration et de l'intégration un droit de visa de régularisation d'un montant égal à 220 €. 
 
-E.-Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
+Cette disposition n'est pas applicable aux réfugiés, apatrides et bénéficiaires de la protection subsidiaire et aux étrangers
+mentionnés au 2° bis de l'article L. 313-11, aux 4° à 7° de l'article L. 314-11 et à l'article L. 314-12. 
+
+Le visa mentionné au premier alinéa du présent D tient lieu du visa de long séjour prévu à l'avant-dernier alinéa de
+l'article L. 211-2-1 si les conditions pour le demander sont réunies.
+
+E.-Les taxes prévues aux A, B, C et D sont acquittées soit au moyen de timbres mobiles d'un modèle spécial à l'Office
+français de l'immigration et de l'intégration, soit par la voie électronique au moyen d'un timbre dématérialisé, dans les
+conditions prévues au chapitre II du titre IV de la première partie du livre Ier du code général des impôts.
+
+F.-Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
+
+**Nota:**
+
+Loi n° 2010- 1657 du 29 décembre 2010 art. 161 V : Ces dispositions sont applicables à Saint-Barthélemy et à Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -2642,21 +2656,23 @@ E.-Les modalités d'application du présent article sont précisées, en tant qu
 	  - Code général des impôts, CGI. - art. 958 (V)
 	  - Code général des impôts, CGI. - art. 960 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L321-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L321-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L321-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L321-4
 
 
 ###### Article L311-14
@@ -2686,18 +2702,10 @@ contraires prévues par ces traités ou accords.
 Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non
 établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors
 de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe au
-profit de l'Office français de l'immigration et de l'intégration ou de l'établissement public appelé à lui succéder. 
+profit de l'Office français de l'immigration et de l'intégration. 
 
-Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est de : 
-
-- 900 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal à une fois et demie le montant mensuel à
-temps plein du salaire minimum de croissance ; 
-
-- 1 600 euros lorsque le salaire versé à ce travailleur étranger est supérieur à une fois et demie le montant mensuel à temps
-plein du salaire minimum de croissance. 
-
-A compter du 1er janvier 2010, le montant de cette taxe est égal à 60 % du salaire versé à ce travailleur étranger, pris en
-compte dans la limite de 2, 5 fois le salaire minimum de croissance. 
+Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 50 % du
+salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5 fois le salaire minimum de croissance.
 
 Lorsque l'embauche intervient pour un emploi temporaire d'une durée supérieure à trois mois et inférieure à douze mois, le
 montant de cette taxe, fixé par décret, varie selon le niveau du salaire dans des limites comprises entre 50 euros et 300
@@ -2705,7 +2713,10 @@ euros.
 
 Lorsque l'embauche intervient pour un emploi à caractère saisonnier, le montant de cette taxe est modulé selon la durée de
 l'embauche à raison de 50 euros par mois d'activité salariée complet ou incomplet. Chaque embauche donne lieu à
-l'acquittement de la taxe. 
+l'acquittement de la taxe.
+
+Lorsque l'embauche intervient pour un jeune professionnel recruté dans le cadre d'un accord bilatéral d'échanges de jeunes
+professionnels, le montant de cette taxe est fixé par décret dans des limites comprises entre 50 et 300 €.
 
 Sont exonérés de la taxe prévue au premier alinéa les organismes de recherche publics, les établissements d'enseignement
 supérieur délivrant un diplôme conférant un grade de master, les fondations de coopération scientifique, les établissements
@@ -2731,7 +2742,7 @@ Les modalités d'application du présent article sont précisées, en tant que d
 
 	**Modifié par**:
 
-	  - Loi n°2010-237 du 9 mars 2010 - art. 6
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -4941,8 +4952,6 @@ décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 
 	  - Loi n°2016-274 du 7 mars 2016 - art. 20
 
-
-#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale.
 
 #### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions, témoigné dans une procédure pénale ou bénéficiant de mesures de protection
 
@@ -9742,23 +9751,38 @@ d'un tel contrôle, à condition d'y avoir fait procéder à l'entrée en France
 
 ###### Article L626-1
 
-Sans préjudice des poursuites judiciaires qui pourront être engagées à son encontre et de la contribution spéciale au
-bénéfice de l'Office français de l'immigration et de l'intégration prévue à l'article L. 341-7 du code du travail,
-l'employeur qui aura occupé un travailleur étranger en situation de séjour irrégulier acquittera une contribution forfaitaire
-représentative des frais de réacheminement de l'étranger dans son pays d'origine. 
+Sans préjudice des poursuites judiciaires qui pourront être engagées à son encontre et de la contribution spéciale prévue à
+l'article L. 8253-1 du code du travail, l'employeur qui aura occupé un travailleur étranger en situation de séjour irrégulier
+acquittera une contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine. 
 
 Le montant total des sanctions pécuniaires pour l'emploi d'un étranger en situation de séjour irrégulier ne peut excéder le
 montant des sanctions pénales prévues par les deux premiers alinéas de l'article L. 364-3 et par l'article L. 364-10 du code
 du travail ou, si l'employeur entre dans le champ d'application de ces articles, le montant des sanctions pénales prévues par
-le chapitre II du présent titre. 
+le chapitre II du présent titre.
+
+L'Office français de l'immigration et de l'intégration est chargé de constater et de liquider cette contribution.A cet effet,
+il peut avoir accès aux traitements automatisés des titres de séjour des étrangers dans les conditions définies par la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
+Sont applicables à la contribution forfaitaire prévue au premier alinéa les dispositions prévues aux articles L. 8253-1 à L.
+8253-5 du code du travail en matière de recouvrement et de privilège applicables à la contribution spéciale. 
+
+Les sommes recouvrées sont reversées à l'Office français de l'immigration et de l'intégration. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code du travail - art. L364-10
+	  - Code du travail - art. L364-3
+	  - Code du travail - art. L8253-1 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 2
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 78
 
 	**Cité par**:
 
@@ -9770,12 +9794,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code du travail - art. L8271-17 (V)
 	  - Code du travail - art. R5223-24 (V)
 	  - Code du travail - art. R5223-35 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L341-7
-	  - Code du travail - art. L364-10
-	  - Code du travail - art. L364-3
 
 
 ## LIVRE VII : LE DROIT D'ASILE
@@ -10533,24 +10551,25 @@ Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des
 réfugiés et apatrides, prises en application des articles L. 711-1, L. 712-1 à L. 712-3 et L. 723-1 à L. 723-3. A peine
 d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de
-l'office.
+l'office. 
+
+Le bénéfice de l'aide juridictionnelle peut être demandé au plus tard dans le délai d'un mois à compter de la réception par
+le requérant de l'avis de réception de son recours, lequel l'informe des modalités de cette demande.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°52-893 1952-07-25 art. 5, paragraphe II
-	  - Loi n°52-893 du 25 juillet 1952 - art. 5 (M)
 	  - Loi n°52-893 du 25 juillet 1952 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 162
 
 	**Cité par**:
 
@@ -10567,8 +10586,9 @@ l'office.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L711-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L711-1, L712-1 à L712-3, L723-1 à 723-3
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L711-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L712-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-1 (V)
 
 
 ###### Article L731-3
@@ -26117,6 +26137,10 @@ Délégation peut également être donnée, aux mêmes fins, aux chefs de servic
 secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau
 équivalent.
 
+Délégation peut en outre être donnée aux autres agents en fonction au Conseil d'Etat à l'effet de signer, sous la
+responsabilité des personnes mentionnées aux deux premiers alinéas, toute pièce relative aux dépenses et aux ordres de
+recettes.
+
 Le président de la Cour nationale du droit d'asile est institué ordonnateur secondaire des dépenses de fonctionnement de la
 juridiction qu'il préside. Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la
 cour.
@@ -26125,7 +26149,7 @@ cour.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
+	  - Décret n°2010-1710 du 30 décembre 2010 - art. 3
 
 	**Cité par**:
 
