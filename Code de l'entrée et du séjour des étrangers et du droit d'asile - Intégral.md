@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-02-12
 
 # Partie législative
 
@@ -15909,8 +15909,8 @@ de leur département de résidence dans les conditions définies aux articles D.
 ###### Article D311-18-1
 
 Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre de séjour, de son renouvellement ou de la
-délivrance d'un duplicata versent, au profit de l'Office français de l'immigration et de l'intégration          , les taxes
-mentionnées aux articles L. 311-13 et L. 311-14 selon les modalités suivantes : 
+délivrance d'un duplicata versent, au profit de l'Office français de l'immigration et de l'intégration, les taxes mentionnées
+aux articles L. 311-13 et L. 311-14 selon les modalités suivantes : 
 
 1. Pour la délivrance d'un premier titre de séjour, le montant de la taxe est fixé comme suit : 
 
@@ -15922,28 +15922,42 @@ et ayant acquitté à ce titre la redevance prévue à l'article R. 421-29 ;
 b) 55 euros pour la délivrance d'un titre de séjour mentionné aux articles L. 313-7, L. 313-7-1, au 9° de l'article L. 313-11
 et au 3° de l'article L. 314-11 ; 
 
-c) 70 euros pour la délivrance d'un titre de séjour portant la mention " salarié  ”   ou " salarié en mission ” mentionnés
-aux 1° et 5° de l'article L. 313-10 ; 
+c) 70 euros pour la délivrance d'un titre de séjour portant la mention " salarié ” ou " salarié en mission ” mentionnés aux
+1° et 5° de l'article L. 313-10 ; 
 
 d) 110 euros pour la délivrance du titre de séjour mentionné à l'article L. 313-11 aux ressortissants étrangers entrés sur le
 territoire national avant le terme de leur dix-huitième anniversaire dans le cadre de la procédure du regroupement familial,
 à l'exception, jusqu'au 31 décembre 2011, du titre délivré aux enfants d'étrangers dont la demande de regroupement familial a
-été autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevance prévue à l'article R. 421-29. 
+été autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevance prévue à l'article R. 421-29.
 
-2. Pour le renouvellement d'un titre de séjour ou pour la délivrance d'un duplicata, le montant de la taxe est fixé à 110
-euros, à l'exception : 
+2. Pour la délivrance d'un titre de séjour en renouvellement d'un précédent titre de séjour, le montant de la taxe est fixé
+comme suit : 
 
-a) Du renouvellement ou de la délivrance d'un duplicata du titre mentionné aux articles L. 313-7-1, au 9° de l'article L.
-313-11 et au 3° de l'article L. 314-11 pour lesquels ce montant est fixé à 55 euros ; 
+a) 30 euros pour le titre de séjour mentionné à l'article L. 313-7 lorsqu'il est valable un an ; 
 
-b) Du renouvellement ou de la délivrance d'un duplicata du titre mentionné à l'article L. 313-7 pour lesquels ce montant est
-fixé à 30 euros.
+b) 55 euros pour le titre de séjour mentionné à l'article L. 313-7 lorsqu'il est valable plus d'un an, ainsi que pour les
+titres mentionnés à l'article L. 313-7-1, au 9° de l'article L. 313-11 et au 3° de l'article L. 314-11 ; 
+
+c) 85 euros pour les autres cartes de séjour temporaires valables un an ; 
+
+d) 110 euros pour les cartes de séjour temporaires valables plus d'un an autres que celle mentionnée à l'article L. 313-7,
+ainsi que pour la carte de séjour compétences et talents ; 
+
+e) 140 euros pour la carte de résident, la carte de résident permanent et la carte de séjour retraité. 
+
+3. En cas de fourniture d'un duplicata d'un titre de séjour délivré sur le fondement de l'article L. 121-1 ou L. 121-3 ou en
+cas de non-présentation d'un tel titre en vue de son renouvellement, le tarif de la taxe est de 15 euros. 
+
+En cas de fourniture d'un duplicata d'un autre titre de séjour ou en cas de non-présentation d'un tel titre en vue de son
+renouvellement ou en cas de renouvellement d'un tel titre alors que la demande en a été faite après l'expiration de sa durée
+de validité, le tarif de la taxe est celui fixé au 2 du présent article majoré de 15 euros. Cette majoration n'est pas
+applicable aux titres mentionnés au a du même 2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-689 du 24 juin 2010 - art. 1
+	  - Décret n°2011-163 du 9 février 2011 - art. 1
 
 	**Cité par**:
 
@@ -15954,6 +15968,8 @@ fixé à 30 euros.
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
@@ -15966,9 +15982,9 @@ fixé à 30 euros.
 
 ###### Article D311-18-2
 
-Tout employeur qui embauche un travailleur étranger pour un emploi temporaire d'une durée supérieure à trois mois et
-inférieure à douze mois acquitte, au profit de l'Office français de l'immigration et de l'intégration ou de l'établissement
-public appelé à lui succéder, la taxe mentionnée à l'article L. 311-15 selon les modalités suivantes : 
+a) Tout employeur qui embauche un travailleur étranger pour un emploi temporaire d'une durée supérieure à trois mois et
+inférieure à douze mois acquitte, au profit de l'Office français de l'immigration et de l'intégration, la taxe mentionnée à
+l'article L. 311-15 selon les modalités suivantes : 
 
 1. 70 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal au montant mensuel à temps plein du
 salaire minimum de croissance ; 
@@ -15980,11 +15996,14 @@ croissance ;
 3. 300 euros lorsque le salaire versé à ce travailleur étranger est supérieur à une fois et demie le montant mensuel à temps
 plein du salaire minimum de croissance.
 
+b) Lorsque l'embauche intervient pour un jeune professionnel recruté dans le cadre d'un accord bilatéral d'échanges de jeunes
+professionnels, le montant de la taxe prévue à l'article L. 311-15 est de 70 euros.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2011-163 du 9 février 2011 - art. 2
 
 	**Cité par**:
 
