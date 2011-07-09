@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-06-18
+Version Consolidée au 2011-07-10
 
 # Partie législative
 
@@ -6504,8 +6504,6 @@ l'assignation à résidence est sanctionné dans les conditions prévues à l'ar
 
 	  - Loi n°2011-267 du 14 mars 2011 - art. 119
 
-
-#### Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe.
 
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
 
@@ -14598,7 +14596,7 @@ serait pas en mesure d'en assumer lui-même les frais.
 
 ###### Article R211-32
 
-La déclaration obligatoire mentionnée à l'article L. 531-2 est, sous réserve des dispositions de l'article R. 212-5,
+La déclaration obligatoire mentionnée à l'article L. 531-2 est, sous réserve des dispositions de l'article R. 212-6,
 souscrite à l'entrée sur le territoire métropolitain par l'étranger qui n'est pas ressortissant d'un Etat membre de la
 Communauté européenne et qui est en provenance directe d'un Etat partie à la convention signée à Schengen le 19 juin 1990.
 
@@ -14606,13 +14604,16 @@ Communauté européenne et qui est en provenance directe d'un Etat partie à la 
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R212-5 (V)
-	  - Convention 1990-06-19, signée à Schengen
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R212-6
 
 
 ###### Article R211-33
@@ -15132,23 +15133,29 @@ réception.
 ###### Article R222-3
 
 Le juge des libertés et de la détention statue sur la requête de l'autorité administrative dans les conditions définies aux
-articles R. 552-5 à R. 552-10. Pour l'application de ces dispositions, les références au placement en rétention
-administrative sont remplacées par des références au maintien en zone d'attente et la référence à l'article L. 552-12
-figurant à l'article R. 552-8 est remplacée par une référence aux articles L. 222-4 et L. 222-6.
+articles R. 552-5 à R. 552-10 sous réserve du délai qui lui est imparti pour statuer par l'article L. 222-3. Pour
+l'application de ces dispositions, les références au placement en rétention administrative sont remplacées par des références
+au maintien en zone d'attente et la référence à l'article L. 552-12 figurant à l'article R. 552-8 est remplacée par une
+référence aux articles L. 222-4 et L. 222-6.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L222-4 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L222-6 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-12 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R552-8 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R552-5 à R552-10, L552-12, R552-8, L222-4, L222-6
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L222-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L222-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-3
 
 
 ##### Section 2 : Voies de recours
@@ -21907,44 +21914,118 @@ deux premiers alinéas de l'article R. 313-22.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
 
 
+###### Article R511-2
+
+L'étranger qui bénéficie d'un délai pour quitter le territoire en application du premier alinéa du II de l'article L. 511-1
+est informé que l'autorité administrative compétente peut, au cours de ce délai, décider de l'obliger à quitter sans délai le
+territoire français dans le cas prévus au dernier alinéa du II du même article. 
+
+La décision relative au délai de départ volontaire prévue au dernier alinéa du II de l'article L. 511-1 est notifiée par la
+voie administrative. Cette notification tient lieu, le cas échéant, de la notification prévue au premier alinéa de l'article
+L. 512-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
+
+
+###### Article R511-3
+
+L'interdiction de retour sur le territoire français prononcée en application du troisième alinéa du III de l'article L. 511-1
+est notifiée par voie administrative. Il en est de même de la décision de prolongation d'une interdiction de retour prévue au
+sixième alinéa du même III. 
+
+Les modalités de suppression du signalement d'un étranger effectué au titre d'une décision d'interdiction de retour prise en
+application du III de l'article L. 511-1 sont celles qui s'appliquent, en vertu de l'article 7 du décret n° 2010-569 du 28
+mai 2010, aux cas d'extinction du motif d'inscription au fichier des personnes recherchées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2010-569 du 28 mai 2010 - art. 7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 4
+
+
+###### Article R511-4
+
+Lorsque les documents de voyage d'un étranger faisant l'objet d'une obligation de quitter le territoire français assortie
+d'une interdiction de retour ont été revêtus du cachet mentionné à l'article 10 du règlement (CE) n° 562/2006 du Parlement
+européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de franchissement des frontières
+par les personnes (code frontières Schengen) lors de sa sortie du territoire français par un point de contrôle français aux
+frontières extérieures des Etats parties à la convention signée à Schengen le 19 juin 1990, il est réputé avoir satisfait à
+cette obligation. 
+
+L'étranger peut également justifier de sa sortie du territoire français en établissant par tous moyens sa présence effective
+dans le pays de destination, notamment en se présentant personnellement aux représentations consulaires françaises dans son
+pays de destination ou à la représentation de l'Office français de l'immigration et de l'intégration dans son pays de
+destination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 4
+
+
 #### Chapitre II : Procédure administrative et contentieuse
 
 ##### Section 1 : Procédure administrative
 
 ###### Article R512-1
 
-L'autorité administrative compétente pour décider qu'un étranger sera reconduit à la frontière en application des articles L.
-511-1 à L. 511-3 est le préfet de département et, à Paris, le préfet de police.
+L'autorité administrative mentionnée aux articles L. 511-1 et L. 511-3-1 est le préfet de département et, à Paris, le préfet
+de police. 
+
+La notification de l'obligation de quitter le territoire français prononcée en application de l'article L. 511-3-1 mentionne
+le délai imparti pour quitter le territoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1 à L511-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-3-1
 
 
 ###### Article R512-1-1
 
-La notification des arrêtés de reconduite à la frontière pris à l'encontre des ressortissants mentionnés à l'article L. 121-4
-comporte le délai imparti pour quitter le territoire. Sauf urgence, ce délai ne peut être inférieur à un mois.
+L'étranger auquel un délai de départ volontaire est imparti peut demander que les principaux éléments des décisions qui lui
+sont notifiées en application de l'article L. 511-1 lui soient communiqués dans une langue qu'il comprend ou dont il est
+raisonnable de supposer qu'il la comprend.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-371 du 21 mars 2007 - art. 3 () JORF 22 mars 2007
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L121-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R511-1
 
 
 ##### Section 2 : Procédure contentieuse
@@ -22128,38 +22209,56 @@ le chapitre V du titre VII du livre VII du code de justice administrative.
 
 ###### Article R513-1
 
-L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi d'un étranger faisant l'objet d'une
-mesure de reconduite à la frontière est le préfet de département et, à Paris, le préfet de police.
+L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi d'un étranger devant être d'office
+reconduit à la frontière est le préfet de département et, à Paris, le préfet de police.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-
-##### Section 2 : Assignation à résidence.
-
-###### Article R513-2
-
-L'autorité administrative compétente pour prononcer par arrêté, sur le fondement de l'article L. 513-4, l'assignation à
-résidence d'un étranger faisant l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la
-frontière sur le fondement des articles L. 511-1 à L. 511-3 est le préfet de département et, à Paris, le préfet de police.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 37 () JORF 22 mars 2007
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 6
+
+
+##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ
+
+###### Article R513-2
+
+L'autorité administrative compétente pour astreindre un étranger aux obligations de présentation prévues à l'article L. 513-4
+est le préfet de département et, à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L513-4, L511-1 à L511-3
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (V)
+
+
+###### Article R513-3
+
+L'autorité administrative désigne le service auprès duquel l'étranger doit effectuer les présentations prescrites et fixe
+leur fréquence qui ne peut excéder trois présentations par semaine. 
+
+L'étranger peut être tenu de lui remettre l'original de son passeport et de tout autre document d'identité ou de voyage en sa
+possession en échange d'un récépissé valant justification d'identité sur lequel est portée la mention du délai accordé pour
+son départ.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 7
 
 
 ### TITRE II : L'EXPULSION
@@ -22350,15 +22449,18 @@ valable.
 
 Dans tous les cas, la commission doit émettre son avis dans le délai d'un mois.
 
-Le chef du service des étrangers à la préfecture assure les fonctions de rapporteur ; le directeur départemental de l'action
-sanitaire et sociale ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la
-commission.
+Le préfet ou son représentant assure les fonctions de rapporteur ; le directeur départemental de l'action sanitaire et
+sociale ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la commission.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 8
 
 
 ###### Article R522-9
@@ -22663,6 +22765,18 @@ L. 313-11-1 est le préfet et, à Paris, le préfet de police.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
 
 
+###### Article R531-3-3
+
+L'autorité administrative compétente pour prendre la décision prévue au quatrième alinéa de l'article L. 531-2 est le préfet
+de département et, à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 9
+
+
 ###### Article R531-4
 
 L'autorité administrative compétente pour décider qu'un étranger sera d'office reconduit à la frontière en application de
@@ -22893,11 +23007,43 @@ Elle informe de sa décision, pour notification à l'intéressé, l'Etat membre 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
 
 
+###### Article R531-13
+
+L'étranger titulaire du statut de résident longue durée-CE accordé par la France et, le cas échéant, les membres de sa
+famille sont réadmis sans formalités sur le territoire national à la demande d'un autre Etat membre de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 10
+
+
+#### Chapitre III : Autres cas de reconduite
+
+
+
+###### Article R533-1
+
+L'autorité administrative compétente pour décider qu'un étranger sera reconduit à la frontière en application de l'article L.
+533-1 est le préfet de département et, à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 19
+
+
 ### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS
 
 ###### Article R*541-1
 
-L'autorité administrative compétente pour prononcer par arrêté, sur le fondement de l'article L. 513-4, l'assignation à
+L'autorité administrative compétente pour prononcer par arrêté, sur le fondement de l'article L. 561-1, l'assignation à
 résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire français prévue à l'article L. 541-1 est le
 ministre de l'intérieur.
 
@@ -22905,16 +23051,20 @@ ministre de l'intérieur.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1377 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 12
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R571-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (M)
 
 
 ### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE
@@ -22969,24 +23119,22 @@ jusqu'au terme de la procédure engagée quel que soit le lieu où l'étranger e
 
 Lorsqu'en raison de circonstances particulières, notamment de temps ou de lieu, des étrangers mentionnés à l'article R. 551-2
 ne peuvent être placés immédiatement dans un centre de rétention administrative, le préfet peut les placer dans des locaux
-adaptés à cette fin, dénommés "locaux de rétention administrative" régis par les articles R. 553-5 et R. 553-6.
+adaptés à cette fin, dénommés " locaux de rétention administrative " régis par les articles R. 553-5 et R. 553-6. 
 
-Les étrangers peuvent être maintenus dans ces locaux pendant une durée n'excédant pas 48 heures. Toutefois, en cas d'appel de
-l'ordonnance du juge des libertés et de la détention mentionnée à l'article L. 552-3, s'il n'y a pas de centre de rétention
-administrative dans le ressort de la cour d'appel où se situe le local, l'étranger peut y être maintenu jusqu'à ce que le
-président de la cour d'appel ait statué. De même, en cas de recours contre l'arrêté de reconduite à la frontière, s'il n'y a
-pas de centre de rétention administrative dans le ressort du tribunal administratif où se situe le local, l'étranger peut y
-être maintenu jusqu'à ce qu'il ait été statué sur le recours.
+Les étrangers peuvent être maintenus dans ces locaux pendant une durée n'excédant pas 48 heures. Toutefois, en cas de recours
+contre la mesure d'éloignement ou le placement en rétention administrative sur lequel il doit être statué dans les délais
+prévus au III de l'article L. 512-1, s'il n'y a pas de centre de rétention administrative dans le ressort du tribunal
+administratif, l'étranger peut être maintenu dans le local jusqu'à ce qu'il ait été statué sur le recours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 41 () JORF 22 mars 2007
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 13
 
 	**Cité par**:
 
@@ -22997,8 +23145,8 @@ pas de centre de rétention administrative dans le ressort du tribunal administr
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R553-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-6
 
 
 ###### Article R551-4
@@ -23077,8 +23225,8 @@ notamment une copie du registre prévu à l'article L. 553-1.
 
 ###### Article R552-4
 
-La requête est transmise par tout moyen au greffe du tribunal avant l'expiration des délais mentionnés aux articles L. 552-1
-et L. 552-7.
+La requête est transmise par tout moyen au greffe du tribunal avant l'expiration des délais mentionnés à la première phrase
+des articles L. 552-1 et L. 552-7.
 
 Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timbre indiquant la date et l'heure de la
 réception.
@@ -23087,12 +23235,16 @@ réception.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 14
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
 ###### Article R552-5
@@ -23181,13 +23333,14 @@ Le ministère public peut faire connaître son avis.
 
 ###### Article R552-10
 
-L'ordonnance du juge des libertés et de la détention est rendue sans délai. Elle est notifiée sur place aux parties présentes
-à l'audience qui en accusent réception. Le magistrat fait connaître verbalement aux parties présentes le délai d'appel et les
-modalités selon lesquelles cette voie de recours peut être exercée. Il les informe simultanément que seul l'appel formé par
-le ministère public peut être déclaré suspensif par le premier président de la cour d'appel ou son délégué.
+L'ordonnance du juge des libertés et de la détention est rendue dans le délai accordé à l'article L. 552-1 pour statuer. Elle
+est notifiée sur place aux parties présentes à l'audience qui en accusent réception. Le magistrat fait connaître verbalement
+aux parties présentes le délai d'appel et les modalités selon lesquelles cette voie de recours peut être exercée. Il les
+informe simultanément que seul l'appel formé par le ministère public peut être déclaré suspensif par le premier président de
+la cour d'appel ou son délégué. 
 
 Les notifications prévues à l'alinéa premier sont faites par tout moyen et dans les meilleurs délais aux parties qui ne se
-sont pas présentées, bien que dûment convoquées, ainsi qu'au procureur de la République, qui en accusent réception.
+sont pas présentées, bien que dûment convoquées, ainsi qu'au procureur de la République, qui en accusent réception. 
 
 Lorsqu'une ordonnance met fin à la rétention ou assigne à résidence l'étranger et que le procureur de la République estime ne
 pas avoir à solliciter du premier président qu'il déclare l'appel suspensif, il retourne l'ordonnance au magistrat qui l'a
@@ -23198,30 +23351,40 @@ mesure de maintien à la disposition de la justice.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 15
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
 
 
 ##### Section 2 : Nouvelle saisine du juge des libertés et de la détention
 
 ###### Article R552-11
 
-Pour la mise en oeuvre des articles L. 552-7 et L. 552-8, les règles prévues à la section 1 du présent chapitre sont
-applicables.
+Pour la mise en oeuvre de l'article L. 552-7, les règles prévues à la section 1 du présent chapitre sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 16
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L552-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
 ##### Section 3 : Voies de recours
@@ -23230,27 +23393,23 @@ applicables.
 
 ###### Article R552-12
 
-L' ordonnance est susceptible d' appel devant le premier président de la cour d' appel ou son délégué, dans les vingt-quatre
-heures de son prononcé, par l' étranger, par le préfet de département et, à Paris, par le préfet de police. Lorsque
-l'étranger n'assiste pas à l'audience, le délai court pour ce dernier à compter de la notification qui lui est faite. Le
-délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
+L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre
+heures de son prononcé, par l'étranger, par le préfet de département et, à Paris, par le préfet de police. Lorsque l'étranger
+n'assiste pas à l'audience, le délai court pour ce dernier à compter de la notification qui lui est faite. Le délai ainsi
+prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile. 
 
-Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu' il a
-renoncé à solliciter la suspension provisoire. 
+Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu'il a renoncé
+à solliciter la suspension provisoire. 
 
-Toutefois, il doit former appel dans le délai de quatre heures s' il entend solliciter du premier président ou de son délégué
-qu' il déclare l' appel suspensif. 
+Toutefois, il doit former appel dans le délai de six heures s'il entend solliciter du premier président ou de son délégué
+qu'il déclare l'appel suspensif. 
 
-Dans le cas prévu à l' alinéa précédent, le ministère public fait notifier la déclaration d' appel, immédiatement et par tout
-moyen, à l' autorité administrative, à l' étranger et, le cas échéant, à son avocat, qui en accusent réception. La
-notification mentionne que des observations en réponse à la demande de déclaration d' appel suspensif peuvent être transmises
-par tout moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
+Dans le cas prévu à l'alinéa précédent, le ministère public fait notifier la déclaration d'appel, immédiatement et par tout
+moyen, à l'autorité administrative, à l'étranger et, le cas échéant, à son avocat, qui en accusent réception. La notification
+mentionne que des observations en réponse à la demande de déclaration d'appel suspensif peuvent être transmises par tout
+moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-817 du 22 août 2008 - art. 3
 
 	**Cité par**:
 
@@ -23261,9 +23420,14 @@ par tout moyen au secrétariat du premier président ou de son délégué dans u
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-15 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R552-14 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 17
+
 	**Cite**:
 
-	  - Code de procédure civile - art. 640
+	  - Code de procédure civile - art. 640 (V)
+	  - Code de procédure civile - art. 642 (V)
 
 
 ###### Article R552-13
@@ -23435,7 +23599,7 @@ L'appel n'est pas suspensif. Toutefois, le ministère public peut solliciter du 
 déclare son recours suspensif, lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de représentation
 effectives ou en cas de menace grave pour l'ordre public. 
 
-Dans ce cas, l'appel est formé dans un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la
+Dans ce cas, l'appel est formé dans un délai de six heures à compter de la notification de l'ordonnance au procureur de la
 République. 
 
 Le ministère public fait notifier la déclaration d'appel, accompagnée de la demande qui se réfère à l'absence de garanties de
@@ -23447,9 +23611,9 @@ transmises par tout moyen au secrétariat du premier président ou de son délé
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-817 du 22 août 2008 - art. 4
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 17
 
 	**Cité par**:
 
@@ -23960,6 +24124,136 @@ Une personne physique ne peut représenter plus d'une personne morale.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14-2
 
 
+##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention
+
+###### Article R553-14-4
+
+Les associations humanitaires ont accès, dans les conditions fixées par la présente section, aux lieux de rétention. 
+
+Cet accès ne doit pas entraver le fonctionnement du lieu de rétention et les activités qu'y exercent les services de l'Etat
+et les personnes morales mentionnés à l'article R. 553-14. 
+
+Il s'exerce dans le respect des opinions politiques, philosophiques ou religieuses des étrangers retenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2014-676 du 24 juin 2014 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-14-7 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
+
+
+###### Article R553-14-5
+
+Le ministre chargé de l'immigration fixe la liste des associations habilitées à proposer des représentants en vue d'accéder
+aux lieux de rétention dans les conditions fixées par la présente section. 
+
+L'habilitation ne peut être sollicitée que par des associations régulièrement déclarées depuis au moins cinq années et
+proposant par leurs statuts la défense des étrangers, la défense des droits de l'homme ou l'assistance médicale et sociale.
+Cette habilitation ne peut être sollicitée par les associations ayant conclu une convention en application de l'article R.
+553-14. 
+
+Tout refus d'habilitation doit être motivé au regard notamment du nombre d'associations déjà habilitées. 
+
+L'habilitation est accordée pour une durée de trois ans. Elle est renouvelable pour la même durée. 
+
+Le ministre chargé de l'immigration peut, par décision motivée, retirer l'habilitation d'une association.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 352534 du 23 mai 2012 (ECLI:FR:CESSR:2012:352534.20120523	), article 3 : L’article 18 du décret n°
+2011-820 du 8 juillet 2011 pris pour l'application de la loi du 16 juin 2011 relative à l'immigration, à l'intégration et à
+la nationalité et portant sur les procédures d'éloignement des étrangers est annulé en tant qu’il prévoit au 2
+  <sup>ème</sup> alinéa de l’article R. 553-14-5 du code de l’entrée et du séjour des étrangers et du droit d’asile que
+l’habilitation à proposer des représentants pour accéder aux lieux de rétention ne peut être sollicitée par les associations
+ayant conclu une convention en application de l’article R. 553-14 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
+
+
+###### Article R553-14-6
+
+L'accès des représentants des associations habilitées à accéder aux lieux de rétention est subordonné à un agrément
+individuel accordé pour une durée d'un an par le ministre chargé de l'immigration.
+
+Cet agrément, qui est renouvelable, peut être accordé à cinq personnes par association. Il entraîne la délivrance d'une carte
+nominative permettant d'obtenir, lors de chaque visite, une autorisation d'accès au lieu de rétention.
+
+Une même personne ne peut recevoir qu'un agrément.
+
+Le ministre chargé de l'immigration peut retirer, par décision motivée, l'agrément délivré à un représentant d'une
+association.
+
+L'agrément d'un représentant d'une association est retiré sur demande de celle-ci ou lorsque l'habilitation de l'association
+a été retirée ou a expiré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2014-676 du 24 juin 2014 - art. 8 (V)
+
+
+###### Article R553-14-7
+
+Les représentants agréés d'une association peuvent s'entretenir avec le chef de centre ou le responsable du local de
+rétention et, lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et de
+l'Office français de l'immigration et de l'intégration ainsi qu'avec les représentants agréés des associations ayant conclu
+la convention prévue à l'article R. 553-14 pour permettre l'exercice effectif des droits des étrangers.
+
+L'autorisation de s'entretenir confidentiellement avec les personnes retenues dans ces lieux ne peut être refusée que pour
+des motifs tirés des exigences mentionnées au deuxième alinéa de l'article R. 553-14-4.
+
+Les représentants de plusieurs associations habilitées ne peuvent accéder le même jour au même lieu de rétention.
+
+Lorsque les représentants agréés d'une association exercent leur droit de visite, ils informent au préalable au moins vingt-
+quatre heures à l'avance le chef de centre ou le responsable du local de rétention et conviennent avec lui des modalités
+pratiques de leur visite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+
+
+###### Article R553-14-8
+
+Une réunion est organisée annuellement sur le fonctionnement des lieux de rétention à l'initiative du ministre chargé de
+l'immigration, avec les présidents des associations habilitées, leurs représentants agréés et les services de l'Etat
+concernés. Le compte rendu de cette réunion, établi conjointement, est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+
+
 ##### Section 3 : Demandes d'asile formulées par des étrangers retenus.
 
 ###### Article R553-15
@@ -24047,6 +24341,99 @@ l'office.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (VD)
+
+
+### TITRE VI : ASSIGNATION À RÉSIDENCE
+
+#### Chapitre unique
+
+###### Article R561-1
+
+L'autorité administrative compétente pour assigner un étranger à résidence en application des 1° à 4° de l'article L. 561-1
+ou de l'article L. 561-2 est le préfet de département et, à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+
+###### Article R561-2
+
+L'autorité administrative détermine le périmètre dans lequel l'étranger assigné à résidence en application de l'article L.
+561-1, de l'article L. 561-2 ou d'une des mesures prévues aux articles L. 523-3, L. 523-4 et L. 523-5 est autorisé à circuler
+muni des documents justifiant de son identité et de sa situation administrative et au sein duquel est fixée sa résidence.
+Elle lui désigne le service auquel il doit se présenter, selon une fréquence qu'il fixe dans la limite d'une présentation par
+jour, en précisant si cette obligation s'applique les dimanches et les jours fériés ou chômés. 
+
+Toutefois, lorsque l'étranger est assigné à résidence en application de l'article L. 561-1 au titre du 5° de cet article ou
+d'une des mesures prévues aux articles L. 523-3, L. 523-4 et L. 523-5, l'autorité administrative peut fixer à quatre au plus
+le nombre de présentations quotidiennes. Elle peut en outre désigner à l'étranger une plage horaire pendant laquelle il doit
+demeurer dans les locaux où il est assigné à résidence, dans la limite de dix heures consécutives par vingt-quatre heures. Le
+présent alinéa est applicable à l'étranger assigné à résidence en application des 1° à 4° de l'article L. 561-1 ou de
+l'article L. 561-2 lorsque son comportement constitue une menace pour l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 19
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R571-3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+
+###### Article R561-3
+
+L'étranger assigné à résidence en application de l'article L. 561-1, de l'article L. 561-2 ou d'une des mesures prévues aux
+articles L. 523-3, L. 523-4 et L. 523-5 peut être tenu de remettre à l'autorité administrative l'original de son passeport et
+de tout autre document d'identité ou de voyage en sa possession en échange d'un récépissé valant justification d'identité sur
+lequel est portée la mention de l'assignation à résidence jusqu'à l'exécution de la mesure d'éloignement dont il fait
+l'objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+
+###### Article R561-4
+
+L'assignation à résidence prononcée en application de l'article L. 561-1 peut être assortie d'une autorisation de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 19
+
+	**Cité par**:
+
+	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ## LIVRE VI : CONTRÔLES ET SANCTIONS
@@ -25201,6 +25588,30 @@ Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas a
 
 
 ##### Section 6 : Dispositions diverses
+
+###### Article R611-41-1
+
+L'autorité administrative habilitée à retenir le passeport ou le document de voyage d'un étranger en situation irrégulière en
+application de l'article L. 611-2 est le préfet de département et, à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 20
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-1457 du 28 octobre 2016 - art. 34
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-41-3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
+
 
 ###### Article R611-42
 
@@ -27163,9 +27574,10 @@ premier alinéa peut ne pas être délivré s'il apparaît que le demandeur d'as
 l'Office français de protection des réfugiés et apatrides s'est abstenu de contester celle-ci devant la Cour nationale du
 droit d'asile dans le délai fixé à l'article R. 733-9. 
 
-Dans cette hypothèse, l'étranger bénéficie du délai de départ volontaire d'un mois prévu à l'article L. 742-3 et, si la Cour
-nationale du droit d'asile est saisie au cours de ce délai, il lui est délivré le récépissé mentionné au premier alinéa du
-présent article, renouvelable jusqu'à la notification de la décision de cette cour.
+Dans cette hypothèse, l'étranger peut faire l'objet d'une obligation de quitter le territoire français. S'il bénéficie d'un
+délai de départ volontaire en application du I de l'article L. 511-1 et s'il saisit la Cour nationale du droit d'asile dans
+un délai d'un mois, il lui est délivré le récépissé mentionné au premier alinéa, renouvelable jusqu'à la notification de la
+décision de cette cour.
 
 **Liens relatifs à cet article**
 
@@ -27184,10 +27596,11 @@ présent article, renouvelable jusqu'à la notification de la décision de cette
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+	  - Décret n°2011-820 du 8 juillet 2011 - art. 21
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-9
