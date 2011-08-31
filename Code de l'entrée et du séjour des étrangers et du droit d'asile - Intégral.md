@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-07-18
+Version Consolidée au 2011-09-01
 
 # Partie législative
 
@@ -5864,406 +5864,6 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent livre
 
 ## LIVRE V : LES MESURES D'ÉLOIGNEMENT
 
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE
-
-#### Chapitre II : Procédure administrative et contentieuse
-
-###### Article L512-1
-
-I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français et qui dispose du délai de départ
-volontaire mentionné au premier alinéa du II de l'article L. 511-1 peut, dans le délai de trente jours suivant sa
-notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la décision
-relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le
-territoire français qui l'accompagnent le cas échéant. L'étranger qui fait l'objet de l'interdiction de retour prévue au
-troisième alinéa du III du même article L. 511-1 peut, dans le délai de trente jours suivant sa notification, demander
-l'annulation de cette décision. 
-
-L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
-annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
-
-Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
-
-II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
-suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
-décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
-la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français qui
-l'accompagnent le cas échéant. 
-
-Il est statué sur ce recours selon la procédure et dans les délais prévus au I. 
-
-Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
-
-III. ― En cas de décision de placement en rétention ou d'assignation à résidence en application de l'article L. 561-2,
-l'étranger peut demander au président du tribunal administratif l'annulation de cette décision dans les quarante-huit heures
-suivant sa notification. Lorsque l'étranger a fait l'objet d'une obligation de quitter le territoire français, le même
-recours en annulation peut être également dirigé contre l'obligation de quitter le territoire français et contre la décision
-refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision d'interdiction de
-retour sur le territoire français qui l'accompagnent le cas échéant, lorsque ces décisions sont notifiées avec la décision de
-placement en rétention ou d'assignation. Toutefois, si l'étranger est assigné à résidence en application du même article L.
-561-2, son recours en annulation peut porter directement sur l'obligation de quitter le territoire ainsi que, le cas échéant,
-sur la décision refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision
-d'interdiction de retour sur le territoire français. 
-
-Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
-magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
-plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
-proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
-salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
-proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. 
-
-L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
-interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
-
-L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
-dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
-tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
-
-Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
-territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
-d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
-compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
-	  - Décret n°2007-1738 du 11 décembre 2007 (V)
-	  - Arrêté du 23 novembre 2011 - art. 3 (V)
-	  - Loi n°2016-274 du 7 mars 2016 - art. 27
-	  - Code de justice administrative - art. L222-2-1 (VD)
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de justice administrative - art. L777-2 (VD)
-	  - Code de justice administrative - art. L777-3 (V)
-	  - Code de justice administrative - art. R222-33 (Ab)
-	  - Code de justice administrative - art. R776-1 (V)
-	  - Code de justice administrative - art. R776-10 (V)
-	  - Code de justice administrative - art. R776-13 (V)
-	  - Code de justice administrative - art. R776-13-1 (V)
-	  - Code de justice administrative - art. R776-13-3 (V)
-	  - Code de justice administrative - art. R776-2 (V)
-	  - Code de justice administrative - art. R776-21 (V)
-	  - Code de justice administrative - art. R776-29 (V)
-	  - Code de justice administrative - art. R776-3 (V)
-	  - Code de justice administrative - art. R776-4 (V)
-	  - Code de justice administrative - art. R777-2 (VD)
-	  - Code de justice administrative - art. R777-3-8 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
-
-
-###### Article L512-1-1
-
-Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
-un conseil, son consulat ou une personne de son choix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Créé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
-
-	**Anciens textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
-
-
-###### Article L512-2
-
-Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a
-été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
-L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en
-application de l'article L. 511-1. Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est
-raisonnable de supposer qu'il la comprend.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R122-13 (V)
-	  - Code de justice administrative - art. R222-33 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-
-
-###### Article L512-3
-
-Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire
-français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la
-notification de l'obligation de quitter le territoire français. 
-
-L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office ni avant l'expiration du délai
-de départ volontaire ou, si aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit heures suivant sa
-notification par voie administrative, ni avant que le tribunal administratif n'ait statué s'il a été saisi. L'étranger en est
-informé par la notification écrite de l'obligation de quitter le territoire français.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
-
-
-###### Article L512-4
-
-Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
-prévues aux articles L. 513-4, 
-L. 551-1, 
-L. 552-4, L. 561-1 et L. 561-2 et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
-administrative ait à nouveau statué sur son cas. 
-
-Si la décision de ne pas accorder de délai de départ volontaire, la décision de placement en rétention ou la décision
-d'assignation à résidence est annulée, il est immédiatement mis fin aux mesures de surveillance prévues aux articles L.
-551-1, L. 552-4, L. 561-1 et L. 561-2 et le président du tribunal administratif ou le magistrat désigné à cette fin rappelle
-à l'étranger son obligation de quitter le territoire français dans le délai qui lui sera fixé par l'autorité administrative
-en application du II de l'article L. 511-1 ou du sixième alinéa de l'article L. 511-3-1. Ce délai court à compter de sa
-notification.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-
-###### Article L512-5
-
-L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
-dans son pays d'origine, sauf s'il a été placé en rétention.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
-
-
-###### Article L512-6
-
-L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le
-cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article
-L. 512-1.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
-
-
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.
-
-#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
-
-###### Article L514-1
-
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes : 
-
-1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
-exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
-
-2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
-territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
-son exécution. 
-
-En conséquence, les dispositions des articles L. 512-1, L. 512-3 et L. 512-4 ne sont pas applicables en Guyane ni à Saint-
-Martin.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 104
-
-	**Cité par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 57
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
-
-
-###### Article L514-2
-
-Les dispositions de l'article L. 514-1 sont applicables dans le département de la Guadeloupe et à Saint-Barthélemy, pendant
-cinq ans à compter de la publication de la loi n° 2011-672 du 16 juin 2011 relative à l'immigration, à l'intégration et à la
-nationalité.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Cite**:
-
-	  - Loi n°2011-672 du 16 juin 2011
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 104
-
-	**Abrogé par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 29
-
-
 ### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS
 
 #### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français et d'une interdiction de retour sur le territoire français
@@ -6637,6 +6237,323 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 #### Chapitre II : Procédure administrative et contentieuse
 
+###### Article L512-1
+
+I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français et qui dispose du délai de départ
+volontaire mentionné au premier alinéa du II de l'article L. 511-1 peut, dans le délai de trente jours suivant sa
+notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la décision
+relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le
+territoire français qui l'accompagnent le cas échéant. L'étranger qui fait l'objet de l'interdiction de retour prévue au
+troisième alinéa du III du même article L. 511-1 peut, dans le délai de trente jours suivant sa notification, demander
+l'annulation de cette décision. 
+
+L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
+annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
+suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
+décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
+la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français qui
+l'accompagnent le cas échéant. 
+
+Il est statué sur ce recours selon la procédure et dans les délais prévus au I. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+III. ― En cas de décision de placement en rétention ou d'assignation à résidence en application de l'article L. 561-2,
+l'étranger peut demander au président du tribunal administratif l'annulation de cette décision dans les quarante-huit heures
+suivant sa notification. Lorsque l'étranger a fait l'objet d'une obligation de quitter le territoire français, le même
+recours en annulation peut être également dirigé contre l'obligation de quitter le territoire français et contre la décision
+refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision d'interdiction de
+retour sur le territoire français qui l'accompagnent le cas échéant, lorsque ces décisions sont notifiées avec la décision de
+placement en rétention ou d'assignation. Toutefois, si l'étranger est assigné à résidence en application du même article L.
+561-2, son recours en annulation peut porter directement sur l'obligation de quitter le territoire ainsi que, le cas échéant,
+sur la décision refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision
+d'interdiction de retour sur le territoire français. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
+magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
+plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
+proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
+salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
+proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. 
+
+L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
+dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+
+Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
+territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
+d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
+compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
+	  - Décret n°2007-1738 du 11 décembre 2007 (V)
+	  - Arrêté du 23 novembre 2011 - art. 3 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 27
+	  - Code de justice administrative - art. L222-2-1 (VD)
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de justice administrative - art. L777-2 (VD)
+	  - Code de justice administrative - art. L777-3 (V)
+	  - Code de justice administrative - art. R222-33 (Ab)
+	  - Code de justice administrative - art. R776-1 (V)
+	  - Code de justice administrative - art. R776-10 (V)
+	  - Code de justice administrative - art. R776-13 (V)
+	  - Code de justice administrative - art. R776-13-1 (V)
+	  - Code de justice administrative - art. R776-13-3 (V)
+	  - Code de justice administrative - art. R776-2 (V)
+	  - Code de justice administrative - art. R776-21 (V)
+	  - Code de justice administrative - art. R776-29 (V)
+	  - Code de justice administrative - art. R776-3 (V)
+	  - Code de justice administrative - art. R776-4 (V)
+	  - Code de justice administrative - art. R777-2 (VD)
+	  - Code de justice administrative - art. R777-3-8 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
+
+
+###### Article L512-1-1
+
+Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
+un conseil, son consulat ou une personne de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
+
+	**Anciens textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
+
+
+###### Article L512-2
+
+Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a
+été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
+L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en
+application de l'article L. 511-1. Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est
+raisonnable de supposer qu'il la comprend.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R122-13 (V)
+	  - Code de justice administrative - art. R222-33 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+
+
+###### Article L512-3
+
+Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire
+français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la
+notification de l'obligation de quitter le territoire français. 
+
+L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office ni avant l'expiration du délai
+de départ volontaire ou, si aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit heures suivant sa
+notification par voie administrative, ni avant que le tribunal administratif n'ait statué s'il a été saisi. L'étranger en est
+informé par la notification écrite de l'obligation de quitter le territoire français.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
+
+
+###### Article L512-4
+
+Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
+prévues aux articles L. 513-4, 
+L. 551-1, 
+L. 552-4, L. 561-1 et L. 561-2 et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
+administrative ait à nouveau statué sur son cas. 
+
+Si la décision de ne pas accorder de délai de départ volontaire, la décision de placement en rétention ou la décision
+d'assignation à résidence est annulée, il est immédiatement mis fin aux mesures de surveillance prévues aux articles L.
+551-1, L. 552-4, L. 561-1 et L. 561-2 et le président du tribunal administratif ou le magistrat désigné à cette fin rappelle
+à l'étranger son obligation de quitter le territoire français dans le délai qui lui sera fixé par l'autorité administrative
+en application du II de l'article L. 511-1 ou du sixième alinéa de l'article L. 511-3-1. Ce délai court à compter de sa
+notification.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+
+###### Article L512-5
+
+L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
+dans son pays d'origine, sauf s'il a été placé en rétention.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+
+
+###### Article L512-6
+
+L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le
+cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article
+L. 512-1.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+
+
 #### Chapitre III :  Exécution des obligations de quitter le territoire français et des interdictions de retour sur le territoire français
 
 ###### Article L513-1
@@ -6804,6 +6721,81 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
+
+###### Article L514-1
+
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes : 
+
+1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
+exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
+
+2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
+territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
+son exécution. 
+
+En conséquence, les dispositions des articles L. 512-1, L. 512-3 et L. 512-4 ne sont pas applicables en Guyane ni à Saint-
+Martin.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 104
+
+	**Cité par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
+
+
+###### Article L514-2
+
+Les dispositions de l'article L. 514-1 sont applicables dans le département de la Guadeloupe et à Saint-Barthélemy, pendant
+cinq ans à compter de la publication de la loi n° 2011-672 du 16 juin 2011 relative à l'immigration, à l'intégration et à la
+nationalité.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Cite**:
+
+	  - Loi n°2011-672 du 16 juin 2011
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 104
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 29
+
 
 ### TITRE II : L'EXPULSION
 
@@ -15578,13 +15570,16 @@ L'autorité administrative compétente pour prendre la décision mentionnée à 
 un étranger demandant à bénéficier du droit d'asile est le ministre chargé de l'immigration.
 
 L'étranger est informé du caractère positif ou négatif de cette décision dans une langue dont il est raisonnable de penser
-qu'il la comprend.
+qu'il la comprend. Lorsqu'il s'agit d'une décision de refus d'entrée en France, l'Office français de protection des réfugiés
+et apatrides transmet sous pli fermé à l'étranger une copie du rapport prévu au quatrième alinéa de l'article R. 213-2. Cette
+transmission est faite en même temps que la remise de la décision du ministre chargé de l'immigration ou, à défaut, dans des
+délais compatibles avec l'exercice effectif par l'étranger de son droit au recours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 3
+	  - Décret n°2011-1031 du 29 août 2011 - art. 2
 
 	**Cité par**:
 
@@ -15628,13 +15623,18 @@ La décision de refus d'entrée ne peut être prise qu'après consultation de l'
 apatrides, qui procède à l'audition de l'étranger. 
 
 Lorsque l'audition du demandeur d'asile nécessite l'assistance d'un interprète, sa rétribution est prise en charge par
-l'Etat.
+l'Etat. 
+
+Cette audition fait l'objet d'un rapport écrit qui comprend les informations relatives à l'identité de l'étranger et celle de
+sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de
+résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage ainsi que les raisons justifiant
+la demande de protection internationale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 2
+	  - Décret n°2011-1031 du 29 août 2011 - art. 1
 
 	**Cité par**:
 
@@ -24725,24 +24725,37 @@ concernés. Le compte rendu de cette réunion, établi conjointement, est rendu 
 L'étranger maintenu dans un centre de rétention qui souhaite demander l'asile présente sa demande dans le délai de cinq jours
 à compter de la notification qui lui a été faite de ce droit conformément à l'article L. 551-3. A cette fin, l'étranger remet
 sa demande soit au chef du centre de rétention soit à son adjoint ou, le cas échéant, au responsable de la gestion des
-dossiers administratifs.
+dossiers administratifs. 
 
 L'étranger maintenu dans un local de rétention qui souhaite demander l'asile peut remettre à tout moment sa demande au
-responsable du local de rétention administrative ou à son adjoint.
+responsable du local de rétention administrative ou à son adjoint. 
 
 La demande d'asile formulée en centre ou en local de rétention est présentée selon les modalités prévues au deuxième alinéa
-de l'article R. 723-1.
+de l'article R. 723-1. 
+
+L'étranger maintenu en centre ou local de rétention qui souhaite demander l'asile est informé, sans délai, dans une langue
+dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et obligations au
+cours de cette procédure, des conséquences que pourrait avoir le non-respect de ces obligations ou le refus de coopérer avec
+les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1031 du 29 août 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L551-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R723-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-3
 
 
 ###### Article R553-16
@@ -24805,6 +24818,30 @@ l'office.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (VD)
+
+
+###### Article R553-18
+
+Les dispositions de la présente section ne sont pas applicables à l'étranger dont la demande d'asile relève du 1° de
+l'article L. 741-4 et qui est placé en rétention en vue de l'exécution d'une décision de remise en application de l'article
+L. 531-2. 
+
+L'étranger en est informé dans une langue dont il est raisonnable de penser qu'il la comprend.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1031 du 29 août 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
 
 
 ### TITRE VI : ASSIGNATION À RÉSIDENCE
@@ -27459,15 +27496,25 @@ Il peut lui être annexé toutes pièces de nature à établir le bien-fondé de
 
 ###### Article R733-8
 
-Le recours est adressé au secrétariat de la cour sous pli recommandé avec demande d'avis de réception. 
+Le recours est adressé au secrétariat de la cour sous pli recommandé avec demande d'avis de réception.
+
+Il   peut aussi être adressé par voie de télécopie, dont la réception est   assurée par un dispositif technique synchronisé
+avec un serveur de temps   dont l'heure est certifiée. La télécopie est régularisée au plus tard   le jour de l'audience,
+soit par la production sur support papier d'un   exemplaire du recours revêtu de la signature manuscrite de l'intéressé,
+soit par l'apposition, au greffe de la cour, de la signature de   l'intéressé au bas du document transmis par voie de
+télécopie.
+
+Les mémoires et les pièces produites par les parties peuvent être adressés à la cour sous la même forme.
 
 Les recours sont inscrits sur un registre spécial, suivant leur date d'arrivée à la cour.
 
+**Nota:**
+
+Conformément au I de l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions de l’article R. 733-8 dans leur
+rédaction antérieure au décret n° 2013-751 du 16 août 2013 restent applicables jusqu'au 30 avril 2014, en lieu et place de
+l’article R. 733-6 dans sa nouvelle rédaction.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -27475,6 +27522,10 @@ Les recours sont inscrits sur un registre spécial, suivant leur date d'arrivée
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-19 (MMN)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-17 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R743-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
 
 
 ###### Article R733-9
@@ -27867,15 +27918,15 @@ département et, à Paris, au préfet de police, pour exercer cette mission dans
 ###### Article R741-2
 
 L'étranger qui, n'étant pas déjà admis à résider en France, sollicite son admission au séjour au titre de l'asile en
-application de l'article L. 741-1 présente à l'appui de sa demande :
+application de l'article L. 741-1 présente à l'appui de sa demande : 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
 2° Les documents mentionnés dans l'arrêté prévu par l'article R. 211-1 justifiant qu'il est entré régulièrement en France ou,
 à défaut, toutes indications portant sur les conditions de son entrée en France et ses itinéraires de voyage à partir de son
-pays d'origine ;
+pays d'origine ; 
 
-3° Quatre photographies de face, tête nue, de format 3,5 cm x 4,5 cm récentes et parfaitement ressemblantes ;
+3° Quatre photographies de face, tête nue, de format 3,5 cm x 4,5 cm récentes et parfaitement ressemblantes ; 
 
 4° L'indication de l'adresse où il est possible de lui faire parvenir toute correspondance pendant la durée de validité de
 l'autorisation provisoire de séjour délivrée sur le fondement de l'article R. 742-1. Si le choix d'une adresse se porte sur
@@ -27883,19 +27934,20 @@ celle d'une association, celle-ci doit être agréée par arrêté préfectoral.
 renouvelable aux associations régulièrement déclarées depuis au moins trois années dont l'objet est en rapport avec l'aide ou
 l'assistance aux étrangers, et justifiant d'une expérience dans les domaines de l'accueil, de la prise en charge, de la
 domiciliation ou de l'hébergement des demandeurs d'asile, ainsi que de leur aptitude à assurer effectivement la mission de
-réception et de transmission des courriers adressés aux demandeurs d'asile.
+réception et de transmission des courriers adressés aux demandeurs d'asile. 
 
 L'indication des pièces à fournir par l'étranger qui sollicite son admission au séjour au titre de l'asile en application du
 présent article est portée à sa connaissance par les services de la préfecture. Ces derniers remettent alors à l'étranger un
 document d'information sur ses droits et sur les obligations qu'il doit respecter eu égard aux conditions d'accueil des
 demandeurs d'asile, ainsi que sur les organisations qui assurent une assistance juridique spécifique et celles susceptibles
-de l'aider ou de l'informer sur les conditions d'accueil dont il peut bénéficier, y compris les soins médicaux.
+de l'aider ou de l'informer sur les conditions d'accueil dont il peut bénéficier, y compris les soins médicaux. Cette
+information se fait dans une langue dont il est raisonnable de penser que le demandeur d'asile la comprend.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Cité par**:
 
@@ -27911,13 +27963,17 @@ de l'aider ou de l'informer sur les conditions d'accueil dont il peut bénéfici
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R742-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1031 du 29 août 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R211-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R211-1
 
 
 #### Chapitre II : Durée du maintien sur le territoire français.
@@ -28201,6 +28257,29 @@ mentionnés à l'article L. 751-1, sont désignés et indemnisés conformément 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
 
 
+###### Article R751-2
+
+Les services compétents de la préfecture informent l'étranger, déjà admis à résider en France et qui souhaite solliciter la
+reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire, de la procédure de demande d'asile, de
+ses droits et obligations, eu égard à sa situation particulière, au cours de cette procédure, des conséquences que pourrait
+avoir le non-respect de ces obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider
+à présenter sa demande. Cette information est effectuée dans une langue dont il est raisonnable de penser qu'il la comprend.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1031 du 29 août 2011 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+
+
 ### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
 
 #### Chapitre Ier : Dispositions applicables à Mayotte.
@@ -28222,9 +28301,8 @@ représentant de l'Etat à Mayotte " ;
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au représentant de l'Etat à Mayotte
-" ; 
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l' Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " au représentant de l'Etat à Mayotte " ; 
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
 les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
@@ -28239,19 +28317,18 @@ mots : " Le représentant de l'Etat à Mayotte peut " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le représentant de l'Etat à Mayotte
-" ; 
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " le représentant de l'Etat à Mayotte " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
 " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
 
 7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
 leurs observations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses
-observations », au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
-l'asile » sont remplacés par les mots : du représentant de l'Etat à Mayotte » et au troisième alinéa du même article, les
-mots : au ministre de l'intérieur et au ministre chargé de l'asile » sont remplacés par les mots : au représentant de l'Etat
-à Mayotte ; 
+observations , au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
+l'asile  sont remplacés par les mots : du représentant de l'Etat à Mayotte et au troisième alinéa du même article, les mots :
+au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots : au représentant de l'Etat à
+Mayotte ; 
 
 8° A l'article R. 741-2 : 
 
@@ -28310,7 +28387,7 @@ c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés p
 
 13° A l'article R. 742-6 : 
 
-a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
+a) Les mots : "à l'article R. 313-1" et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
 l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
 b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
@@ -28318,7 +28395,9 @@ b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
 " à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-373 du 26
-avril 2000 ".
+avril 2000 " ;
+
+14° A l'article R. 751-2, les mots : "en France" sont remplacés par les mots : "à Mayotte".
 
 **Liens relatifs à cet article**
 
@@ -28348,7 +28427,7 @@ avril 2000 ".
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2011-1031 du 29 août 2011 - art. 8
 
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.
@@ -28371,9 +28450,9 @@ b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : "
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " à l'administrateur supérieur des îles
-Wallis et Futuna " ; 
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis
+et Futuna " ; 
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
 les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande " ; 
@@ -28391,9 +28470,9 @@ et Futuna " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " l'administrateur supérieur des îles
-Wallis et Futuna " ; 
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis et
+Futuna " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au préfet de police, lorsque ceux-ci en font la demande
 " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande
@@ -28472,7 +28551,13 @@ b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
 " à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-371 du 26
-avril 2000 ".
+avril 2000 " ; 
+
+14° A l'article R. 751-2 : 
+
+a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
+
+b) Les mots : " de la préfecture " sont remplacés par les mots : " de l'administrateur des îles Wallis et Futuna ".
 
 **Liens relatifs à cet article**
 
@@ -28491,6 +28576,7 @@ avril 2000 ".
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R751-2
 
 	**Cité par**:
 
@@ -28499,7 +28585,7 @@ avril 2000 ".
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2011-1031 du 29 août 2011 - art. 8
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.
@@ -28513,114 +28599,118 @@ fonctionnement de sections de la cour siégeant en Polynésie française ;
 
 1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : " au haut-commissaire de la République en Polynésie française ; 
+a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
+mots : "au haut-commissaire de la République en Polynésie française ; 
 
-b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : " le
-haut-commissaire de la République en Polynésie française ; 
+b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
+commissaire de la République en Polynésie française ; 
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au haut-commissaire de la République
-en Polynésie française " ; 
+a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
+français de l'immigration et de l'intégration" sont remplacés par les mots : "au haut-commissaire de la République en
+Polynésie française" ; 
 
-b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
-les mots : " au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la demande " ; 
+b) Les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande" sont remplacés par
+les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la demande" ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
-sont remplacés par les mots : " de l'article 50 de l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
+sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2000-372 du 26 avril 2000" ; 
 
-4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
-mots : " Le haut-commissaire de la République en Polynésie française peut " ; 
+4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
+"Le haut-commissaire de la République en Polynésie française peut" ; 
 
-5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du haut-commissaire de la République en
-Polynésie française " ; 
+5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
+Polynésie française" ; 
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le haut-commissaire de la République
-en Polynésie française " ; 
+a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
+français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
+Polynésie française" ; 
 
-b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
-" sont remplacés par les mots : " au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
-demande " ; 
+b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
+sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
+demande" ; 
 
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
-leurs observations " sont remplacés par les mots : " au haut-commissaire de la République en Polynésie française, qui doit
-produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : " du ministre de l'intérieur et du ministre
-chargé de l'asile " sont remplacés par les mots : " du haut-commissaire de la République en Polynésie française " et au
-troisième alinéa du même article, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés
-par les mots : " au haut-commissaire de la République en Polynésie française " ; 
+7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
+observations" sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, qui doit produire
+ses observations", au premier alinéa de l'article R. 733-23, les mots : "du ministre de l'intérieur et du ministre chargé de
+l'asile" sont remplacés par les mots : "du haut-commissaire de la République en Polynésie française" et au troisième alinéa
+du même article, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile" sont remplacés par les mots : "au
+haut-commissaire de la République en Polynésie française" ; 
 
 8° A l'article R. 741-2 : 
 
-a) Les mots : " en France " sont remplacés par les mots : " en Polynésie française " ; 
+a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ; 
 
-b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
-l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
+b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
+l'ordonnance n° 2000-372 du 26 avril 2000" ; 
 
-c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
-Polynésie française " ; 
+c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
+Polynésie française" ; 
 
-d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du haut-commissaire
-de la République en Polynésie française " ; 
+d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
+la République en Polynésie française" ; 
 
 9° A l'article R. 742-1 : 
 
-a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
-" ; 
+a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ; 
 
-b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
-l'article L. 741-4 " ; 
+b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
+L. 741-4" ; 
 
-c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
-les mots : " et dans les conditions prévues par l'article L. 763-1 " ; 
+c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
+mots : "et dans les conditions prévues par l'article L. 763-1" ; 
 
-d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " en Polynésie française " ; 
+d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Polynésie française" ; 
 
-e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire
-de la République en Polynésie française " ; 
+e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
+la République en Polynésie française" ; 
 
-f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de
-l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
+f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
+l'ordonnance n° 2000-372 du 26 avril 2000" ; 
 
-g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
+g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ; 
 
 10° A l'article R. 742-2 : 
 
-a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
-République en Polynésie française " ; 
+a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
+en Polynésie française" ; 
 
-b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
-localement applicable " ; 
+b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
+localement applicable" ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
-droit du travail localement applicable " ; 
+11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
+droit du travail localement applicable" ; 
 
 12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : " à l'article R. 314-2 sont remplacés par les mots : " par l'ordonnance n° 2000-372 du 26
-avril 2000 " ; 
+a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2000-372 du 26
+avril 2000" ; 
 
-b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
-République en Polynésie française " ; 
+b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
+en Polynésie française" ; 
 
-c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
-2000-372 du 26 avril 2000 " ; 
+c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
+2000-372 du 26 avril 2000" ; 
 
 13° A l'article R. 742-6 : 
 
-a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
-l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
+a) Les mots : "à l'article R. 313-1" et : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
+l'ordonnance n° 2000-372 du 26 avril 2000" ; 
 
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
+b) Les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n° 2000-372 du 26 avril
+2000" ; 
 
-" à l'article 26 de l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
+c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2000-372 du 26 avril
+2000" ;
 
-c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n° 2000-372 du 26
-avril 2000 ".
+14° A l'article R. 751-2 :
+
+a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
+
+b) Les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Polynésie française".
 
 **Liens relatifs à cet article**
 
@@ -28648,7 +28738,7 @@ avril 2000 ".
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2011-1031 du 29 août 2011 - art. 8
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
@@ -28662,115 +28752,119 @@ fonctionnement de sections de la cour siégeant en Nouvelle-Calédonie ;
 
 1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : " au haut-commissaire de la République en Nouvelle-Calédonie ; 
+a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police" sont remplacés par les
+mots : "au haut-commissaire de la République en Nouvelle-Calédonie" ; 
 
-b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : " le
-haut-commissaire de la République en Nouvelle-Calédonie ; 
+b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
+commissaire de la République en Nouvelle-Calédonie ; 
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au haut-commissaire de la République
-en Nouvelle-Calédonie " ; 
+a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l' Office
+français de l'immigration et de l'intégration" sont remplacés par les mots : "au haut-commissaire de la République en
+Nouvelle-Calédonie" ; 
 
-b) Au troisième alinéa de l'article, les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
-font la demande " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-
-ci en fait la demande " ; 
+b) Au troisième alinéa de l'article, les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
+font la demande" sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci
+en fait la demande" ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
-sont remplacés par les mots : " de l'article 50 de l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
+sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2002-388 du 20 mars 2002" ; 
 
-4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
-mots : " Le haut-commissaire de la République en Nouvelle-Calédonie peut " ; 
+4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
+"Le haut-commissaire de la République en Nouvelle-Calédonie peut" ; 
 
-5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du haut-commissaire de la République en
-Nouvelle-Calédonie " ; 
+5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
+Nouvelle-Calédonie" ; 
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
-Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le haut-commissaire de la République
-en Nouvelle-Calédonie " ; 
+a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
+français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
+Nouvelle-Calédonie" ; 
 
-b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
-" sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
-demande " ; 
+b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
+sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
+demande" ; 
 
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
-leurs observations " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, qui doit
-produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : " du ministre de l'intérieur et du ministre
-chargé de l'asile " sont remplacés par les mots : " du haut-commissaire de la République en Nouvelle-Calédonie " et au
-troisième alinéa du même article, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés
-par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie " ; 
+7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
+observations" sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, qui doit produire
+ses observations", au premier alinéa de l'article R. 733-23, les mots : "du ministre de l'intérieur et du ministre chargé de
+l'asile" sont remplacés par les mots : "du haut-commissaire de la République en Nouvelle-Calédonie" et au troisième alinéa du
+même article, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile" sont remplacés par les mots : "au
+haut-commissaire de la République en Nouvelle-Calédonie" ; 
 
 8° A l'article R. 741-2 : 
 
-a) Les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
+a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ; 
 
-b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
-l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
+b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
+l'ordonnance n° 2002-388 du 20 mars 2002" ; 
 
-c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
-Nouvelle-Calédonie " ; 
+c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
+Nouvelle-Calédonie" ; 
 
-d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du haut-commissaire
-de la République en Nouvelle-Calédonie " ; 
+d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
+la République en Nouvelle-Calédonie" ; 
 
 9° A l'article R. 742-1 : 
 
-a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
-" ; 
+a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ; 
 
-b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
-l'article L. 741-4 " ; 
+b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
+L. 741-4" ; 
 
-c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
-les mots : " et dans les conditions prévues par l'article L. 764-1 " ; 
+c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
+mots : "et dans les conditions prévues par l'article L. 764-1" ; 
 
-d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
+d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ; 
 
-e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire
-de la République en Nouvelle-Calédonie " ; 
+e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
+la République en Nouvelle-Calédonie" ; 
 
-f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de
-l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
+f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
+l'ordonnance n° 2002-388 du 20 mars 2002" ; 
 
-g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
+g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ; 
 
 10° A l'article R. 742-2 : 
 
-a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
-République en Nouvelle-Calédonie " ; 
+a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
+en Nouvelle-Calédonie" ; 
 
-b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
-localement applicable " ; 
+b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
+localement applicable" ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
-droit du travail localement applicable " ; 
+11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
+droit du travail localement applicable" ; 
 
 12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : " à l'article R. 314-2 " sont remplacés par les mots : " par l'ordonnance n° 2002-388 du 20
-mars 2002 " ; 
+a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2002-388 du 20
+mars 2002" ; 
 
-b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
-République en Nouvelle-Calédonie " ; 
+b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
+en Nouvelle-Calédonie" ; 
 
-c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
-2002-388 du 20 mars 2002 " ; 
+c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
+2002-388 du 20 mars 2002" ; 
 
 13° A l'article R. 742-6 : 
 
-a) Les mots : " à l'article R. 313-1 " et les mots : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : "
-par l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
+a) Les mots : "à l'article R. 313-1" et les mots : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
+l'ordonnance n° 2002-388 du 20 mars 2002" ; 
 
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
+b) Les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n° 2002-388 du 20 mars
+2002" ; 
 
-" à l'article 26 de l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
+c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2002-388 du 20 mars
+2002" ;
 
-c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n° 2002-388 du 20 mars
-2002 ".
+14° A l'article R. 751-2 :
+
+a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ;
+
+b) les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Nouvelle-Calédonie".
 
 **Liens relatifs à cet article**
 
@@ -28801,7 +28895,7 @@ c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'a
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2011-1031 du 29 août 2011 - art. 8
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.
