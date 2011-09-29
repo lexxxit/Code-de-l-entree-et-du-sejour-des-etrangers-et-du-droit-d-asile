@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-09-08
+Version Consolidée au 2011-09-30
 
 # Partie législative
 
@@ -2398,19 +2398,20 @@ décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 La carte de séjour temporaire et la carte de séjour " compétences et talents " sont retirées si leur titulaire cesse de
 remplir l'une des conditions exigées pour leur délivrance.
 
-Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié" ou "travailleur temporaire" ne
-peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié", "travailleur temporaire" ou
+"carte bleue européenne" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé
+d'emploi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 4 () JORF 25 juillet 2006
+	  - Loi n°2011-672 du 16 juin 2011 - art. 18
 
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
@@ -2426,20 +2427,24 @@ il s'oblige à suivre une formation civique et, lorsque le besoin en est établi
 l'évaluation du niveau de connaissance de la langue prévue à l'article L. 411-8 et au deuxième alinéa de l'article L. 211-2-1
 n'a pas établi le besoin d'une formation est réputé ne pas avoir besoin d'une formation linguistique. La formation civique
 comporte une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes
-et les femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat.
-L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan de compétences professionnelles. Toutes
-ces formations et prestations sont dispensées gratuitement et financées par l'Office français de l'immigration et de
-l'intégration. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat d'accueil et d'intégration doit être cosigné
-par son représentant légal régulièrement admis au séjour en France. 
+et les femmes et la laïcité , ainsi que la place de la France en Europe. La formation linguistique est sanctionnée par un
+titre ou un diplôme reconnus par l'Etat. L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan
+de compétences professionnelles. Toutes ces formations et prestations sont dispensées gratuitement et financées par l'Office
+français de l'immigration et de l'intégration. Lorsque l'étranger est âgé de seize à dix-huit ans, le contrat d'accueil et
+d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France. 
 
-Lors du premier renouvellement de la carte de séjour, l'autorité administrative tient compte du non-respect, manifesté par
-une volonté caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
+Lors du renouvellement de la carte de séjour intervenant au cours de l'exécution du contrat d'accueil et d'intégration ou
+lors du premier renouvellement consécutif à cette exécution, l'autorité administrative tient compte du non-respect, manifesté
+par une volonté caractérisée, par l'étranger des stipulations du contrat d'accueil et d'intégration s'agissant des valeurs
+fondamentales de la République, de l'assiduité de l'étranger et du sérieux de sa participation aux formations civiques et
+linguistiques, à la réalisation de son bilan de compétences professionnelles et, le cas échéant, à la session d'information
+sur la vie en France.
 
 L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins
 trois ans est dispensé de la signature de ce contrat. Il en va de même pour l'étranger âgé de seize à dix-huit ans révolus
 pouvant prétendre à un titre de séjour et relevant des dispositions prévues à l'article L. 314-12. Il en est de même de
-l'étranger titulaire de la carte de séjour mentionnée au 5° de l'article L. 313-10 ou à l'article L. 315-1, de son conjoint
-et de ses enfants âgés de plus de seize ans.
+l'étranger titulaire de la carte de séjour mentionnée aux 5° et 6° de l'article L. 313-10 ou à l'article L. 315-1, de son
+conjoint et de ses enfants âgés de plus de seize ans.
 
 L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en
 France peut demander à signer un tel contrat. 
@@ -2454,7 +2459,8 @@ sont dispensées. Il fixe les situations dans lesquelles le bilan de compétence
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
+	  - Loi n°2011-672 du 16 juin 2011 - art. 18
+	  - Loi n°2011-672 du 16 juin 2011 - art. 8
 
 	**Cité par**:
 
@@ -2668,11 +2674,12 @@ et 5° de l'article L. 313-10. Elles sont ramenées à 100 euros et 170 euros po
 regroupement familial en tant qu'enfants mineurs. 
 
 Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre de séjour au titre des 10° et 11° de
-l'article L. 313-11, de l'article L. 313-13 et des 4°,5°,6°,8° et 9° de l'article L. 314-11 ni aux travailleurs temporaires
-et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10. La délivrance d'un visa de long séjour valant ou dispensant de
-titre de séjour donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à la perception, au profit de
-l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, de la
-taxe correspondant au titre de séjour que ce visa remplace.
+l'article L. 313-11, de l'article L. 313-13 et des 4°, 5°, 6°, 8° et 9° de l'article L. 314-11 ni aux travailleurs
+temporaires et saisonniers mentionnés aux 1° et 4° de l'article L. 313-10, ni aux titulaires de la carte de séjour mentionnée
+au 6° du même article L. 313-10. La délivrance d'un visa de long séjour valant ou dispensant de titre de séjour donne lieu,
+outre les droits de visa prévus par la réglementation en vigueur, à la perception, au profit de l'Agence nationale de
+l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, de la taxe correspondant au
+titre de séjour que ce visa remplace.
 
 B.-Le renouvellement des titres de séjour ainsi que la fourniture de duplicata donnent lieu à la perception, au profit de
 l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est fixé par décret, selon la nature et la
@@ -2729,13 +2736,13 @@ Loi n° 2010- 1657 du 29 décembre 2010 art. 161 V : Ces dispositions sont appli
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
+	  - Loi n°2011-672 du 16 juin 2011 - art. 17
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-7
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
@@ -3504,7 +3511,7 @@ profession que le titulaire entend exercer. Un décret en Conseil d'Etat fixe le
 3° A l'étranger qui vient exercer une activité professionnelle non soumise à l'autorisation prévue à l'article L. 341-2 du
 code du travail et qui justifie pouvoir vivre de ses seules ressources.
 
-"Elle porte la mention de l'activité que le titulaire entend exercer ;
+Elle porte la mention de l'activité que le titulaire entend exercer ;
 
 4° A l'étranger titulaire d'un contrat de travail saisonnier entrant dans les prévisions du 3° de l'article L. 122-1-1 du
 code du travail et qui s'engage à maintenir sa résidence habituelle hors de France.
@@ -3538,18 +3545,55 @@ salaire minimum de croissance et sans que lui soit opposable la situation de l'e
 
 Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs en France dans l'année qui suit leur dix-
 huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 du présent code, d'un étranger titulaire d'une
-carte "salarié en mission" qui réside de manière ininterrompue plus de six mois en France bénéficient de plein droit de la
-carte de séjour mentionnée au 3° de l'article L. 313-11. La carte de séjour ainsi accordée est renouvelée de plein droit
-durant la période de validité restant à courir de la carte "salarié en mission" susmentionnée, dès lors que le titulaire de
-cette dernière carte continue de résider plus de six mois par an en France de manière ininterrompue pendant la période de
-validité de sa carte.
+carte "salarié en mission" bénéficient de plein droit de la carte de séjour mentionnée au 3° de l'article L. 313-11 dès lors
+que le contrat de travail du salarié en mission prévoit une résidence ininterrompue en France de plus de six mois. La carte
+de séjour ainsi accordée est renouvelée de plein droit durant la période de validité restant à courir de la carte "salarié en
+mission" susmentionnée, dès lors que le titulaire de cette dernière carte continue de résider plus de six mois par an en
+France de manière ininterrompue pendant la période de validité de sa carte.
+
+6° A l'étranger titulaire d'un contrat de travail visé conformément au 2° de l'article L. 5221-2 du code du travail, d'une
+durée égale ou supérieure à un an, pour un emploi dont la rémunération annuelle brute est au moins égale à une fois et demie
+le salaire moyen annuel de référence, et qui est titulaire d'un diplôme sanctionnant au moins trois années d'études
+supérieures délivré par un établissement d'enseignement supérieur reconnu par l'Etat dans lequel cet établissement se situe
+ou qui justifie d'une expérience professionnelle d'au moins cinq ans d'un niveau comparable, sans que lui soit opposable la
+situation de l'emploi. Un arrêté du ministre chargé de l'immigration fixe chaque année le montant du salaire moyen annuel de
+référence.
+
+Elle porte la mention "carte bleue européenne".
+
+Par dérogation aux articles L. 311-2 et L. 313-1 du présent code, cette carte de séjour a une durée de validité maximale de
+trois ans et est renouvelable. Dans le cas où le contrat de travail est d'une durée égale ou supérieure à un an et inférieure
+à trois ans, la carte de séjour temporaire portant la mention "carte bleue européenne" est délivrée ou renouvelée pour la
+durée du contrat de travail.
+
+Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs en France dans l'année qui suit leur dix-
+huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 d'un étranger titulaire d'une carte de séjour
+temporaire portant la mention "carte bleue européenne" bénéficient de plein droit de la carte de séjour mentionnée au 3° de
+l'article L. 313-11.
+
+L'étranger qui justifie avoir séjourné au moins dix-huit mois dans un autre Etat membre de l'Union européenne sous couvert
+d'une carte bleue européenne délivrée par cet Etat obtient la carte de séjour temporaire portant la mention "carte bleue
+européenne", sous réserve qu'il remplisse les conditions mentionnées au premier alinéa du présent 6° et qu'il en fasse la
+demande dans le mois qui suit son entrée en France, sans que soit exigé le respect de la condition prévue à l'article L.
+311-7.
+
+Son conjoint et ses enfants tels que définis au quatrième alinéa du présent 6° lorsque la famille était déjà constituée dans
+l'autre Etat membre bénéficient de plein droit de la carte de séjour temporaire prévue au 3° de l'article L. 313-11 à
+condition qu'ils en fassent la demande dans le mois qui suit leur entrée en France, sans que soit exigé le respect de la
+condition prévue à l'article L. 311-7.
+
+La carte de séjour accordée conformément aux quatrième et sixième alinéas du présent 6° est renouvelée de plein droit durant
+la période de validité restant à courir de la "carte bleue européenne".
+
+Le conjoint titulaire de la carte de séjour mentionnée au 3° de l'article L. 313-11 bénéficie de plein droit, lorsqu'il
+justifie d'une durée de résidence de cinq ans, du renouvellement de celle-ci indépendamment de la situation du titulaire de
+la carte de séjour temporaire portant la mention "carte bleue européenne" au regard du droit de séjour sans qu'il puisse se
+voir opposer l'absence de lien matrimonial.
+
+Il en va de même pour les enfants devenus majeurs qui se voient délivrer de plein droit la carte de séjour mentionnée au 3°
+de l'article L. 313-11 lorsqu'ils justifient d'une durée de résidence de cinq ans.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 12, al. 5
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (M)
 
 	**Cité par**:
 
@@ -3609,20 +3653,20 @@ validité de sa carte.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 36 () JORF 21 novembre 2007
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 44 () JORF 21 novembre 2007
+	  - Loi n°2011-672 du 16 juin 2011 - art. 17
+	  - Loi n°2011-672 du 16 juin 2011 - art. 24
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L311-3, L311-2, L342-1, L313-11
-	  - Code du travail - art. L341-2 (M)
+	  - Code du travail - art. L122-1-1
+	  - Code du travail - art. L341-2
+	  - Code du travail - art. L342-1
+	  - Code du travail - art. L5221-2
 
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention " vie privée et familiale "
@@ -3649,21 +3693,21 @@ d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étrange
 prévue à l'article L. 311-7 n'est pas exigée ; 
 
 3° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
-dont l'un des parents est titulaire de la carte de séjour " compétences et talents " ou de la carte de séjour temporaire
-portant la mention " salarié en mission ", ainsi qu'à l'étranger dont le conjoint est titulaire de l'une de ces cartes. Le
-titulaire de la carte de séjour temporaire portant la mention " salarié en mission " doit résider en France dans les
-conditions définies au dernier alinéa du 5° de l'article L. 313-10. 
+dont l'un des parents est titulaire de la carte de séjour " compétences et talents ", de la carte de séjour temporaire
+portant la mention " salarié en mission " ou " carte bleue européenne ", ainsi qu'à l'étranger dont le conjoint est titulaire
+de l'une de ces cartes. Le titulaire de la carte de séjour temporaire portant la mention " salarié en mission " doit résider
+en France dans les conditions définies au dernier alinéa du 5° de l'article L. 313-10. 
 
-La carte de séjour temporaire portant la mention " vie privée et familiale " délivrée dans les conditions prévues à l'alinéa
+La carte de séjour temporaire portant la mention " vie privée et familiale ” délivrée dans les conditions prévues à l'alinéa
 précédent a une durée de validité identique à la durée de la carte de séjour du parent ou du conjoint titulaire d'une carte
-de séjour portant la mention " carte bleue européenne ", " compétences et talents " ou " salarié en mission ". La carte de
+de séjour portant la mention " carte bleue européenne ”, " compétences et talents ” ou " salarié en mission ”. La carte de
 séjour est renouvelée dès lors que son titulaire continue à remplir les conditions définies par le présent code ; 
 
 4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que la
 communauté de vie n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le
 mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ; 
 
-5° (Abrogé) ; 
+5° (Alinéa abrogé) ;
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à la
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
@@ -3771,9 +3815,7 @@ commission médicale régionale dont la composition est fixée par décret en Co
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 23
-	  - Loi n°2011-672 du 16 juin 2011 - art. 25
-	  - Loi n°2011-672 du 16 juin 2011 - art. 26
+	  - Loi n°2011-672 du 16 juin 2011 - art. 18
 
 	**Cite**:
 
@@ -4442,6 +4484,45 @@ par l'autorité administrative.
 	  - Code de l'action sociale et des familles - art. L262-1 (V)
 
 
+###### Article L314-8-1
+
+L'étranger titulaire de la carte de séjour temporaire prévue au 6° de l'article L. 313-10 peut se voir délivrer une carte de
+résident portant la mention " résident de longue durée-CE " s'il justifie d'une résidence ininterrompue, conforme aux lois et
+règlements en vigueur, d'au moins cinq années sur le territoire d'un Etat membre de l'Union européenne sous couvert d'une
+carte bleue européenne, dont, en France, les deux années précédant sa demande de délivrance de la carte de résident. 
+
+Les absences du territoire de l'Union européenne ne suspendent pas le calcul de la période mentionnée à l'alinéa précédent si
+elles ne s'étendent pas sur plus de douze mois consécutifs et ne dépassent pas au total dix-huit mois sur l'ensemble de cette
+période de résidence ininterrompue d'au moins cinq années. 
+
+L'étranger titulaire de la carte de séjour temporaire prévue au même 6° doit également justifier de son intention de
+s'établir durablement en France dans les conditions prévues à l'article L. 314-8. 
+
+Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article
+L. 311-3, admis en France conformément au 6° de l'article L. 313-10, peuvent se voir délivrer une carte de résident portant
+la mention " résident de longue durée-CE " dans les conditions prévues à l'article L. 314-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 19
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 25
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+
+
 ###### Article L314-9
 
 La carte de résident peut être accordée : 
@@ -4688,10 +4769,10 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 
 ###### Article L314-14
 
-A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-9, L. 314-11, L. 314-12 ou L.
-314-15, une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf
-si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article L.
-314-2. 
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article L. 314-8, L. 314-8-1, L. 314-9, L. 314-11, L.
+314-12 ou L. 314-15, une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la
+demande, sauf si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues
+à l'article L. 314-2. 
 
 Lors du dépôt de sa demande de renouvellement de carte de résident, l'étranger est dûment informé des conditions dans
 lesquelles il pourra se voir accorder une carte de résident permanent. 
@@ -4705,7 +4786,7 @@ d'expulsion en application des articles L. 521-2 ou L. 521-3, une carte de séjo
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 124
+	  - Loi n°2011-672 du 16 juin 2011 - art. 19
 
 	**Cité par**:
 
@@ -4714,9 +4795,11 @@ d'expulsion en application des articles L. 521-2 ou L. 521-3, une carte de séjo
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-2
 
 
@@ -7437,24 +7520,25 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 Les dispositions de l'article L. 531-1 sont applicables, sous la réserve mentionnée à l'avant-dernier alinéa de l'article L.
 741-4, à l'étranger qui demande l'asile, lorsqu'en application des dispositions des conventions internationales conclues avec
-les Etats membres de l'Union européenne l'examen de cette demande relève de la responsabilité de l'un de ces Etats.
+les Etats membres de l'Union européenne l'examen de cette demande relève de la responsabilité de l'un de ces Etats. 
 
 Les mêmes dispositions sont également applicables à l'étranger qui, en provenance du territoire d'un Etat partie à la
 convention signée à Schengen le 19 juin 1990, est entré ou a séjourné sur le territoire métropolitain sans se conformer aux
 dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, ou 21, paragraphe 1 ou 2, de cette convention ou sans
 souscrire, au moment de l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22 de la même convention,
-alors qu'il était astreint à cette formalité.
+alors qu'il était astreint à cette formalité. 
 
 Il en est de même de l'étranger détenteur d'un titre de résident de longue durée-CE en cours de validité accordé par un autre
 Etat membre qui fait l'objet d'une mesure d'éloignement du territoire français. Un décret en Conseil d'Etat détermine les
-conditions d'application du présent alinéa.
+conditions d'application du présent alinéa. 
+
+Il en est également de même de l'étranger détenteur d'une carte de séjour temporaire portant la mention " carte bleue
+européenne " en cours de validité accordée par un autre Etat membre de l'Union européenne lorsque lui est refusée la
+délivrance de la carte de séjour temporaire prévue au 6° de l'article L. 313-10 ou bien lorsque la carte de séjour temporaire
+portant la mention " carte bleue européenne " dont il bénéficie expire ou lui est retirée durant l'examen de sa demande,
+ainsi que des membres de sa famille. Un décret en Conseil d'Etat détermine les conditions d'application du présent alinéa.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 33, al. 4 et 5
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 33 (Ab)
 
 	**Cité par**:
 
@@ -7478,18 +7562,18 @@ conditions d'application du présent alinéa.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 69 () JORF 25 juillet 2006
+	  - Loi n°2011-672 du 16 juin 2011 - art. 20
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L531-1, L741-4, 19
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
 
 
 ###### Article L531-3
