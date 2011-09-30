@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-09-30
+Version Consolidée au 2011-10-01
 
 # Partie législative
 
@@ -2821,6 +2821,36 @@ Les modalités d'application du présent article sont précisées, en tant que d
 	**Modifié par**:
 
 	  - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
+
+
+###### Article L311-16
+
+Sans préjudice des taxes prévues aux articles L. 311-13 et L. 311-14, la délivrance, le renouvellement, le duplicata ou le
+changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un
+droit de timbre d'un montant de 19 €.
+
+**Nota:**
+
+Conformément à la loi n° 2010-1657 du 29 décembre 2010, article 77 VI, les dispositions introduites par l'article 77 de
+ladite loi entrent en vigueur à compter d'une date précisée par décret, et au plus tard le 1er janvier 2012.  Cette date a
+été fixée au 1er octobre 2011 par l'article 1er du décret n° 2011-1070 du 7 septembre 2011.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 46 (V)
+	  - Arrêté du 14 avril 2017 - art.
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 77 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
 
 
 #### Chapitre II : La commission du titre de séjour
