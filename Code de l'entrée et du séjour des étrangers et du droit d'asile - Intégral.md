@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-11-12
+Version Consolidée au 2011-12-02
 
 # Partie législative
 
@@ -24607,11 +24607,23 @@ Il est traduit dans les langues les plus couramment utilisées désignées par u
 Un exemplaire en langue française et traduit dans les langues prévues à l'alinéa précédent est affiché dans les parties
 communes du centre.
 
+Les informations mentionnées à l'article R. 8252-2 du code du travail sont affichées dans les parties communes du centre de
+rétention administrative. Elles sont disponibles en langue française et traduites dans les langues étrangères désignées par
+le ministre chargé de l'immigration.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 18
+	  - Décret n°2011-1693 du 30 novembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 26
+
+	**Cite**:
+
+	  - Code du travail - art. R8252-2
 
 
 ##### Sous-section 2 : Locaux de rétention administrative
