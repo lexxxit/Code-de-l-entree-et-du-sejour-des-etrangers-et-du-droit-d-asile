@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-12-02
+Version Consolidée au 2011-12-21
 
 # Partie législative
 
@@ -15988,11 +15988,11 @@ administrative sont remplacées par des références au maintien en zone d'atten
 ###### Article R223-1
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants et les associations humanitaires ont
-accès, dans les conditions fixées par les sections 2 et 3 du présent chapitre à la zone d'attente définie à l'article L.
-221-1.
+accès, dans les conditions fixées par les sections 2 et 3 du présent chapitre, à la zone d'attente définie à l'article L.
+221-1. 
 
 Cet accès ne doit pas entraver le fonctionnement de la zone d'attente et les activités qu'y exercent les services de l'Etat,
-les entreprises de transport et les exploitants d'infrastructures.
+les entreprises de transport et les exploitants d'infrastructures. 
 
 Il s'exerce dans le respect des opinions politiques, philosophiques ou religieuses des étrangers maintenus.
 
@@ -16000,18 +16000,24 @@ Il s'exerce dans le respect des opinions politiques, philosophiques ou religieus
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L221-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R556-11 (VD)
 
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L221-1 (V)
-
 
 ##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.
+
+##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants
 
 ###### Article R*223-4
 
@@ -16038,31 +16044,39 @@ des conditions permettant de garantir leur accès effectif aux demandeurs d'asil
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
 ###### Article R223-3
 
-L'accès des représentants du Haut-Commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un
-agrément individuel.
+L'accès des représentants du haut-commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un
+agrément individuel. 
 
-Cet agrément est délivré pour une durée de trois mois par l'autorité administrative compétente.
+Cet agrément est délivré pour une durée de trois mois par l'autorité administrative compétente. 
 
-Il est renouvelable pour la même durée.
+Il est renouvelable pour la même durée. 
 
 Il est matérialisé par la remise d'une carte nominative permettant d'obtenir lors de chaque visite une autorisation d'accès à
-la zone d'attente.
+la zone d'attente. 
 
-L'autorité administrative compétente peut, après consultation du délégué du Haut-Commissariat des Nations unies pour les
-réfugiés, retirer son agrément à un représentant agréé de ce délégué. Ce retrait est motivé.
+L'autorité administrative compétente peut, après consultation du délégué du haut-commissariat des Nations unies pour les
+réfugiés, retirer son agrément à un représentant agréé de ce délégué. Ce retrait est motivé. 
 
-L'agrément est également retiré sur demande du délégué du Haut-Commissariat.
+L'agrément est également retiré sur demande du délégué du haut-commissariat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 	**Cité par**:
 
@@ -16077,14 +16091,14 @@ d'attente sur présentation de leur carte nominative et sous réserve des néces
 transports. 
 
 Les modalités pratiques de cet accès, notamment la périodicité des visites, sont arrêtées d'un commun accord entre le délégué
-du Haut-Commissariat des Nations unies pour les réfugiés et le    ministre chargé de l'asile  de manière à permettre
-l'exercice effectif de sa mission par le Haut-Commissariat des Nations unies pour les réfugiés.
+du Haut-Commissariat des Nations unies pour les réfugiés et le ministre chargé de l'asile de manière à permettre l'exercice
+effectif de sa mission par le Haut-Commissariat des Nations unies pour les réfugiés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 3
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
 ###### Article R223-6
@@ -16101,7 +16115,7 @@ admission sur le territoire français au titre de l'asile.
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
 ###### Article R223-7
@@ -16114,7 +16128,7 @@ de l'Etat concernés.
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 3
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
 ##### Section 3 : Conditions d'accès des associations humanitaires
@@ -29650,14 +29664,14 @@ d'avancement de la procédure.
 
 ###### Article R811-14
 
-Le    ministre chargé de l'immigration  informe la Commission de l'Union européenne et le Haut-Commissariat des Nations unies
+Le ministre chargé de l'immigration informe la Commission de l'Union européenne et le Haut-Commissariat des Nations Unies
 pour les réfugiés des demandes de transfert.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
 ##### Section 3 : Dispositions diverses
