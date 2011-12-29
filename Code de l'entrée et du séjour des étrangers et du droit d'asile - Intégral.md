@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-12-21
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -2755,15 +2755,15 @@ Loi n° 2010- 1657 du 29 décembre 2010 art. 161 V : Ces dispositions sont appli
 
 ###### Article L311-14
 
-L'article L. 311-13 est applicable à la délivrance, au renouvellement et à la fourniture de duplicata des titres de séjour et
-des documents de circulation pour étrangers mineurs prévus par les traités ou accords internationaux, sauf stipulations
-contraires prévues par ces traités ou accords.
+L'article L. 311-13 est applicable, selon les cas, à la demande, à la délivrance, au renouvellement et à la fourniture de
+duplicata des titres de séjour et des documents de circulation pour étrangers mineurs prévus par les traités ou accords
+internationaux, sauf stipulations contraires prévues par ces traités ou accords.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 62 (V)
 
 	**Cité par**:
 
@@ -16014,8 +16014,6 @@ Il s'exerce dans le respect des opinions politiques, philosophiques ou religieus
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R556-11 (VD)
 
-
-##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.
 
 ##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants
 
