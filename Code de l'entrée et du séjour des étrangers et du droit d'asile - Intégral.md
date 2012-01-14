@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-15
 
 # Partie législative
 
@@ -25680,6 +25680,10 @@ traitement si le dossier n'a fait l'objet d'aucune mise à jour durant les cinq 
 
 3° Le dossier d'un étranger qui contient des données relatives à une peine d'interdiction du territoire à temps prononcée à
 l'encontre de cet étranger est effacé au terme d'un délai de cinq ans à compter de la caducité de la peine si le dossier n'a
+fait l'objet d'aucune mise à jour durant cette période ; 
+
+4° Le dossier d'un étranger qui contient des données relatives à une interdiction de retour sur le territoire français est
+effacé au terme d'un délai de cinq ans à compter de l'expiration du délai de validité de l'interdiction, si le dossier n'a
 fait l'objet d'aucune mise à jour durant cette période. 
 
 Les mises à jour mentionnées au présent article s'entendent de celles qui sont consécutives à une demande de l'intéressé ou à
@@ -25703,9 +25707,13 @@ consultation. Les informations relatives aux consultations sont conservées dans
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
+	  - Décret n°2012-42 du 12 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 
 
 ##### Sous-section 6 : Droits d'accès, de rectification et d'opposition 
@@ -29839,7 +29847,7 @@ k) Date de l'annulation du visa.
 
 ###### Article Annexe 6-4
 
-Section 1 
+Section 1
 
 Catégories de données à caractère personnel
 
@@ -29952,7 +29960,10 @@ grâce ou de relèvement (date et sens de la décision, juridiction) ;
 de notification de l'engagement de la procédure ; date de la réunion ; sens de l'avis ; date de notification de l'avis ;
 date, sens et date de notification de la décision ; date et résultat du réexamen quinquennal ;
 
-10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision.
+10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision ;
+
+11° Pour les interdictions de retour, date de la décision, dates de début et de fin de la période d'interdiction, date de
+demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
@@ -30162,7 +30173,7 @@ Images numérisées de sa photographie et de deux empreintes digitales.
 
 	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art.
+	  - Décret n°2012-42 du 12 janvier 2012 - art. 2
 
 	**Cité par**:
 
