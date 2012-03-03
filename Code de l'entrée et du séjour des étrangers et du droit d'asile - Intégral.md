@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-01-30
+Version Consolidée au 2012-03-04
 
 # Partie législative
 
@@ -27317,8 +27317,7 @@ objets suivants :
 
 Il arrête son règlement intérieur. 
 
-Il émet un avis sur les nominations aux emplois de directeur général adjoint, de secrétaire général, de secrétaire général
-adjoint et de chef de division. 
+Il émet un avis sur les nominations aux emplois de secrétaire général et de chef de division. 
 
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de
 l'office. 
@@ -27329,7 +27328,7 @@ Il adresse chaque année le rapport d'activité aux ministres intéressés.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1481 du 30 décembre 2008 - art. 1
+	  - Décret n°2012-296 du 1er mars 2012 - art. 1
 
 	**Cité par**:
 
@@ -27417,10 +27416,9 @@ sous son autorité. A ce titre, il exerce notamment les compétences suivantes :
 
 2° Il représente l'office en justice et dans tous les actes de la vie civile ; 
 
-3° Il pourvoit aux emplois et gère le personnel, notamment en affectant les agents titulaires de l'office et en recrutant les
-agents contractuels ; 
+3° Il recrute, nomme et gère les personnels titulaires et non titulaires de l'office ; 
 
-4° Il préside le  comité technique et le comité d'hygiène et de sécurité ; 
+4° Il préside le comité technique et le comité d'hygiène et de sécurité ; 
 
 5° Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ; 
 
@@ -27429,15 +27427,16 @@ l'article R. 722-8 ;
 
 7° Il rend compte de sa gestion au conseil d'administration. 
 
-Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et
-de chefs de division. S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le
-ministre des affaires étrangères et le ministre chargé de l'asile.
+Le directeur général est assisté d'un secrétaire général et de chefs de division.
+
+En cas d'absence ou d'empêchement du directeur général, le secrétaire général le supplée et assure son intérim en cas de
+besoin.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
+	  - Décret n°2012-296 du 1er mars 2012 - art. 2
 
 	**Cite**:
 
