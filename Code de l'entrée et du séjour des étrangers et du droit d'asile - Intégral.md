@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-03-10
+Version Consolidée au 2012-04-09
 
 # Partie législative
 
@@ -28410,6 +28410,116 @@ Les décisions de rejet sont transmises au ministre chargé de l'immigration.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
+
+
+##### Sous-Section 5 : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences
+
+###### Article R733-20-1
+
+Lorsque le président de la cour envisage de faire usage de la faculté prévue au deuxième alinéa de l'article L. 733-1, le
+requérant en est préalablement avisé. 
+
+Si l'intéressé réside sur le territoire métropolitain, cet avis lui est adressé par lettre recommandée avec demande d'avis de
+réception ou par tout autre moyen permettant de faire la preuve de sa réception par le destinataire et comporte l'indication
+du droit pour l'intéressé de s'opposer à la mise en œuvre de cette faculté dans un délai de quinze jours à compter de la
+réception de l'avis. 
+
+Dans tous les cas où il est recouru au moyen de communication audiovisuelle, les intéressés sont régulièrement convoqués dans
+une salle d'audience distincte de celle de la cour, dans les conditions prévues par les dispositions de l'article L. 733-1 et
+de la présente sous-section
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-460 du 6 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
+
+
+###### Article R733-20-2
+
+En cas de difficulté pour obtenir le concours d'un interprète qualifié présent physiquement auprès du requérant, l'audience
+ne se tient qu'après que la cour s'est assurée de la présence, dans la salle où elle siège, d'un tel interprète tout au long
+de son déroulement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-460 du 6 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+
+###### Article R733-20-3
+
+Lorsqu'il est fait usage de la possibilité prévue par le deuxième alinéa de l'article L. 733-1, la communication
+audiovisuelle est mise en œuvre par des moyens dont les caractéristiques techniques assurent une retransmission fidèle,
+loyale et confidentielle à l'égard des tiers, selon des modalités définies par arrêté conjoint du ministre de la justice et
+du ministre chargé de l'asile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-460 du 6 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
+
+
+###### Article R733-20-4
+
+Sauf dans le cas où il est procédé à un enregistrement audiovisuel ou sonore de l'audience, un procès-verbal est rédigé par
+l'agent chargé du greffe dans chacune des deux salles d'audience. 
+
+Chacun de ces procès-verbaux mentionne : 
+
+― le nom et la qualité de l'agent chargé de sa rédaction ; 
+
+― le nom du requérant et le numéro du recours ; 
+
+― lorsqu'il est fait appel à des agents extérieurs pour assurer la prise de son et d'image, le nom de ceux-ci ; 
+
+― la date et l'heure du début de la communication audiovisuelle ; 
+
+― les éventuels incidents techniques relevés lors de l'audience, susceptibles d'avoir perturbé la communication ; 
+
+― l'heure de la fin de la communication audiovisuelle. 
+
+Le cas échéant, sont également mentionnés le nom de l'avocat et le nom de l'interprète sur le procès-verbal établi dans la
+salle d'audience où ils se trouvent. 
+
+Ces procès-verbaux attestent l'ouverture au public des deux salles d'audience, sous réserve de l'application du troisième
+alinéa de l'article R. 733-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-460 du 6 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-17
 
 
 ##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.
