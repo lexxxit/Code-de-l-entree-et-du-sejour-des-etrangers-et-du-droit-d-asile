@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-04-27
+Version Consolidée au 2012-06-20
 
 # Partie législative
 
@@ -27158,21 +27158,21 @@ date de réception par ses services du titre exécutoire ou de l'ordre de restit
 
 ###### Article R626-1
 
-La contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine instituée à
-l'article L. 626-1 est due par l'employeur qui, en violation des dispositions du premier alinéa de l'article L. 341-6 du code
-du travail, aura occupé un travailleur étranger soumis à l'obligation de détention d'un titre de séjour et qui en est
-dépourvu. Elle est due pour chaque employé étranger en situation de séjour irrégulier. 
+I.-La contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine prévue à
+l'article L. 626-1 est due pour chaque employé en situation irrégulière au regard du droit au séjour. 
 
-Le montant de cette contribution est fixé chaque année par arrêté conjoint du ministre chargé de l'immigration et du ministre
-chargé du budget, en fonction du coût moyen des opérations d'éloignement constaté l'année précédente dans la zone
-géographique à laquelle appartient le pays d'origine du salarié, dans la limite prescrite à l'alinéa 2 de l'article L. 626-1
-susmentionné.
+Cette contribution est à la charge de l'employeur qui, en violation de l'article L. 8251-1 du code du travail, a embauché ou
+employé un travailleur étranger dépourvu de titre de séjour. 
+
+II.-Le montant de cette contribution forfaitaire est fixé par arrêté du ministre chargé de l'immigration et du ministre
+chargé du budget, en fonction du coût moyen des opérations d'éloignement vers la zone géographique de réacheminement du
+salarié, dans la limite prescrite à l'alinéa 2 de l'article L. 626-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2012-812 du 16 juin 2012 - art. 4
 
 	**Cité par**:
 
@@ -27181,36 +27181,32 @@ susmentionné.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
-	  - Code du travail - art. L341-6
+	  - Code du travail - art. L8251-1
 
 
 ###### Article R626-2
 
-Une copie des procès-verbaux établis par les agents de contrôle mentionnés à l'article R. 341-27 du code du travail et
-constatant les infractions aux dispositions du premier alinéa de l'article L. 341-6 du même code est transmise au préfet du
-département dans lequel l'infraction a été constatée, et à Paris, au préfet de police.
+I. - Au vu des procès-verbaux qui lui sont transmis en application de l'article L. 8271-17 du code du travail, le directeur
+général de l'Office français de l'immigration et de l'intégration indique à l'employeur, par lettre recommandée avec avis de
+réception ou par tout autre moyen permettant de faire la preuve de sa date de réception par le destinataire, que les
+dispositions de l'article L. 626-1 sont susceptibles de lui être appliquées et qu'il peut présenter ses observations dans un
+délai de quinze jours. 
 
-Le préfet vérifie la situation des salariés mentionnés dans ces procès-verbaux au regard du droit au séjour. Lorsque ces
-vérifications font apparaître l'irrégularité du séjour d'un salarié mentionné dans un procès-verbal, le préfet indique à
-l'employeur, par lettre recommandée avec demande d'avis de réception, la mesure envisagée en application des dispositions de
-l'article L. 626-1 et l'invite à présenter ses observations dans un délai de quinze jours.
+II. - A l'expiration du délai fixé, le directeur général décide, au vu des observations éventuelles de l'employeur, de
+l'application de la contribution forfaitaire prévue à l'article L. 626-1, la liquide et émet le titre de perception
+correspondant. 
 
-A l'expiration du délai ainsi fixé, le préfet décide, au vu des observations éventuelles de l'employeur, de l'application de
-la contribution forfaitaire prévue à l'article L. 626-1 et notifie sa décision à l'employeur ainsi que, le cas échéant, le
-titre de recouvrement.
-
-Cette contribution est recouvrée par le comptable du Trésor conformément aux dispositions régissant le recouvrement des
-créances non fiscales de l'Etat.
+La créance est recouvrée par le comptable public compétent comme en matière de créances étrangères à l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 42 () JORF 22 mars 2007
+	  - Décret n°2012-812 du 16 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -27218,9 +27214,8 @@ créances non fiscales de l'Etat.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L626-1 (MMN)
-	  - Code du travail - art. L341-6 (M)
-	  - Code du travail - art. R341-27 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
+	  - Code du travail - art. L8271-17
 
 
 ###### Article R626-3
