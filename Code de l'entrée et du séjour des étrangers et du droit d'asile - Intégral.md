@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-03-24
+Version Consolidée au 2013-07-01
 
 # Partie législative
 
@@ -23297,7 +23297,7 @@ Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus
 ###### Article R522-4
 
 Sauf en cas d'urgence absolue, l'étranger à l'encontre duquel une procédure d'expulsion est engagée doit en être avisé au
-moyen d'un bulletin spécial.
+moyen d'un bulletin de notification, valant convocation devant la commission prévue aux articles L. 522-1 et L. 522-2. 
 
 La notification est effectuée à la diligence du préfet du département où est située la résidence de l'étranger ou, si ce
 dernier est détenu dans un établissement pénitentiaire, du préfet du département où est situé cet établissement. A Paris, le
@@ -23307,38 +23307,48 @@ préfet compétent est le préfet de police.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-533 du 24 juin 2013 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R522-7 (VD)
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-1
+
 
 ###### Article R522-5
 
-Le bulletin de notification doit :
+Le bulletin de notification doit : 
 
-1° Aviser l'étranger qu'une procédure d'expulsion est engagée à son encontre ;
+1° Aviser l'étranger qu'une procédure d'expulsion est engagée à son encontre ; 
 
-2° Enoncer les faits motivant cette procédure ;
+2° Enoncer les faits motivant cette procédure ; 
 
-3° Indiquer la date, l'heure et le lieu de la réunion de la commission prévue aux articles L. 522-1 et L. 522-2 ;
+3° Indiquer la date, l'heure et le lieu de la réunion de la commission prévue aux articles L. 522-1 et L. 522-2 à laquelle il
+est convoqué ; 
 
-4° Préciser que les débats de la commission sont publics ;
+4° Préciser que les débats de la commission sont publics ; 
 
-5° Porter à la connaissance de l'étranger les dispositions de l'article R. 522-6 ;
+5° Porter à la connaissance de l'étranger les dispositions du quatrième alinéa de l'article L. 522-2 et celles de l'article
+R. 522-6 ; 
 
 6° Faire connaître à l'étranger qu'il peut se présenter seul ou assisté d'un conseil et demander à être entendu avec un
-interprète ;
+interprète ; 
 
 7° Informer l'intéressé qu'il peut demander l'aide juridictionnelle dans les conditions prévues par la loi n° 91-647 du 10
 juillet 1991 et le décret n° 91-1266 du 19 décembre 1991 et préciser que l'aide juridictionnelle provisoire peut lui être
 accordée par le président de la commission ; le bureau d'aide juridictionnelle territorialement compétent pour connaître de
 la demande d'aide juridictionnelle de l'étranger est celui qui est établi près le tribunal de grande instance du chef-lieu du
-département dans lequel siège la commission ;
+département dans lequel siège la commission ; 
 
 8° Préciser que l'étranger ou son conseil peut demander communication du dossier au service dont la dénomination et l'adresse
-doivent être indiquées dans la convocation et présenter un mémoire en défense ;
+doivent être indiquées dans la convocation et présenter un mémoire en défense ; 
 
 9° Indiquer les voies de recours qui seraient ouvertes à l'étranger contre l'arrêté d'expulsion qui pourrait être pris.
 
@@ -23346,15 +23356,18 @@ doivent être indiquées dans la convocation et présenter un mémoire en défen
 
 	**Cite**:
 
-	  - Loi n°91-647 1991-07-10
-	  - Décret n°91-1266 1991-12-19
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L522-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L522-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R522-6 (V)
+	  - Loi n°91-647 du 10 juillet 1991
+	  - Décret n°91-1266 du 19 décembre 1991
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R522-6
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-533 du 24 juin 2013 - art. 1
 
 
 ###### Article R522-6
@@ -23388,27 +23401,11 @@ précédent.
 ###### Article R522-7
 
 Si l'étranger convoqué dans les conditions prévues aux articles R. 522-4 à R. 522-6 ne se présente pas personnellement devant
-la commission à la date prévue, celle-ci émet son avis. Toutefois, elle renvoie l'affaire à une date ultérieure lorsque
-l'étranger lui a fourni, en temps utile ou au cours de la séance par l'intermédiaire de son conseil, une excuse reconnue
-valable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R522-4 à R522-6
-
-
-###### Article R522-8
-
-Dans tous les cas, la commission doit émettre son avis dans le délai d'un mois.
-
-Le préfet ou son représentant assure les fonctions de rapporteur ; le directeur départemental de l'action sanitaire et
-sociale ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la commission.
+la commission à la date prévue, celle-ci émet son avis. Toutefois, elle renvoie l'affaire à une date ultérieure, conformément
+aux dispositions du quatrième alinéa de l'article L. 522-2, lorsque l'étranger ou son conseil le lui demande pour un motif
+légitime, dans la période comprise entre la notification du bulletin prévu à l'article R. 522-4 et le début de la séance de
+la commission. Cette demande de renvoi peut également être formulée au cours de la séance de la commission par
+l'intermédiaire du conseil de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -23418,7 +23415,47 @@ sociale ou son représentant est entendu par la commission. Ces personnes n'assi
 
 	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 8
+	  - Décret n°2013-533 du 24 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R522-4
+
+
+###### Article R522-8
+
+Dans tous les cas, la commission doit émettre son avis dans le délai d'un mois.
+
+Le préfet ou son représentant assure les fonctions de rapporteur ; le directeur départemental chargé de la cohésion sociale
+ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-533 du 24 juin 2013 - art. 1
+
+
+###### Article R522-8-1
+
+Si, à l'issue du délai fixé au quatrième alinéa de l'article L. 522-2, éventuellement prolongé dans les conditions prévues à
+cet article, la commission n'a pas émis son avis, le préfet informe l'étranger que les formalités de consultation de la
+commission sont réputées remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-533 du 24 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-2
 
 
 ###### Article R522-9
