@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-07-24
+Version Consolidée au 2013-08-14
 
 # Partie législative
 
@@ -25873,8 +25873,10 @@ l'intégration, individuellement désignés et spécialement habilités par leur
 l'Office français de protection des réfugiés et apatrides, individuellement désignés et spécialement habilités par leur
 directeur général ; 
 
-5° Au titre de la lutte contre la fraude documentaire, les personnels de la direction des libertés publiques et des affaires
-juridiques individuellement désignés et spécialement habilités par leur directeur, les personnels des laboratoires de
+5° Au titre de la lutte contre la fraude documentaire, les personnels de la mission " délivrance sécurisée des titres ” au
+sein du secrétariat général du ministère de l'intérieur, individuellement désignés et spécialement habilités par le
+secrétaire général, les agents des préfectures et sous-préfectures compétents en matière de prévention et de lutte contre la
+fraude documentaire individuellement désignés et spécialement habilités par le préfet, les personnels des laboratoires de
 l'Institut national de police scientifique, de l'identité judiciaire de la police nationale et de l'institut de recherche
 criminelle de la gendarmerie nationale et les personnels du bureau de la fraude documentaire de la direction centrale de la
 police aux frontières, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la
@@ -25886,9 +25888,9 @@ ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le
 versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités
 respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la
-condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 115-7, 
-L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 161-25-2, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
-l'article L. 262-4 du code de l'action sociale et des familles ; 
+condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 115-7, L. 161-16-1, L. 161-18-1, L.
+161-25-1, L. 161-25-2, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de
+l'action sociale et des familles ; 
 
 b) Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail, individuellement désignés et spécialement
 habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les
@@ -25956,28 +25958,16 @@ en matière de statistiques.
 	**Cite**:
 
 	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 33
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 	  - Code de procédure pénale - art. 20
-	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-1
+	  - Code de procédure pénale - art. 28-2
 	  - Code de procédure pénale - art. 78-2
 	  - Code des douanes - art. 67 quater
 	  - Code du travail - art. L5312-1
 	  - Code du travail - art. L5411-4
-	  - Code du travail - art. L8113-7
 	  - Code du travail - art. L8251-1
-	  - Code du travail - art. L8271-17
-	  - Code du travail - art. L8271-19
 	  - Code de la sécurité sociale. - art. L115-6
-	  - Code de la sécurité sociale. - art. L161-16-1
-	  - Code de la sécurité sociale. - art. L161-18-1
-	  - Code de la sécurité sociale. - art. L161-25-1
-	  - Code de la sécurité sociale. - art. L512-2
-	  - Code de la sécurité sociale. - art. L611-1
-	  - Code de la sécurité sociale. - art. L831-1
 
 	**Cité par**:
 
@@ -25989,7 +25979,7 @@ en matière de statistiques.
 
 	**Modifié par**:
 
-	  - Décret n°2013-147 du 18 février 2013 - art. 1
+	  - Décret n°2013-724 du 12 août 2013 - art. 1
 
 
 ###### Article R611-6
