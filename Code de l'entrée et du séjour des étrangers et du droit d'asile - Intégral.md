@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-08-19
+Version Consolidée au 2013-10-02
 
 # Partie législative
 
@@ -25794,12 +25794,11 @@ automatisé prévu à l'article R. 611-1 et dans le composant électronique pré
 besoins exclusifs de leurs missions liées à l'entrée, au séjour ou à l'éloignement : 
 
 1° Les agents chargés de la réglementation des étrangers, ainsi que de celle relative à l'accès à la nationalité française et
-aux demandes de visa, et de leur mise en œuvre, et relevant des services centraux des ministères de l'intérieur (secrétariat
-général à l'immigration et à l'intégration, direction générale de la police nationale, direction générale de la gendarmerie
-nationale, direction des libertés publiques et des affaires juridiques, délégation générale à l'outre-mer), des affaires
-étrangères (direction des Français à l'étranger et de l'administration consulaire), du budget (direction générale des douanes
-et droits indirects), individuellement désignés et spécialement habilités par le directeur ou le chef de service dont ils
-relèvent ; 
+aux demandes de visa, et de leur mise en œuvre, et relevant des services centraux des ministères de l'intérieur (la direction
+générale des étrangers en France, direction générale de la police nationale, direction générale de la gendarmerie nationale,
+direction des libertés publiques et des affaires juridiques, délégation générale à l'outre-mer), des affaires étrangères
+(direction des Français à l'étranger et de l'administration consulaire), du budget (direction générale des douanes et droits
+indirects), individuellement désignés et spécialement habilités par le directeur ou le chef de service dont ils relèvent ; 
 
 2° Les agents chargés de l'application de la réglementation des étrangers, ainsi que de celle relative à l'accès à la
 nationalité française, dans les préfectures et les sous-préfectures, individuellement désignés et spécialement habilités par
@@ -25830,9 +25829,9 @@ prévu aux articles R. 311-13-1 et R. 321-22.
 
 	  - Décret n°2001-635 du 17 juillet 2001 - art. 34-1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
+	  - Décret n°2013-728 du 12 août 2013 - art. 31 (VD)
 
 	**Cite**:
 
