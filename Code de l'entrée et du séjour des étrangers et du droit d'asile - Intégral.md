@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-11-14
+Version Consolidée au 2013-12-02
 
 # Partie législative
 
@@ -15986,18 +15986,22 @@ délais compatibles avec l'exercice effectif par l'étranger de son droit au rec
 La décision écrite et motivée refusant l'entrée en France à un étranger, prévue à l'article L. 213-2, est prise, sauf en cas
 de demande d'asile, par le chef du service de la police nationale ou des douanes, chargé du contrôle aux frontières, ou un
 fonctionnaire désigné par lui, titulaire au moins du grade de brigadier dans le premier cas et d'agent de constatation
-principal de deuxième classe dans le second ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie nationale ou
+principal de deuxième classe dans le second, ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie nationale ou
 un militaire désigné par lui, titulaire au moins du grade de gendarme.
+
+Dans les aérodromes affectés à titre exclusif ou principal au ministère de la défense, cette décision peut être également
+prise par le commandant d'unité de la gendarmerie maritime ou de la gendarmerie de l'air ou par un militaire désigné par lui,
+titulaire au moins du grade de gendarme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1874 du 26 décembre 2007 - art. 1
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-2
 
 
 ###### Article R213-2
@@ -16041,20 +16045,24 @@ L'autorité administrative compétente pour délimiter la zone d'attente est le 
 police. 
 
 La décision écrite et motivée prononçant le maintien en zone d'attente d'un étranger, prévue à l'article L. 221-3, est prise
-par le chef du service de la police nationale ou des douanes, chargé du contrôle aux frontières, ou d'un fonctionnaire
-désigné par lui, titulaire au moins du grade de brigadier dans le premier cas et d'agent de constatation principal de
-deuxième classe dans le second ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie nationale ou un militaire
-désigné par lui, titulaire au moins du grade de gendarme.
+par le chef du service de la police nationale ou des douanes, chargé du contrôle aux frontières, ou un fonctionnaire désigné
+par lui, titulaire au moins du grade de brigadier dans le premier cas et d'agent de constatation principal de deuxième classe
+dans le second ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie nationale ou un militaire désigné par lui,
+titulaire au moins du grade de gendarme.
+
+Dans les aérodromes affectés à titre exclusif ou principal au ministère de la défense, cette décision peut être également
+prise par le commandant d'unité de la gendarmerie maritime ou de la gendarmerie de l'air ou par un militaire désigné par lui,
+titulaire au moins du grade de gendarme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1874 du 26 décembre 2007 - art. 2
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L221-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L221-3
 
 
 ###### Article R221-2
@@ -25758,7 +25766,7 @@ lutter contre l'entrée et le séjour irréguliers en France des ressortissants 
 
 1° De permettre aux services centraux et locaux du ministère dont relève le traitement d'assurer l'instruction des demandes
 et la fabrication des titres de séjour des ressortissants étrangers, de leurs titres de voyage et des documents de
-circulation délivrés aux ressortissants étrangers mineurs, ainsi que la gestion de leurs dossiers respectifs ; 
+circulation délivrés aux ressortissants étrangers, ainsi que la gestion de leurs dossiers respectifs ; 
 
 2° De mieux coordonner l'action des services chargés de mettre en œuvre des procédures intéressant les ressortissants
 étrangers ; 
@@ -25792,9 +25800,9 @@ ressortissants étrangers.
 	  - Code de la sécurité intérieure - art. R632-14 (VD)
 	  - Code du travail - art. R5312-41 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 3
 
 
 ##### Sous-section 2 : Données enregistrées dans le traitement 
@@ -25805,8 +25813,8 @@ ressortissants étrangers.
 Le traitement automatisé de données à caractère personnel mentionné à l'article R. 611-1 comporte les images numérisées de la
 photographie et des empreintes digitales des dix doigts des étrangers suivants : 
 
-1° Etrangers demandeurs ou titulaires d'un titre de séjour ou d'un titre de voyage d'une durée de validité supérieure à un
-an ; 
+1° Etrangers demandeurs ou titulaires d'un titre de séjour, d'un titre de voyage d'une durée de validité supérieure à un an
+ou de la carte de frontalier mentionnée à l'annexe 6-4 ; 
 
 2° Etrangers en situation irrégulière ; 
 
@@ -25818,32 +25826,34 @@ Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
-
 	**Cité par**:
 
 	  - Arrêté du 30 avril 2012 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 4
+
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
 ###### Article R611-3
 
 Les autres catégories de données à caractère personnel enregistrées dans le traitement informatisé prévu à l'article R. 611-1
-sont énumérées à la section 1 de l'annexe 6-4 du présent code.
+sont énumérées à l'annexe 6-4 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 5
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
@@ -25876,16 +25886,19 @@ frontières, individuellement désignés et spécialement habilités respectivem
 frontières, par le directeur général de la gendarmerie nationale ou par le directeur régional des douanes ou, le cas échéant,
 le directeur général des douanes et droits indirects ; 
 
-5° Les agents des services déconcentrés de la police nationale et de la gendarmerie nationale, en charge de la gestion des
-lieux de rétention administrative et de l'exécution des mesures d'éloignement, individuellement désignés et spécialement
-habilités, selon le cas, par le directeur départemental de la sécurité publique, le directeur départemental de la police aux
-frontières ou le commandant du groupement de gendarmerie départementale et, dans les départements de Paris, des Hauts-de-
-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par les directeurs de la préfecture de police chargés de l'ordre public et
-de la circulation, de la sécurité de proximité de l'agglomération parisienne, et du renseignement, ainsi que par le
-commandant du groupement de gendarmerie interdépartemental de Paris. 
+5° Au titre de la gestion des lieux de rétention administrative, de l'exécution des mesures d'éloignement ou de leur mission
+de vérification du droit de circulation ou de séjour sur le territoire français prévue par les articles L. 611-1 et L.
+611-1-1, les agents des services déconcentrés de la police nationale et ceux des unités de la gendarmerie nationale,
+individuellement désignés et spécialement habilités, selon le cas :
 
-Toutefois, seuls les agents mentionnés aux 2°, 3° et 4° sont habilités à accéder aux données contenues dans le composant
-prévu aux articles R. 311-13-1 et R. 321-22.
+- par le directeur départemental de la sécurité publique, le directeur départemental de la police aux frontières et, dans les
+départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, par les directeurs de la préfecture de
+police chargés de l'ordre public et de la circulation, de la sécurité de proximité de l'agglomération parisienne et du
+renseignement ;
+
+- par le directeur général de la gendarmerie nationale, le commandant du groupement de gendarmerie interdépartemental de
+Paris, les commandants de groupement de gendarmerie départementale, les commandants de la gendarmerie dans les départements
+outre-mer, les commandants de région de gendarmerie ou les commandants des gendarmeries spécialisées.
 
 **Liens relatifs à cet article**
 
@@ -25895,12 +25908,14 @@ prévu aux articles R. 311-13-1 et R. 321-22.
 
 	**Modifié par**:
 
-	  - Décret n°2013-728 du 12 août 2013 - art. 31 (VD)
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 6
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
 ##### Sous-section 4 : Accès aux données en consultation 
@@ -25936,7 +25951,7 @@ l'intégration, individuellement désignés et spécialement habilités par leur
 l'Office français de protection des réfugiés et apatrides, individuellement désignés et spécialement habilités par leur
 directeur général ; 
 
-5° Au titre de la lutte contre la fraude documentaire, les personnels de la mission " délivrance sécurisée des titres ” au
+5° Au titre de la lutte contre la fraude documentaire, les personnels de la mission " délivrance sécurisée des titres " au
 sein du secrétariat général du ministère de l'intérieur, individuellement désignés et spécialement habilités par le
 secrétaire général, les agents des préfectures et sous-préfectures compétents en matière de prévention et de lutte contre la
 fraude documentaire individuellement désignés et spécialement habilités par le préfet, les personnels des laboratoires de
@@ -25967,16 +25982,17 @@ conduire ;
 7° Au titre : 
 
 a) Du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du
-titre de séjour, dans les conditions prévues à l'article L. 611-1 du présent code et aux articles 78-2 et 78-3 du code de
-procédure pénale, les officiers de police judiciaire de la police nationale et de la gendarmerie nationale et, sur l'ordre et
-sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux
-articles 20 et 21 (1°) du code de procédure pénale, les agents des douanes dans les conditions prévues à l'article 67 quater
-du code des douanes ainsi que les agents des services fiscaux habilités à effectuer des missions de police judiciaire,
-individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police nationale, le
-directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le rang d'officier
-sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des douanes ou, le cas
-échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article 28-2 du code de
-procédure pénale ; 
+titre de séjour, dans les conditions prévues aux articles L. 611-1 et L. 611-1-1 du présent code et aux articles 78-2 et 78-3
+du code de procédure pénale, les officiers de police judiciaire de la police nationale et de la gendarmerie nationale et, sur
+l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints
+mentionnés aux articles 20 et 21 (1°) du code de procédure pénale, les agents spécialisés, techniciens ou ingénieurs de
+police technique et scientifique, les agents des douanes dans les conditions prévues à l'article 67 quater du code des
+douanes ainsi que les agents des services fiscaux et les agents des douanes habilités à effectuer des missions de police
+judiciaire, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police
+nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le
+rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des
+douanes ou, le cas échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article
+28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ; 
 
 b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les officiers de police judiciaire de la police ou de
 la gendarmerie nationales et, sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire individuellement
@@ -26014,7 +26030,12 @@ a) Les agents de l'Institut national d'études démographiques, individuellement
 
 b) Les agents de l'Institut national de la statistique et des études économiques et des services statistiques ministériels,
 dans le respect de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret
-en matière de statistiques.
+en matière de statistiques. 
+
+11° Au titre de la délivrance des agréments des exploitants individuels et des dirigeants et gérants de personne morale ou de
+la délivrance des autorisations d'exercice des employés exerçant des activités privées de sécurité, les agents du Conseil
+national des activités privées de sécurité, individuellement désignés par son directeur et spécialement habilités par le
+préfet.
 
 **Liens relatifs à cet article**
 
@@ -26022,6 +26043,10 @@ en matière de statistiques.
 
 	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-13-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R321-22 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
 	  - Code de procédure pénale - art. 20
 	  - Code de procédure pénale - art. 28-1
 	  - Code de procédure pénale - art. 28-2
@@ -26029,8 +26054,17 @@ en matière de statistiques.
 	  - Code des douanes - art. 67 quater
 	  - Code du travail - art. L5312-1
 	  - Code du travail - art. L5411-4
+	  - Code du travail - art. L8113-7 (V)
 	  - Code du travail - art. L8251-1
-	  - Code de la sécurité sociale. - art. L115-6
+	  - Code du travail - art. L8271-17 (V)
+	  - Code du travail - art. L8271-19
+	  - Code de la sécurité sociale. - art. L115-6 (V)
+	  - Code de la sécurité sociale. - art. L161-16-1 (V)
+	  - Code de la sécurité sociale. - art. L161-18-1 (V)
+	  - Code de la sécurité sociale. - art. L161-25-1 (V)
+	  - Code de la sécurité sociale. - art. L512-2 (V)
+	  - Code de la sécurité sociale. - art. L831-1 (VT)
+	  - Code de l'action sociale et des familles - art. L262-4 (V)
 
 	**Cité par**:
 
@@ -26042,7 +26076,7 @@ en matière de statistiques.
 
 	**Modifié par**:
 
-	  - Décret n°2013-724 du 12 août 2013 - art. 1
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 7
 
 
 ###### Article R611-6
@@ -26051,12 +26085,13 @@ Par dérogation à l'article R. 611-5, pour les besoins exclusifs de l'accomplis
 chargés des missions de recherche et de contrôle de l'identité des personnes, de vérification de la validité et de
 l'authenticité des titres de séjour et de voyage au sein de la police nationale, de la gendarmerie nationale et des douanes
 peuvent consulter les images numérisées des empreintes digitales contenues dans le composant électronique du titre prévu aux
-articles R. 311-13-1 et R. 321-22. 
+articles R. 311-13-1 et R. 321-22 et dans celui de la carte de frontalier mentionnée à l'annexe 6-4. 
 
-Les agents figurant aux 5°, 7° pour une mission de vérification d'identité prévue par l'article 78-3 du code de procédure
-pénale et, dans les conditions qu'il prévoit, au 9° de l'article R. 611-5 peuvent consulter les images numérisées des
-empreintes digitales contenues dans le traitement mentionné à l'article R. 611-1 et dans le composant électronique mentionné
-aux articles R. 311-13-1 et R. 321-22. 
+Peuvent consulter les images numérisées des empreintes digitales contenues dans le traitement mentionné à l'article R. 611-1,
+dans le composant électronique mentionné aux articles R. 311-13-1 et R. 321-22 et dans celui de la carte de frontalier
+mentionnée à l'annexe 6-4 les agents figurant aux 5°, 7° pour une mission de vérification d'identité prévue par l'article
+78-3 du code de procédure pénale et pour une mission de vérification du droit de circulation et de séjour prévue à l'article
+L. 611-1-1 et 9° de l'article R. 611-5. 
 
 Les agents mentionnés au 3° de l'article R. 611-5 lorsqu'ils sont chargés de la remise des cartes de séjour, et les agents
 mentionnés au 4° du même article lorsqu'ils sont chargés de la protection des réfugiés, peuvent consulter les images
@@ -26064,17 +26099,19 @@ numérisées des empreintes digitales contenues dans le composant électronique 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-638 du 8 juin 2011 - art. 4
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 8
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-5
-	  - Code de procédure pénale - art. 78-3
+	  - Code de procédure pénale - art. 78-3 (V)
 
 
 ###### Article R611-7
@@ -30465,11 +30502,9 @@ territoire sur lequel le porteur du visa est autorisé à circuler ; type de vis
 
 Section 1
 
-Catégories de données à caractère personnel
+Catégories de données à caractère personnel susceptibles d'être enregistrées
 
-susceptibles d'être enregistrées
-
-A. - Données générales.
+A. - Données générales
 
 1° Etat civil de l'étranger ; nationalité ;
 
@@ -30502,7 +30537,7 @@ dans l'application) ;
 
 14° Signature du titulaire du titre de séjour et du titre de voyage.
 
-B. - Données relatives au droit au séjour, au droit au travail et au titre de voyage.
+B. - Données relatives au droit au séjour, au droit au travail et au titre de voyage
 
 1° Titre de séjour : références juridiques et de gestion (dates, lieux) de la demande, de la délivrance, du refus et du
 retrait ; date et condition d'entrée en France ; historique des titres détenus ;
@@ -30546,7 +30581,7 @@ européenne et état-civil des membres de famille ;
 
 13° Références de la procédure d'accès à la nationalité française.
 
-C. - Données relatives à la procédure d'éloignement.
+C. - Données relatives à la procédure d'éloignement
 
 a) Données relatives à la mesure d'éloignement :
 
@@ -30687,11 +30722,9 @@ volonté manifeste ou exprimée de l'étranger de faire obstacle à son éloigne
 
 Section 2
 
-Mentions figurant sur le titre de séjour ou de voyage
+Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation 
 
-ou le document de circulation délivré à l'étranger mineur
-
-A. - Mentions figurant sur le titre de séjour.
+A. - Mentions figurant sur le titre de séjour
 
 Au recto : le numéro AGDREF2, le numéro du titre, le nom, le prénom, la date d'expiration ou la mention validité illimitée,
 le lieu de délivrance, la date de début de validité, la mention du titre de séjour (catégorie de titre), l'autorisation de
@@ -30699,7 +30732,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage de plus d'un an.
+B. - Mentions figurant sur les titres de voyage de plus d'un an
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -30735,13 +30768,17 @@ c) Titre d'identité et de voyage (TIV) :
 
 Les données mentionnées sont celles figurant au a.
 
-C. - Mentions figurant sur les documents de circulation et les titres d'identité républicains délivrés aux étrangers mineurs.
+C. - Mentions figurant sur les documents de circulation 
+
+a) Documents de circulation et titres d'identité républicains délivrés aux mineurs 
 
 Au recto :
 
 1° Nature du document ;
 
 2° Numéro du document ;
+
+2° bis Numéro d'enregistrement dans le système AGDREF ;
 
 3° Etat civil ;
 
@@ -30768,18 +30805,56 @@ Au verso :
 3° Signature du titulaire si, au jour de la demande, celui-ci est âgé de sept ans au moins ou signature de la personne qui a
 demandé le document si, au jour de la demande, le titulaire est âgé de moins de sept ans.
 
+b) Carte de frontalier : 
+
+Au recto : 
+
+1° Catégorie de document : carte de frontalier ;
+
+2° Numéro du titre ;
+
+3° Numéro d'enregistrement dans le système AGDREF ;
+
+4° Photographie ;
+
+5° Etat civil ;
+
+6° Date de début et de fin de validité ;
+
+7° Autorité de délivrance ;
+
+8° Zone remarque : " autorisation de séjourner par périodes maximales de 72 heures dans les limites du bourg de Saint-Georges
+de l'Oyapock " ;
+
+9° Signature du titulaire.
+
+Au verso : 
+
+1° Date et lieu de naissance ;
+
+2° Nationalité ;
+
+3° Sexe ;
+
+4° Adresse.
+
 Section 3
 
 Données contenues dans les composants électroniques
 
-A. - Données contenues dans le composant électronique du titre de séjour (TSE).
+A. - Données contenues dans le composant électronique du titre de séjour (TSE)
 
-Les données contenues sont celles mentionnées au A de la section 2 de la présente annexe ( mentions figurant sur le titre de
-séjour ), ainsi que les images numérisées de deux empreintes digitales.
+Les données contenues sont celles mentionnées au A de la section 2 de la présente annexe (mentions figurant sur le titre de
+séjour), ainsi que les images numérisées de deux empreintes digitales.
 
-B. - Données contenues dans le composant du titre de voyage d'une durée de validité supérieure à un an.
+B. - Données contenues dans le composant du titre de voyage d'une durée de validité supérieure à un an
 
 Images numérisées de sa photographie et de deux empreintes digitales.
+
+C. - Données contenues dans le composant électronique de la carte de frontalier 
+
+Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de
+frontalier) ainsi que les images numérisées de deux empreintes digitales.
 
 **Liens relatifs à cet article**
 
@@ -30789,7 +30864,7 @@ Images numérisées de sa photographie et de deux empreintes digitales.
 
 	**Modifié par**:
 
-	  - Décret n°2012-42 du 12 janvier 2012 - art. 2
+	  - Décret n°2013-1082 du 29 novembre 2013 - art. 9
 
 	**Cité par**:
 
