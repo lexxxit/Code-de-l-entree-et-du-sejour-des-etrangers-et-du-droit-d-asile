@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-12-02
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -2698,10 +2698,6 @@ durée du titre, entre un minimum égal à 55 euros et un maximum égal à 250 e
 15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour d'une durée d'un an au plus au titre de
 l'article L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un an. 
 
-L'étranger titulaire de la carte de séjour portant la mention : " étudiant " ou " stagiaire " qui se voit délivrer une carte
-de séjour à un autre titre acquitte le montant de la taxe prévue pour la délivrance d'un premier titre de séjour, mentionnée
-au A. 
-
 C.-La délivrance, le renouvellement et la fourniture de duplicata des documents de circulation délivrés aux étrangers mineurs
 au titre des articles L. 321-3 et L. 321-4 donnent lieu à la perception, d'une taxe dont le montant est de 45 euros. 
 
@@ -2751,8 +2747,8 @@ F.-Les modalités d'application du présent article sont précisées, en tant qu
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 42 (VD)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 52
 
 	**Cite**:
 
@@ -2878,6 +2874,27 @@ ladite loi entrent en vigueur à compter d'une date précisée par décret, et a
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
+
+
+###### Article L311-17
+
+Le produit des taxes et des droits prévus aux articles L. 311-13, L. 311-14 et L. 311-16 du présent code, aux IV et V de
+l'article 953 et aux articles 954 et 958 du code général des impôts peut être recouvré par l'Office français de l'immigration
+et de l'intégration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 63
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 953 (V)
+	  - Code général des impôts, CGI. - art. 954 (V)
+	  - Code général des impôts, CGI. - art. 958 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-16 (V)
 
 
 #### Chapitre II : La commission du titre de séjour
