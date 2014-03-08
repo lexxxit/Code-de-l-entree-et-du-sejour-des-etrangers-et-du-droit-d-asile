@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-03-09
 
 # Partie législative
 
@@ -16563,41 +16563,42 @@ résidence, qui transmet sa demande au préfet territorialement compétent.
 ###### Article R311-2
 
 La demande est présentée par l'intéressé dans les deux mois de son entrée en France. S'il y séjournait déjà, il présente sa
-demande :
+demande : 
 
 1° Soit, au plus tard, avant l'expiration de l'année qui suit son dix-huitième anniversaire, si l'étranger peut obtenir de
 plein droit un titre de séjour en application soit des 1°, 2°, 2° bis, 3° ou 10° de l'article L. 313-11, soit de l'article L.
-313-13, soit des 8° ou 9° de l'article L. 314-11, soit de l'article L. 314-12 ;
+313-13, soit des 8° ou 9° de l'article L. 314-11, soit de l'article L. 314-12 ; 
 
 2° Soit au plus tard deux mois après la date de son dix-huitième anniversaire, si l'étranger ne peut obtenir de plein droit
-un titre de séjour dans les conditions prévues au 1° ci-dessus ;
+un titre de séjour dans les conditions prévues au 1° ci-dessus ; 
 
-3° Soit au plus tard deux mois après la date à laquelle la perte de la nationalité française lui est devenue opposable ;
+3° Soit au plus tard deux mois après la date à laquelle la perte de la nationalité française lui est devenue opposable ; 
 
 4° Soit dans le courant des deux derniers mois précédant l'expiration de la carte de séjour dont il est titulaire, sauf s'il
-est titulaire du statut de résident de longue durée-CE accordé par la France en application de l'article L. 314-8.
+est titulaire du statut de résident de longue durée-UE accordé par la France en application des articles L. 314-8 et L.
+314-8-2. 
 
 A l'échéance de ce délai et en l'absence de présentation de demande de renouvellement de sa carte de séjour, il justifie à
 nouveau des conditions requises pour l'entrée sur le territoire national lorsque la possession d'un visa est requise pour la
-première délivrance de la carte de séjour.
+première délivrance de la carte de séjour. 
 
 Par dérogation au premier alinéa, lorsqu'il sollicite la délivrance d'une carte de séjour temporaire dans les conditions
-mentionnées à l'article L. 313-4-1, l'étranger titulaire de la carte de résident de longue durée-CE accordée dans un autre
-Etat membre de l'Union européenne doit présenter sa demande dans les trois mois qui suivent son entrée en France.
+mentionnées à l'article L. 313-4-1, l'étranger titulaire de la carte de résident de longue durée-UE accordée dans un autre
+Etat membre de l'Union européenne doit présenter sa demande dans les trois mois qui suivent son entrée en France. 
 
 Disposent du même délai pour présenter leur demande, lorsqu'ils sollicitent la délivrance d'une carte de séjour temporaire
-portant la mention vie privée et familiale en application de l'article L. 313-11-1, le conjoint mentionné au I et l'enfant
-entré mineur sur le territoire mentionné au II de cet article.
+portant la mention " vie privée et familiale " en application de l'article L. 313-11-1, le conjoint mentionné au I et
+l'enfant entré mineur sur le territoire mentionné au II de cet article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 3 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -16609,13 +16610,14 @@ entré mineur sur le territoire mentionné au II de cet article.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-13 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8-2 (V)
 
 
 ###### Article R311-2-1
@@ -17050,11 +17052,11 @@ autre conjoint ou des enfants autres que ceux mentionnés aux articles L. 411-1 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire français pendant une période de plus de trois
 ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ; 
 
-4° Si l'étranger titulaire d'une carte de résident portant la mention " résident de longue durée-CE " accordée par la France
-a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs
-sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français
-pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-CE dans un autre Etat
-membre de l'Union européenne ; 
+4° Si l'étranger titulaire d'une carte de résident portant la mention "     résident de longue durée-UE " accordée par la
+France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans
+consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire
+français pendant une période de plus de six ans consécutifs, ou a acquis le statut de     résident de longue durée-UE dans un
+autre Etat membre de l'Union européenne ; 
 
 5° Si son détenteur fait l'objet d'une mesure d'expulsion ; 
 
@@ -17080,7 +17082,7 @@ Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 32
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -17099,8 +17101,8 @@ Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant
 I.-Le titre de séjour peut être retiré : 
 
 1° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour " compétences et talents ", est
-passible de poursuites pénales sur le fondement des articles 222-39,225-4-1 à 225-4-4,225-4-7,225-5 à 225-11,225-12-5 à
-225-12-7,311-4 (7°), 312-12-1 et 321-6-1 du code pénal ; 
+passible de poursuites pénales sur le fondement des articles 222-39, 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à
+225-12-7, 311-4 (7°), 312-12-1 et 321-6-1 du code pénal ; 
 
 2° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour " compétences et talents ", a occupé un
 travailleur étranger en infraction avec les dispositions de l'article L. 341-6 du code du travail ou a méconnu les
@@ -17116,15 +17118,15 @@ mentionnés à l'article L. 316-3 ;
 
 5° Sous réserve des dispositions des articles L. 511-4, L. 521-2 et L. 521-3, si l'étranger a fait venir son conjoint ou ses
 enfants en dehors de la procédure de regroupement familial, sauf s'il est titulaire de la carte de résident portant la
-mention " résident de longue durée-CE " accordée par la France en application de l'article L. 314-8 ; 
+mention " résident de longue durée-UE " accordée par la France en application de l'article L. 314-8 ; 
 
 6° Si l'étranger titulaire d'une carte de résident sur le fondement du 3° de l'article L. 314-9 a mis fin à sa vie commune
 avec un ressortissant de nationalité française dans les quatre années qui suivent la célébration du mariage, sauf dans les
 cas mentionnés à l'article L. 314-5-1 ; 
 
-7° Si l'étranger, titulaire de la carte de résident de longue durée-CE dans un autre Etat membre, autorisé à séjourner en
+7° Si l'étranger, titulaire de la carte de résident de longue durée-UE dans un autre Etat membre, autorisé à séjourner en
 France en application de l'article L. 313-4-1, exerce dans les douze mois qui suivent la délivrance de la carte de séjour
-temporaire mentionnée au 1°, 2° ou 3° de l'article L. 313-10, des activités salariées autres que celles pour lesquelles il
+temporaire mentionnée au 1°, 2° ou 3° de l'article L. 313-10 des activités salariées autres que celles pour lesquelles il
 s'est vu accorder son droit au séjour en France ; 
 
 8° Si l'étranger, titulaire d'une carte de résident, a occupé un travailleur étranger en infraction avec les dispositions de
@@ -17136,24 +17138,29 @@ du travail ;
 
 10° Si l'étranger ou son conjoint, titulaire d'une carte de résident délivrée pour une contribution économique
 exceptionnelle, cesse de remplir la condition prévue à l'article L. 314-15 sur le fondement de laquelle la carte lui a été
-délivrée. 
+délivrée ; 
+
+11° Si l'étranger, titulaire de la carte de résident portant la mention " résident de longue durée-UE " délivrée par la
+France sur le fondement des articles L. 314-8 et L. 314-8-2-2, perd la qualité de réfugié ou le bénéfice de la protection
+subsidiaire dans les cas mentionnés à l'article L. 314-7-1. 
 
 II.-La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire : 
 
 1° Si l'étranger, titulaire d'une carte de résident, ne peut faire l'objet d'une mesure d'expulsion en application des
-articles L. 521-2 ou L. 521-3 du présent code et a été condamné de manière définitive sur le fondement des articles
-433-3,433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième alinéa de l'article 433-5-1 ou de l'article
-433-6 du code pénal ; 
+articles L. 521-2 ou L. 521-3 du présent code et a été condamné de manière définitive sur le fondement des articles 433-3,
+433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième alinéa de l'article 433-5-1 ou de l'article 433-6 du
+code pénal ; 
 
-2° Si l'étranger, titulaire de la carte de résident portant la mention " résident de longue durée-CE " accordée par la France
-en application de l'article L. 314-8 et dont la présence en France constitue une menace grave pour l'ordre public, ne peut
-faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3.
+2° Si l'étranger, titulaire de la carte de résident portant la mention " résident de longue durée-UE " accordée par la France
+en application des articles L. 314-8 et L. 314-8-2 et dont la présence en France constitue une menace grave pour l'ordre
+public, ne peut faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 33
+	  - Décret n°2014-301 du 6 mars 2014 - art. 1
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -17166,6 +17173,7 @@ faire l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-15
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-5-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-7-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-3
@@ -17382,12 +17390,12 @@ en mission " ;
 d) D'une carte de séjour temporaire délivrée en application de l'article L. 313-11, à l'exception des étrangers mentionnés
 aux 3° et 11° de cet article, ou des articles L. 313-13, L. 313-14 et L. 316-1 ; 
 
-e) (alinéa supprimé) ; 
+e) (Alinéa supprimé) ; 
 
-f) D'une carte de résident délivrée en application des dispositions des articles L. 314-8, L. 314-9 et L. 314-11, lorsque
-l'étranger n'a pas signé le contrat d'accueil et d'intégration à un autre titre ; 
+f) D'une carte de résident délivrée en application des dispositions des articles L. 314-8, L. 314-8-2, L. 314-9 et L. 314-11,
+lorsque l'étranger n'a pas signé le contrat d'accueil et d'intégration à un autre titre ; 
 
-g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4° au 7°, au 9° ou au 11° de l'article R.
+g) D'un visa pour un séjour d'une durée supérieure à trois mois mentionné au 4°, au 7°, au 9° ou au 11° de l'article R.
 311-3. 
 
 II.-Le contrat d'accueil et d'intégration peut également être souscrit par l'étranger qui n'a pas signé de contrat d'accueil
@@ -17408,9 +17416,7 @@ en France d'une durée au moins égale à une année, sur présentation de docum
 
 	**Cite**:
 
-	  - Décret n°93-1064 du 9 septembre 1993 - art. 2 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-9 (V)
+	  - Décret n°93-1064 du 9 septembre 1993 - art. 2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
@@ -17418,14 +17424,15 @@ en France d'une durée au moins égale à une année, sur présentation de docum
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-14
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 21
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 34
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -18774,31 +18781,31 @@ Ne sont pas soumis aux dispositions du 4° de l'article R. 313-1 les étrangers 
 ###### Article R313-5
 
 La durée de validité de la carte de séjour temporaire délivrée aux étrangers exerçant une activité professionnelle soumise à
-autorisation ne peut excéder la durée de cette autorisation.
+autorisation ne peut excéder la durée de cette autorisation. 
 
 La durée de validité de la carte de séjour temporaire délivrée aux étrangers admis à séjourner en France pour y faire des
 études ou pour y suivre un enseignement ou un stage de formation ne peut excéder la durée de ces études, de cet enseignement
-ou de ce stage.
+ou de ce stage. 
 
 La durée de validité de la carte de séjour temporaire délivrée en application de l'article L. 313-11-1 aux membres de la
-famille de l'étranger titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et
-admis au séjour en France ne peut dépasser celle de la carte de séjour temporaire délivrée au résident de longue durée-CE en
+famille de l'étranger titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et
+admis au séjour en France ne peut dépasser celle de la carte de séjour temporaire délivrée au résident de longue durée-UE en
 application de l'article L. 313-4-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 13 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
 
 
 ##### Section 2 : Les différentes catégories de cartes de séjour temporaires
@@ -19765,13 +19772,13 @@ une autorisation provisoire de séjour renouvelable pendant la durée du traitem
 ###### Article R313-22-1
 
 L'étranger mentionné au I ou au II de l'article L. 313-11-1 qui souhaite séjourner en France auprès de son conjoint ou parent
-titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et admis au séjour en
+titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et admis au séjour en
 France en application de l'article L. 313-4-1 doit présenter les pièces suivantes : 
 
 1° La justification qu'il est autorisé à résider légalement, en qualité de membre de famille, sur le territoire de l'Etat
-membre de l'Union européenne qui a accordé le statut de résident de longue durée-CE à son conjoint ou parent ; 
+membre de l'Union européenne qui a accordé le statut de résident de longue durée-UE à son conjoint ou parent ; 
 
-2° De la justification que son entretien sera assuré par des ressources stables et régulières, indépendamment des prestations
+2° La justification que son entretien sera assuré par des ressources stables et régulières, indépendamment des prestations
 familiales et des allocations mentionnées au III de l'article L. 313-11-1 ; les ressources stables du demandeur et de son
 conjoint ou parent contribuant à la prise en charge effective de ses besoins sont appréciées par référence au montant du
 salaire minimum de croissance et sont considérées comme suffisantes lorsqu'elles atteignent :
@@ -19794,12 +19801,16 @@ filiation.
 
 	**Modifié par**:
 
-	  - Décret n°2008-614 du 27 juin 2008 - art. 7
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-3 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-3 (V)
 
 	**Cite**:
 
@@ -20055,40 +20066,45 @@ réputé défavorable.
 	  - Décret n°2007-1711 du 5 décembre 2007 - art. 1
 
 
-##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne
+##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne
 
 ###### Article R313-34-1
 
-L'étranger titulaire de la carte de résident de longue durée-CE dans un autre Etat membre de l'Union européenne qui sollicite
-la délivrance d'une carte de séjour temporaire en application de l'article L. 313-4-1 doit présenter les pièces suivantes :
+L'étranger titulaire de la carte de résident de longue durée-UE dans un autre Etat membre de l'Union européenne qui sollicite
+la délivrance d'une carte de séjour temporaire en application de l'article L. 313-4-1 doit présenter les pièces suivantes : 
 
-1° La carte de résident de longue durée-CE en cours de validité délivrée par l'Etat membre de l'Union européenne qui lui a
-accordé ce statut sur son territoire ;
+1° La carte de résident de longue durée-UE en cours de validité délivrée par l'Etat membre de l'Union européenne qui lui a
+accordé ce statut sur son territoire ; 
 
 2° La justification qu'il dispose de ressources propres, stables et régulières, suffisant à son entretien et, le cas échéant,
 à celui de son conjoint et de ses enfants mentionnés aux I et II de l'article L. 313-11-1, indépendamment des prestations
 familiales et des allocations mentionnées au septième alinéa de l'article L. 313-4-1 ; les ressources mensuelles du demandeur
 et, le cas échéant, de son conjoint doivent atteindre un montant total au moins égal au salaire minimum de croissance
 apprécié à la date du dépôt de la demande ; lorsque le niveau des ressources du demandeur n'atteint pas cette somme, une
-décision favorable peut être prise s'il justifie être propriétaire de son logement ou en jouir à titre gratuit ;
+décision favorable peut être prise s'il justifie être propriétaire de son logement ou en jouir à titre gratuit ; 
 
 3° La justification qu'il dispose d'un logement approprié, qui peut notamment être apportée par tout document attestant sa
-qualité de propriétaire ou de locataire du logement ;
+qualité de propriétaire ou de locataire du logement ; 
 
-4° La justification qu'il bénéficie d'une assurance maladie ;
+4° La justification qu'il bénéficie d'une assurance maladie ; 
 
-5° Les pièces exigées pour la délivrance de l'une des cartes de séjour temporaire prévues à l'article L. 313-4-1 selon le
+5° Les pièces exigées pour la délivrance de l'une des cartes de séjour temporaires prévues à l'article L. 313-4-1 selon le
 motif du séjour invoqué.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-1292 du 30 août 2007 - art. 5 () JORF 1er septembre 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
 
 	**Cité par**:
 
@@ -20096,17 +20112,14 @@ motif du séjour invoqué.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-3 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-
 
 ##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille
 
+##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille
+
 ###### Article R313-34-2
 
-Le maire de la commune de résidence du ressortissant d'un pays tiers titulaire du statut de résident de longue durée-CE dans
+Le maire de la commune de résidence du ressortissant d'un pays tiers titulaire du statut de résident de longue durée-UE dans
 un autre Etat membre de l'Union européenne et des membres de sa famille dispose d'un délai de deux mois à compter de sa
 saisine par le préfet pour formuler un avis sur le caractère suffisant des conditions de ressources au regard des conditions
 de logement mentionnées aux articles R. 313-22-1 et R. 313-34-1.
@@ -20115,22 +20128,22 @@ de logement mentionnées aux articles R. 313-22-1 et R. 313-34-1.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 26 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-4 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (M)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-22-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
 
 
 ###### Article R313-34-3
@@ -20345,14 +20358,14 @@ aux dispositions de l'article R. 341-5 du code du travail.
 ###### Article R314-1
 
 Pour l'application des dispositions des articles L. 314-8 et L. 314-9, l'étranger présente à l'appui de sa demande de carte
-de résident ou de carte de résident portant la mention " résident de longue durée-CE " : 
+de résident ou de carte de résident portant la mention " résident de longue durée-UE " : 
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
 il ne vit pas en France en état de polygamie ; 
 
-3° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ; 
+3° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ; 
 
 4° Les pièces justifiant : 
 
@@ -20367,8 +20380,8 @@ conditions de son activité professionnelle s'il en a une ;
 a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ; 
 
 b) Le cas échéant, le contrat d'accueil et d'intégration conclu en application de l'article L. 311-9 ainsi que l'attestation
-nominative remise par l'          Office français de l'immigration et de l'intégration  précisant si les actions prévues au
-contrat ont été suivies ainsi que les conditions de leur validation ; 
+nominative remise par l'Office français de l'immigration et de l'intégration précisant si les actions prévues au contrat ont
+été suivies ainsi que les conditions de leur validation ; 
 
 c) Tout document de nature à attester sa connaissance suffisante de la langue française, notamment le diplôme initial de
 langue française. 
@@ -20380,13 +20393,13 @@ La demande de carte de résident au titre de l'article L. 314-8, lorsqu'elle est
 régulière ininterrompue, vaut aussi demande de renouvellement du titre de séjour précédemment détenu. Il en va de même en cas
 de demande de carte de résident au titre du 1° de l'article L. 314-9, lorsqu'elle est présentée après trois années de
 résidence régulière ininterrompue, et au titre du 2° du même article lorsqu'elle est présentée par un étranger qui est
-titulaire depuis au moins trois années de la carte de séjour temporaire mentionnée au 6° de l'article L. 313-11
+titulaire depuis au moins trois années de la carte de séjour temporaire mentionnée au 6° de l'article L. 313-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -20404,14 +20417,17 @@ titulaire depuis au moins trois années de la carte de séjour temporaire mentio
 
 ###### Article R314-1-1
 
-L'étranger qui sollicite la délivrance de la carte de résident portant la mention " résident de longue durée-CE " doit
+L'étranger qui sollicite la délivrance de la carte de résident portant la mention "     résident de longue durée-UE " doit
 justifier qu'il remplit les conditions prévues à l'article L. 314-8 en présentant : 
 
 1° La justification qu'il réside légalement et de manière ininterrompue en France depuis au moins cinq ans, sous couvert de
-l'une des cartes de séjour mentionnées à l'article L. 314-8 ou sous couvert d'un des visas mentionnés aux 4°, 5°, 7°, 8°, 9°
-et 11° de l'article R. 311-3 ; les périodes d'absence du territoire français sont prises en compte dans le calcul des cinq
-années de résidence régulière ininterrompue lorsque chacune ne dépasse pas six mois consécutifs et qu'elles ne dépassent pas
-un total de dix mois ; 
+l'une des cartes de séjour mentionnées aux articles L. 314-8 et L. 314-8-2 ou sous couvert d'un des visas mentionnés aux 4°,
+5°, 7°, 8°, 9° et 11° de l'article R. 311-3 ; les périodes d'absence du territoire français sont prises en compte dans le
+calcul des cinq années de résidence régulière ininterrompue lorsque chacune ne dépasse pas six mois consécutifs et qu'elles
+ne dépassent pas un total de dix mois ; s'agissant d'un étranger qui s'est vu reconnaître par la France la qualité de réfugié
+ou accorder le bénéfice de la protection subsidiaire, la période entre la date de dépôt de la demande d'asile et celle de la
+délivrance de l'une des cartes de séjour mentionnées au deuxième alinéa de l'article L. 314-8-2 est également prise en
+compte ; 
 
 2° La justification des raisons pour lesquelles il entend s'établir durablement en France, notamment au regard des conditions
 de son activité professionnelle et de ses moyens d'existence ; 
@@ -20439,17 +20455,18 @@ regard des conditions de logement dans les conditions prévues aux articles R. 3
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 18
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-34-2
+	  - Décret n°2014-301 du 6 mars 2014 - art. 2
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-34-2
 
 
 ###### Article R314-1-2
@@ -20478,28 +20495,60 @@ dans l'un des cas prévus à cet article.
 
 ###### Article R314-1-3
 
-La demande de carte de résident portant la mention "résident de longue durée-CE" au titre de l'article L. 314-8 vaut demande
-de renouvellement du titre de séjour précédemment acquis. Il en va de même en cas de demande de carte de résident au titre du
-1° de l'article L. 314-9, lorsqu'elle est présentée après trois années de résidence régulière ininterrompue, au titre du 2°
-du même article, lorsqu'elle est présentée par un étranger qui est titulaire depuis au moins trois années de la carte de
-séjour temporaire mentionnée au 6° de l'article L. 313-11, et, le cas échéant, au titre du 3° du même article lorsqu'elle est
-présentée par un étranger qui est marié depuis au moins trois ans avec un ressortissant de nationalité française.
+La demande de carte de résident portant la mention "     résident de longue durée-UE " au titre de l'article L. 314-8 vaut
+demande de renouvellement du titre de séjour précédemment acquis. Il en va de même en cas de demande de carte de résident au
+titre du 1° de l'article L. 314-9, lorsqu'elle est présentée après trois années de résidence régulière ininterrompue, au
+titre du 2° du même article, lorsqu'elle est présentée par un étranger qui est titulaire depuis au moins trois années de la
+carte de séjour temporaire mentionnée au 6° de l'article L. 313-11, et, le cas échéant, au titre du 3° du même article
+lorsqu'elle est présentée par un étranger qui est marié depuis au moins trois ans avec un ressortissant de nationalité
+française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 30 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
+
+
+###### Article R314-1-4
+
+La carte de résident portant la mention " résident de longue durée-UE ", délivrée sur le fondement de l'article L. 314-8-2 à
+l'étranger qui a la qualité de réfugié ou qui bénéficie de la protection subsidiaire, porte la mention suivante sous la
+rubrique " Remarques " : " La France a accordé la protection internationale le [date] ". 
+
+Lorsque l'étranger dispose déjà d'une carte de résident de longue durée-UE délivrée par un autre Etat membre de l'Union
+européenne, mentionnant qu'une protection internationale lui a été accordée, la carte de résident portant la mention "
+résident de longue durée-UE ", délivrée par la France sur le fondement de l'article L. 314-8 ou de l'article L. 314-8-1,
+porte la mention suivante sous la rubrique " Remarques " : " Le [nom de l'Etat membre] a accordé la protection internationale
+le [date] ", après vérification auprès de l'Etat membre de l'Union européenne qui lui a accordé cette protection qu'il
+demeure sous sa protection. Dans le cas où l'étranger obtient le transfert de sa protection en France, la mention est
+modifiée en conséquence, dans un délai maximal de trois mois suivant le transfert. 
+
+Lorsqu'un Etat membre de l'Union européenne informe la France qu'il a accordé une protection internationale à un étranger
+déjà titulaire d'une carte de résident portant la mention " résident de longue durée-UE ", délivrée par la France sur le
+fondement de l'article L. 314-8 ou de l'article L. 314-8-1, ou que la responsabilité de la protection de cet étranger a été
+transférée à cet Etat membre, la France modifie la mention visée au précédent alinéa en conséquence, dans un délai maximal de
+trois mois suivant la date à laquelle l'information a été transmise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-301 du 6 mars 2014 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 
 ##### Sous-section 2 : Délivrance de plein droit
@@ -20565,40 +20614,41 @@ l'article L. 314-11.
 ###### Article R314-3
 
 Pour l'application des dispositions de l'article L. 314-1, l'étranger présente à l'appui de sa demande de renouvellement de
-carte de résident ou de statut de résident de longue durée-CE accordé par la France en application de l'article L. 314-8 :
+carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles L. 314-8 et
+L. 314-8-2 : 
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de ses enfants et de ses
-ascendants ;
+ascendants ; 
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
-il ne vit pas en France en état de polygamie ;
+il ne vit pas en France en état de polygamie ; 
 
-3° La carte de résident dont il est titulaire et qui vient à expiration ou la carte de résident portant la mention "résident
-de longue durée-CE" accordée par la France en application de l'article L. 314-8 et qui vient à expiration ou qui a expiré en
+3° La carte de résident dont il est titulaire et qui vient à expiration ou la carte de résident portant la mention " résident
+de longue durée-UE " accordée par la France en application de l'article L. 314-8 et qui vient à expiration ou qui a expiré en
 raison du séjour de l'intéressé à l'étranger, dès lors que la durée de ce séjour à l'étranger n'a pas eu pour effet, en
-application de l'article L. 314-7, de lui faire perdre le bénéfice du statut de résident de longue durée-CE accordé par la
-France ;
+application de l'article L. 314-7, de lui faire perdre le bénéfice du statut de résident de longue durée-UE accordé par la
+France ; 
 
-4° Trois photographies de face, tête nue, de format 3,5 cm x 4,5 cm, récentes et parfaitement ressemblantes ;
+4° Trois photographies de face, tête nue, de format 3,5 cm x 4,5 cm, récentes et parfaitement ressemblantes ; 
 
 5° Une attestation sur l'honneur selon laquelle il n'a pas, sauf le cas où une prolongation lui a été accordée en application
-du deuxième alinéa de l'article L. 314-7, séjourné plus de trois années consécutives au cours des dix dernières années, hors
-de France s'il est titulaire d'une carte de résident, et hors du territoire des Etats membres de l'Union européenne s'il est
-titulaire de la carte de résident portant la mention "résident de longue durée-CE" accordée par la France ;
+du deuxième alinéa de l'article L. 314-7, séjourné plus de trois années consécutives au cours des dix dernières années hors
+de France, s'il est titulaire d'une carte de résident, et hors du territoire des Etats membres de l'Union européenne s'il est
+titulaire de la carte de résident portant la mention " résident de longue durée-UE " accordée par la France ; 
 
-6° Une attestation sur l'honneur selon laquelle il n'a pas, s'il est titulaire de la carte de résident portant la mention
-"résident de longue durée-CE" accordée par la France, séjourné plus de six années consécutives hors de France ou acquis le
-statut "résident longue durée-CE" dans un autre Etat membre de l'Union européenne.
+6° Une attestation sur l'honneur selon laquelle il n'a pas, s'il est titulaire de la carte de résident portant la mention "
+résident de longue durée-UE " accordée par la France, séjourné plus de six années consécutives hors de France ou acquis le
+statut " résident longue durée-CE " dans un autre Etat membre de l'Union européenne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 32 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -20606,8 +20656,8 @@ statut "résident longue durée-CE" dans un autre Etat membre de l'Union europé
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-7 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-7
 
 
 ##### Section 4 : Délivrance de la carte de résident permanent
@@ -22113,18 +22163,18 @@ cette activité, valable jusqu'à la fin du stage de son conjoint ou concubin.
 
 Le titre de séjour dont doit justifier un ressortissant étranger pour formuler une demande de regroupement familial est soit
 une carte de séjour temporaire, d'une durée de validité d'au moins un an, soit une carte de résident, soit une carte de
-résident portant la mention "résident de longue durée-CE" et délivrée en France, soit le récépissé de la demande de
+résident portant la mention "     résident de longue durée-UE " et délivrée en France, soit le récépissé de la demande de
 renouvellement de l'un de ces titres.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -23701,24 +23751,24 @@ le préfet de département et, à Paris, le préfet de police.
 ###### Article R531-3-2
 
 L'autorité administrative compétente pour prendre, en application du troisième alinéa de l'article L. 531-2, la décision de
-remettre aux autorités compétentes d'un Etat membre de l'Union européenne un étranger titulaire du statut de résident de
-longue durée-CE accordé par cet autre Etat membre ainsi que son conjoint et ses enfants mentionnés aux I et II de l'article
+remettre aux autorités compétentes d'un Etat membre de l'Union européenne un étranger titulaire du statut de     résident de
+longue durée-UE accordé par cet autre Etat membre ainsi que son conjoint et ses enfants mentionnés aux I et II de l'article
 L. 313-11-1 est le préfet et, à Paris, le préfet de police.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 38 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
 
 
 ###### Article R531-3-3
@@ -23866,12 +23916,12 @@ application du deuxième alinéa de l'article L. 531-3 se fait dans les conditio
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-CE accordé par un Etat membre de l'Union européenne
+##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne
 
 ###### Article R531-10
 
 I. - Les dispositions du troisième alinéa de l'article L. 531-2 sont applicables à l'étranger titulaire du statut de résident
-longue durée-CE accordé par un autre Etat membre de l'Union européenne qui aura soit séjourné sur le territoire français plus
+longue durée-UE accordé par un autre Etat membre de l'Union européenne qui aura soit séjourné sur le territoire français plus
 de trois mois consécutifs sans se conformer aux dispositions de l'article L. 313-4-1, soit fait l'objet d'un refus de
 délivrance ou de renouvellement d'une carte de séjour temporaire en application de l'article L. 313-4-1 ou du retrait d'une
 carte de séjour temporaire délivrée en application de l'article L. 313-4-1.
@@ -23886,17 +23936,17 @@ renouvellement de la carte de séjour temporaire portant la mention "vie privée
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 40 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
 
 
 ###### Article R531-11
@@ -23905,14 +23955,15 @@ Sans préjudice de la possibilité du placement en rétention administrative en 
 préfet ou, à Paris, le préfet de police qui constate l'existence d'une mesure d'éloignement exécutoire prise en raison de
 l'existence d'une menace grave pour l'ordre public à l'encontre d'un étranger titulaire du statut de résident longue durée-CE
 accordé par un autre Etat membre de l'Union européenne consulte cet Etat membre aux fins de l'examen du droit au séjour sur
-son territoire.
+son territoire. 
 
-Après notification à l'intéressé de la décision de retrait du droit au séjour prise par l'Etat membre de l'Union européenne
-qui avait accordé le statut de résident longue durée-CE, le préfet ou, à Paris, le préfet de police procède à l'exécution de
-la mesure d'éloignement.
+Toutefois, lorsque l'étranger a la qualité de réfugié ou bénéficie de la protection subsidiaire, il est remis aux autorités
+compétentes de l'Etat membre qui lui a reconnu la qualité de réfugié ou accordé le bénéfice de la protection subsidiaire,
+dans les conditions prévues au troisième alinéa de l'article L. 531-2, après vérification auprès de cet Etat membre que
+l'étranger demeure sous sa protection. 
 
 L'étranger dont le droit au séjour sur le territoire de l'Etat membre de l'Union européenne qui lui a accordé le statut de
-résident de longue durée-CE est maintenu au terme des consultations prévues au premier alinéa ou dont le retrait de ce droit
+résident de longue durée-UE est maintenu au terme des consultations prévues au premier alinéa ou dont le retrait de ce droit
 est suspendu est remis aux autorités compétentes de cet Etat dans les conditions prévues par le troisième alinéa de l'article
 L. 531-2.
 
@@ -23920,59 +23971,68 @@ L. 531-2.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 40 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 4
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L551-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
 
 
 ###### Article R531-12
 
-I. - L'existence d'une mesure d'éloignement exécutoire prise pour des motifs graves d'ordre ou de sécurité publique par un
+I.-L'existence d'une mesure d'éloignement exécutoire prise pour des motifs graves d'ordre ou de sécurité publique par un
 autre Etat membre de l'Union européenne à l'encontre d'un étranger admis au séjour sur son territoire au titre du statut de
-résident de longue durée-CE accordé par la France en application des dispositions de l'article L. 314-8 permet à l'autorité
-administrative française qui a accordé ce statut à l'intéressé de le lui retirer. Ce retrait implique le retrait du droit au
-séjour, sauf si son titulaire ne peut faire l'objet d'une mesure d'expulsion en application des engagements internationaux de
-la France.
+résident de longue durée-UE accordé par la France en application des dispositions        des articles L. 314-8 et L. 314-8-2
+permet à l'autorité administrative française qui a accordé ce statut à l'intéressé de le lui retirer. Ce retrait implique le
+retrait du droit au séjour, sauf si son titulaire ne peut faire l'objet d'une mesure d'expulsion en application des
+engagements internationaux de la France. 
 
-II. - Pour l'application du I, l'autorité administrative française qui a accordé le statut de résident de longue durée-CE à
-l'étranger en application des dispositions de l'article L. 314-8, consultée par les autorités compétentes de l'Etat membre de
-l'Union européenne qui ont pris la mesure d'éloignement à l'encontre de l'intéressé, s'assure du caractère exécutoire et des
-motifs de cette mesure et procède sans délai à l'examen du retrait du statut de résident de longue durée-CE en France et du
-retrait du droit au séjour en France de l'intéressé au regard des dispositions législatives et réglementaires en vigueur.
-Elle informe de sa décision, pour notification à l'intéressé, l'Etat membre auteur de la mesure d'éloignement.
+II.-Pour l'application du I, l'autorité administrative française qui a accordé le statut de résident de longue durée-UE à
+l'étranger en application des dispositions        des articles L. 314-8 et L. 314-8-2, consultée par les autorités
+compétentes de l'Etat membre de l'Union européenne qui ont pris la mesure d'éloignement à l'encontre de l'intéressé, s'assure
+du caractère exécutoire et des motifs de cette mesure et procède sans délai à l'examen du retrait du statut de résident de
+longue durée-UE en France et du retrait du droit au séjour en France de l'intéressé au regard des dispositions législatives
+et réglementaires en vigueur. Elle informe de sa décision, pour notification à l'intéressé, l'Etat membre auteur de la mesure
+d'éloignement. 
+
+Dans le cas où l'étranger s'est vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en
+France et qu'il demeure sous la protection de la France, l'autorité administrative française qui lui a accordé le statut de
+résident de longue durée-UE en informe l'Etat membre auteur de la mesure d'éloignement, dans un délai maximal d'un mois
+suivant la date à laquelle elle a été consultée. L'étranger ainsi que, le cas échéant, son conjoint et ses enfants mineurs
+sont alors réadmis en France.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 40 () JORF 22 mars 2007
+	  - Décret n°2014-301 du 6 mars 2014 - art. 5
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 
 
 ###### Article R531-13
 
-L'étranger titulaire du statut de résident longue durée-CE accordé par la France et, le cas échéant, les membres de sa
+L'étranger titulaire du statut de résident longue durée-UE accordé par la France et, le cas échéant, les membres de sa
 famille sont réadmis sans formalités sur le territoire national à la demande d'un autre Etat membre de l'Union européenne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 10
+	  - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 
 #### Chapitre III : Autres cas de reconduite
@@ -29131,6 +29191,25 @@ avoir le non-respect de ces obligations ou le refus de coopérer avec les autori
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+
+
+###### Article R751-3
+
+Lorsqu'un étranger se voit reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en France
+et qu'il dispose déjà d'une carte de résident de longue durée-UE délivrée par un autre Etat membre de l'Union européenne, le
+préfet ou, à Paris, le préfet de police en informe les autorités de cet Etat afin de leur permettre de modifier en
+conséquence la rubrique " Remarques  "   de la carte de séjour de l'intéressé. Il en va de même lorsque l'étranger était déjà
+placé sous la protection de cet Etat et que cette dernière a été transférée à la France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-301 du 6 mars 2014 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 
 ### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
