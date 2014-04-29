@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-03-09
+Version Consolidée au 2014-04-30
 
 # Partie législative
 
@@ -20113,8 +20113,6 @@ motif du séjour invoqué.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille
-
 ##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille
 
 ###### Article R313-34-2
@@ -28001,6 +27999,37 @@ S'agissant des actes d'état civil ainsi que des actes judiciaires ou de police,
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-1
 
 
+###### Article R733-6
+
+Un arrêté du ministre de la justice et du ministre chargé de l'asile définit les modes de dépôt ou de transmission des
+recours, des mémoires et des pièces admis par le secrétariat de la cour. S'agissant des transmissions par voie électronique,
+cet arrêté fixe les conditions garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges. 
+
+Les recours sont enregistrés suivant leur date d'arrivée à la cour.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
+733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
+résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
+l'asile qui ne pourra être postérieure au 30 avril 2014.
+
+Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
+16 août 2013, entrent en vigueur à compter du 30 avril 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2014 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-38 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R733-9 (V)
+
+
 ###### Article R733-7
 
 Le recours doit, à peine d'irrecevabilité, être exercé dans le délai d'un mois à compter de la notification de la décision de
@@ -28167,24 +28196,57 @@ fondement du III du même article du décret précité, le deuxième alinéa est
 	  - Arrêté du 18 février 2016 - art. 2 (V)
 
 
-###### Article R733-14
+###### Article R733-13
 
-Le président de la formation de jugement peut rouvrir l'instruction par une décision qui n'est pas motivée et ne peut faire
-l'objet d'aucun recours. Cette décision est notifiée dans les mêmes formes que l'ordonnance de clôture.
+Le président de la formation de jugement ou, avant enrôlement du dossier, le président de la cour peut fixer la date de
+clôture de l'instruction écrite par une ordonnance notifiée aux parties quinze jours au moins avant cette date. L'ordonnance
+n'est pas motivée et ne peut faire l'objet d'aucun recours. L'instruction écrite peut être rouverte dans les mêmes formes. 
+
+Dans le cas où les parties sont informées de la date de l'audience deux mois au moins avant celle-ci, l'instruction écrite
+est close dix jours francs avant la date de l'audience. Cette information, qui indique la date de clôture de l'instruction,
+est valablement faite à l'avocat constitué à la date de son envoi ou, le cas échéant, à l'avocat désigné au titre de l'aide
+juridictionnelle à cette même date. Elle ne vaut pas avis d'audience au sens de l'article R. 733-19. 
+
+S'il n'a pas été fait application du premier ou du deuxième alinéa, l'instruction écrite est close cinq jours francs avant la
+date de l'audience. 
+
+Lorsque l'instruction écrite est close, seule la production des originaux des documents communiqués préalablement en copie
+demeure recevable jusqu'à la fin de l'audience.
 
 **Nota:**
 
-Conformément au I de l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions de l’article R.733-14 dans leur
-rédaction antérieure au décret n°2013-751 du 16 août 2013 restent applicables jusqu'à la date prévue au premier alinéa du I
-de l'article 2, soit une date fixée par arrêté conjoint du ministre de la justice et du ministre chargé de l'asile et au plus
-tard le 30 avril 2014, en lieu et place de l’article R.733-13 dans sa nouvelle rédaction (Arrêté du 22 avril 2014 NOR:
-JUSC1406330A).
+Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
+733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
+résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
+l'asile qui ne pourra être postérieure au 30 avril 2014.
+
+Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
+16 août 2013, entrent en vigueur à compter du 30 avril 2014.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2014 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-19 (VD)
+
+
+###### Article R733-14
+
+Les mémoires et pièces produits après la clôture de l'instruction ne donnent pas lieu à communication. 
+
+Toutefois, en cas de réouverture de l'instruction écrite, les mémoires et les pièces qui auraient été produits dans
+l'intervalle sont communiqués aux parties.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 
 ###### Article R733-15
@@ -28206,6 +28268,46 @@ parties.
 	**Modifié par**:
 
 	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+
+###### Article R733-16
+
+La formation de jugement ne peut se fonder sur des éléments d'information extérieurs au dossier relatifs à des circonstances
+de fait propres au demandeur d'asile ou spécifiques à son récit, sans en avoir préalablement informé les parties. 
+
+Les parties sont préalablement informées lorsque la formation de jugement est susceptible de fonder sa décision sur un moyen
+soulevé d'office, notamment celui tiré de ce que le demandeur relèverait de l'une des clauses d'exclusion figurant aux
+sections D, E et F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou à
+l'article L. 712-2 du code de l'entrée et du séjour des étrangers et du droit d'asile. 
+
+Un délai est fixé aux parties pour déposer leurs observations, sans qu'y fasse obstacle la clôture de l'instruction écrite.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
+733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
+résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
+l'asile qui ne pourra être postérieure au 30 avril 2014.
+
+Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
+16 août 2013, entrent en vigueur à compter du 30 avril 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2014 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R*733-34-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-25 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-4 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-2
 
 
 ##### Sous-section 4 : Audience
@@ -28262,6 +28364,45 @@ Le rôle de chaque audience est arrêté par le président de la cour. Il est af
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
+
+
+###### Article R733-19
+
+L'avis d'audience est adressé aux parties trente jours au moins avant le jour où l'affaire sera appelée à l'audience. 
+
+Le conseil du requérant est informé du jour de l'audience par tout moyen. Cette information a lieu sans délai lorsqu'il se
+constitue après la convocation adressée au requérant. 
+
+L'avis d'audience informe les parties de la clôture de l'instruction écrite prévue par l'article R. 733-13. 
+
+En cas d'urgence, y compris s'il a été fait application du deuxième alinéa de l'article R. 733-13, le délai de convocation
+prévu au premier alinéa peut être réduit, sans pouvoir être inférieur à sept jours. Dans ce cas, l'instruction écrite est
+close cinq jours francs avant l'audience. 
+
+Lorsque le président de la formation de jugement fait droit sur le siège à une demande de report de l'audience présentée par
+le requérant, il peut convoquer les parties, sans conditions de délai, à une audience ultérieure en remettant à l'intéressé
+ou à son avocat un nouvel avis d'audience. L'office est avisé sans délai.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
+733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
+résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
+l'asile qui ne pourra être postérieure au 30 avril 2014.
+
+Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
+16 août 2013, entrent en vigueur à compter du 30 avril 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2014 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-13 (VD)
 
 
 ###### Article R733-20
@@ -28409,6 +28550,50 @@ recours.
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-23 (M)
+
+
+###### Article R733-25
+
+Le rapporteur donne lecture du rapport, qui analyse l'objet de la demande et les éléments de fait et de droit exposés par les
+parties, et fait mention des éléments propres à éclairer le débat, sans prendre parti sur le sens de la décision. 
+
+Les principaux éléments du rapport sont traduits au requérant, lorsqu'il a besoin de l'assistance d'un interprète. 
+
+Après la lecture du rapport, et sauf si le conseil du requérant demande à présenter ses observations, la formation de
+jugement peut poser aux parties toute question propre à l'éclairer. 
+
+Le président de la formation de jugement donne la parole au requérant et au représentant de l'office. 
+
+Les parties peuvent présenter oralement toute observation utile propre à éclairer leurs écritures. 
+
+La partie qui, moins de sept jours francs avant la clôture de l'instruction écrite, a reçu communication soit d'un mémoire ou
+de pièces, soit de l'une des informations prévues par l'article R. 733-16, peut présenter à l'audience toute observation
+orale qu'elle estime utile pour répondre à ce mémoire ou à cette information.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
+733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
+résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
+l'asile qui ne pourra être postérieure au 30 avril 2014.
+
+Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
+16 août 2013, entrent en vigueur à compter du 30 avril 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2014 - art. 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-28 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-16
 
 
 ###### Article R733-26
