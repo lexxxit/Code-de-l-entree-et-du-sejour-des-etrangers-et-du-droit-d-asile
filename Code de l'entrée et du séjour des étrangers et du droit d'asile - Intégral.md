@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-04-30
+Version Consolidée au 2014-05-25
 
 # Partie législative
 
@@ -17620,9 +17620,9 @@ d'information.
 
 ###### Article R311-26
 
-Le bilan de compétences professionnelles prévu à l'article L. 311-9 est organisé par l'Office français de l'immigration et de
-l'intégration à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de connaître et de
-valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche d'emploi. 
+I.-Le bilan de compétences professionnelles prévu à l'article L. 311-9 est organisé par l'Office français de l'immigration et
+de l'intégration à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de connaître et
+de valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche d'emploi. 
 
 La durée des opérations concourant à la réalisation de ce bilan est fixée par l'office en fonction des besoins de la personne
 intéressée. 
@@ -17634,24 +17634,28 @@ a) A l'étranger mineur de 18 ans dès lors qu'il est scolarisé ;
 b) A l'étranger de plus de 55 ans ; 
 
 c) A l'étranger admis au séjour en France sous couvert de l'un des titres mentionnés aux articles L. 313-8, L. 313-9 et L.
-313-10 ; 
+313-10 ;
 
-d) A l'étranger qui déclare à l'office et justifie auprès de lui avoir déjà une activité professionnelle et ne pas être à la
+d) A l'étranger qui déclare à l'office et justifie auprès d'elle avoir déjà une activité professionnelle et ne pas être à la
 recherche d'un emploi. 
 
-II. - L'Office français de l'immigration et de l'intégration et l'institution publique mentionnée à l'article L. 5312-1 du
-code du travail établissent par convention les modalités de leur action commune pour favoriser l'insertion professionnelle
-des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention précise les
-conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe, nationalité,
-niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de compétences
-professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la promotion dont
-elles bénéficient ou ont bénéficié.
+II.-L'Office français de l'immigration et de l'intégration et Pôle emploi établissent par convention les modalités de leur
+action commune pour favoriser l'insertion professionnelle des signataires du contrat d'accueil et d'intégration inscrits
+comme demandeurs d'emploi. La convention précise les conditions dans lesquelles sont échangées des informations portant sur
+les personnes concernées (âge, sexe, nationalité, niveau de formation), leur parcours professionnel à l'étranger et en
+France, les préconisations de leur bilan de compétences professionnelles, leur orientation professionnelle et les prestations
+d'accompagnement à l'emploi et à la promotion dont elles bénéficient ou ont bénéficié.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+	  - Décret n°2014-524 du 22 mai 2014 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-8 (V)
 
 
 ###### Article R311-27
@@ -25905,10 +25909,9 @@ condition de régularité de leur situation en France prévue par les articles L
 161-25-1, L. 161-25-2, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de
 l'action sociale et des familles ; 
 
-b) Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail, individuellement désignés et spécialement
-habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les
-étrangers disposent lors de l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de travail requis pour
-exercer une activité professionnelle salariée ; 
+b) Les agents de Pôle emploi, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de
+vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la
+liste des demandeurs d'emploi des titres de séjour et de travail requis pour exercer une activité professionnelle salariée ; 
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le
 préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de
@@ -25978,10 +25981,10 @@ préfet.
 
 	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-13-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R321-22 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 	  - Code de procédure pénale - art. 20
 	  - Code de procédure pénale - art. 28-1
 	  - Code de procédure pénale - art. 28-2
@@ -25989,17 +25992,17 @@ préfet.
 	  - Code des douanes - art. 67 quater
 	  - Code du travail - art. L5312-1
 	  - Code du travail - art. L5411-4
-	  - Code du travail - art. L8113-7 (V)
+	  - Code du travail - art. L8113-7
 	  - Code du travail - art. L8251-1
-	  - Code du travail - art. L8271-17 (V)
+	  - Code du travail - art. L8271-17
 	  - Code du travail - art. L8271-19
-	  - Code de la sécurité sociale. - art. L115-6 (V)
-	  - Code de la sécurité sociale. - art. L161-16-1 (V)
-	  - Code de la sécurité sociale. - art. L161-18-1 (V)
-	  - Code de la sécurité sociale. - art. L161-25-1 (V)
-	  - Code de la sécurité sociale. - art. L512-2 (V)
-	  - Code de la sécurité sociale. - art. L831-1 (VT)
-	  - Code de l'action sociale et des familles - art. L262-4 (V)
+	  - Code de la sécurité sociale. - art. L115-6
+	  - Code de la sécurité sociale. - art. L161-16-1
+	  - Code de la sécurité sociale. - art. L161-18-1
+	  - Code de la sécurité sociale. - art. L161-25-1
+	  - Code de la sécurité sociale. - art. L512-2
+	  - Code de la sécurité sociale. - art. L831-1
+	  - Code de l'action sociale et des familles - art. L262-4
 
 	**Cité par**:
 
@@ -26011,7 +26014,7 @@ préfet.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1082 du 29 novembre 2013 - art. 7
+	  - Décret n°2014-524 du 22 mai 2014 - art. 20
 
 
 ###### Article R611-6
