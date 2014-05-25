@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-05-25
+Version Consolidée au 2014-05-26
 
 # Partie législative
 
@@ -29,18 +29,17 @@ aient une nationalité étrangère, soit qu'elles n'aient pas de nationalité.
 
 ###### Article L111-2
 
-Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, dans les départements d'outre-mer, à
-Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin. 
+Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, en Guadeloupe, en Guyane, en Martinique,
+à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin. 
 
 Il régit l'exercice du droit d'asile sur l'ensemble du territoire de la République. 
 
 Ses dispositions s'appliquent sous réserve des conventions internationales. 
 
-Les conditions d'entrée et de séjour des étrangers à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, en
-Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après
-énumérés : 
+Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-
+Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés : 
 
-1° Ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte ; 
+1° Abrogé ;
 
 2° Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis
 et Futuna ; 
@@ -58,7 +57,6 @@ Calédonie ;
 	**Cite**:
 
 	  - Loi n°71-569 du 15 juillet 1971
-	  - Ordonnance n°2000-373 du 26 avril 2000
 	  - Ordonnance n°2000-372 du 26 avril 2000
 	  - Ordonnance n°2000-371 du 26 avril 2000
 	  - Ordonnance n°2002-388 du 20 mars 2002
@@ -68,10 +66,6 @@ Calédonie ;
 	  - Ordonnance n°2004-1248 du 24 novembre 2004
 	  - Loi n°2006-911 du 24 juillet 2006
 
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 101
-
 	**Cité par**:
 
 	  - Arrêté du 26 juillet 2011 - art. Annexe II (V)
@@ -79,11 +73,16 @@ Calédonie ;
 	  - Arrêté du 4 février 2015 - art. Annexe II (V)
 	  - Arrêté du 11 mars 2016 - art. 1
 
+	**Modifié par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 1
+
 
 ###### Article L111-3
 
-Au sens des dispositions du présent code, l'expression "en France" s'entend de la France métropolitaine, des départements
-d'outre-mer, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin.
+Au sens des dispositions du présent code, l'expression " en France " s'entend de la France métropolitaine,      de la
+Guadeloupe, de la Guyane, de la Martinique, de Mayotte, de La Réunion, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de
+Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -98,7 +97,7 @@ d'outre-mer, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Marti
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 102
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 2
 
 	**Cité par**:
 
@@ -358,12 +357,10 @@ l'immigration et de l'intégration joignent leurs observations au rapport.
 
 ###### Article L111-11
 
-En Guadeloupe, en Martinique, en Guyane et à La Réunion, un observatoire de l'immigration évalue l'application de la
-politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
+En Guadeloupe, en Martinique, en Guyane, à Mayotte et à La Réunion, un observatoire de l'immigration évalue l'application de
+la politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
 
-Cet observatoire est convoqué par le représentant de l'Etat dans la région d'outre-mer dans un délai de six mois à compter de
-la publication de la loi n° 2007-1631 du 20 novembre 2007 relative à la maîtrise de l'immigration, à l'intégration et à
-l'asile. Il se réunit une fois par semestre.
+Il se réunit une fois par semestre.
 
 Chaque observatoire peut proposer au Gouvernement les mesures d'adaptation rendues nécessaires par les caractéristiques et
 contraintes particulières de ces collectivités.
@@ -375,12 +372,8 @@ des milieux économiques et sociaux du département d'outre-mer concerné.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 51 () JORF 21 novembre 2007
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Cité par**:
 
@@ -388,6 +381,10 @@ des milieux économiques et sociaux du département d'outre-mer concerné.
 	  - Décret n°2015-1016 du 18 août 2015 (V)
 	  - Décret n°2015-1016 du 18 août 2015 - art. 1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 3
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES AINSI QUE SEJOUR DES MEMBRES DE LEUR FAMILLE
@@ -872,7 +869,8 @@ de sa connaissance de la langue et des valeurs de la République. La délivrance
 attestation de suivi de cette formation. Cette attestation est délivrée immédiatement à l'issue de la formation. Un décret en
 Conseil d'Etat fixe les conditions d'application de ces dispositions, notamment le délai maximum dans lequel l'évaluation et
 la formation doivent être proposées, le contenu de l'évaluation et de la formation, le nombre d'heures minimum que la
-formation doit compter ainsi que les motifs légitimes pour lesquels l'étranger peut en être dispensé. 
+formation doit compter ainsi que les motifs légitimes pour lesquels l'étranger peut en être dispensé. Le présent alinéa n'est
+pas applicable aux conjoints de Français sollicitant un visa pour Mayotte.
 
 Lorsque la demande de visa émane d'un étranger dont le conjoint de nationalité française établi hors de France souhaite
 établir sa résidence habituelle en France pour des raisons professionnelles, les dispositions du deuxième alinéa ne sont pas
@@ -897,12 +895,8 @@ séjour d'une durée supérieure à trois mois au conjoint d'un ressortissant fr
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 10 () JORF 21 novembre 2007
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Cité par**:
 
@@ -918,9 +912,13 @@ séjour d'une durée supérieure à trois mois au conjoint d'un ressortissant fr
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-4 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 4
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VD)
 
 
 ###### Article L211-2-2
@@ -1262,13 +1260,13 @@ Tout refus d'entrée en France fait l'objet d'une décision écrite motivée pri
 relevant d'une catégorie fixée par voie réglementaire. 
 
 Cette décision est notifiée à l'intéressé avec mention de son droit d'avertir ou de faire avertir la personne chez laquelle
-il a indiqué qu'il devait se rendre, son consulat ou le conseil de son choix, et de refuser d'être rapatrié avant
-l'expiration du délai d'un jour franc. En cas de demande d'asile, la décision mentionne également son droit d'introduire un
-recours en annulation sur le fondement de l'article L. 213-9 et précise les voies et délais de ce recours. La décision et la
-notification des droits qui l'accompagne doivent lui être communiquées dans une langue qu'il comprend. L'étranger est invité
-à indiquer sur la notification s'il souhaite bénéficier du jour franc. 
+il a indiqué qu'il devait se rendre, son consulat ou le conseil de son choix, et, sauf à Mayotte, de refuser d'être rapatrié
+avant l'expiration du délai d'un jour franc. En cas de demande d'asile, la décision mentionne également son droit
+d'introduire un recours en annulation sur le fondement de l'article L. 213-9 et précise les voies et délais de ce recours. La
+décision et la notification des droits qui l'accompagne doivent lui être communiquées dans une langue qu'il comprend.
+L'étranger est invité à indiquer sur la notification s'il souhaite bénéficier du jour franc. 
 
-Lorsque l'étranger ne parle pas le français, il est fait application de l'article L. 111-7.
+Lorsque l'étranger ne parle pas le français, il est fait application de l'article L. 111-7. 
 
 La décision prononçant le refus d'entrée peut être exécutée d'office par l'administration.
 
@@ -1276,29 +1274,27 @@ La décision prononçant le refus d'entrée peut être exécutée d'office par l
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 5, al. 15
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5 (M)
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 23 () JORF 21 novembre 2007
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (V)
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R213-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-9
 
 
 ###### Article L213-3
@@ -1619,6 +1615,29 @@ des zones d'attente, soit des zones de rétention mentionnées à l'article L. 5
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+
+
+###### Article L221-2-1
+
+Le dernier alinéa de l'article L. 221-2 n'est pas applicable à Mayotte pendant cinq ans à compter de la publication de
+l'ordonnance n° 2014-464 du 7 mai 2014 portant extension et adaptation à Mayotte du code de l'entrée et du séjour des
+étrangers et du droit d'asile (partie législative). 
+
+Lorsque le lieu d'hébergement prévu à l'article L. 221-2 est un lieu de rétention tel que mentionné à l'article L. 551-1, les
+étrangers maintenus en zone d'attente et les étrangers placés en rétention administrative dans le même lieu demeurent régis
+respectivement par les dispositions des livres II et V.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L221-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 6
 
 
 ###### Article L221-3
@@ -2557,6 +2576,21 @@ Les conditions d'application de ces dispositions sont fixées par décret en Con
 	  - Code de l'action sociale et des familles - art. L222-4-1
 
 
+###### Article L311-9-2
+
+La présente section n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 61
+
+
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
 
 ###### Article L311-10
@@ -2981,18 +3015,18 @@ commission, un récépissé valant autorisation provisoire de séjour jusqu'à c
 
 ###### Article L312-3
 
-Les dispositions du présent chapitre ne sont pas applicables en Guyane ni dans la commune de Saint-Martin (Guadeloupe).
+Les dispositions du présent chapitre ne sont pas applicables en Guyane, à Mayotte et à Saint-Martin.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 12 quater, al. 13
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 8
 
 
 #### Chapitre III : La carte de séjour temporaire
@@ -3765,8 +3799,10 @@ autorisés à séjourner en France au titre du regroupement familial dans les co
 
 2° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, qui
 justifie par tout moyen avoir résidé habituellement en France avec au moins un de ses parents légitimes, naturels ou adoptifs
-depuis qu'il a atteint au plus l'âge de treize ans, la filiation étant établie dans les conditions prévues à l'article L.
-314-11 ; la condition prévue à l'article L. 311-7 n'est pas exigée ; 
+depuis qu'il a atteint au plus l'âge de treize ans ou, à Mayotte, depuis qu'il a atteint au plus l'âge de treize ans, avec au
+moins un de ses parents légitimes, naturels ou adoptifs titulaire de la carte de séjour temporaire ou de la carte de
+résident, la filiation étant établie dans les conditions prévues à l'article L. 314-11 ; la condition prévue à l'article L.
+311-7 n'est pas exigée ; 
 
 2° bis A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
 qui a été confié, depuis qu'il a atteint au plus l'âge de seize ans, au service de l'aide sociale à l'enfance et sous réserve
@@ -3789,7 +3825,7 @@ séjour est renouvelée dès lors que son titulaire continue à remplir les cond
 communauté de vie n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le
 mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ; 
 
-5° (Alinéa abrogé) ;
+5° (Alinéa abrogé) ; 
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à la
 condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
@@ -3841,7 +3877,7 @@ commission médicale régionale dont la composition est fixée par décret en Co
 	  - Arrêté du 5 janvier 2017 - art. 1 (V)
 	  - Arrêté du 5 janvier 2017 - art. 4 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-12 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
@@ -3897,12 +3933,12 @@ commission médicale régionale dont la composition est fixée par décret en Co
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 18
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
 	  - Code civil - art. 371-2
 
 
@@ -4159,6 +4195,17 @@ dans la société française. Le respect de la condition prévue à l'article L.
 	**Cité par**:
 
 	  - Code du travail - art. R5221-22 (V)
+
+
+###### Article L313-16
+
+La présente sous-section n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 10
 
 
 #### Chapitre IV : La carte de résident
@@ -4689,7 +4736,10 @@ lorsqu'elle a été prononcée à l'étranger ;
 3° A l'étranger marié depuis au moins trois ans avec un ressortissant de nationalité française, à condition qu'il séjourne
 régulièrement en France, que la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que le conjoint ait
 conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement
-sur les registres de l'état civil français.
+sur les registres de l'état civil français. 
+
+Pour l'application des 2° et 3° du présent article à Mayotte, la condition prévue dans la dernière phrase du premier alinéa
+de l'article L. 314-8 s'applique.
 
 **Liens relatifs à cet article**
 
@@ -4718,11 +4768,11 @@ sur les registres de l'état civil français.
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 29
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 11
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 
 
 ###### Article L314-10
@@ -5609,6 +5659,17 @@ décret.
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
+###### Article L331-2
+
+Le présent titre n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 12
+
+
 ## LIVRE IV : LE REGROUPEMENT FAMILIAL
 
 ### TITRE Ier : CONDITIONS DU REGROUPEMENT FAMILIAL
@@ -6129,8 +6190,11 @@ d'office.
 
 II. ― Pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, l'étranger dispose d'un délai de
 trente jours à compter de sa notification et peut solliciter, à cet effet, un dispositif d'aide au retour dans son pays
-d'origine. Eu égard à la situation personnelle de l'étranger, l'autorité administrative peut accorder, à titre exceptionnel,
-un délai de départ volontaire supérieur à trente jours. 
+d'origine. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour mais, dans des circonstances exceptionnelles et sous
+réserve de l'existence d'un projet économique viable, d'une aide à la réinsertion économique , ou, s'il est accompagné d'un
+ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des conditions définies par arrêté du ministre de l'intérieur
+et du ministre chargé des outre-mer. Eu égard à la situation personnelle de l'étranger, l'autorité administrative peut
+accorder, à titre exceptionnel, un délai de départ volontaire supérieur à trente jours. 
 
 Toutefois, l'autorité administrative peut, par une décision motivée, décider que l'étranger est obligé de quitter sans délai
 le territoire français : 
@@ -6260,13 +6324,13 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22 a fixé la date d'entrée 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 37
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 13
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ###### Article L511-2
@@ -6736,12 +6800,14 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 ###### Article L512-5
 
 L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
-dans son pays d'origine, sauf s'il a été placé en rétention.
+dans son pays d'origine, sauf s'il a été placé en rétention. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour
+mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la
+réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des
+conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer.
 
 **Nota:**
 
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
 
 **Liens relatifs à cet article**
 
@@ -6752,7 +6818,7 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 13
 
 	**Cité par**:
 
@@ -6951,9 +7017,12 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
 
+#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin
+
 ###### Article L514-1
 
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes : 
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane, à Mayotte et à Saint-Martin, les dispositions
+suivantes : 
 
 1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
 exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
@@ -6962,13 +7031,7 @@ exécution avant l'expiration du délai d'un jour franc à compter de la notific
 territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
 son exécution. 
 
-En conséquence, les dispositions des articles L. 512-1, L. 512-3 et L. 512-4 ne sont pas applicables en Guyane ni à Saint-
-Martin.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+En conséquence, les dispositions des articles L. 512-1, L. 512-3 et L. 512-4 ne sont pas applicables dans ces collectivités.
 
 **Liens relatifs à cet article**
 
@@ -6979,7 +7042,7 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 104
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 14
 
 	**Cité par**:
 
@@ -7317,6 +7380,26 @@ l'a prolongé, du délai supplémentaire qu'elle a fixé, les formalités de con
 	**Modifié par**:
 
 	  - Loi n°2012-1432 du 21 décembre 2012 - art. 9
+
+
+###### Article L522-3
+
+Lorsque la présence simultanée à Mayotte des magistrats membres de la commission prévue à l'article L. 522-1, ou de leurs
+remplaçants, n'est pas matériellement possible, le ou les magistrats empêchés peuvent assister à l'audition de l'étranger
+depuis un autre point du territoire de la République, ce dernier se trouvant relié, en direct, par un moyen de communication
+audiovisuelle, à la salle dans laquelle siège la commission, où doit être présent au moins un magistrat. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 15
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L522-1 (V)
 
 
 #### Chapitre III : Exécution des arrêtés d'expulsion
@@ -9321,28 +9404,19 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 ###### Article L571-2
 
 Sont applicables sur le territoire défini à l'article L. 111-3 les mesures d'interdiction du territoire prononcées par toute
-juridiction siégeant à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les
-mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat à Mayotte, dans les îles Wallis
-et Futuna, en Polynésie française et en Nouvelle-Calédonie.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+juridiction siégeant dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les mesures de
+reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat dans les îles Wallis et Futuna, en
+Polynésie française et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 47
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-3
 
 
 ###### Article L571-3
@@ -9876,8 +9950,8 @@ de Saint-Georges et de Régina et sur la route départementale 6 et la route nat
 Les articles L. 611-8 et L. 611-9 sont applicables en Guadeloupe dans une zone comprise entre le littoral et une ligne tracée
 à un kilomètre en deçà, ainsi que sur les routes nationales 1 et 4. 
 
-Il en est de même à Saint-Barthélemy et Saint-Martin dans une zone comprise entre le littoral et une ligne tracée à un
-kilomètre en deçà.
+Il en est de même à Mayotte, à Saint-Barthélemy et à Saint-Martin dans une zone comprise entre le littoral et une ligne
+tracée à un kilomètre en deçà.
 
 **Liens relatifs à cet article**
 
@@ -9888,7 +9962,7 @@ kilomètre en deçà.
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 105
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 17
 
 	**Cite**:
 
@@ -9912,13 +9986,13 @@ de même lorsque l'étranger fait l'objet d'un signalement aux fins de non-admis
 prise par un autre Etat partie à la convention signée à Schengen le 19 juin 1990 ; 
 
 2° Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il est entré sur le territoire
-métropolitain sans se conformer aux stipulations de ses articles 19, paragraphe 1 ou 2,20, paragraphe 1, et 21, paragraphe 1
+métropolitain sans se conformer aux stipulations de ses articles 19, paragraphe 1 ou 2, 20, paragraphe 1, et 21, paragraphe 1
 ou 2, à l'exception des conditions mentionnées au point e du paragraphe 1 de l'article 5 du règlement (CE) n° 562/2006 du
 Parlement européen et du Conseil, du 15 mars 2006, précité et au point d lorsque le signalement aux fins de non-admission ne
 résulte pas d'une décision exécutoire prise par un autre Etat partie à la convention ; 
 
-3° Ou s'il a pénétré en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin ou à Saint-
-Pierre-et-Miquelon sans se conformer à l'article L. 211-1 du présent code. 
+3° Ou s'il a pénétré en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin ou
+à Saint-Pierre-et-Miquelon sans se conformer à l'article L. 211-1 du présent code. 
 
 La juridiction peut, en outre, interdire à l'étranger condamné, pendant une durée qui ne peut excéder trois ans, de pénétrer
 ou de séjourner en France. L'interdiction du territoire emporte de plein droit reconduite du condamné à la frontière, le cas
@@ -9941,7 +10015,7 @@ constatés dans les circonstances prévues à l'article 53 du code de procédure
 
 	**Modifié par**:
 
-	  - Loi n°2012-1560 du 31 décembre 2012 - art. 8
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 18
 
 	**Cite**:
 
@@ -12357,87 +12431,6 @@ alinéa de l'article L. 723-1.
 
 ### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.
-
-###### Article L761-1
-
-Le présent livre est applicable à Mayotte sous réserve des adaptations suivantes :
-
-1° A l'article L. 741-1, les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " à Mayotte
-" ;
-
-2° A l'article L. 741-2, les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " à Mayotte " ;
-
-3° A l'article L. 741-3, les mots : " visas mentionnés à l'article L. 211-1 " sont remplacés par les mots : " visas requis
-par l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte " ;
-
-4° A l'article L. 741-4 :
-
-a) Dans le premier alinéa les mots : " en France " sont remplacés par les mots : " à Mayotte " ;
-
-b) Le 1° n'est pas applicable ;
-
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-
-" sur le territoire de la République " ;
-
-5° A l'article L. 742-1, les mots : " en France " sont remplacés par les mots : " à Mayotte " ;
-
-6° A l'article L. 742-3, les mots : " en France " sont remplacés par les mots : " à Mayotte " et les mots : " le territoire
-français " sont remplacés par le mot : " Mayotte " ;
-
-7° A l'article L. 742-6 :
-
-a) Les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " à Mayotte " ;
-
-b) Les mots : " mentionnée au livre V du présent code " sont remplacés par les mots : " prise en application de l'ordonnance
-n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte " ;
-
-c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
-
-" Si l'office décide d'entendre le demandeur d'asile hors de Mayotte, celui-ci reçoit les autorisations nécessaires. "
-
-d) La dernière phrase est ainsi rédigée :
-
-" Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-373 du 26 avril 2000 relative
-aux conditions d'entrée et de séjour des étrangers à Mayotte ou la carte de séjour temporaire prévue par l'article 17 de
-cette ordonnance. " ;
-
-8° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par le mot : " Mayotte " ;
-
-9° A l'article L. 751-1, les mots : " sur le territoire français " sont remplacés par les mots : " à Mayotte ".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-893 du 25 juillet 1952 - art. 17 (M)
-	  - Loi n°52-893 du 25 juillet 1952 - art. 17 (Ab)
-
-	**Cite**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 17 (VT)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-3
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-6
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-7
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 19
-
-
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
 
 ###### Article L762-1
@@ -13197,6 +13190,10 @@ lesquelles les agents de sécurité privée investis des missions qu'il prévoit
 
 #### Chapitre unique.
 
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER
+
+#### Chapitre Ier : Saint-Pierre-et-Miquelon
+
 ###### Article L831-1
 
 Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, les termes : " département ", " conseil
@@ -13214,6 +13211,106 @@ supérieur d'appel ".
 	**Modifié par**:
 
 	  - Loi n°2007-1631 du 20 novembre 2007 - art. 56 () JORF 21 novembre 2007
+
+
+#### Chapitre II : Mayotte
+
+###### Article L832-1
+
+Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
+
+1° Aux articles L. 313-4-1, L. 311-15, L. 313-10 (5°), L. 313-11-1, L. 314-8 et L. 411-5, les mots : " salaire minimum de
+croissance " sont remplacés par les mots : " salaire minimum interprofessionnel garanti " ; 
+
+2° Au deuxième alinéa de l'article L. 313-5, la référence à l'article L. 341-4 du code du travail est remplacée par la
+référence à l'article L. 330-3 du code du travail applicable à Mayotte ; 
+
+3° A l'article L. 313-10, la référence au 3° de l'article L. 122-1-1 du code du travail est remplacée par la référence au 2°
+de l'article L. 122-2 du code du travail applicable à Mayotte ; 
+
+4° Au 5° de l'article L. 313-10, la référence au 2° du I de l'article L. 342-1 du code du travail est remplacée par la
+référence à l'article L. 330-4 du code du travail applicable à Mayotte ; 
+
+5° A l'article L. 322-1, les références aux articles L. 1261-1, L. 5221-1 à L. 5221-3, L. 5221-5, L. 5221-7, L. 5523-1 à L.
+5523-3 et L. 8323-2 du code du travail sont remplacées par les références aux articles L. 330-1 à L. 330-4 du code du travail
+applicable à Mayotte ; 
+
+6° Au quatrième alinéa de l'article L. 121-2, à l'article L. 311-11 et aux 1°, 3° et 5° de l'article L. 313-10, la référence
+à l'article L. 341-2 du code du travail est remplacée par la référence à l'article L. 330-2 du code du travail applicable à
+Mayotte ; 
+
+7° A l'article L. 322-1 et au 2° de l'article L. 533-1, les références aux articles L. 5523-2, L. 5523-3, L. 5221-5 et L.
+5221-7 du code du travail sont remplacées par les références à l'article L. 330-3 du code du travail applicable à Mayotte ; 
+
+8° Au premier alinéa de l'article L. 311-15, la référence au titre VI du livre II de la première partie du code du travail
+est remplacée par la référence à l'article L. 330-4 du code du travail applicable à Mayotte ; 
+
+9° Au second alinéa de l'article L. 313-5 et au premier alinéa de l'article L. 314-6, la référence à l'article L. 341-6 du
+code du travail est remplacée par la référence à l'article L. 330-5 du code du travail applicable à Mayotte ; 
+
+10° Au premier alinéa de l'article L. 626-1, la référence à l'article L. 8253-1 est remplacée par la référence à l'article L.
+330-11 du code du travail applicable à Mayotte ; 
+
+11° Au deuxième alinéa de l'article L. 626-1, les références aux articles L. 8256-7 et L. 8256-8 du code du travail sont
+remplacées par la référence à l'article L. 342-6 du code du travail applicable à Mayotte ; 
+
+12° Aux articles L. 313-4-1 et L. 313-11-1, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée
+par la référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
+
+13° A l'article L. 411-5, la référence à l'article L. 821-1 du code de la sécurité sociale est remplacée par la référence à
+l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
+
+14° Aux articles L. 222-6, L. 552-9 et L. 552-10, la référence à la " cour d'appel " est remplacée par la référence à la "
+chambre d'appel de Mamoudzou ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 20
+
+
+###### Article L832-2
+
+Sans préjudice des dispositions des articles L. 121-1 et L. 121-3, les titres de séjour délivrés par le représentant de
+l'Etat à Mayotte, à l'exception des titres délivrés en application des dispositions des articles L. 121-3, L. 313-4-1, L.
+313-8, du 6° de l'article L. 313-10, de l'article L. 313-13 et du chapitre IV du titre Ier du livre III, n'autorisent le
+séjour que sur le territoire de Mayotte. 
+
+Les ressortissants de pays figurant sur la liste, annexée au règlement (CE) n° 539/2001 du Conseil du 15 mars 2001 des pays
+tiers dont les ressortissants sont soumis à l'obligation de visa pour franchir les frontières extérieures des Etats membres,
+qui résident régulièrement à Mayotte sous couvert d'un titre de séjour n'autorisant que le séjour à Mayotte et qui souhaitent
+se rendre dans un autre département doivent obtenir un visa. Ce visa est délivré, pour une durée et dans des conditions
+définies par décret en Conseil d'Etat, par le représentant de l'Etat à Mayotte après avis du représentant de l'Etat dans le
+département où ils se rendent, en tenant compte notamment du risque de maintien irrégulier des intéressés hors du territoire
+de Mayotte et des considérations d'ordre public. 
+
+Le visa mentionné au présent article est délivré de plein droit à l'étranger qui demande l'asile lorsqu'il est convoqué par
+l'Office français de protection des réfugiés et des apatrides pour être entendu. 
+
+Les conjoints, partenaires liés par un pacte civil de solidarité, descendants directs âgés de moins de vingt et un ans ou à
+charge et ascendants directs à charge des citoyens français bénéficiant des dispositions du traité sur le fonctionnement de
+l'Union européenne relatives aux libertés de circulation sont dispensés de l'obligation de solliciter le visa mentionné au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 20
+
+	**Cité par**:
+
+	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
 
 
 ## LIVRE IX : LE CODÉVELOPPEMENT
@@ -15566,13 +15663,13 @@ susceptibles d'être engagées pendant toute la durée du séjour en France.
 ###### Article R211-30
 
 Les documents relatifs aux garanties de son rapatriement doivent permettre à l'étranger qui pénètre en France d'assumer les
-frais afférents à son retour du lieu, situé sur le territoire métropolitain ou dans un département d'outre-mer, où il a
-l'intention de se rendre, jusqu'au pays de sa résidence habituelle.
+frais afférents à son retour du lieu, situé sur le territoire métropolitain ou en Guadeloupe, en Guyane, en Martinique, à
+Mayotte et à La Réunion, où il a l'intention de se rendre jusqu'au pays de sa résidence habituelle. 
 
 La validité des garanties de son rapatriement est appréciée par rapport à la durée et au lieu de séjour principal choisi par
 l'étranger. En cas de modification notable de ce lieu de séjour principal et lorsque, de ce fait, les garanties initialement
 constituées s'avèrent manifestement insuffisantes pour couvrir les dépenses de rapatriement, l'intéressé se munit de nouveaux
-documents garantissant la prise en charge des frais de retour vers le pays de sa résidence habituelle.
+documents garantissant la prise en charge des frais de retour vers le pays de sa résidence habituelle. 
 
 L'étranger doit être en possession des documents relatifs aux garanties de son rapatriement pendant la durée de son séjour.
 Cette obligation est levée lorsque l'étranger obtient la délivrance d'un titre de séjour dont la durée de validité est au
@@ -15583,7 +15680,11 @@ mettre fin à cette obligation.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 1
 
 
 ###### Article R211-31
@@ -16700,7 +16801,10 @@ délivrer le certificat médical mentionné au 4° de l'article R. 313-1. L'Offi
 atteste de l'accomplissement de ces formalités selon des modalités fixées par arrêté ministériel. La délivrance d'un titre de
 séjour par le préfet du département de résidence de l'étranger autorisé à séjourner en France sous couvert d'un titre de
 voyage revêtu du visa requis pour un séjour d'une durée supérieure à trois mois et au plus égale à un an est subordonnée à la
-présentation de l'attestation remise par l'Office français de l'immigration et de l'intégration. 
+présentation de l'attestation remise par l'Office français de l'immigration et de l'intégration.
+
+A Mayotte, la condition tenant aux formalités accomplies auprès de l'Office français de l'immigration et de l'intégration en
+vertu de l'alinéa précédent n'est pas exigible. 
 
 Les étrangers mentionnés aux 4°, 5°, 6°, 7°, 9°, 10° et 11° qui souhaitent se maintenir en France au-delà des limites de
 durée susmentionnées sollicitent une carte de séjour temporaire dans le courant des deux derniers mois précédant l'expiration
@@ -16749,7 +16853,7 @@ la publication du présent décret au Journal officiel de la République frança
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 31
+	  - Décret n°2014-527 du 23 mai 2014 - art. 2
 
 	**Cite**:
 
@@ -18238,6 +18342,21 @@ préfet informé des suites qu'il a données à sa saisine.
 	  - Code de la sécurité sociale. - art. R513-3
 
 
+###### Article R311-30-16
+
+La présente section n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
+
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
 
 ###### Article D311-33
@@ -19663,21 +19782,27 @@ justification qu'il remplit les conditions fixées au titre Ier du livre IV.
 ###### Article R313-20-1
 
 Pour l'application du 2° de l'article L. 313-11, l'étranger doit en outre présenter les pièces justificatives de l'état civil
-de son ou de ses parents.
+de son ou de ses parents. 
+
+A Mayotte, il doit également présenter le titre de séjour de l'un de ses parents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 21 () JORF 22 mars 2007
+	  - Décret n°2014-527 du 23 mai 2014 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 
 
 ###### Article R313-20-2
@@ -21818,14 +21943,19 @@ contenant les données à caractère personnel énumérées au B de la section 3
 
 ###### Article R322-1
 
-L'exercice par un étranger d'une activité professionnelle salariée en France métropolitaine et dans les départements d'outre-
-mer est autorisé dans les conditions définies par les articles R. 341-1 à R. 341-7-2 du code du travail.
+L'exercice par un étranger d'une activité professionnelle salariée en France métropolitaine et       en Guadeloupe, en
+Guyane, en Martinique, à Mayotte et à La Réunion est autorisé dans les conditions définies par les articles R. 341-1 à R.
+341-7-2 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 1
 
 	**Cité par**:
 
@@ -21833,7 +21963,7 @@ mer est autorisé dans les conditions définies par les articles R. 341-1 à R. 
 
 	**Cite**:
 
-	  - Code du travail R341-1 à R341-7-2
+	  - Code du travail
 
 
 ###### Article R322-2
@@ -22259,7 +22389,7 @@ montant équivalent à :
 
 ###### Article R411-5
 
-Pour l'application du 2° de l'article L. 411-5, est considéré comme normal un logement qui :
+Pour l'application du 2° de l'article L. 411-5, est considéré comme normal un logement qui : 
 
 1° Présente une superficie habitable totale au moins égale à :
 
@@ -22270,32 +22400,43 @@ de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 
 - en zone C : 28 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
-de 5 m2 par personne supplémentaire au-delà de huit personnes.
+de 5 m2 par personne supplémentaire au-delà de huit personnes. 
 
 Les zones A, B et C ci-dessus sont celles définies pour l'application du 1er alinéa du j du 1° du I de l'article 31 du code
-général des impôts ;
+général des impôts ; 
 
 2° Satisfait aux conditions de salubrité et d'équipement fixées aux articles 2 et 3 du décret n° 2002-120 du 30 janvier 2002
 relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13
-décembre 2000 relative à la solidarité et au renouvellement urbain.
+décembre 2000 relative à la solidarité et au renouvellement urbain. 
+
+Pour l'application du 2° de l'article L. 411-5 à Mayotte et pour une période de cinq ans à compter de la publication du
+décret n° 2014-527 du 23 mai 2014 portant modification du code de l'entrée et du séjour des étrangers et du droit d'asile
+(partie réglementaire) en ce qui concerne Mayotte, Wallis-et-Futuna, la Polynésie française et la Nouvelle-Calédonie, est
+considéré comme normal un logement qui : 
+
+1° Présente une surface habitable totale au moins égale à 14 m2 pour un ménage sans enfant ou deux personnes, augmentée de 5
+m2 par personne supplémentaire ; 
+
+2° Satisfait aux conditions de salubrité et d'équipement fixées aux articles 2 et 3 du décret n° 2002-120 du 30 janvier 2002
+relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13
+décembre 2000 relative à la solidarité et au renouvellement urbain, dans sa version applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 31
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 187 ()
-	  - Décret n°2002-120 du 30 janvier 2002 - art. 2, v. init.
-	  - Décret n°2002-120 du 30 janvier 2002 - art. 3, v. init.
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-5 (M)
+	  - Décret n°2002-120 du 30 janvier 2002
+	  - Décret n°2014-527 du 23 mai 2014
+	  - Code général des impôts, CGI. - art. 31
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-5
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+	  - Décret n°2014-527 du 23 mai 2014 - art. 5
 
 	**Cité par**:
 
@@ -23294,17 +23435,22 @@ accomplissement des formalités prévues à l'article L. 522-1, est le préfet d
 
 ###### Article R522-3
 
-Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus à l'article R.* 522-2 est le préfet.
+En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article R.
+* 522-2 est le préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R522-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*522-2
 
 
 ###### Article R522-4
@@ -23536,17 +23682,22 @@ arrêté d'expulsion pris en application de l'article L. 521-1, après accomplis
 
 ###### Article R523-3
 
-Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus à l'article R.* 523-2 est le préfet.
+En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article R.
+* 523-2 est le préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*523-2
 
 
 ##### Section 2 : Assignation à résidence
@@ -23600,13 +23751,18 @@ formalités prévues à l'article L. 522-1.
 
 ###### Article R523-6
 
-Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus à l'article R.* 523-5 est le préfet.
+En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article R.
+* 523-5 est le préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 1
 
 	**Cité par**:
 
@@ -23614,7 +23770,7 @@ Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*523-5
 
 
 #### Chapitre IV : Abrogation des arrêtés d'expulsion
@@ -24137,12 +24293,14 @@ jusqu'au terme de la procédure engagée quel que soit le lieu où l'étranger e
 
 Lorsqu'en raison de circonstances particulières, notamment de temps ou de lieu, des étrangers mentionnés à l'article R. 551-2
 ne peuvent être placés immédiatement dans un centre de rétention administrative, le préfet peut les placer dans des locaux
-adaptés à cette fin, dénommés " locaux de rétention administrative " régis par les articles R. 553-5 et R. 553-6. 
+adaptés à cette fin, dénommés " locaux de rétention administrative " régis par les articles R. 553-5 et R. 553-6.
 
-Les étrangers peuvent être maintenus dans ces locaux pendant une durée n'excédant pas 48 heures. Toutefois, en cas de recours
-contre la mesure d'éloignement ou le placement en rétention administrative sur lequel il doit être statué dans les délais
-prévus au III de l'article L. 512-1, s'il n'y a pas de centre de rétention administrative dans le ressort du tribunal
-administratif, l'étranger peut être maintenu dans le local jusqu'à ce qu'il ait été statué sur le recours.
+Les étrangers peuvent être maintenus dans ces locaux pendant une durée n'excédant pas quarante-huit heures. Toutefois, en cas
+de recours contre la mesure d'éloignement ou le placement en rétention administrative sur lequel il doit être statué dans les
+délais prévus au III de l'article L. 512-1, s'il n'y a pas de centre de rétention administrative dans le ressort du tribunal
+administratif, l'étranger peut être maintenu dans le local jusqu'à ce qu'il ait été statué sur le recours. 
+
+A Mayotte, les étrangers peuvent être maintenus dans ces locaux pendant une durée n'excédant pas vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -24152,7 +24310,7 @@ administratif, l'étranger peut être maintenu dans le local jusqu'à ce qu'il a
 
 	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 13
+	  - Décret n°2014-527 du 23 mai 2014 - art. 7
 
 	**Cité par**:
 
@@ -24164,7 +24322,6 @@ administratif, l'étranger peut être maintenu dans le local jusqu'à ce qu'il a
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-6
 
 
 ###### Article R551-4
@@ -24792,58 +24949,89 @@ Le chef de centre est responsable de l'ordre et de la sécurité du centre et de
 
 ###### Article R553-3
 
-Les centres de rétention administrative, dont la capacité d'accueil ne pourra pas dépasser 140 places, offrent aux étrangers
-retenus des équipements de type hôtelier et des prestations de restauration collective. Ils répondent aux normes suivantes :
+Les centres de rétention administrative, dont la capacité d'accueil ne pourra pas dépasser cent quarante places, offrent aux
+étrangers retenus des équipements de type hôtelier et des prestations de restauration collective. Ils répondent aux normes
+suivantes : 
 
-1° Une surface utile minimum de 10 mètres carrés par retenu comprenant les chambres et les espaces librement accessibles aux
-heures ouvrables ;
+1° Une surface utile minimum de dix mètres carrés par retenu comprenant les chambres et les espaces librement accessibles aux
+heures ouvrables ; 
 
-2° Des chambres collectives non mixtes, contenant au maximum six personnes ;
+2° Des chambres collectives non mixtes, contenant au maximum six personnes ; 
 
 3° Des équipements sanitaires, comprenant des lavabos, douches et w.-c., en libre accès et en nombre suffisant, soit un bloc
-sanitaire pour 10 retenus ;
+sanitaire pour dix retenus ; 
 
-4° Un téléphone en libre accès pour cinquante retenus ;
+4° Un téléphone en libre accès pour cinquante retenus ; 
 
 5° Des locaux et matériels nécessaires à la restauration conformes aux normes prévues par un arrêté conjoint du ministre de
 l'agriculture, du ministre de la défense, du ministre chargé de la santé et du ministre chargé des petites et moyennes
-entreprises, du commerce et de l'artisanat ;
+entreprises, du commerce et de l'artisanat ; 
 
 6° Au-delà de quarante personnes retenues, une salle de loisirs et de détente distincte du réfectoire, dont la superficie est
-d'au moins 50 mètres carrés, majorée de 10 mètres carrés pour quinze retenus supplémentaires ;
+d'au moins cinquante mètres carrés, majorée de dix  mètres carrés pour quinze retenus supplémentaires ; 
 
-7° Une ou plusieurs salles dotées d'équipement médical, réservées au service médical ;
+7° Une ou plusieurs salles dotées d'équipement médical, réservées au service médical ; 
 
-8° Un local permettant de recevoir les visites des familles et des autorités consulaires ;
+8° Un local permettant de recevoir les visites des familles et des autorités consulaires ; 
 
-9° Le local mentionné à l'article R. 553-7, réservé aux avocats ;
+9° Le local mentionné à l'article R. 553-7, réservé aux avocats ; 
 
-10° Un local affecté à l'organisme mentionné à l'article R. 553-13 ;
+10° Un local affecté à l'organisme mentionné à l'article R. 553-13 ; 
 
-11° Un local, meublé et équipé d'un téléphone, affecté à l'association mentionnée au premier alinéa de l'article R. 553-14 ;
+11° Un local, meublé et équipé d'un téléphone, affecté à l'association mentionnée au premier alinéa de l'article R. 553-14 ; 
 
-12° Un espace de promenade à l'air libre ;
+12° Un espace de promenade à l'air libre ; 
 
-13° Un local à bagages.
+13° Un local à bagages. 
 
 Les centres de rétention administrative susceptibles d'accueillir des familles disposent en outre de chambres spécialement
-équipées, et notamment de matériels de puériculture adaptés.
+équipées, et notamment de matériels de puériculture adaptés. 
+
+Pour une durée de trois ans à compter de la publication du décret n° 2014-527 du 23 mai 2014 portant modification du code de
+l'entrée et du séjour des étrangers et du droit d'asile (partie réglementaire) en ce qui concerne Mayotte, Wallis-et-Futuna,
+la Polynésie française et la Nouvelle-Calédonie, les dispositions des alinéas précédents ne sont pas applicables à Mayotte. 
+
+Les centres de rétention administrative situés dans ce département, dont la capacité d'accueil ne pourra dépasser cent
+quarante places, doivent disposer de locaux et d'espaces aménagés notamment d'équipements sanitaires, permettant d'assurer
+l'hébergement, la restauration et la détente des étrangers, le bénéfice des soins qui leur sont nécessaires et l'exercice
+effectif de leurs droits par les intéressés. 
+
+Les centres de rétention doivent notamment disposer des équipements suivants : 
+
+1° Des lieux d'hébergement non mixtes ; 
+
+2° Des équipements sanitaires en libre accès ; 
+
+3° Un espace de promenade à l'air libre ; 
+
+4° Un local doté du matériel médical réservé au service médical ; 
+
+5° Un local meublé et équipé d'un téléphone mis de façon permanente à la disposition des personnes qui ont reçu du
+représentant de l'Etat à Mayotte l'agrément mentionné à l'article R. 553-14-1. 
+
+Les centres de rétention administrative susceptibles d'accueillir des familles disposent en outre de lieux d'hébergement
+séparés, spécialement équipés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Cite**:
+
+	  - Décret n°2014-527 du 23 mai 2014
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-7
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 6
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-8 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R553-13 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R553-14 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R553-7 (V)
 
 
 ###### Article R553-4
@@ -24917,34 +25105,46 @@ affaires sanitaires et sociales et au Contrôleur général des lieux de privati
 
 ###### Article R553-6
 
-Les locaux de rétention administrative doivent disposer des équipements suivants :
+Les locaux de rétention administrative doivent disposer des équipements suivants : 
 
-1° Des chambres collectives non mixtes, accueillant au maximum six personnes ;
+1° Des chambres collectives non mixtes, accueillant au maximum six personnes ; 
 
-2° Des équipements sanitaires en libre accès comprenant des lavabos, douches et w.-c. ;
+2° Des équipements sanitaires en libre accès comprenant des lavabos, douches et w.-c. ; 
 
-3° Un téléphone en libre accès ;
+3° Un téléphone en libre accès ; 
 
-4° Un local permettant de recevoir les visites : autorités consulaires, familles, médecins, membres d'associations ;
+4° Un local permettant de recevoir les visites : autorités consulaires, familles, médecins, membres d'associations ; 
 
-5° Le local mentionné à l'article R. 553-7, réservé aux avocats ;
+5° Le local mentionné à l'article R. 553-7, réservé aux avocats ; 
 
-6° Une pharmacie de secours.
+6° Une pharmacie de secours. 
+
+Les dispositions des alinéas précédents ne sont pas applicables à Mayotte pour une durée de cinq ans à compter de la
+publication du décret n° 2014-527 du 23 mai 2014 portant modification du code de l'entrée et du séjour des étrangers et du
+droit d'asile (partie réglementaire). Les locaux de rétention administrative situés dans ce département doivent disposer de
+lieux d'hébergement ou de repos, d'équipements sanitaires en libre accès, de matériels nécessaires à la restauration ainsi
+que d'équipements permettant l'exercice effectif de leurs droits par les intéressés, notamment un téléphone en libre accès.
+Ceux-ci ont accès, si nécessaire, à l'antenne médicale la plus proche aux fins d'une évaluation médicale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Cite**:
+
+	  - Décret n°2014-527 du 23 mai 2014
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-7
+
+	**Modifié par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-8 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R553-7 (V)
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -25090,6 +25290,27 @@ sans formalité dans les conditions prévues par le règlement intérieur.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-14-7 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R556-4 (VD)
+
+
+###### Article R553-14 bis
+
+Les dispositions des articles R. 553-13 et R. 553-14 ne sont pas applicables à Mayotte. Les étrangers maintenus dans un
+centre de rétention administrative dans ce département bénéficient d'actions d'accueil, d'information, d'aide à l'exercice de
+leurs droits, de soutien moral et psychologique et, le cas échéant, d'aide pour préparer les conditions matérielles de leur
+départ. 
+
+Pour concourir aux actions et à l'aide définies à l'alinéa précédent, le représentant de l'Etat à Mayotte conclut une
+convention avec une ou plusieurs personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-13
 
 
 ###### Article R553-14-1
@@ -29408,138 +29629,16 @@ placé sous la protection de cet Etat et que cette dernière a été transféré
 
 Le présent livre est applicable à Mayotte sous réserve des dispositions suivantes : 
 
-1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la cour siégeant à Mayotte ; 
+1° Au premier alinéa de l'article R. 742-1, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : "
+du 2° au 4° de l'article L. 741-4 " ; 
 
-1° bis A l'article R. 723-1 : 
-
-a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : " au représentant de l'Etat à Mayotte ; 
-
-b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : le
-représentant de l'Etat à Mayotte " ; 
-
-2° Au troisième alinéa de l'article R. 723-2 : 
-
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l' Office
-français de l'immigration et de l'intégration " sont remplacés par les mots : " au représentant de l'Etat à Mayotte " ; 
-
-b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
-les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
-
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
-sont remplacés par les mots : " de l'article 48 de l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
-
-4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
-mots : " Le représentant de l'Etat à Mayotte peut " ; 
-
-5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du représentant de l'Etat à Mayotte " ; 
-
-6° A l'article R. 733-20 : 
-
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
-français de l'immigration et de l'intégration " sont remplacés par les mots : " le représentant de l'Etat à Mayotte " ; 
-
-b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
-" sont remplacés par les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
-
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
-leurs observations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses
-observations , au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
-l'asile  sont remplacés par les mots : du représentant de l'Etat à Mayotte et au troisième alinéa du même article, les mots :
-au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots : au représentant de l'Etat à
-Mayotte ; 
-
-8° A l'article R. 741-2 : 
-
-a) Les mots : " en France " sont remplacés par les mots : " à Mayotte " ; 
-
-b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
-l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
-
-c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du représentant de l'Etat à Mayotte " ; 
-
-d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du représentant de
-l'Etat à Mayotte " ; 
-
-9° A l'article R. 742-1 : 
-
-a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
-" ; 
-
-b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
-l'article L. 741-4 " ; 
-
-c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
-les mots : " et dans les conditions prévues par l'article L. 761-1 " ; 
-
-d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " à Mayotte " ; 
-
-e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de
-l'Etat à Mayotte " ; 
-
-f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de
-l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
-
-g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
-
-10° A l'article R. 742-2 : 
-
-a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de l'Etat à
-Mayotte " ; 
-
-b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du code du travail
-localement applicable " ; 
-
-11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+2° Au troisième alinéa de l'article R. 742-2, les mots : " de droit commun applicables " sont remplacés par les mots : " du
 code du travail localement applicable " ; 
 
-12° A l'article R. 742-5 : 
-
-a) Au premier alinéa, les mots : " à l'article R. 314-2 " sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26
-avril 2000 " ; 
-
-b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de l'Etat à
-Mayotte " ; 
-
-c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n°
-2000-273 du 26 avril 2000 " ; 
-
-13° A l'article R. 742-6 : 
-
-a) Les mots : "à l'article R. 313-1" et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
-l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
-
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
-
-" à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
-
-c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-373 du 26
-avril 2000 " ;
-
-14° A l'article R. 751-2, les mots : "en France" sont remplacés par les mots : "à Mayotte".
+3° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+code du travail localement applicable ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 24
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 4
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 48
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-3
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
 
 	**Cité par**:
 
@@ -29547,7 +29646,14 @@ avril 2000 " ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1031 du 29 août 2011 - art. 8
+	  - Décret n°2014-527 du 23 mai 2014 - art. 10
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
 
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.
@@ -29588,7 +29694,7 @@ mots :
 5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " de l'administrateur supérieur des îles Wallis
 et Futuna " ; 
 
-6° A l'article R. 733-20 : 
+6° A l'article R. 733-32 : 
 
 a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
 français de l'immigration et de l'intégration " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis et
@@ -29598,12 +29704,11 @@ b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au pr�
 " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande
 " ; 
 
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
-leurs observations " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, qui doit
-produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre
-chargé de l'asile sont remplacés par les mots : de l'administrateur supérieur des îles Wallis et Futuna et au troisième
-alinéa du même article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots :
-" à l'administrateur supérieur des îles Wallis et Futuna " ; 
+7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " à l'administrateur supérieur des
+îles Wallis et Futuna, qui dispose d'une semaine pour produire ses observations " et au second alinéa de l'article R. 733-40,
+les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots : " à l'administrateur
+supérieur des îles Wallis et Futuna " ;
 
 8° A l'article R. 741-2 : 
 
@@ -29652,7 +29757,7 @@ droit du travail localement applicable " ;
 
 12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : " à l'article R. 314-2 sont remplacés par les mots : " par l'ordonnance n° 2000-371 du 26
+a) Au premier alinéa, les mots : " à l'article R. 314-2" sont remplacés par les mots : " par l'ordonnance n° 2000-371 du 26
 avril 2000 " ; 
 
 b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
@@ -29666,9 +29771,8 @@ c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés p
 a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
 l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
-
-" à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n° 2000-371 du 26 avril
+2000 " ; 
 
 c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-371 du 26
 avril 2000 " ; 
@@ -29705,7 +29809,7 @@ b) Les mots : " de la préfecture " sont remplacés par les mots : " de l'admini
 
 	**Modifié par**:
 
-	  - Décret n°2011-1031 du 29 août 2011 - art. 8
+	  - Décret n°2014-527 du 23 mai 2014 - art. 15
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.
@@ -29719,11 +29823,11 @@ fonctionnement de sections de la cour siégeant en Polynésie française ;
 
 1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : "au haut-commissaire de la République en Polynésie française ; 
+a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police" sont remplacés par les
+mots : "au haut-commissaire de la République en Polynésie française" ; 
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
-commissaire de la République en Polynésie française ; 
+b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "le haut-commissaire de la République en Polynésie
+française" ; 
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
@@ -29743,7 +29847,7 @@ sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2000-372 du 
 5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
 Polynésie française" ; 
 
-6° A l'article R. 733-20 : 
+6° A l'article R. 733-32 : 
 
 a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
 français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
@@ -29753,12 +29857,11 @@ b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au pré
 sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
 demande" ; 
 
-7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
-observations" sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, qui doit produire
-ses observations", au premier alinéa de l'article R. 733-23, les mots : "du ministre de l'intérieur et du ministre chargé de
-l'asile" sont remplacés par les mots : "du haut-commissaire de la République en Polynésie française" et au troisième alinéa
-du même article, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile" sont remplacés par les mots : "au
-haut-commissaire de la République en Polynésie française" ; 
+7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " au haut-commissaire de la
+République en Polynésie française, qui dispose d'une semaine pour produire ses observations " et au second alinéa de
+l'article R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots :
+" au haut-commissaire de la République en Polynésie française " ;
 
 8° A l'article R. 741-2 : 
 
@@ -29858,7 +29961,7 @@ b) Les mots : "de la préfecture" sont remplacés par les mots : "du haut-commis
 
 	**Modifié par**:
 
-	  - Décret n°2011-1031 du 29 août 2011 - art. 8
+	  - Décret n°2014-527 du 23 mai 2014 - art. 15
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
@@ -29875,12 +29978,12 @@ fonctionnement de sections de la cour siégeant en Nouvelle-Calédonie ;
 a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police" sont remplacés par les
 mots : "au haut-commissaire de la République en Nouvelle-Calédonie" ; 
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
-commissaire de la République en Nouvelle-Calédonie ; 
+b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "le haut-commissaire de la République en Nouvelle-
+Calédonie" ; 
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l' Office
+a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
 français de l'immigration et de l'intégration" sont remplacés par les mots : "au haut-commissaire de la République en
 Nouvelle-Calédonie" ; 
 
@@ -29897,9 +30000,9 @@ sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2002-388 du 
 5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
 Nouvelle-Calédonie" ; 
 
-6° A l'article R. 733-20 : 
+6° A l'article R. 733-32 : 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
+a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
 français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
 Nouvelle-Calédonie" ; 
 
@@ -29907,12 +30010,11 @@ b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au pré
 sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
 demande" ; 
 
-7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
-observations" sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, qui doit produire
-ses observations", au premier alinéa de l'article R. 733-23, les mots : "du ministre de l'intérieur et du ministre chargé de
-l'asile" sont remplacés par les mots : "du haut-commissaire de la République en Nouvelle-Calédonie" et au troisième alinéa du
-même article, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile" sont remplacés par les mots : "au
-haut-commissaire de la République en Nouvelle-Calédonie" ; 
+7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " au haut-commissaire de la
+République en Nouvelle-Calédonie, qui dispose d'une semaine pour produire ses observations " et au second alinéa de l'article
+R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots : " au
+haut-commissaire de la République en Nouvelle-Calédonie " ;
 
 8° A l'article R. 741-2 : 
 
@@ -30000,9 +30102,6 @@ b) les mots : "de la préfecture" sont remplacés par les mots : "du haut-commis
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-23
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
@@ -30015,7 +30114,7 @@ b) les mots : "de la préfecture" sont remplacés par les mots : "du haut-commis
 
 	**Modifié par**:
 
-	  - Décret n°2011-1031 du 29 août 2011 - art. 8
+	  - Décret n°2014-527 du 23 mai 2014 - art. 15
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.
@@ -30534,6 +30633,10 @@ des militaires de la gendarmerie nationale.
 
 #### Chapitre unique.
 
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER
+
+#### Chapitre Ier : Saint-Pierre-et-Miquelon
+
 ###### Article R831-1
 
 Les dispositions des articles R. 313-23 à R. 313-32 relatives à la commission médicale régionale ne sont pas applicables à
@@ -30548,6 +30651,125 @@ Saint-Pierre-et-Miquelon.
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile R313-23 à R313-32
+
+
+#### Chapitre II : Mayotte
+
+###### Article R832-1
+
+Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
+
+I. - Aux articles D. 311-18-2, R. 313-10-2, R. 313-16-1, R. 313-17, R. 313-22-1, R. 313-34-1, R. 313-36-1 et R. 314-1-1, les
+mots : " salaire minimum de croissance " sont remplacés par les mots : " salaire minimum interprofessionnel garanti ". 
+
+II. - A l'article R. 313-14, les références au directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi et au directeur régional des affaires culturelles sont remplacées par les références au directeur des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au représentant de l'Etat. 
+
+III. - Aux articles R. 111-1, R. 111-2, R. 111-13, R. 111-14, R. 111-16, R. 111-18, R. 111-23, R. 421-6, R. 552-10, R. 552-12
+à R. 552-16 et R. 552-20 à R. 552-22, les mots : " cour d'appel " sont remplacés par les mots : " chambre d'appel de
+Mamoudzou ". 
+
+IV. - A l'article R. 553-5, la référence au directeur départemental des affaires sanitaires et sociales est remplacée par la
+référence au directeur général de l'agence de santé de l'océan Indien. 
+
+V. - Au 4° du I de l'article R. 611-12, les mots : " commandement du groupement de gendarmerie " sont remplacés par les
+mots : " commandant de la gendarmerie ". 
+
+VI. - 1° A l'article R. 121-4, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée par la
+référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002. 
+
+Aux articles R. 121-4 et R. 121-11 à R. 121-14, les références aux articles L. 321-1 et L. 331-2 du code de la sécurité
+sociale sont remplacées par la référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
+l'amélioration de la santé publique à Mayotte ; 
+
+2° Aux articles R. 121-16, R. 311-6, R. 311-11, R. 311-30 et R. 313-17, la référence à l'article L. 341-2 du code du travail
+est remplacée par la référence à l'article L. 330-2 du code du travail applicable à Mayotte ; 
+
+3° Aux articles R. 311-15 et R. 811-4, la référence à l'article L. 341-4 du code du travail est remplacée par la référence à
+l'article L. 330-3 du code du travail applicable à Mayotte ; 
+
+4° A l'article R. 311-15, la référence à l'article L. 341-6 du code du travail est remplacée par la référence à l'article L.
+330-5 du code du travail applicable à Mayotte et la référence à l'article L. 5221-5 du code du travail est remplacée par la
+référence à l'article L. 330-3 du code du travail applicable à Mayotte ; 
+
+5° A l'article R. 611-5, la référence à l'article L. 5312-1 est remplacée par la référence à l'article L. 326-6 du code du
+travail applicable à Mayotte ; 
+
+6° A l'article R. 313-7, la référence au titre II du livre IX du code du travail est remplacée par la référence au titre III
+du livre VII du code du travail applicable à Mayotte ; 
+
+7° Aux articles R. 313-10-1 et R. 313-10-3, la référence à l'article L. 6351-1 du code du travail est remplacée par la
+référence à l'article L. 731-2 du code du travail applicable à Mayotte ; 
+
+8° A l'article R. 313-10-4, la référence à l'article L. 8271-7 du code du travail est remplacée par la référence à l'article
+L. 312-5 du code du travail applicable à Mayotte ; 
+
+9° A l'article R. 313-15, les références aux articles R. 341-2-1, R. 341-2-2 et R. 341-2-4 du code du travail sont remplacées
+par les références aux articles R. 330-1 et R. 330-2 du code du travail applicable à Mayotte ; 
+
+10° A l'article R. 313-38, la référence à l'article R. 341-5 du code du travail est remplacée par la référence à l'article R.
+330-4 du code du travail applicable à Mayotte ; 
+
+11° A l'article R. 316-7, la référence à l'article L. 380-1 du code de la sécurité sociale est remplacée par la référence à
+l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte ; 
+
+12° A l'article R. 322-1, la référence aux articles R. 341-1 à R. 341-7-2 du code du travail est remplacée par la référence
+aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte ; 
+
+13° Au 2° de l'article R. 611-5, la référence à l'article L. 8113-7 du code du travail est remplacée par la référence à
+l'article L. 610-9 du code du travail applicable à Mayotte, la référence à l'article L. 8271-19 du code du travail est
+remplacée par la référence à l'article L. 330-9 du code du travail applicable à Mayotte. 
+
+Au 6° de l'article R. 611-5, la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à l'article
+L. 326-7 du code du travail applicable à Mayotte, la référence à l'article L. 5411-4 du code du travail est remplacée par la
+référence à l'article L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6, L. 161-25-1 et
+L. 161-25-2 du code de la sécurité sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20
+décembre 1996 relative à l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et
+L. 161-18-1 du code de la sécurité sociale sont remplacées par les dispositions applicables localement, la référence à
+l'article L. 512-2 du code de la sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du
+7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la
+collectivité départementale de Mayotte et la référence à l'article L. 831-1 du code de la sécurité sociale est remplacée par
+la référence à l'article 42-1 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à
+Mayotte ; 
+
+14° Aux articles R. 611-5 et R. 626-1, la référence à l'article L. 8251-1 du code du travail est remplacée par la référence à
+l'article L. 330-5 du code du travail applicable à Mayotte ; 
+
+15° Aux articles R. 611-5 et R. 626-2, la référence à l'article L. 8271-17 du code du travail est remplacée par la référence
+aux articles L. 330-11 et L. 610-15 du code du travail applicable à Mayotte ; 
+
+16° A l'article R. 811-4, les références aux articles R. 341-1, R. 341-3, R. 341-4 et R. 341-7 du code du travail sont
+remplacées par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 11
+
+
+###### Article R832-2
+
+L'étranger qui sollicite le visa prévu à l'article L. 832-2 présente son document de voyage, le titre sous couvert duquel il
+est autorisé à séjourner à Mayotte, les documents permettant d'établir les conditions de son séjour dans le département de
+destination, les moyens d'existence lui permettant de faire face à ses frais de séjour ainsi que les garanties de son retour
+à Mayotte. 
+
+Sauf circonstances exceptionnelles, ce visa ne peut lui être délivré pour une durée de séjour excédant trois mois. 
+
+Le représentant de l'Etat à Mayotte recueille l'avis du préfet du département de destination. Cet avis est réputé favorable
+si le préfet consulté n'a pas fait connaître d'opposition dans le délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-527 du 23 mai 2014 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
 
 
 # Annexes
