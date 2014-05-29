@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-05-26
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -7015,8 +7015,6 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 	  - Loi n°2011-672 du 16 juin 2011 - art. 43
 
 
-#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
-
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin
 
 ###### Article L514-1
@@ -13185,10 +13183,6 @@ lesquelles les agents de sécurité privée investis des missions qu'il prévoit
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
-
-#### Chapitre unique.
 
 ### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER
 
@@ -19545,18 +19539,18 @@ que l'étranger doit produire.
 ###### Article R313-16-2
 
 Lorsque l'étranger présente un projet tendant à la création d'une activité ou d'une entreprise, l'autorité diplomatique ou
-consulaire ou le préfet compétent saisit pour avis le trésorier-payeur général du département dans lequel l'étranger souhaite
-réaliser son projet.
+consulaire ou le préfet compétent saisit pour avis le   directeur départemental ou, le cas échéant, régional des finances
+publiques du département dans lequel l'étranger souhaite réaliser son projet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+	  - Décret n°2014-551 du 27 mai 2014 - art. 12
 
 
 ###### Article R313-16-3
@@ -27275,24 +27269,23 @@ traitement automatisé d'informations nominatives.
 ###### Article R625-13
 
 Le montant de la somme consignée en vertu du premier alinéa de l'article L. 625-4 est mentionné sur le procès-verbal prévu à
-l'article L. 625-2. L'absence de consignation est mentionnée dans les mêmes conditions.
+l'article L. 625-2. L'absence de consignation est mentionnée dans les mêmes conditions. 
 
-La somme consignée est remise sans délai entre les mains d'un comptable du Trésor.
+La somme consignée est remise sans délai entre les mains d'un  comptable de la direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 12
 
 	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R625-16 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L625-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L625-4 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R625-16 (M)
 
 
 ###### Article R625-14
@@ -27321,9 +27314,9 @@ montant de la somme consignée.
 
 ###### Article R625-16
 
-Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le comptable du Trésor mentionné au
-deuxième alinéa de l'article R. 625-13, au vu du titre exécutoire, restitue à l'entreprise de transport la somme
-correspondant à la différence entre le second montant et le premier. 
+Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le  comptable de la direction
+générale des finances publiques mentionné au deuxième alinéa de l'article R. 625-13, au vu du titre exécutoire, restitue à
+l'entreprise de transport la somme correspondant à la différence entre le second montant et le premier. 
 
 Le même comptable procède à la restitution de tout ou partie de la somme consignée dans un délai d'un mois à compter de la
 date de réception par ses services du titre exécutoire ou de l'ordre de restitution du ministre chargé de l'immigration.
@@ -27332,11 +27325,11 @@ date de réception par ses services du titre exécutoire ou de l'ordre de restit
 
 	**Modifié par**:
 
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
+	  - Décret n°2014-551 du 27 mai 2014 - art. 12
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R625-13
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R625-13 (M)
 
 
 #### Chapitre VI : Dispositions diverses
@@ -30628,10 +30621,6 @@ des militaires de la gendarmerie nationale.
 
 	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
-
-#### Chapitre unique.
 
 ### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER
 
