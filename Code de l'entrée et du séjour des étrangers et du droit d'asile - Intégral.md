@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-27
 
 # Partie législative
 
@@ -25404,21 +25404,19 @@ Une personne physique ne peut représenter plus d'une personne morale.
 
 Les associations humanitaires ont accès, dans les conditions fixées par la présente section, aux lieux de rétention. 
 
-Cet accès ne doit pas entraver le fonctionnement du lieu de rétention et les activités qu'y exercent les services de l'Etat
-et les personnes morales mentionnés à l'article R. 553-14. 
-
-Il s'exerce dans le respect des opinions politiques, philosophiques ou religieuses des étrangers retenus.
+Cet accès ne doit pas entraver le fonctionnement du lieu de rétention ni les activités qu'y exercent les services de l'Etat
+et les personnes morales mentionnés à l'article R. 553-14.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
 
 	**Cité par**:
 
 	  - Décret n°2014-676 du 24 juin 2014 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-14-7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-676 du 24 juin 2014 - art. 1
 
 	**Cite**:
 
@@ -25427,34 +25425,30 @@ Il s'exerce dans le respect des opinions politiques, philosophiques ou religieus
 
 ###### Article R553-14-5
 
+Toute association régulièrement déclarée depuis au moins cinq années, ayant pour objet la défense des étrangers, la défense
+des droits de l'homme, l'assistance médicale et sociale ou l'assistance aux personnes privées de liberté, peut demander à
+être habilitée à proposer des représentants en vue d'accéder aux lieux de rétention. 
+
 Le ministre chargé de l'immigration fixe la liste des associations habilitées à proposer des représentants en vue d'accéder
-aux lieux de rétention dans les conditions fixées par la présente section. 
+aux lieux de rétention. 
 
-L'habilitation ne peut être sollicitée que par des associations régulièrement déclarées depuis au moins cinq années et
-proposant par leurs statuts la défense des étrangers, la défense des droits de l'homme ou l'assistance médicale et sociale.
-Cette habilitation ne peut être sollicitée par les associations ayant conclu une convention en application de l'article R.
-553-14. 
+Tout refus d'habilitation est motivé. Il ne peut être fondé que sur la méconnaissance des critères énoncés au premier alinéa
+ou sur des motifs d'ordre public. 
 
-Tout refus d'habilitation doit être motivé au regard notamment du nombre d'associations déjà habilitées. 
+L'habilitation est accordée pour une durée de cinq ans. Elle est renouvelable pour la même durée. 
 
-L'habilitation est accordée pour une durée de trois ans. Elle est renouvelable pour la même durée. 
-
-Le ministre chargé de l'immigration peut, par décision motivée, retirer l'habilitation d'une association.
+Le ministre chargé de l'immigration peut, par décision motivée, retirer l'habilitation d'une association lorsqu'elle ne
+remplit plus les critères énoncés au premier alinéa ou pour des motifs d'ordre public.
 
 **Nota:**
 
-Conseil d'Etat, décision n° 352534 du 23 mai 2012 (ECLI:FR:CESSR:2012:352534.20120523	), article 3 : L’article 18 du décret n°
-2011-820 du 8 juillet 2011 pris pour l'application de la loi du 16 juin 2011 relative à l'immigration, à l'intégration et à
-la nationalité et portant sur les procédures d'éloignement des étrangers est annulé en tant qu’il prévoit au 2
-  <sup>ème</sup> alinéa de l’article R. 553-14-5 du code de l’entrée et du séjour des étrangers et du droit d’asile que
-l’habilitation à proposer des représentants pour accéder aux lieux de rétention ne peut être sollicitée par les associations
-ayant conclu une convention en application de l’article R. 553-14 du même code.
+
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+	  - Décret n°2014-676 du 24 juin 2014 - art. 2
 
 	**Cité par**:
 
@@ -25467,25 +25461,26 @@ ayant conclu une convention en application de l’article R. 553-14 du même cod
 
 ###### Article R553-14-6
 
-L'accès des représentants des associations habilitées à accéder aux lieux de rétention est subordonné à un agrément
-individuel accordé pour une durée d'un an par le ministre chargé de l'immigration.
+Chaque association habilitée peut transmettre au ministre chargé de l'immigration une liste de cinq personnes au plus ayant
+vocation à accéder à l'ensemble des lieux de rétention. 
 
-Cet agrément, qui est renouvelable, peut être accordé à cinq personnes par association. Il entraîne la délivrance d'une carte
-nominative permettant d'obtenir, lors de chaque visite, une autorisation d'accès au lieu de rétention.
+Chaque association habilitée peut transmettre au préfet territorialement compétent ou, à Paris, au préfet de police, pour
+chaque lieu de rétention, une liste de cinq personnes au plus ayant vocation à y accéder. 
 
-Une même personne ne peut recevoir qu'un agrément.
+L'autorité compétente peut, par décision motivée, s'opposer à l'accès d'une ou plusieurs personnes figurant sur une liste
+pour des motifs d'ordre public. En l'absence d'opposition de l'autorité compétente dans un délai d'un mois après réception de
+la liste, ces personnes sont autorisées à accéder aux lieux de rétention concernés. L'autorité compétente en informe les
+responsables de ces lieux de rétention. 
 
-Le ministre chargé de l'immigration peut retirer, par décision motivée, l'agrément délivré à un représentant d'une
-association.
-
-L'agrément d'un représentant d'une association est retiré sur demande de celle-ci ou lorsque l'habilitation de l'association
-a été retirée ou a expiré.
+Il est mis fin au droit d'accès d'un représentant d'une association à la demande de la personne ou de l'association concernée
+ou lorsque l'habilitation de cette association est retirée. L'autorité compétente peut également, par décision motivée,
+mettre fin au droit d'accès pour des motifs d'ordre public.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+	  - Décret n°2014-676 du 24 juin 2014 - art. 3
 
 	**Cité par**:
 
@@ -25494,38 +25489,68 @@ a été retirée ou a expiré.
 
 ###### Article R553-14-7
 
-Les représentants agréés d'une association peuvent s'entretenir avec le chef de centre ou le responsable du local de
-rétention et, lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et de
-l'Office français de l'immigration et de l'intégration ainsi qu'avec les représentants agréés des associations ayant conclu
-la convention prévue à l'article R. 553-14 pour permettre l'exercice effectif des droits des étrangers.
+Les représentants des associations ont accès, dans le respect des règles sanitaires et de sécurité, aux locaux susceptibles
+d'accueillir les retenus. Toutefois, ils n'ont accès aux locaux mis à disposition des intervenants et au local réservé aux
+avocats qu'avec l'accord des intéressés. 
 
-L'autorisation de s'entretenir confidentiellement avec les personnes retenues dans ces lieux ne peut être refusée que pour
-des motifs tirés des exigences mentionnées au deuxième alinéa de l'article R. 553-14-4.
+Les représentants des associations peuvent s'entretenir avec le responsable du lieu de rétention et, lorsqu'ils sont
+présents, avec les agents de l'Office français de protection des réfugiés et apatrides et de l'Office français de
+l'immigration et de l'intégration ainsi qu'avec les représentants agréés des associations ayant conclu la convention prévue à
+l'article R. 553-14 pour permettre l'exercice effectif des droits des étrangers. Ils peuvent s'entretenir avec l'équipe
+médicale du lieu de rétention, dans le respect du secret médical. 
 
-Les représentants de plusieurs associations habilitées ne peuvent accéder le même jour au même lieu de rétention.
+Les représentants des associations peuvent s'entretenir confidentiellement avec les personnes retenues dans ces lieux. Cette
+possibilité ne peut être refusée que pour des motifs tirés des exigences mentionnées au second alinéa de l'article R.
+553-14-4.
 
-Lorsque les représentants agréés d'une association exercent leur droit de visite, ils informent au préalable au moins vingt-
-quatre heures à l'avance le chef de centre ou le responsable du local de rétention et conviennent avec lui des modalités
-pratiques de leur visite.
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-676 du 24 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-14-4 (V)
+
+
+###### Article R553-14-7-1
+
+Un même lieu de rétention peut recevoir, au plus, la visite de cinq représentants d'associations habilitées par période de
+vingt-quatre heures.
+
+Lorsque les représentants d'une association entendent exercer leur droit d'accès dans un centre de rétention, ils en
+informent au moins vingt-quatre heures à l'avance le chef de centre.
+
+Lorsque les représentants d'une association entendent exercer leur droit d'accès dans un local de rétention, ils en informent
+au moins douze heures à l'avance le responsable du local.
+
+Le responsable du lieu de rétention peut, par une décision motivée, ajourner les visites de représentants d'association pour
+une durée limitée mentionnée dans la décision.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+	  - Décret n°2014-676 du 24 juin 2014 - art. 5
 
 
 ###### Article R553-14-8
 
 Une réunion est organisée annuellement sur le fonctionnement des lieux de rétention à l'initiative du ministre chargé de
-l'immigration, avec les présidents des associations habilitées, leurs représentants agréés et les services de l'Etat
-concernés. Le compte rendu de cette réunion, établi conjointement, est rendu public.
+l'immigration, avec les associations habilitées et les services de l'Etat concernés. Le compte rendu de cette réunion, établi
+conjointement, est rendu public.
+
+Le préfet territorialement compétent ou, à Paris, le préfet de police organise à intervalles réguliers des réunions sur le
+fonctionnement des lieux de rétention avec les associations ayant des représentants habilités à accéder aux lieux de
+rétention du département et les services concernés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-820 du 8 juillet 2011 - art. 18
+	  - Décret n°2014-676 du 24 juin 2014 - art. 6
 
 
 ##### Section 3 : Demandes d'asile formulées par des étrangers retenus.
