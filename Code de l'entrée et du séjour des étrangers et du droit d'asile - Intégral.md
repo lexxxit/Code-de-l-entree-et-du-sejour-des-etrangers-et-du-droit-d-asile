@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-08-10
 
 # Partie législative
 
@@ -12281,10 +12281,9 @@ l'obligation de quitter le territoire français ou l'arrêté de reconduite à l
 délivre sans délai au réfugié la carte de résident prévue au 8° de l'article L. 314-11 et au bénéficiaire de la protection
 subsidiaire la carte de séjour temporaire prévue à l'article L. 313-13.
 
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+L'étranger présent sur le territoire français dont la demande d'asile entre dans le cas mentionné au 1° de l'article L. 741-4
+bénéficie du droit de se maintenir en France jusqu'à son départ volontaire ou son transfert effectif à destination de l'Etat
+membre responsable de l'examen de sa demande d'asile.
 
 **Liens relatifs à cet article**
 
@@ -12299,13 +12298,7 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 69
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L741-4 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 	**Cité par**:
 
@@ -12317,6 +12310,12 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
 	  - Code du travail - art. L5423-11 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
 
 
 ###### Article L742-7
@@ -12483,9 +12482,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5° A l'article L. 742-1, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
@@ -12505,11 +12502,13 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 " Si l'office décide d'entendre le demandeur d'asile hors des îles Wallis et Futuna, celui-ci reçoit les autorisations
 nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-371 du 26 avril 2000 relative
 aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ou la carte de séjour temporaire prévue par
 l'article 17 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ; 
 
 8° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " les îles Wallis et Futuna " ;
 
@@ -12520,27 +12519,20 @@ Futuna ".
 
 	**Anciens textes**:
 
-	  - Loi n°52-893 du 25 juillet 1952 - art. 16 (M)
 	  - Loi n°52-893 du 25 juillet 1952 - art. 16 (Ab)
 
 	**Cite**:
 
-	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 17 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L751-1 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française
@@ -12565,9 +12557,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5° A l'article L. 742-1, les mots : " en France " sont remplacés par les mots : " en Polynésie française " ;
 
@@ -12586,11 +12576,13 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 " Si l'office décide d'entendre le demandeur d'asile hors de la Polynésie française, celui-ci reçoit les autorisations
 nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-372 du 26 avril 2000 relative
 aux conditions d'entrée et de séjour des étrangers en Polynésie française ou la carte de séjour temporaire prévue par
 l'article 18 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ; 
 
 8° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " la Polynésie française " ;
 
@@ -12600,27 +12592,20 @@ l'article 18 de cette ordonnance. " ;
 
 	**Anciens textes**:
 
-	  - Loi n°52-893 du 25 juillet 1952 - art. 15 (M)
 	  - Loi n°52-893 du 25 juillet 1952 - art. 15 (Ab)
 
 	**Cite**:
 
-	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 18 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L751-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie
@@ -12645,9 +12630,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5° A l'article L. 742-1, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
@@ -12666,11 +12649,13 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 " Si l'office décide d'entendre le demandeur d'asile hors de la Nouvelle-Calédonie, celui-ci reçoit les autorisations
 nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2002-388 du 20 mars 2002 relative
 aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ou la carte de séjour temporaire prévue par
 l'article 18 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ; 
 
 8° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " la Nouvelle-Calédonie " ;
 
@@ -12680,27 +12665,20 @@ l'article 18 de cette ordonnance. " ;
 
 	**Anciens textes**:
 
-	  - Loi n°52-893 du 25 juillet 1952 - art. 14 (M)
 	  - Loi n°52-893 du 25 juillet 1952 - art. 14 (Ab)
 
 	**Cite**:
 
-	  - Ordonnance 2002-388 2002-03-20 art. 18
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L742-7 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L751-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises
@@ -12777,6 +12755,8 @@ c) La seconde phrase du second alinéa est ainsi rédigée :
 " Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la
 carte de séjour temporaire prévue par le 10° de l'article L. 313-11. " ; 
 
+d) Le dernier alinéa n'est pas applicable ; 
+
 7° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-
 Barthélemy " ; 
 
@@ -12785,9 +12765,9 @@ les mots : " sur le territoire de Saint-Barthélemy ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 108
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 	**Cite**:
 
@@ -12842,6 +12822,8 @@ c) La seconde phrase du second alinéa est ainsi rédigée :
 " Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la
 carte de séjour temporaire prévue par le 10° de l'article L. 313-11. " ; 
 
+d) Le dernier alinéa n'est pas applicable ; 
+
 7° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-
 Martin " ; 
 
@@ -12850,9 +12832,9 @@ les mots : " sur le territoire de Saint-Martin ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 108
+	  - Loi n°2014-891 du 8 août 2014 - art. 31
 
 	**Cite**:
 
