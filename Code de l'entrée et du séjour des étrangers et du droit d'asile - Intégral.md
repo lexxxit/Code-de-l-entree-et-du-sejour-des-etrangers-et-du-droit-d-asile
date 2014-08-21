@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-08-10
+Version Consolidée au 2014-08-22
 
 # Partie législative
 
@@ -16768,6 +16768,9 @@ revêtu, le cas échéant, d'un visa ;
 3° Les étrangers séjournant en France sous couvert d'un visa d'une durée supérieure à trois mois et inférieure ou égale à six
 mois comportant la mention " dispense temporaire de carte de séjour ", pendant la durée de validité de ce visa ; 
 
+3° bis Les étrangers séjournant en France sous couvert d'un visa dispensant de titre de séjour, d'une durée maximale de douze
+mois et portant la mention "vacances-travail" ; 
+
 4° Les étrangers, conjoints de ressortissants français, séjournant en France sous couvert d'un visa pour un séjour d'une
 durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du septième alinéa de
 l'article L. 211-2-1, pendant un an ; 
@@ -16791,15 +16794,15 @@ salariés détachés en France ;
 
 9° Les étrangers mentionnés à l'article L. 313-8 séjournant en France sous couvert d'un visa pour un séjour d'une durée
 supérieure à trois mois et au plus égale à un an et portant la mention " scientifique-chercheur ", pendant la durée de
-validité de ce visa (1) ; 
+validité de ce visa ; 
 
 10° Les étrangers mentionnés à l'article L. 313-7-1 séjournant en France sous couvert d'un visa pour un séjour d'une durée
-supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ", pendant la durée de validité de ce visa
-(1) ; 
+supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ", pendant la durée de validité de ce
+visa ; 
 
 11° Les étrangers, conjoints de ressortissants étrangers, séjournant en France sous couvert d'un visa pour un séjour d'une
 durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du 1° de l'article L.
-313-11, pendant un an (2). 
+313-11, pendant un an. 
 
 Les visas mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° permettent à leur titulaire de séjourner en France au-delà d'une
 période de trois mois et dans les limites de durée susmentionnées, à la condition que l'intéressé, dans un délai de trois
@@ -16850,7 +16853,6 @@ la publication du présent décret au Journal officiel de la République frança
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-36 (M)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-37 (M)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
@@ -16861,10 +16863,11 @@ la publication du présent décret au Journal officiel de la République frança
 
 	**Modifié par**:
 
-	  - Décret n°2014-527 du 23 mai 2014 - art. 2
+	  - Décret n°2014-921 du 18 août 2014 - art. 1
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-37 (M)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
@@ -18509,39 +18512,30 @@ La durée de l'autorisation provisoire de séjour ne peut excéder la durée du 
 
 ###### Article R311-35
 
-Pour l'application de l'article L. 311-11, l'étranger titulaire de la carte de séjour mention "étudiant" prévue à l'article
-L. 313-7 sollicite la délivrance de l'autorisation provisoire de séjour au plus tard quatre mois avant l'expiration de son
-titre.
+Pour l'application de l'article L. 311-11, l'étranger titulaire de la carte de séjour mention " étudiant " prévue à l'article
+L. 313-7 sollicite la délivrance de l'autorisation provisoire de séjour avant l'expiration de son titre. 
 
-Il présente en outre à l'appui de sa demande :
+Il présente en outre à l'appui de sa demande : 
 
-1° La carte de séjour temporaire mention "étudiant" en cours de validité dont il est titulaire ;
+1° La carte de séjour temporaire mention " étudiant " en cours de validité dont il est titulaire ; 
 
 2° Un diplôme au moins équivalent au master délivré par un établissement d'enseignement supérieur ; la présentation de ce
-diplôme peut être différée au moment de la remise de l'autorisation provisoire de séjour.
+diplôme peut être différée au moment de la remise de l'autorisation provisoire de séjour. 
 
 La liste des diplômes au moins équivalents au master est établie par arrêté du ministre chargé de l'enseignement supérieur et
-de la recherche.
-
-3° Une lettre, éventuellement complétée de tout moyen de preuve, indiquant les motifs au regard desquels l'expérience
-professionnelle envisagée peut être considérée comme participant directement ou indirectement au développement économique de
-la France et du pays dont il a la nationalité et s'inscrit dans la perspective du retour dans son pays d'origine.
+de la recherche. 
 
 Cette autorisation provisoire de séjour autorise l'exercice d'une activité professionnelle dans les conditions fixées à
-l'article L. 311-11 et au deuxième alinéa du I de l'article L. 313-7.
+l'article L. 311-11 et au deuxième alinéa du I de l'article L. 313-7. 
 
-L'étranger qui occupe l'emploi mentionné à l'article L. 311-11 sollicite la délivrance de la carte de séjour mention
-"salarié" au plus tard quinze jours après la conclusion de son contrat de travail.
+L'étranger qui occupe l'emploi mentionné à l'article L. 311-11 sollicite la délivrance de la carte de séjour mention "
+salarié " au plus tard quinze jours après la conclusion de son contrat de travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2007-1292 du 30 août 2007 - art. 1 () JORF 1er septembre 2007
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Cité par**:
 
@@ -18549,14 +18543,18 @@ L'étranger qui occupe l'emploi mentionné à l'article L. 311-11 sollicite la d
 	  - Décret n°2016-1456 du 28 octobre 2016 - art. 20
 	  - Code du travail - art. R5221-3 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L311-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-7 (M)
+	  - Décret n°2014-921 du 18 août 2014 - art. 2
 
 	**Anciens textes**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-32 (T)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -18753,9 +18751,10 @@ L'étranger qui, n'étant pas déjà admis à résider en France, sollicite la d
 3° Sauf stipulation contraire d'une convention internationale applicable en France, un visa pour un séjour d'une durée
 supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-3 ; 
 
-4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ; 
+4° Un certificat médical délivré dans les conditions fixées par      arrêté conjoint du ministre chargé de la santé et du
+ministre chargé de l'immigration ; 
 
-5° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ; 
+5° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ; 
 
 6° Un justificatif de domicile.
 
@@ -18763,7 +18762,7 @@ supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-
 
 	**Modifié par**:
 
-	  - Décret n°2008-614 du 27 juin 2008 - art. 4
+	  - Décret n°2014-921 du 18 août 2014 - art. 3
 
 	**Cité par**:
 
@@ -18895,18 +18894,26 @@ résidence.
 
 ###### Article R313-4
 
-Ne sont pas soumis aux dispositions du 4° de l'article R. 313-1 les étrangers mentionnés au 11° de l'article L. 313-11.
+Les étrangers mentionnés aux articles L. 313-8 et L. 313-9, au 5° de l'article L. 313-10, aux 3° et 11° de l'article L.
+313-11 et à l'article L. 315-1 ne sont pas soumis aux dispositions du 4° de l'article R. 313-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2014-921 du 18 août 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L315-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
 
 
 ###### Article R313-5
@@ -19331,6 +19338,10 @@ de doctorat dont le sujet est prévu par la convention d'accueil, il complète s
 du contrat souscrit auprès de l'organisme mentionné dans ladite convention pour l'exercice de la mission de recherche ou
 d'enseignement qu'elle prévoit.
 
+Cette carte de séjour est prolongée d'un an si l'étranger se trouve involontairement privé d'emploi. Lors du renouvellement
+suivant, la durée de son titre de séjour est équivalente à la durée des droits qu'il a acquis au titre du revenu de
+remplacement mentionné à l'article L. 5422-1 du code du travail.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -19339,12 +19350,20 @@ d'enseignement qu'elle prévoit.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 21
+	  - Décret n°2014-921 du 18 août 2014 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-12 (Ab)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L5422-1
 
 
 ###### Article R313-12
@@ -20428,15 +20447,15 @@ l'étranger doit produire à l'appui de sa demande.
 
 ###### Article R313-37
 
-L'étranger admis à résider en France sous couvert de la carte de séjour temporaire portant la mention " étudiant " qui en
-sollicite le renouvellement dans les conditions prévues à l'article L. 313-4 présente, outre les pièces mentionnées à
-l'article R. 313-35 : 
+L'étranger admis à résider en France sous couvert de la carte de séjour temporaire portant la mention " étudiant" ou du visa
+prévu au 6° de l'article R. 311-3, qui en sollicite le renouvellement dans les conditions prévues à l'article L. 313-4
+présente, outre les pièces mentionnées à l'article R. 313-35 : 
 
 1° La justification qu'il dispose des moyens d'existence prévus au 1° de l'article R. 313-7 ; 
 
 2° Un certificat d'inscription dans un cursus de formation sanctionné par la délivrance d'un diplôme conférant le grade de
 master et figurant sur la liste établie par arrêté du ministre chargé de l'immigration et du ministre chargé de
-l'enseignement supérieur ; 
+l'enseignement supérieur.
 
 L'étranger titulaire de la carte de séjour temporaire portant la mention " étudiant " d'une durée de validité supérieure à un
 an transmet chaque année à l'autorité administrative qui l'a délivrée, par courrier avec demande d'avis de réception, une
@@ -20444,14 +20463,14 @@ attestation de réussite à l'examen ou d'admission à l'année supérieure.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2008-223 du 6 mars 2008 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 12 mai 2011 - art. 2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-921 du 18 août 2014 - art. 6
 
 	**Cite**:
 
@@ -20690,33 +20709,34 @@ trois mois suivant la date à laquelle l'information a été transmise.
 
 ###### Article R314-2
 
-Pour l'application des dispositions des articles L. 314-11 et L. 314-12, l'étranger présente à l'appui de sa demande :
+Pour l'application des dispositions des articles L. 314-11 et L. 314-12, l'étranger présente à l'appui de sa demande : 
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint de ses enfants et de ses
-ascendants ;
+ascendants ; 
 
 2° Les documents et visas en cours de validité mentionnés dans l'arrêté prévu par l'article R. 211-1 ou, si l'étranger
 sollicite la délivrance d'une carte de résident en application du 2° de l'article L. 314-11, un visa pour un séjour d'une
 durée supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-3, ou, le cas échéant, le titre de séjour
 arrivant à expiration délivré en application du présent code justifiant qu'il séjourne régulièrement sur le territoire
-français ;
+français ; 
 
 3° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
-il ne vit pas en France en état de polygamie ;
+il ne vit pas en France en état de polygamie ; 
 
-4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ;
+4° Un certificat médical délivré dans les conditions fixées par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé de l'immigration ; 
 
 5° Les pièces justifiant qu'il entre dans l'un des cas prévus aux articles L. 314-11 et L. 314-12 pour se voir délivrer de
-plein droit la carte de résident ;
+plein droit la carte de résident ; 
 
-6° Trois photographies répondant aux caractéristiques prévues au 5° de l'article R. 313-1.
+6° Trois photographies répondant aux caractéristiques prévues au 5° de l'article R. 313-1. 
 
 Les visas mentionnés au 2° du présent article ne sont pas exigés de l'étranger mentionné au 3° de l'article L. 314-11,
 lorsqu'il est ressortissant d'un Etat dont les nationaux sont dispensés de visa de court séjour en vertu des stipulations
-d'une convention internationale applicable en France.
+d'une convention internationale applicable en France. 
 
 Les justificatifs prévus aux 2° et 3° du présent article ne sont pas exigés de l'étranger qui remplit les conditions
-mentionnées à l'article L. 314-12.
+mentionnées à l'article L. 314-12. 
 
 Le certificat médical prévu au 4° du présent article n'est pas exigé de l'étranger mentionné aux 4°, 5°, 6° et 7° de
 l'article L. 314-11.
@@ -20725,11 +20745,11 @@ l'article L. 314-11.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-373 du 21 mars 2007 - art. 31 () JORF 22 mars 2007
+	  - Décret n°2014-921 du 18 août 2014 - art. 3
 
 	**Cité par**:
 
@@ -20737,11 +20757,10 @@ l'article L. 314-11.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-11 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L314-12 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R211-1 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R211-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
 
 
 ##### Section 3 : Renouvellement de la carte de résident
