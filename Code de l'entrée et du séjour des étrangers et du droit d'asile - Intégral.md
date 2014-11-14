@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-08-22
+Version Consolidée au 2014-11-15
 
 # Partie législative
 
@@ -1222,12 +1222,7 @@ désintéressées.
 L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public
 ou qui fait l'objet soit d'une peine d'interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté
 de reconduite à la frontière pris moins de trois ans auparavant en application de l'article L. 533-1, soit d'une interdiction
-de retour sur le territoire français.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+de retour sur le territoire français, soit d'une interdiction administrative du territoire.
 
 **Liens relatifs à cet article**
 
@@ -1247,11 +1242,11 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 65
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L533-1
 
 
 ###### Article L213-2
@@ -1535,6 +1530,170 @@ l'administration.
 	**Cite**:
 
 	  - Code de justice administrative - art. L222-2-1 (V)
+
+
+#### Chapitre IV : Interdiction administrative du territoire 
+
+
+
+###### Article L214-1
+
+Tout ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen
+ou de la Confédération suisse ou tout membre de la famille d'une telle personne peut, dès lors qu'il ne réside pas
+habituellement en France et ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du
+territoire lorsque sa présence en France constituerait, en raison de son comportement personnel, du point de vue de l'ordre
+ou de la sécurité publics, une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 4-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 4-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+
+###### Article L214-2
+
+Tout ressortissant étranger non mentionné à l'article L. 214-1 peut, dès lors qu'il ne réside pas habituellement en France et
+ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du territoire lorsque sa
+présence en France constituerait une menace grave pour l'ordre public, la sécurité intérieure ou les relations
+internationales de la France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-1
+
+
+###### Article L214-3
+
+L'interdiction administrative du territoire fait l'objet d'une décision du ministre de l'intérieur écrite et rendue après une
+procédure non contradictoire. Elle est motivée, à moins que des considérations relevant de la sûreté de l'Etat ne s'y
+opposent. 
+
+Si l'étranger est entré en France alors que la décision d'interdiction administrative du territoire prononcée antérieurement
+ne lui avait pas déjà été notifiée, il est procédé à cette notification sur le territoire national. 
+
+Lorsque la décision a été prise en application de l'article L. 214-1 et que l'intéressé est présent en France à la date de sa
+notification, il bénéficie à compter de cette date d'un délai pour quitter le territoire qui, sauf urgence, ne peut être
+inférieur à un mois.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4-1 (V)
+	  - Code de justice administrative - art. R312-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-1
+
+
+###### Article L214-4
+
+L'étranger qui fait l'objet d'une interdiction administrative du territoire et qui s'apprête à entrer en France peut faire
+l'objet d'un refus d'entrée, dans les conditions prévues au chapitre III du présent titre. 
+
+Lorsque l'étranger qui fait l'objet d'une interdiction administrative du territoire est présent sur le territoire français,
+il peut être reconduit d'office à la frontière, le cas échéant à l'expiration du délai prévu à l'article L. 214-3. L'article
+L. 513-2, le premier alinéa de l'article L. 513-3 et les titres V et VI du livre V sont applicables à la reconduite à la
+frontière des étrangers faisant l'objet d'une interdiction administrative du territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R214-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R513-1-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
+
+
+###### Article L214-5
+
+L'autorité administrative peut à tout moment abroger l'interdiction administrative du territoire. L'étranger peut introduire
+une demande de levée de la mesure après un délai d'un an à compter de son prononcé. Le silence gardé pendant plus de quatre
+mois sur la demande de levée vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 4-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 4-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+
+###### Article L214-6
+
+Sans préjudice des dispositions de l'article L. 214-5, les motifs de l'interdiction administrative du territoire donnent lieu
+à un réexamen tous les cinq ans à compter de la date de la décision.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 4-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-5
+
+
+###### Article L214-7
+
+Le second alinéa de l'article L. 214-4 n'est pas applicable à l'étranger mineur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-4
 
 
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE
@@ -8255,16 +8414,12 @@ L. 531-3 du présent code ;
 6° Fait l'objet d'une obligation de quitter le territoire français prise moins d'un an auparavant et pour laquelle le délai
 pour quitter le territoire est expiré ou n'a pas été accordé ; 
 
-7° Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour ; 
+7° Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour ou d'une interdiction administrative
+du territoire ; 
 
 8° Ayant fait l'objet d'une décision de placement en rétention au titre des 1° à 7°, n'a pas déféré à la mesure d'éloignement
 dont il est l'objet dans un délai de sept jours suivant le terme de son précédent placement en rétention ou, y ayant déféré,
 est revenu en France alors que cette mesure est toujours exécutoire.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8275,7 +8430,7 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 44
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -8308,10 +8463,10 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
-	  - Code pénal - art. 131-30 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L533-1
+	  - Code pénal - art. 131-30
 
 
 ###### Article L551-2
@@ -8490,13 +8645,9 @@ représentation effectives, après remise à un service de police ou à une unit
 tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est
 portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui
 s'est préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction
-de retour sur le territoire français en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du
-territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+de retour sur le territoire français en vigueur, d'une interdiction administrative du territoire en vigueur, d'une mesure de
+reconduite à la frontière en vigueur, d'une interdiction du territoire dont il n'a pas été relevé, ou d'une mesure
+d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
 
 **Liens relatifs à cet article**
 
@@ -8507,7 +8658,7 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 46
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -9023,6 +9174,8 @@ conséquence sur la régularité et le bien-fondé de procédures ultérieures d
 
 #### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.
 
+#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français
+
 ###### Article L555-1
 
 L'interdiction du territoire prononcée à titre de peine principale et assortie de l'exécution provisoire entraîne de plein
@@ -9137,7 +9290,9 @@ L. 531-2 ;
 4° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction de retour ; 
 
 5° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa
-de l'article 131-30 du code pénal. 
+de l'article 131-30 du code pénal ;
+
+6° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire. 
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, et renouvelée
 une fois ou plus dans la même limite de durée, par une décision également motivée. Par exception, cette durée ne s'applique
@@ -9151,11 +9306,6 @@ conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignat
 
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
 624-4.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -9190,15 +9340,15 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 47
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-2 (V)
-	  - Code pénal - art. 131-30 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
+	  - Code pénal - art. 131-30
 
 
 ###### Article L561-2
@@ -9392,43 +9542,57 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 	  - Loi n°2016-274 du 7 mars 2016 - art. 40
 
 
-### TITRE VII : DISPOSITIONS DIVERSES
+#### Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée
 
-###### Article L571-1
+###### Article L563-1
 
-La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure
-d'interdiction du territoire, d'obligation de  quitter le territoire français, d'interdiction de retour sur le territoire
-français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen
-est régie par les dispositions de l'article 729-2 du code de procédure pénale, ci-après reproduit : 
+L'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles L. 523-3, L. 523-4 ou L. 541-3
+qui a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus au titre II du livre IV du
+code pénal ou à l'encontre duquel un arrêté d'expulsion a été prononcé pour un comportement lié à des activités à caractère
+terroriste peut, si la préservation de la sécurité publique l'exige, se voir prescrire par l'autorité administrative
+compétente pour prononcer l'assignation à résidence une interdiction de se trouver en relation, directement ou indirectement,
+avec certaines personnes nommément désignées dont le comportement est lié à des activités à caractère terroriste. La décision
+est écrite et motivée. Elle peut être prise pour une durée maximale de six mois et renouvelée, dans la même limite de durée,
+par une décision également motivée. Cette interdiction est levée dès que les conditions ne sont plus satisfaites ou en cas de
+levée de l'assignation à résidence. 
 
-" Art. 729-2 du code de procédure pénale. 
-
-" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire
-français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt
-européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée
-sans son consentement. 
-
-Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application
-des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire
-d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures
-d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté
-conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français.
-Dans le cas contraire, la mesure redevient exécutoire. "
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+La violation de cette interdiction est sanctionnée dans les conditions prévues à l'article L. 624-4 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 47
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 3
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
+	  - Code de justice administrative - art. R312-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L541-3
+
+
+### TITRE VII : DISPOSITIONS DIVERSES
+
+###### Article L571-1
+
+La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure
+d'interdiction du territoire, d'obligation de quitter le territoire français, d'interdiction de retour sur le territoire
+français, d'interdiction administrative du territoire, de reconduite à la frontière, d'expulsion, d'extradition ou de remise
+sur le fondement d'un mandat d'arrêt européen est régie par les dispositions de l'article 729-2 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 729-2 (V)
 
 
 ###### Article L571-2
@@ -10494,16 +10658,17 @@ indivis.
 ###### Article L624-1
 
 Tout étranger qui, faisant l'objet d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière, d'une obligation de
-quitter le territoire français ou d'une interdiction judiciaire du territoire, se sera maintenu irrégulièrement sur le
-territoire français sans motif légitime, après avoir fait l'objet d'une mesure régulière de placement en rétention ou
-d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement, sera puni d'un an d'emprisonnement
-et de 3 750 € d'amende. 
+quitter le territoire français, d'une interdiction administrative du territoire ou d'une interdiction judiciaire du
+territoire, se sera maintenu irrégulièrement sur le territoire français sans motif légitime, après avoir fait l'objet d'une
+mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son
+éloignement, sera puni d'un an d'emprisonnement et de 3 750 € d'amende. 
 
 Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en
-France, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire
-français ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du territoire, d'une interdiction de retour sur
-le territoire français ou d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de
-l'article L. 533-1, aura pénétré de nouveau sans autorisation en France sera puni d'une peine de trois ans d'emprisonnement. 
+France, d'une interdiction administrative du territoire, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière
+ou d'une obligation de quitter le territoire français, ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du
+territoire, d'une interdiction administrative du territoire, d'une interdiction de retour sur le territoire français ou d'un
+arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article L. 533-1, aura pénétré de
+nouveau sans autorisation en France sera puni d'une peine de trois ans d'emprisonnement. 
 
 La même peine sera applicable à tout étranger qui n'aura pas présenté à l'autorité administrative compétente les documents de
 voyage permettant l'exécution de l'une des mesures mentionnées au deuxième alinéa ou qui, à défaut de ceux-ci, n'aura pas
@@ -10526,7 +10691,7 @@ communiqué les renseignements permettant cette exécution ou aura communiqué d
 
 	**Modifié par**:
 
-	  - Loi n°2012-1560 du 31 décembre 2012 - art. 9
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
 
 	**Cite**:
 
@@ -10601,9 +10766,12 @@ l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois
 Les étrangers visés à l'article L. 571-3 qui n'ont pas respecté les prescriptions liées au placement sous surveillance
 électronique sont passibles d'une peine d'emprisonnement d'un an. 
 
-Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles L. 523-3, L. 523-4, L. 523-5
-ou L. 541-3 et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie
-prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un an.
+Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles L. 523-3, L. 523-4, L.
+523-5, L. 541-3 ou du 6° de l'article L. 561-1 et qui n'ont pas respecté les obligations de présentation aux services de
+police et aux unités de gendarmerie prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un an. 
+
+La même peine d'emprisonnement d'un an est applicable aux étrangers qui n'ont pas respecté les interdictions qui leur sont
+prescrites en application de l'article L. 563-1.
 
 **Liens relatifs à cet article**
 
@@ -10614,7 +10782,8 @@ prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un 
 
 	**Modifié par**:
 
-	  - Loi n°2012-1432 du 21 décembre 2012 - art. 10
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 3
 
 	**Cité par**:
 
@@ -10626,13 +10795,13 @@ prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L562-2 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L563-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R571-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R571-4 (V)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L541-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L563-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L571-3
 
 
