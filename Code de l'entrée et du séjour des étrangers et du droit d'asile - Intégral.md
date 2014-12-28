@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-11-15
+Version Consolidée au 2014-12-29
 
 # Partie législative
 
@@ -9171,8 +9171,6 @@ conséquence sur la régularité et le bien-fondé de procédures ultérieures d
 	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
 	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-
-#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.
 
 #### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français
 
@@ -26395,13 +26393,15 @@ police aux frontières et le directeur général de la gendarmerie nationale ;
 personnels de la direction des libertés publiques et des affaires juridiques individuellement désignés et spécialement
 habilités par leur directeur ; 
 
-9° Dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 modifiée : 
+9° Dans les conditions fixées par l'article L. 222-1 du code de la sécurité intérieure :
 
-a) Les agents des services de la direction générale de la police nationale et les militaires de la direction générale de la
-gendarmerie nationale chargés des missions de prévention et de répression des actes de terrorisme ; 
+- les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
+missions de prévention et de répression des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme,
+individuellement désignés et spécialement habilités par le directeur général dont ils relèvent ;
 
-b) Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de
-terrorisme ; 
+- les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
+individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
+prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ; 
 
 10° A des fins exclusives d'établissement de statistiques pour la consultation d'éléments anonymisés obtenus à partir du
 traitement automatisé : 
@@ -26422,7 +26422,6 @@ préfet.
 	**Cite**:
 
 	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
@@ -26432,7 +26431,6 @@ préfet.
 	  - Code de procédure pénale - art. 28-2
 	  - Code de procédure pénale - art. 78-2
 	  - Code des douanes - art. 67 quater
-	  - Code du travail - art. L5312-1
 	  - Code du travail - art. L5411-4
 	  - Code du travail - art. L8113-7
 	  - Code du travail - art. L8251-1
@@ -26445,6 +26443,8 @@ préfet.
 	  - Code de la sécurité sociale. - art. L512-2
 	  - Code de la sécurité sociale. - art. L831-1
 	  - Code de l'action sociale et des familles - art. L262-4
+	  - Code de la sécurité intérieure - art. L222-1 (V)
+	  - Code de la sécurité intérieure - art. R222-1 (V)
 
 	**Cité par**:
 
@@ -26456,7 +26456,7 @@ préfet.
 
 	**Modifié par**:
 
-	  - Décret n°2014-524 du 22 mai 2014 - art. 20
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 7
 
 
 ###### Article R611-6
@@ -26814,14 +26814,13 @@ accéder aux données à caractère personnel enregistrées dans le traitement a
 III.-Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les
 conditions fixées à l'article L. 222-1 du code de la sécurité intérieure : 
 
-1° Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
-nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et
-spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la
-gendarmerie nationale ; 
+1° Les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
+missions de prévention et de répression des actes de terrorisme, individuellement désignés et spécialement habilités
+respectivement par le directeur général dont ils relèvent ; 
 
-2° Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de
-terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
-directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
+2° Les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
+individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
+prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme.
 
 **Liens relatifs à cet article**
 
@@ -26832,14 +26831,15 @@ directeur de la protection et de la sécurité de la défense ou le directeur du
 
 	**Modifié par**:
 
-	  - Décret n°2013-147 du 18 février 2013 - art. 4
+	  - Décret n°2014-1641 du 26 décembre 2014 - art. 7
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 	  - Code de procédure pénale - art. 78-3
-	  - Code de la sécurité intérieure - art. L222-1
+	  - Code de la sécurité intérieure - art. L222-1 (V)
+	  - Code de la sécurité intérieure - art. R222-1 (V)
 
 
 ###### Article R611-13
