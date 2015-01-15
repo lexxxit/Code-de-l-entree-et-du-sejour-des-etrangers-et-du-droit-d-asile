@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-12-29
+Version Consolidée au 2015-01-16
 
 # Partie législative
 
@@ -23525,6 +23525,22 @@ reconduit à la frontière est le préfet de département et, à Paris, le préf
 	  - Décret n°2011-820 du 8 juillet 2011 - art. 6
 
 
+###### Article R513-1-1
+
+L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi dans le cas prévu au deuxième alinéa
+de l'article L. 214-4 est le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (V)
+
+
 ##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ
 
 ###### Article R513-2
@@ -25898,6 +25914,22 @@ ou de l'article L. 561-2 est le préfet de département et, à Paris, le préfet
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+
+###### Article R561-1-1
+
+L'autorité administrative compétente pour assigner un étranger à résidence en application du 6° de l'article L. 561-1 est le
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-26 du 14 janvier 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ###### Article R561-2
