@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-06-06
+Version Consolidée au 2015-07-20
 
 # Partie législative
 
@@ -11671,43 +11671,6 @@ demande.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
 
 
-###### Article L723-3
-
-L'office convoque le demandeur à une audition. Il peut s'en dispenser s'il apparaît que :
-
-a) L'office s'apprête à prendre une décision positive à partir des éléments en sa possession ;
-
-b) Le demandeur d'asile a la nationalité d'un pays pour lequel ont été mises en oeuvre les stipulations du 5 du C de
-l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ;
-
-c) Les éléments fournis à l'appui de la demande sont manifestement infondés ;
-
-d) Des raisons médicales interdisent de procéder à l'entretien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-893 1952-07-25 art. 2, paragraphe II, al. 1, phrase 2 et art. 3, al. 2 à 5
-	  - Loi n°52-893 du 25 juillet 1952 - art. 2 (M)
-	  - Loi n°52-893 du 25 juillet 1952 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Cité par**:
-
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (V)
-
-
 ###### Article L723-3-1
 
 L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et
@@ -11777,6 +11740,60 @@ mesure d'éloignement et qu'elle ne porte pas atteinte à la sécurité de cette
 
 ##### Section 1 : Garanties procédurales et obligations du demandeur
 
+###### Article L723-3
+
+Pendant toute la durée de la procédure d'examen de la demande, l'office peut définir les modalités particulières d'examen
+qu'il estime nécessaires pour l'exercice des droits d'un demandeur en raison de sa situation particulière ou de sa
+vulnérabilité. 
+
+Pour l'application du premier alinéa du présent article, l'office tient compte des informations sur la vulnérabilité qui lui
+sont transmises en application de l'article L. 744-6 et des éléments de vulnérabilité dont il peut seul avoir connaissance au
+vu de la demande ou des déclarations de l'intéressé. 
+
+L'office peut statuer par priorité sur les demandes manifestement fondées ainsi que sur les demandes présentées par des
+personnes vulnérables identifiées comme ayant des besoins particuliers en matière d'accueil en application de l'article L.
+744-6 ou comme nécessitant des modalités particulières d'examen. 
+
+Lorsque l'office considère que le demandeur d'asile, en raison notamment des violences graves dont il a été victime ou de sa
+minorité, nécessite des garanties procédurales particulières qui ne sont pas compatibles avec l'examen de sa demande en
+procédure accélérée en application de l'article L. 723-2, il peut décider de ne pas statuer ainsi.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-3 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-893 du 25 juillet 1952 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
+
 ###### Article L723-5
 
 L'office statue sur le renouvellement de la protection subsidiaire au terme de la période d'un an pour laquelle il l'a
@@ -11807,6 +11824,201 @@ moment au bénéfice de cette protection dans le cas prévu au second alinéa de
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
+
+
+###### Article L723-6
+
+L'office convoque le demandeur à un entretien personnel. Il peut s'en dispenser s'il apparaît que : 
+
+1° L'office s'apprête à prendre une décision reconnaissant la qualité de réfugié à partir des éléments en sa possession ; 
+
+2° Des raisons médicales, durables et indépendantes de la volonté de l'intéressé interdisent de procéder à l'entretien. 
+
+Chaque demandeur majeur est entendu individuellement, hors de la présence des membres de sa famille. L'office peut entendre
+individuellement un demandeur mineur, dans les mêmes conditions, s'il estime raisonnable de penser qu'il aurait pu subir des
+persécutions ou des atteintes graves dont les membres de la famille n'auraient pas connaissance. 
+
+L'office peut procéder à un entretien complémentaire en présence des membres de la famille s'il l'estime nécessaire à
+l'examen approprié de la demande. 
+
+Le demandeur se présente à l'entretien et répond personnellement aux questions qui lui sont posées par l'agent de l'office.
+Il est entendu dans la langue de son choix, sauf s'il existe une autre langue dont il a une connaissance suffisante. 
+
+Si le demandeur en fait la demande et si cette dernière apparaît manifestement fondée par la difficulté pour le demandeur
+d'exposer l'ensemble des motifs de sa demande d'asile, notamment ceux liés à des violences à caractère sexuel, l'entretien
+est mené, dans la mesure du possible, par un agent de l'office du sexe de son choix et en présence d'un interprète du sexe de
+son choix. 
+
+Le demandeur peut se présenter à l'entretien accompagné soit d'un avocat, soit d'un représentant d'une association de défense
+des droits de l'homme, d'une association de défense des droits des étrangers ou des demandeurs d'asile, d'une association de
+défense des droits des femmes ou des enfants ou d'une association de lutte contre les persécutions fondées sur le sexe ou
+l'orientation sexuelle. Les conditions d'habilitation des associations et les modalités d'agrément de leurs représentants par
+l'office sont fixées par décret en Conseil d'Etat ; peuvent seules être habilitées les associations indépendantes à l'égard
+des autorités des pays d'origine des demandeurs d'asile et apportant une aide à tous les demandeurs. L'avocat ou le
+représentant de l'association ne peut intervenir qu'à l'issue de l'entretien pour formuler des observations. 
+
+L'absence d'un avocat ou d'un représentant d'une association n'empêche pas l'office de mener un entretien avec le demandeur. 
+
+Sans préjudice de l'article L. 723-13, l'absence sans motif légitime du demandeur, dûment convoqué à un entretien, ne fait
+pas obstacle à ce que l'office statue sur sa demande. 
+
+Sans préjudice des nécessités tenant aux besoins d'une action contentieuse, la personne qui accompagne le demandeur à un
+entretien ne peut en divulguer le contenu. 
+
+Les modalités d'organisation de l'entretien sont définies par le directeur général de l'office. 
+
+Un décret en Conseil d'Etat fixe les cas et les conditions dans lesquels l'entretien peut se dérouler par un moyen de
+communication audiovisuelle pour des raisons tenant à l'éloignement géographique ou à la situation particulière du demandeur.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-6 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-8-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-11 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L724-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R556-13 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-13 (V)
+
+
+###### Article L723-7
+
+I.-L'entretien personnel mené avec le demandeur, ainsi que les observations formulées, font l'objet d'une transcription
+versée au dossier de l'intéressé. 
+
+La transcription est communiquée, à leur demande, à l'intéressé ou à son avocat ou au représentant de l'association avant
+qu'une décision soit prise sur la demande. 
+
+Dans le cas où il est fait application de la procédure accélérée prévue à l'article L. 723-2, cette communication peut être
+faite lors de la notification de la décision. 
+
+II.-Par dérogation au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
+entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, lorsque l'entretien
+personnel mené avec le demandeur a fait l'objet d'une transcription et d'un enregistrement sonore, le demandeur ne peut avoir
+accès à cet enregistrement, dans des conditions sécurisées définies par arrêté du ministre chargé de l'asile, qu'après la
+notification de la décision négative de l'office sur la demande d'asile et pour les besoins de l'exercice d'un recours contre
+cette décision. Cet accès peut être obtenu auprès de l'office ou, en cas de recours, auprès de la Cour nationale du droit
+d'asile. Dans le cas d'un recours exercé en application de l'article L. 213-9, cet accès peut également être rendu possible
+auprès du tribunal administratif. 
+
+Le fait, pour toute personne, de diffuser l'enregistrement sonore réalisé par l'office d'un entretien personnel mené avec un
+demandeur d'asile est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
+
+III.-Les modalités de transcription de l'entretien personnel prévu au I, ainsi que les cas dans lesquels cet entretien fait
+l'objet d'un enregistrement sonore ou est suivi d'un recueil de commentaires, sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-7 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R213-6 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-19 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-7 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-8 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+
+##### Section 4 : Demandes de réexamen
+
+###### Article L723-15
+
+Constitue une demande de réexamen une demande d'asile présentée après qu'une décision définitive a été prise sur une demande
+antérieure, y compris lorsque le demandeur avait explicitement retiré sa demande antérieure, lorsque l'office a pris une
+décision définitive de clôture en application de l'article L. 723-13 ou lorsque le demandeur a quitté le territoire, même
+pour rejoindre son pays d'origine. Ces dispositions s'appliquent sans préjudice du règlement (UE) n° 604/2013 du Parlement
+européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable
+de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays
+tiers ou un apatride. 
+
+Si des éléments nouveaux sont présentés par le demandeur d'asile alors que la procédure concernant sa demande est en cours,
+ils sont examinés, dans le cadre de cette procédure, par l'office si celui-ci n'a pas encore statué ou par la Cour nationale
+du droit d'asile si celle-ci est saisie.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-15 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L731-2 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-15 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-13
+
+
+###### Article L723-16
+
+A l'appui de sa demande de réexamen, le demandeur indique par écrit les faits et produit tout élément susceptible de
+justifier un nouvel examen de sa demande d'asile. 
+
+L'office procède à un examen préliminaire des faits ou des éléments nouveaux présentés par le demandeur intervenus après la
+décision définitive prise sur une demande antérieure ou dont il est avéré qu'il n'a pu en avoir connaissance qu'après cette
+décision. 
+
+Lors de l'examen préliminaire, l'office peut ne pas procéder à un entretien. 
+
+Lorsque, à la suite de cet examen préliminaire, l'office conclut que ces faits ou éléments nouveaux n'augmentent pas de
+manière significative la probabilité que le demandeur justifie des conditions requises pour prétendre à une protection, il
+peut prendre une décision d'irrecevabilité.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-16 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-16 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
 
 
 ### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
@@ -12552,6 +12764,84 @@ chapitre Ier du titre II du livre VI.
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L762-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L763-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
+
+
+### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE
+
+#### Chapitre IV : Conditions d'accueil des demandeurs d'asile
+
+
+
+
+
+
+##### Section 2 : Evaluation des besoins
+
+###### Article L744-6
+
+A la suite de la présentation d'une demande d'asile, l'Office français de l'immigration et de l'intégration est chargé de
+procéder, dans un délai raisonnable et après un entretien personnel avec le demandeur d'asile, à une évaluation de la
+vulnérabilité de ce dernier afin de déterminer, le cas échéant, ses besoins particuliers en matière d'accueil. Ces besoins
+particuliers sont également pris en compte s'ils deviennent manifestes à une étape ultérieure de la procédure d'asile. Dans
+la mise en œuvre des droits des demandeurs d'asile et pendant toute la période d'instruction de leur demande, il est tenu
+compte de la situation spécifique des personnes vulnérables. 
+
+L'évaluation de la vulnérabilité vise, en particulier, à identifier les mineurs, les mineurs non accompagnés, les personnes
+en situation de handicap, les personnes âgées, les femmes enceintes, les parents isolés accompagnés d'enfants mineurs, les
+victimes de la traite des êtres humains, les personnes atteintes de maladies graves, les personnes souffrant de troubles
+mentaux et les personnes qui ont subi des tortures, des viols ou d'autres formes graves de violence psychologique, physique
+ou sexuelle, telles que des mutilations sexuelles féminines. 
+
+L'évaluation de la vulnérabilité du demandeur est effectuée par des agents de l'Office français de l'immigration et de
+l'intégration ayant reçu une formation spécifique à cette fin. 
+
+Lors de l'entretien, le demandeur est informé de sa possibilité de bénéficier de l'examen de santé gratuit prévu à l'article
+L. 321-3 du code de la sécurité sociale. 
+
+Les informations attestant d'une situation particulière de vulnérabilité sont transmises, après accord du demandeur d'asile,
+par l'Office français de l'immigration et de l'intégration à l'Office français de protection des réfugiés et apatrides.
+L'évaluation de la vulnérabilité par l'Office français de l'immigration et de l'intégration ne préjuge pas de l'appréciation
+par l'Office français de protection des réfugiés et apatrides de la vulnérabilité du demandeur en application de l'article L.
+723-3 ou du bien-fondé de sa demande. 
+
+Ces informations peuvent faire l'objet d'un traitement automatisé, dans les conditions fixées par la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Ce décret est pris après avis de la
+Commission nationale de l'informatique et des libertés en tant qu'il précise les modalités de transmission à l'Office
+français de protection des réfugiés et apatrides des données relatives à la vulnérabilité et aux besoins particuliers des
+demandeurs d'asile, la durée de conservation et les conditions de mise à jour des informations enregistrées, les catégories
+de personnes pouvant y accéder et les modalités d'habilitation de celles-ci, ainsi que, le cas échéant, les conditions dans
+lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
+
+**Nota:**
+
+Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-6 du code de l'entrée et du séjour
+des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter du 20 juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de la sécurité sociale. - art. L321-3
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2017-665 du 27 avril 2017 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L723-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-7 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R744-14 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 23
 
 
 ### TITRE V : DISPOSITIONS DIVERSES.
