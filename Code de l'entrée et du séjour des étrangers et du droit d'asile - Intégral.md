@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-07-31
+Version Consolidée au 2015-09-01
 
 # Partie législative
 
@@ -11230,7 +11230,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ## LIVRE VII : LE DROIT D'ASILE
 
-### TITRE Ier : GÉNÉRALITÉS
+### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE
 
 #### Chapitre Ier : La qualité de réfugié
 
@@ -11690,14 +11690,6 @@ nature à faire suspecter le caractère frauduleux d'une demande d'asile ou du s
 
 	  - Loi n°2015-925 du 29 juillet 2015 - art. 5
 
-
-### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE
-
-#### Chapitre Ier : La qualité de réfugié
-
-#### Chapitre II : La protection subsidiaire
-
-#### Chapitre III : Dispositions communes
 
 ### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES
 
@@ -12913,12 +12905,6 @@ sur l'appréciation du besoin de protection.
 	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE
-
-#### Chapitre Ier : Admission au séjour.
-
-#### Chapitre II : Durée du maintien sur le territoire français.
-
 ### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE
 
 #### Chapitre Ier : Enregistrement de la demande d'asile
@@ -13498,8 +13484,6 @@ bénéficie des actions de formation professionnelle continue prévues à l'arti
 	  - Code du travail - art. L6313-1
 
 
-### TITRE V : DISPOSITIONS DIVERSES.
-
 ### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE
 
 ###### Article L751-1
@@ -13842,7 +13826,52 @@ justifient.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L753-1
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
+### TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER
+
+#### Chapitre Ier : Dispositions applicables à Mayotte
+
+###### Article L761-1
+
+Pour l'application du présent livre à Mayotte : 
+
+1° Le 1° du III de l'article L. 723-2 n'est pas applicable ; 
+
+2° Au premier alinéa de l'article L. 741-1, les mots : " et procède à la détermination de l'Etat responsable en application
+du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
+détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
+Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ; 
+
+3° Le chapitre II du titre IV n'est pas applicable ; 
+
+4° Le 1° de l'article L. 744-3 n'est pas applicable ; 
+
+5° L'article L. 744-9 est ainsi rédigé : 
+
+" Art. L. 744-9.-Le demandeur d'asile dont la demande est enregistrée à Mayotte peut bénéficier d'un hébergement dans une
+structure mentionnée au 2° de l'article L. 744-3 et des aides matérielles. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-893 du 25 juillet 1952 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 32
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
 
@@ -14199,61 +14228,6 @@ maintenir sur le territoire.
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R765-1 (VD)
 
-
-### TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER
-
-#### Chapitre Ier : Dispositions applicables à Mayotte
-
-###### Article L761-1
-
-Pour l'application du présent livre à Mayotte : 
-
-1° Le 1° du III de l'article L. 723-2 n'est pas applicable ; 
-
-2° Au premier alinéa de l'article L. 741-1, les mots : " et procède à la détermination de l'Etat responsable en application
-du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
-détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
-Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ; 
-
-3° Le chapitre II du titre IV n'est pas applicable ; 
-
-4° Le 1° de l'article L. 744-3 n'est pas applicable ; 
-
-5° L'article L. 744-9 est ainsi rédigé : 
-
-" Art. L. 744-9.-Le demandeur d'asile dont la demande est enregistrée à Mayotte peut bénéficier d'un hébergement dans une
-structure mentionnée au 2° de l'article L. 744-3 et des aides matérielles. "
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-893 du 25 juillet 1952 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 32
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-9 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
-
-
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
-
-#### Chapitre III : Dispositions applicables en Polynésie française
-
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie
-
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises
 
 #### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
 
@@ -18744,19 +18718,27 @@ autorise son titulaire à travailler.
 
 ###### Article R311-7
 
-Lorsque la demande de titre de séjour est déposée auprès d'un établissement d'enseignement conformément au 2° de l'article R.
-311-1, elle est transmise sans délai à la préfecture en vue de son instruction. Il est remis au demandeur un document
-attestant du dépôt de sa demande. Ce document ne vaut pas autorisation de séjour.
+Par dérogation au premier alinéa de l'article R. 311-10, lorsque la demande de titre de séjour est déposée auprès d'un
+établissement d'enseignement supérieur conformément au 2° de l'article R. 311-1, le préfet compétent pour délivrer la carte
+de séjour prévue à l'article L. 313-7 est le préfet du département où se situe cet établissement. La demande de titre de
+séjour lui est transmise sans délai. Il est remis au demandeur un document attestant du dépôt de sa demande. Ce document ne
+vaut pas autorisation de séjour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-10
 
 
 ###### Article R311-8
@@ -22127,13 +22109,23 @@ de sa demande :
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
 
+1° bis Un justificatif de domicile ; 
+
 2° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 9
 
 	**Cité par**:
 
@@ -22291,6 +22283,8 @@ de résident ou de carte de résident portant la mention " résident de longue d
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
+1° bis Un justificatif de domicile ; 
+
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
 il ne vit pas en France en état de polygamie ; 
 
@@ -22328,7 +22322,7 @@ titulaire depuis au moins trois années de la carte de séjour temporaire mentio
 
 	**Modifié par**:
 
-	  - Décret n°2014-301 du 6 mars 2014 - art. 7
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
 
 	**Cité par**:
 
@@ -22337,11 +22331,11 @@ titulaire depuis au moins trois années de la carte de séjour temporaire mentio
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
-	  - Code de l'action sociale et des familles - art. L117-1
 
 
 ###### Article R314-1-1
@@ -22489,6 +22483,8 @@ Pour l'application des dispositions des articles L. 314-11 et L. 314-12, l'étra
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint de ses enfants et de ses
 ascendants ; 
 
+1° bis Un justificatif de domicile ; 
+
 2° Les documents et visas en cours de validité mentionnés dans l'arrêté prévu par l'article R. 211-1 ou, si l'étranger
 sollicite la délivrance d'une carte de résident en application du 2° de l'article L. 314-11, un visa pour un séjour d'une
 durée supérieure à trois mois autre que celui mentionné au 3° de l'article R. 311-3, ou, le cas échéant, le titre de séjour
@@ -22524,7 +22520,7 @@ l'article L. 314-11.
 
 	**Modifié par**:
 
-	  - Décret n°2014-921 du 18 août 2014 - art. 3
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
 
 	**Cité par**:
 
@@ -22548,6 +22544,8 @@ L. 314-8-2 :
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de ses enfants et de ses
 ascendants ; 
+
+1° bis Un justificatif de domicile ; 
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
 il ne vit pas en France en état de polygamie ; 
@@ -22577,7 +22575,7 @@ statut " résident longue durée-CE " dans un autre Etat membre de l'Union europ
 
 	**Modifié par**:
 
-	  - Décret n°2014-301 du 6 mars 2014 - art. 7
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
 
 	**Cité par**:
 
@@ -22587,6 +22585,8 @@ statut " résident longue durée-CE " dans un autre Etat membre de l'Union europ
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-7
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 
 ##### Section 4 : Délivrance de la carte de résident permanent
@@ -22742,9 +22742,9 @@ L'accusé de réception de la demande de carte de séjour ne vaut pas récépiss
 ###### Article R315-5
 
 L'étranger déjà admis au séjour sur le fondement de l'article L. 311-2 ou L. 311-11 qui souhaite bénéficier de la carte de
-séjour portant la mention "compétences et talents" présente sa demande au plus tard deux mois avant l'expiration de son titre
-de séjour auprès du préfet du département du lieu de sa résidence. A l'appui de sa demande, il présente les pièces
-mentionnées aux 1° à 5° de l'article R. 315-4.
+séjour portant la mention " compétences et talents " présente sa demande au plus tard deux mois avant l'expiration de son
+titre de séjour auprès du préfet du département du lieu de sa résidence. A l'appui de sa demande, il présente les pièces
+mentionnées aux 1° à 5° de l'article R. 315-4 ainsi qu'un justificatif de domicile.
 
 **Liens relatifs à cet article**
 
@@ -22754,12 +22754,17 @@ mentionnées aux 1° à 5° de l'article R. 315-4.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 39
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 12
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R315-4 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-11
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R315-4
 
 
 ###### Article R315-6
@@ -22836,6 +22841,8 @@ renouvellement dans les conditions prévues aux premier et deuxième alinéas de
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
+1° bis Un justificatif de domicile ; 
+
 2° La carte de séjour portant la mention " compétences et talents " ; 
 
 3° Tout document justifiant de son activité ; 
@@ -22852,7 +22859,11 @@ renouvellement dans les conditions prévues aux premier et deuxième alinéas de
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 29
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 12
 
 	**Cite**:
 
@@ -24195,17 +24206,17 @@ Pour l'application du 2° de l'article L. 411-5, est considéré comme normal un
 
 1° Présente une superficie habitable totale au moins égale à :
 
-- en zone A : 22 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
-de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+- en zones A bis et A : 22 m² pour un ménage sans enfant ou deux personnes, augmentée de 10 m² par personne jusqu'à huit
+personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 
-- en zone B : 24 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
-de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+- en zones B1 et B2 : 24 m² pour un ménage sans enfant ou deux personnes, augmentée de 10 m² par personne jusqu'à huit
+personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 
-- en zone C : 28 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et
+- en zone C : 28 m² pour un ménage sans enfant ou deux personnes, augmentée de 10 m² par personne jusqu'à huit personnes et
 de 5 m2 par personne supplémentaire au-delà de huit personnes. 
 
-Les zones A, B et C ci-dessus sont celles définies pour l'application du 1er alinéa du j du 1° du I de l'article 31 du code
-général des impôts ; 
+Les zones A bis, A, B1, B2 et C ci-dessus sont celles définies pour l'application de l'article R. 304-1 du code de la
+construction et de l'habitation ; 
 
 2° Satisfait aux conditions de salubrité et d'équipement fixées aux articles 2 et 3 du décret n° 2002-120 du 30 janvier 2002
 relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13
@@ -24227,10 +24238,12 @@ décembre 2000 relative à la solidarité et au renouvellement urbain, dans sa v
 
 	**Cite**:
 
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 187
 	  - Décret n°2002-120 du 30 janvier 2002
+	  - Décret n°2002-120 du 30 janvier 2002 - art. 2
 	  - Décret n°2014-527 du 23 mai 2014
-	  - Code général des impôts, CGI. - art. 31
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-5
+	  - Code de la construction et de l'habitation. - art. R304-1 (V)
 
 	**Codifié par**:
 
@@ -24238,7 +24251,7 @@ décembre 2000 relative à la solidarité et au renouvellement urbain, dans sa v
 
 	**Modifié par**:
 
-	  - Décret n°2014-527 du 23 mai 2014 - art. 5
+	  - Décret n°2015-938 du 30 juillet 2015 - art. 4
 
 	**Cité par**:
 
