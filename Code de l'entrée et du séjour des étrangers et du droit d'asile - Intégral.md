@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-09-01
+Version Consolidée au 2015-10-01
 
 # Partie législative
 
@@ -28784,30 +28784,40 @@ application de l'article L. 611-2 est le préfet de département et, à Paris, l
 
 ###### Article R611-42
 
-Les aubergistes, hôteliers, logeurs ou loueurs de maisons garnies, les gestionnaires de droit ou de fait de terrains de
-camping aménagés ou de terrains aménagés destinés au stationnement des caravanes sont tenus de faire remplir et signer par
-l'étranger, dès son arrivée, une fiche individuelle de police. Elle doit mentionner notamment :
+Aux fins de prévention des troubles à l'ordre public, d'enquêtes judiciaires et de recherche dans l'intérêt des personnes,
+les hôteliers, les exploitants de villages et maisons familiales de vacances, de résidences et villages résidentiels de
+tourisme, les loueurs de meublés de tourisme et de chambres d'hôtes, les exploitants de terrains de camping, caravanage et
+autres terrains aménagés sont tenus de faire remplir et signer par l'étranger, dès son arrivée, une fiche individuelle de
+police, dont le modèle est fixé par arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'immigration et du
+ministre chargé du tourisme. 
 
-1° Le nom et les prénoms ;
+Les données personnelles ainsi collectées sont notamment : 
 
-2° La date et le lieu de naissance ;
+1° Le nom et les prénoms ; 
 
-3° La nationalité ;
+2° La date et le lieu de naissance ; 
 
-4° Le domicile habituel de l'étranger.
+3° La nationalité ; 
 
-Les enfants âgés de moins de 15 ans peuvent figurer sur la fiche de l'un des parents.
+4° Le domicile habituel de l'étranger ; 
 
-Les fiches ainsi établies doivent être remises chaque jour aux autorités de police.
+5° Le numéro de téléphone mobile et l'adresse électronique de l'étranger ; 
+
+6° La date d'arrivée au sein de l'établissement et la date de départ prévue. 
+
+Les enfants âgés de moins de 15 ans peuvent figurer sur la fiche d'un adulte qui les accompagne.
+
+Les fiches ainsi établies doivent être conservées pendant une durée de six mois et remises, sur leur demande, aux services de
+police et unités de gendarmerie. Cette transmission peut s'effectuer sous forme dématérialisée.
 
 Les personnes physiques ou morales louant des locaux nus ne sont pas astreintes aux obligations prévues aux alinéas ci-
 dessus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1310 du 26 octobre 2009 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 6 (V)
 
 	**Cité par**:
 
