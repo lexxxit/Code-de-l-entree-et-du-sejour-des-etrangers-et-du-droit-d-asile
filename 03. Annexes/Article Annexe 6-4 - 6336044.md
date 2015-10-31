@@ -232,7 +232,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage de plus d'un an
+B. - Mentions figurant sur les titres de voyage 
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -254,15 +254,20 @@ a) Titre de voyage pour réfugié (TVR) :
 
 9° Pays d'origine de l'intéressé ;
 
-10° Autorité de délivrance ;
+10° Pays exclus ; 
 
-11° Numéro du titre de voyage ;
+11° Autorité de délivrance ;
 
-12° Signature du titulaire.
+12° Numéro du titre de voyage ;
+
+13° Signature du titulaire ;
+
+14° Numéro d'enregistrement dans le système AGDREF (application de gestion des dossiers des ressortissants étrangers en
+France).
 
 b) Titre de voyage pour apatride (TVA) :
 
-Les données mentionnées sont celles figurant au a.
+Les données mentionnées sont celles figurant au a, à l'exception du 10°.
 
 c) Titre d'identité et de voyage (TIV) :
 
@@ -364,7 +369,7 @@ frontalier) ainsi que les images numérisées de deux empreintes digitales.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1082 du 29 novembre 2013 - art. 9
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 24
 
 	**Cité par**:
 
