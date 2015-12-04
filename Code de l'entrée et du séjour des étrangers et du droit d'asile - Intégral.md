@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-12-05
 
 # Partie législative
 
@@ -30068,6 +30068,28 @@ donnant lieu à un rapport communiqué à la Commission nationale de l'informati
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
+
+
+##### Section 3 : Du fichier automatisé des empreintes digitales
+
+###### Article R611-16
+
+Le fichier automatisé des empreintes digitales est régi par le décret n° 87-249 du 8 avril 1987 modifié relatif au fichier
+automatisé des empreintes digitales géré par le ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°87-249 du 8 avril 1987 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1580 du 2 décembre 2015 - art. 14
 
 
 ##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration
