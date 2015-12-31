@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-12-05
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -12639,7 +12639,7 @@ des étrangers et du droit d'asile, dans sa rédaction résultant de la présent
 
 ###### Article L723-7
 
-I.-L'entretien personnel mené avec le demandeur, ainsi que les observations formulées, font l'objet d'une transcription
+I. - L'entretien personnel mené avec le demandeur, ainsi que les observations formulées, font l'objet d'une transcription
 versée au dossier de l'intéressé. 
 
 La transcription est communiquée, à leur demande, à l'intéressé ou à son avocat ou au représentant de l'association avant
@@ -12648,10 +12648,9 @@ qu'une décision soit prise sur la demande.
 Dans le cas où il est fait application de la procédure accélérée prévue à l'article L. 723-2, cette communication peut être
 faite lors de la notification de la décision. 
 
-II.-Par dérogation au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
-entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, lorsque l'entretien
-personnel mené avec le demandeur a fait l'objet d'une transcription et d'un enregistrement sonore, le demandeur ne peut avoir
-accès à cet enregistrement, dans des conditions sécurisées définies par arrêté du ministre chargé de l'asile, qu'après la
+II. - Par dérogation au livre III du code des relations entre le public et l'administration, lorsque l'entretien personnel
+mené avec le demandeur a fait l'objet d'une transcription et d'un enregistrement sonore, le demandeur ne peut avoir accès à
+cet enregistrement, dans des conditions sécurisées définies par arrêté du ministre chargé de l'asile, qu'après la
 notification de la décision négative de l'office sur la demande d'asile et pour les besoins de l'exercice d'un recours contre
 cette décision. Cet accès peut être obtenu auprès de l'office ou, en cas de recours, auprès de la Cour nationale du droit
 d'asile. Dans le cas d'un recours exercé en application de l'article L. 213-9, cet accès peut également être rendu possible
@@ -12660,7 +12659,7 @@ auprès du tribunal administratif.
 Le fait, pour toute personne, de diffuser l'enregistrement sonore réalisé par l'office d'un entretien personnel mené avec un
 demandeur d'asile est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
 
-III.-Les modalités de transcription de l'entretien personnel prévu au I, ainsi que les cas dans lesquels cet entretien fait
+III. - Les modalités de transcription de l'entretien personnel prévu au I, ainsi que les cas dans lesquels cet entretien fait
 l'objet d'un enregistrement sonore ou est suivi d'un recueil de commentaires, sont fixés par décret en Conseil d'Etat.
 
 **Nota:**
@@ -12671,12 +12670,6 @@ des étrangers et du droit d'asile, dans sa rédaction résultant de la présent
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VD)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
-
 	**Cité par**:
 
 	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
@@ -12685,9 +12678,15 @@ des étrangers et du droit d'asile, dans sa rédaction résultant de la présent
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-7 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-8 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+	  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
 ###### Article L723-8
@@ -14589,8 +14588,8 @@ refusant une protection au titre de l'asile ou jusqu'à son transfert effectif v
 sa demande d'asile. 
 
 Le versement de l'allocation prend fin au terme du mois qui suit celui de la notification de la décision définitive
-concernant cette demande. Son montant est révisé, le cas échéant, une fois par an, en fonction de l'évolution des prix, hors
-tabac, prévue dans le rapport économique, social et financier annexé au projet de loi de finances de l'année. 
+concernant cette demande. Son montant est revalorisé le 1er avril de chaque année par application du coefficient mentionné à
+l'article L. 161-25 du code de la sécurité sociale. 
 
 L'allocation pour demandeur d'asile est incessible et insaisissable. Pour son remboursement, en cas de versement indu,
 l'Office français de l'immigration et de l'intégration peut procéder à des retenues sur les échéances à venir dues à quelque
@@ -14634,13 +14633,14 @@ novembre 2015.
 	  - Code du travail - art. L5223-1 (V)
 	  - Code rural et de la pêche maritime - art. D313-15-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 67 (V)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+	  - Code de la sécurité sociale. - art. L161-25 (V)
 
 
 ###### Article L744-10
@@ -17015,8 +17015,8 @@ L'assurance maladie mentionnée à l'article L. 121-1 doit couvrir les prestatio
 code de la sécurité sociale. 
 
 Lorsqu'il est exigé, le caractère suffisant des ressources est apprécié en tenant compte de la situation personnelle de
-l'intéressé. En aucun cas, le montant exigé ne peut excéder le montant forfaitaire du revenu de solidarité active mentionné
-au 2° de l'article L. 262-2 du code de l'action sociale et des familles ou, si l'intéressé remplit les conditions d'âge pour
+l'intéressé. En aucun cas, le montant exigé ne peut excéder le montant forfaitaire du revenu de solidarité active mentionné à
+l'article L. 262-2 du code de l'action sociale et des familles ou, si l'intéressé remplit les conditions d'âge pour
 l'obtenir, au montant de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la
 sécurité sociale. 
 
@@ -17035,7 +17035,7 @@ continuent à rechercher un emploi et qu'ils ont des chances réelles d'être en
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 5
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
 
 	**Cité par**:
 
@@ -17046,8 +17046,8 @@ continuent à rechercher un emploi et qu'ils ont des chances réelles d'être en
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-6
-	  - Code de la sécurité sociale. - art. L321-1 (V)
-	  - Code de la sécurité sociale. - art. L331-2 (V)
+	  - Code de la sécurité sociale. - art. L321-1
+	  - Code de la sécurité sociale. - art. L331-2
 	  - Code de la sécurité sociale. - art. L815-1
 	  - Code de l'action sociale et des familles - art. L262-2
 
@@ -17291,7 +17291,7 @@ activité non salariée.
 ###### Article R121-11
 
 Les ressortissants mentionnés au 2° de l'article L. 121-1 qui ont établi leur résidence habituelle en France depuis moins de
-cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE - non actif ". La reconnaissance de leur
+cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE-non actif ". La reconnaissance de leur
 droit de séjour n'est pas subordonnée à la détention de ce titre. 
 
 Ce titre est d'une durée de validité maximale de cinq ans, déterminée en fonction de la pérennité des ressources dont il est
@@ -17301,7 +17301,7 @@ Sa délivrance est subordonnée à la production par le demandeur des justificat
 
 1° Un titre d'identité ou un passeport en cours de validité ; 
 
-2° Une attestation de prise en charge par une assurance offrant les prestations mentionnées aux articles L. 321-1 et L. 331-2
+2° Une attestation de prise en charge par une assurance offrant les prestations mentionnées aux articles L. 160-8 et L. 160-9
 du code de la sécurité sociale ; 
 
 3° Les documents justifiant de ressources suffisantes pour lui et, le cas échéant, pour les membres de sa famille.
@@ -17314,7 +17314,7 @@ du code de la sécurité sociale ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 10
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -17330,8 +17330,8 @@ du code de la sécurité sociale ;
 ###### Article R121-12
 
 Les ressortissants mentionnés au 3° de l'article L. 121-1 qui ont établi leur résidence habituelle en France depuis moins de
-cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE - étudiant ". La reconnaissance du droit
-de séjour n'est pas subordonnée à la détention de ce titre. 
+cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE-étudiant ". La reconnaissance du droit de
+séjour n'est pas subordonnée à la détention de ce titre. 
 
 Ce titre est d'une durée de validité maximale d'un an renouvelable. 
 
@@ -17342,7 +17342,7 @@ Sa délivrance est subordonnée à la production par le demandeur des justificat
 2° Un justificatif de son inscription dans un établissement d'enseignement pour y suivre à titre principal des études ou,
 dans ce cadre, une formation professionnelle ; 
 
-3° Une attestation de prise en charge par une assurance offrant les prestations mentionnées aux articles L. 321-1 et L. 331-2
+3° Une attestation de prise en charge par une assurance offrant les prestations mentionnées aux articles L. 160-8 et L. 160-9
 du code de la sécurité sociale ; 
 
 4° Une déclaration ou tout autre moyen équivalent garantissant qu'il dispose de ressources suffisantes pour lui et, le cas
@@ -17356,7 +17356,7 @@ du code de la sécurité sociale ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 10
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 	**Cite**:
 
@@ -17368,15 +17368,15 @@ du code de la sécurité sociale ;
 ###### Article R121-13
 
 Les membres de famille mentionnés aux 4° et 5° de l'article L. 121-1 qui ont établi leur résidence habituelle en France
-depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE - membre de famille -
-toutes activités professionnelles ". La reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce titre. 
+depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " UE-membre de famille-toutes
+activités professionnelles ". La reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce titre. 
 
 Ils présentent à l'appui de leur demande l'un des documents prévus au premier alinéa de l'article R. 121-1, un justificatif
 de leur lien familial ainsi que du droit au séjour du ressortissant qu'ils accompagnent ou rejoignent. 
 
 Lorsque le ressortissant qu'ils accompagnent ou rejoignent n'exerce pas d'activité professionnelle, ils justifient en outre
 des moyens dont celui-ci dispose pour assurer leur prise en charge financière et d'une assurance offrant les prestations
-mentionnées aux articles L. 321-1 et L. 331-2 du code de la sécurité sociale. 
+mentionnées aux articles L. 160-8 et L. 160-9 du code de la sécurité sociale. 
 
 Ils reçoivent un titre de séjour de même durée de validité que celui auquel le ressortissant mentionné à l'article L. 121-1
 qu'ils accompagnent ou rejoignent peut prétendre dans la limite de cinq années.
@@ -17389,7 +17389,7 @@ qu'ils accompagnent ou rejoignent peut prétendre dans la limite de cinq années
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 10
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -17412,7 +17412,7 @@ entrée en France leur demande de titre de séjour avec leur passeport en cours 
 
 Lorsque le ressortissant qu'ils accompagnent ou rejoignent n'exerce pas d'activité professionnelle, ils justifient en outre
 des moyens dont celui-ci dispose pour assurer leur prise en charge financière et d'une assurance offrant les prestations
-mentionnées aux articles L. 321-1 et L. 331-2 du code de la sécurité sociale. 
+mentionnées aux articles L. 160-8 et L. 160-9 du code de la sécurité sociale. 
 
 Ils reçoivent un titre de séjour portant la mention " Carte de séjour de membre de la famille d'un citoyen de l'Union " de
 même durée de validité que celui auquel le ressortissant mentionné à l'article L. 121-1 qu'ils accompagnent ou rejoignent
@@ -17436,7 +17436,7 @@ Le renouvellement du titre de séjour doit être sollicité dans le délai de de
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 11
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 	**Cité par**:
 
@@ -22580,6 +22580,42 @@ Ces cartes autorisent l'exercice d'une activité professionnelle dans les condit
 	  - Code du travail - art. R341-2-4
 
 
+###### Article R313-15-1
+
+Pour l'application du 2° de l'article L. 313-10, l'étranger qui demande la carte de séjour temporaire portant la mention "
+travailleur temporaire " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles R. 311-2-2 et R.
+313-1, les pièces suivantes : 
+
+1° Lorsqu'il ne réside pas sur le territoire français, l'autorisation de travail accordée à son employeur correspondant à
+l'emploi sollicité soit sous contrat de travail à durée déterminée soit dans le cadre des articles L. 1262-1 et L. 1262-2 du
+code du travail ; 
+
+2° Lorsqu'il réside sur le territoire français, un formulaire de demande d'autorisation de travail, pour la conclusion d'un
+contrat à durée déterminée avec un employeur établi en France correspondant à l'emploi sollicité. Ce formulaire est conforme
+au modèle fixé par arrêté du ministre chargé du travail. 
+
+Cette carte autorise l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 5221-1 et
+suivants du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
+	  - Code du travail - art. L1262-1 (V)
+	  - Code du travail - art. R5221-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R833-1 (V)
+
+
 ###### Article R313-16
 
 I.-Lorsque l'activité industrielle, commerciale ou artisanale est exercée en France par une personne morale, les dispositions
@@ -24448,7 +24484,7 @@ l'article L. 316-1.
 
 L'étranger détenteur de cette carte de séjour temporaire peut également bénéficier : 
 
-1° De l'ouverture des droits à une protection sociale, dans les conditions mentionnées à l'article L. 380-1 du code de la
+1° De l'ouverture des droits à une protection sociale, dans les conditions mentionnées à l'article L. 160-1 du code de la
 sécurité sociale ; si l'étranger ne remplit pas les conditions prévues par cet article, les soins qui lui sont délivrés sont
 pris en charge dans les conditions prévues au deuxième alinéa de l'article L. 251-1 du code de l'action sociale et des
 familles ; 
@@ -24468,20 +24504,21 @@ organismes mentionnés au dernier alinéa de l'article R. 316-1 du présent code
 
 	**Modifié par**:
 
-	  - Décret n°2015-1166 du 21 septembre 2015 - art. 3
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R316-3
+	  - Code de la sécurité sociale. - art. L160-1 (V)
+	  - Code de l'action sociale et des familles - art. L251-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-6 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R316-3
-	  - Code de la sécurité sociale. - art. L380-1
-	  - Code de l'action sociale et des familles - art. L251-1
 
 
 ###### Article R316-8
@@ -29514,9 +29551,9 @@ ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le
 versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités
 respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la
-condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 115-7, L. 161-16-1, L. 161-18-1, L.
-161-25-1, L. 161-25-2, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de
-l'action sociale et des familles ; 
+condition de régularité de leur situation en France prévue par les articles L. 115-6, 
+L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1 , L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
+l'article L. 262-4 du code de l'action sociale et des familles ; 
 
 b) Les agents de Pôle emploi, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de
 vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la
@@ -29590,28 +29627,28 @@ préfet.
 
 	**Cite**:
 
-	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
-	  - Code de procédure pénale - art. 20
-	  - Code de procédure pénale - art. 28-1
-	  - Code de procédure pénale - art. 28-2
-	  - Code de procédure pénale - art. 78-2
-	  - Code des douanes - art. 67 quater
-	  - Code du travail - art. L5411-4
-	  - Code du travail - art. L8113-7
-	  - Code du travail - art. L8251-1
-	  - Code du travail - art. L8271-17
-	  - Code du travail - art. L8271-19
-	  - Code de la sécurité sociale. - art. L115-6
-	  - Code de la sécurité sociale. - art. L161-16-1
-	  - Code de la sécurité sociale. - art. L161-18-1
-	  - Code de la sécurité sociale. - art. L161-25-1
-	  - Code de la sécurité sociale. - art. L512-2
-	  - Code de la sécurité sociale. - art. L831-1
-	  - Code de l'action sociale et des familles - art. L262-4
+	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-13-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (V)
+	  - Code de procédure pénale - art. 20 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+	  - Code de procédure pénale - art. 78-2 (V)
+	  - Code des douanes - art. 67 quater (V)
+	  - Code du travail - art. L5411-4 (V)
+	  - Code du travail - art. L8113-7 (V)
+	  - Code du travail - art. L8251-1 (V)
+	  - Code du travail - art. L8271-17 (V)
+	  - Code du travail - art. L8271-9 (V)
+	  - Code de la sécurité sociale. - art. L114-10-2 (V)
+	  - Code de la sécurité sociale. - art. L115-6 (V)
+	  - Code de la sécurité sociale. - art. L161-16-1 (V)
+	  - Code de la sécurité sociale. - art. L161-18-1 (V)
+	  - Code de la sécurité sociale. - art. L161-25-1 (V)
+	  - Code de la sécurité sociale. - art. L512-2 (V)
+	  - Code de la sécurité sociale. - art. L831-1 (V)
+	  - Code de l'action sociale et des familles - art. L262-4 (V)
 	  - Code de la sécurité intérieure - art. L222-1 (V)
 	  - Code de la sécurité intérieure - art. R222-1 (V)
 
@@ -29625,7 +29662,7 @@ préfet.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1641 du 26 décembre 2014 - art. 7
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 
 ###### Article R611-6
@@ -33789,9 +33826,9 @@ lorsqu'il ne se manifeste plus.
 L'organisme qui assure la domiciliation y met fin lorsque l'intéressé ne s'est pas présenté pendant plus d'un mois pour
 retirer son courrier, sauf si cette absence est justifiée. 
 
-L'organisme indiqué par la déclaration de domiciliation est tenu de communiquer pour l'exercice de leur mission, en
-application de l'article R. 380-1 du code de la sécurité sociale, aux organismes de sécurité sociale tous éléments utiles
-permettant de vérifier qu'une personne est bien domiciliée auprès de lui. 
+L'organisme indiqué par la déclaration de domiciliation est tenu de communiquer pour l'exercice de leur mission, aux
+organismes de sécurité sociale tous éléments utiles permettant de vérifier qu'une personne est bien domiciliée auprès de
+lui. 
 
 II.-Les organismes conventionnés en application de l'article L. 744-1 transmettent chaque année à l'Office français de
 l'immigration et de l'intégration ainsi qu'au préfet de département un bilan de leur activité indiquant : 
@@ -33807,14 +33844,14 @@ d'année ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
-	  - Code de la sécurité sociale. - art. R380-1 (VD)
+	  - Code de la sécurité sociale. - art. R380-1
 
 
 ###### Article R744-4
@@ -36148,9 +36185,13 @@ mots : " commandant de la gendarmerie ".
 VI. - 1° A l'article R. 121-4, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée par la
 référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002. 
 
-Aux articles R. 121-4 et R. 121-11 à R. 121-14, les références aux articles L. 321-1 et L. 331-2 du code de la sécurité
-sociale sont remplacées par la référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
-l'amélioration de la santé publique à Mayotte ; 
+A l'article R. 121-4, les références aux articles L. 160-8 et L. 160-9 du code de la sécurité sociale sont remplacées par la
+référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à
+Mayotte. 
+
+Aux articles R. 121-4 et R. 121-11 à R. 121-14, les références aux articles L. 160-8, L. 321-1 et L. 160-9 du code de la
+sécurité sociale sont remplacées par la référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
+l'amélioration de la santé publique à Mayotte ;
 
 2° Aux articles R. 121-16, R. 311-6, R. 311-11, R. 311-30 et R. 313-17, la référence à l'article L. 341-2 du code du travail
 est remplacée par la référence à l'article L. 330-2 du code du travail applicable à Mayotte ; 
@@ -36179,7 +36220,7 @@ par les références aux articles R. 330-1 et R. 330-2 du code du travail applic
 10° A l'article R. 313-38, la référence à l'article R. 341-5 du code du travail est remplacée par la référence à l'article R.
 330-4 du code du travail applicable à Mayotte ; 
 
-11° A l'article R. 316-7, la référence à l'article L. 380-1 du code de la sécurité sociale est remplacée par la référence à
+11° A l'article R. 316-7, la référence à l'article L. 160-1 du code de la sécurité sociale est remplacée par la référence à
 l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte ; 
 
 12° A l'article R. 322-1, la référence aux articles R. 341-1 à R. 341-7-2 du code du travail est remplacée par la référence
@@ -36190,14 +36231,14 @@ l'article L. 610-9 du code du travail applicable à Mayotte, la référence à l
 remplacée par la référence à l'article L. 330-9 du code du travail applicable à Mayotte. 
 
 Au 6° de l'article R. 611-5, la référence à l'article L. 5411-4 du code du travail est remplacée par la référence à l'article
-L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6, L. 161-25-1 et L. 161-25-2 du code
-de la sécurité sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996
-relative à l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du
-code de la sécurité sociale sont remplacées par les dispositions applicables localement, la référence à l'article L. 512-2 du
-code de la sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002
-relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité
-départementale de Mayotte et la référence à l'article L. 831-1 du code de la sécurité sociale est remplacée par la référence
-à l'article 42-1 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ; 
+L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6 et L. 161-25-1 du code de la sécurité
+sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
+l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du code de la
+sécurité sociale sont remplacées par les dispositions applicables localement, la référence à l'article L. 512-2 du code de la
+sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002 relative à
+l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de
+Mayotte et la référence à l'article L. 831-1 du code de la sécurité sociale est remplacée par la référence à l'article 42-1
+de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ; 
 
 14° Aux articles R. 611-5 et R. 626-1, la référence à l'article L. 8251-1 du code du travail est remplacée par la référence à
 l'article L. 330-5 du code du travail applicable à Mayotte ; 
@@ -36212,7 +36253,7 @@ remplacées par la référence aux articles R. 330-1 à R. 330-7 du code du trav
 
 	**Modifié par**:
 
-	  - Décret n°2015-1220 du 1er octobre 2015 - art. 4
+	  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 
 ###### Article R832-2
