@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-03-09
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -17937,24 +17937,24 @@ pays de destination.
 
 ###### Article R211-4
 
-Pour effectuer les vérifications prévues à l'article L. 111-6, et par dérogation aux dispositions du premier alinéa de
-l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
-administrations, les autorités diplomatiques et consulaires sursoient à statuer sur la demande de visa présentée par la
-personne qui se prévaut de l'acte d'état civil litigieux pendant une période maximale de quatre mois.
+Pour effectuer les vérifications prévues à l'article L. 111-6, et par dérogation aux dispositions de l'article L. 231-1 du
+code des relations entre le public et l'administration, les autorités diplomatiques et consulaires sursoient à statuer sur la
+demande de visa présentée par la personne qui se prévaut de l'acte d'état civil litigieux pendant une période maximale de
+quatre mois. 
 
 Lorsque, malgré les diligences accomplies, ces vérifications n'ont pas abouti, la suspension peut être prorogée pour une
 durée strictement nécessaire et qui ne peut excéder quatre mois.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 21 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-6 (V)
+	  - Code des relations entre le public et l'adminis... - art. L231-1 (V)
 
 
 ###### Article R211-4-1
@@ -17979,11 +17979,10 @@ de ses empreintes digitales, aux fins d'enregistrement dans le traitement automa
 
 ###### Article R211-4-2
 
-Par dérogation aux dispositions du premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits
-des citoyens dans leurs relations avec les administrations, les autorités diplomatiques et consulaires, lorsqu'elles sont
-saisies d'une demande de visa par une personne postulant au regroupement familial ou par un conjoint de Français mentionné au
-deuxième alinéa de l'article L. 211-2-1, sursoient à statuer pendant la période nécessaire à l'accomplissement des opérations
-prévues aux articles R. 311-30-1 à R. 311-30-11. 
+Par dérogation aux dispositions de l'article L. 231-1 du code des relations entre le public et l'administration, les
+autorités diplomatiques et consulaires, lorsqu'elles sont saisies d'une demande de visa par une personne postulant au
+regroupement familial ou par un conjoint de Français mentionné au deuxième alinéa de l'article L. 211-2-1, sursoient à
+statuer pendant la période nécessaire à l'accomplissement des opérations prévues aux articles R. 311-30-1 à R. 311-30-11. 
 
 La suspension du délai imparti à l'autorité compétente pour statuer sur la demande de visa, dont la durée ne peut excéder six
 mois, expire à la date soit de la délivrance de l'attestation mentionnée, selon le cas, à l'article R. 311-30-3 ou à
@@ -18003,19 +18002,23 @@ des étrangers et du droit d'asile s'applique aux demandes de visa mentionnées 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 2
+
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 21 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-10 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-7 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1115 du 30 octobre 2008 - art. 5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-7
+	  - Code des relations entre le public et l'administration - art. L231-1
 
 
 ##### Sous-section 2 : Recours contre les refus de visa
@@ -18253,21 +18256,20 @@ souscrite à son profit.
 
 ###### Article R211-16
 
-Par dérogation au premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans
-leurs relations avec les administrations, le silence gardé pendant plus d'un mois par le maire sur la demande de validation
-de l'attestation d'accueil ou par le préfet sur le recours administratif mentionné à l'article R. 211-17 vaut décision de
-rejet.
+Par dérogation à l'article L. 231-1 du code des relations entre le public et l'administration, le silence gardé pendant plus
+d'un mois par le maire sur la demande de validation de l'attestation d'accueil ou par le préfet sur le recours administratif
+mentionné à l'article R. 211-17 vaut décision de rejet.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 21 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R211-17 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Code des relations entre le public et l'adminis... - art. L231-1 (V)
 
 
 ###### Article R211-17
