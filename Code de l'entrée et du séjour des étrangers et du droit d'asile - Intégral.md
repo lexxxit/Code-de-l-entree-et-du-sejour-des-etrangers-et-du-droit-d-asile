@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-15
 
 # Partie législative
 
@@ -5794,8 +5794,8 @@ décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
 ###### Article L316-1
 
 Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et
-familiale " peut être délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre
-les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale
+familiale " est délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre les
+infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale
 concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article L. 311-7 n'est pas exigée.
 Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute
 la durée de la procédure pénale, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites. 
@@ -5816,8 +5816,7 @@ l'étranger ayant déposé plainte ou témoigné.
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 46
-	  - Loi n°2014-873 du 4 août 2014 - art. 48
+	  - Loi n°2016-444 du 13 avril 2016 - art. 8
 
 	**Cité par**:
 
@@ -5825,7 +5824,6 @@ l'étranger ayant déposé plainte ou témoigné.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D744-19 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. D744-34 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-17 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (VD)
@@ -5858,11 +5856,43 @@ l'étranger ayant déposé plainte ou témoigné.
 	  - Code pénal - art. 225-5
 
 
+###### Article L316-1-1
+
+Une autorisation provisoire de séjour d'une durée minimale de six mois peut être délivrée, sauf si sa présence constitue une
+menace pour l'ordre public, à l'étranger victime des infractions prévues aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du
+code pénal qui, ayant cessé l'activité de prostitution, est engagé dans le parcours de sortie de la prostitution et
+d'insertion sociale et professionnelle mentionné à l'article L. 121-9 du code de l'action sociale et des familles. La
+condition prévue à l'article L. 313-2 du présent code n'est pas exigée. Cette autorisation provisoire de séjour ouvre droit à
+l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée du parcours de sortie de la
+prostitution et d'insertion sociale et professionnelle, sous réserve que les conditions prévues pour sa délivrance continuent
+d'être satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L121-9 (VD)
+	  - Code de l'action sociale et des familles - art. R121-12-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-5-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (VD)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-5 (V)
+
+
 ###### Article L316-2
 
-Un décret en Conseil d'Etat précise les conditions d'application de l'article L. 316-1. Il détermine notamment les conditions
-de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article
-L. 316-1 et les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte est accordée.
+Un décret en Conseil d'Etat précise les conditions d'application des articles L. 316-1 et L. 316-1-1. Il détermine notamment
+les conditions de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier
+alinéa de l'article L. 316-1 et de l'autorisation provisoire de séjour mentionnée à l'article L. 316-1-1 ainsi que les
+modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte ou cette autorisation provisoire de
+séjour est accordée.
 
 **Liens relatifs à cet article**
 
@@ -5872,16 +5902,16 @@ L. 316-1 et les modalités de protection, d'accueil et d'hébergement de l'étra
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 39 () JORF 25 juillet 2006
+	  - Loi n°2016-444 du 13 avril 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (VD)
 
 
 ###### Article L316-3
