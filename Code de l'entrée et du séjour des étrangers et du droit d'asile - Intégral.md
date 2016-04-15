@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-04-16
 
 # Partie législative
 
@@ -33101,6 +33101,144 @@ application de l'article L. 733-3.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R732-5
 	  - Code de justice administrative - art. R113-2
+
+
+##### Sous-section 7 : Question prioritaire de constitutionnalité
+
+###### Article R*733-34-1
+
+Le moyen tiré de ce qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution est
+soulevé, conformément aux dispositions de l'article 23-1 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique
+sur le Conseil constitutionnel, à peine d'irrecevabilité, dans un mémoire distinct et motivé. Ce mémoire, ainsi que, le cas
+échéant, l'enveloppe qui le contient, portent la mention : “ question prioritaire de constitutionnalité ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+
+###### Article R*733-34-2
+
+L'irrecevabilité tirée du défaut de présentation, dans un mémoire distinct et motivé, du moyen mentionné à l'article
+précédent peut être opposée sans qu'il soit fait application de l'article R. 733-9 et du deuxième alinéa de l'article R.
+733-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-16
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-9
+
+
+###### Article R*733-34-3
+
+Sauf s'il apparaît de façon certaine, au vu du mémoire distinct, qu'il n'y a pas lieu de transmettre la question prioritaire
+de constitutionnalité, notification de ce mémoire est faite à l'autre partie. Il lui est imparti un bref délai pour présenter
+ses observations. Copie du mémoire est communiquée au ministre chargé de l'asile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+
+###### Article R*733-34-4
+
+La Cour n'est pas tenue de transmettre une question prioritaire de constitutionnalité mettant en cause, par les mêmes motifs,
+une disposition législative dont le Conseil d'Etat ou le Conseil constitutionnel est déjà saisi. En cas d'absence de
+transmission pour cette raison, elle diffère sa décision sur le fond, jusqu'à ce qu'elle soit informée de la décision du
+Conseil d'Etat ou, le cas échéant, du Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+
+###### Article R*733-34-5
+
+Le président de la Cour ou les présidents qu'il désigne à cet effet peuvent, par ordonnance, statuer sur la transmission
+d'une question prioritaire de constitutionnalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+
+###### Article R*733-34-6
+
+L'application des dispositions de la présente sous-section ne fait pas obstacle à l'usage des pouvoirs que le président de la
+Cour et les présidents désignés à cet effet tiennent des dispositions de l'article R. 733-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-4
+
+
+###### Article R*733-34-7
+
+La décision qui statue sur la transmission de la question prioritaire de constitutionnalité est notifiée aux parties et au
+ministre chargé de l'asile, dans les formes prévues par les articles R. 733-11 et R. 733-12. 
+
+La notification d'une décision de transmission mentionne que des observations peuvent être produites devant le Conseil
+d'Etat, dans le délai d'un mois. Elle indique les modalités selon lesquelles ces observations peuvent être présentées. 
+
+La notification d'une décision de refus de transmission mentionne que cette décision ne peut être contestée qu'à l'occasion
+d'un recours en cassation formé contre la décision de la Cour statuant sur le fond. Elle mentionne aussi que cette
+contestation devra faire l'objet d'un mémoire distinct et motivé, accompagné d'une copie de la décision de refus de
+transmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-11
+
+
+###### Article R*733-34-8
+
+Le refus de transmission dessaisit la Cour du moyen d'inconstitutionnalité. La décision qui règle le litige vise le refus de
+transmission.
+
+La formation de jugement peut, toutefois, déclarer non avenu le refus de transmission et procéder à la transmission, lorsque
+ce refus a été exclusivement motivé par la constatation que la condition prévue par le 1° de l'article 23-2 de l'ordonnance
+n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel n'était pas remplie, si elle entend fonder
+sa décision sur la disposition législative qui avait fait l'objet de la question qui n'a pas été transmise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-2
+
+	**Créé par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 - art. 1
 
 
 ##### Sous-section 8 : Voies de recours
