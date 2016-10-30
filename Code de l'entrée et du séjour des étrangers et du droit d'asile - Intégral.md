@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-07-03
+Version Consolidée au 2016-10-31
 
 # Partie législative
 
@@ -21294,7 +21294,7 @@ ministre chargé de l'immigration ;
 
 ###### Article R313-2
 
-Ne sont pas soumis aux dispositions du 2° de l'article R. 313-1 les étrangers mentionnés à l'article L. 313-4-1, aux 2°, 2°
+Ne sont pas soumis aux dispositions du 1° de l'article R. 313-1 les étrangers mentionnés à l'article L. 313-4-1, aux 2°, 2°
 bis, 6° à 11° de l'article L. 313-11, et aux articles L. 313-11-1, L. 313-13, L. 313-14, L. 313-15 et L. 316-1.
 
 **Liens relatifs à cet article**
@@ -21305,7 +21305,7 @@ bis, 6° à 11° de l'article L. 313-11, et aux articles L. 313-11-1, L. 313-13,
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 23
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 7
 
 	**Cite**:
 
@@ -21945,35 +21945,37 @@ réalité de l'activité de l'entreprise ou de l'établissement et, d'autre part
 
 ###### Article R313-15
 
-Pour l'application du 1° de l'article L. 313-10, l'étranger qui demande la carte de séjour mention " salarié " présente,
-outre les pièces prévues à l'article R. 313-1 à l'exception du certificat médical prévu au 4° de cet article, un contrat de
-travail conclu pour une durée égale ou supérieure à douze mois avec un employeur établi en France. Ce contrat est conforme au
-modèle fixé par arrêté du ministre chargé du travail et est revêtu du visa de ses services.
+Pour l'application du 1° de l'article L. 313-10, l'étranger qui demande la carte de séjour temporaire portant la mention "
+salarié " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles R. 311-2-2 et R. 313-1, les
+pièces suivantes : 
 
-L'étranger qui sollicite la délivrance de la carte de séjour mention " travailleur temporaire " présente un contrat de
-travail conclu pour une durée inférieure à douze mois. 
+1° Lorsqu'il ne réside pas sur le territoire français, l'autorisation de travail accordée à son employeur en France
+correspondant à l'emploi sollicité sous contrat de travail à durée indéterminée ; 
 
-Ces cartes autorisent l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 341-2-1, R.
-341-2-2 et R. 341-2-4 du code du travail.
+2° Lorsqu'il réside sur le territoire français, un formulaire de demande d'autorisation de travail, pour la conclusion d'un
+contrat de travail à durée indéterminée avec un employeur établi en France correspondant à l'emploi sollicité. Ce formulaire
+est conforme au modèle fixé par arrêté du ministre chargé du travail. 
+
+Cette carte autorise l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 5221-1 et
+suivants du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-614 du 27 juin 2008 - art. 6
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
+	  - Code du travail - art. R5221-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R833-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
-	  - Code du travail - art. R341-2-1
-	  - Code du travail - art. R341-2-2
-	  - Code du travail - art. R341-2-4
 
 
 ###### Article R313-15-1
@@ -22785,6 +22787,27 @@ motif du séjour invoqué.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
+##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et aux membres de sa famille
+
+###### Article R313-34-4
+
+Cet avis est réputé favorable à l'expiration du délai mentionné à l'article R. 313-34-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
+
+
 ##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille
 
 ###### Article R313-34-2
@@ -22837,25 +22860,6 @@ et les informations dont il dispose.
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
-
-
-###### Article R313-34-4
-
-Cet avis est réputé favorable à l'expiration du délai mentionné à l'article R. 313-34-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Créé par**:
-
-	  - Décret n°2007-373 du 21 mars 2007 - art. 26 () JORF 22 mars 2007
-
-	**Cite**:
-
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
 
 
@@ -23028,6 +23032,14 @@ aux dispositions de l'article R. 341-5 du code du travail.
 
 	  - Code du travail - art. R341-5 (Ab)
 
+
+#### Chapitre III : La carte de séjour temporaire et la carte de séjour pluriannuelle
+
+##### Section 1 : Dispositions générales
+
+##### Section 2 : Les différentes catégories de cartes de séjour temporaires
+
+##### Section 3 : Renouvellement des cartes de séjour temporaires.
 
 #### Chapitre IV : La carte de résident
 
@@ -23313,22 +23325,19 @@ l'article L. 314-11.
 ###### Article R314-3
 
 Pour l'application des dispositions de l'article L. 314-1, l'étranger présente à l'appui de sa demande de renouvellement de
-carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles L. 314-8 et
-L. 314-8-2 : 
+carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles L. 314-8, L.
+314-8-1 et L. 314-8-2, outre les pièces mentionnées à l'article R. 311-2-2, les pièces suivantes : 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de ses enfants et de ses
-ascendants ; 
-
-1° bis Un justificatif de domicile ; 
+1° Un justificatif de domicile ; 
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
 il ne vit pas en France en état de polygamie ; 
 
 3° La carte de résident dont il est titulaire et qui vient à expiration ou la carte de résident portant la mention " résident
-de longue durée-UE " accordée par la France en application de l'article L. 314-8 et qui vient à expiration ou qui a expiré en
-raison du séjour de l'intéressé à l'étranger, dès lors que la durée de ce séjour à l'étranger n'a pas eu pour effet, en
-application de l'article L. 314-7, de lui faire perdre le bénéfice du statut de résident de longue durée-UE accordé par la
-France ; 
+de longue durée-UE " accordée par la France en application de l'article L. 314-8, L. 314-8-1 ou L. 314-8-2 et qui vient à
+expiration ou qui a expiré en raison du séjour de l'intéressé à l'étranger, dès lors que la durée de ce séjour à l'étranger
+n'a pas eu pour effet, en application de l'article L. 314-7, de lui faire perdre le bénéfice du statut de résident de longue
+durée-UE accordé par la France ; 
 
 4° Trois photographies de face, tête nue, de format 3,5 cm x 4,5 cm, récentes et parfaitement ressemblantes ; 
 
@@ -23349,18 +23358,20 @@ statut " résident longue durée-CE " dans un autre Etat membre de l'Union europ
 
 	**Modifié par**:
 
-	  - Décret n°2015-938 du 30 juillet 2015 - art. 2
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 11
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-7
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 
 ##### Section 4 : Délivrance de la carte de résident permanent
