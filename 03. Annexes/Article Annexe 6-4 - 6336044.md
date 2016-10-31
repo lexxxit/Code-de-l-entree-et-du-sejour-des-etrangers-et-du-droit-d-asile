@@ -18,6 +18,9 @@ A. - Données générales
 
 6° Etat civil de l'enfant étranger mineur dont les parents font l'objet d'une mesure d'éloignement ;
 
+6° bis Etat civil et filiation de l'enfant français mineur dont les parents sollicitent un titre de séjour en qualité de
+parent d'enfant français. 
+
 7° Etat civil et adresse du garant ;
 
 8° Etat civil et adresse du responsable du mineur étranger ;
@@ -114,7 +117,10 @@ date, sens et date de notification de la décision ; date et résultat du réexa
 10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision ;
 
 11° Pour les interdictions de retour, date de la décision, dates de début et de fin de la période d'interdiction, date de
-demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
+demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
+
+12° Pour les interdictions de circulation sur le territoire français, date de la décision, dates de début et de fin de la
+période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
@@ -191,8 +197,8 @@ autre lieu de rétention) ;
 l'assignation à résidence [chez, adresse, ville, département]), fréquence et lieu des contrôles ; référence, motif, durée ;
 en cas de non-respect : date et heure du procès-verbal de carence, date du dernier contrôle, date de saisine du parquet ;
 
-3° Demande d'asile (date et heure de l'enregistrement de la demande, éventuellement convocation par l'OFPRA, décision de
-l'office et date de notification de la décision) ;
+3° Demande d'asile (date et heure de l'enregistrement de la demande, date et heure de la décision de maintien en rétention,
+éventuellement convocation par l'OFPRA, décision de l'office et date de notification de la décision) ;
 
 4° Hospitalisation (date et heure d'admission, coordonnées de l'établissement hospitalier, date et heure de sortie) ;
 
@@ -363,13 +369,9 @@ frontalier) ainsi que les images numérisées de deux empreintes digitales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1378 du 14 novembre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2015-1166 du 21 septembre 2015 - art. 24
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 41
 
 	**Cité par**:
 
