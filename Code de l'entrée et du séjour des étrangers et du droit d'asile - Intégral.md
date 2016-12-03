@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-11-01
+Version Consolidée au 2016-12-04
 
 # Partie législative
 
@@ -3284,7 +3284,7 @@ Les dispositions du présent chapitre ne sont pas applicables en Guyane, à Mayo
 	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 8
 
 
-#### Chapitre III : La carte de séjour temporaire
+#### Chapitre III : La carte de séjour temporaire et la carte de séjour pluriannuelle
 
 ##### Section 1 : Dispositions générales
 
@@ -4316,12 +4316,6 @@ La présente sous-section n'est pas applicable à Mayotte.
 
 	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 10
 
-
-#### Chapitre III : La carte de séjour temporaire et la carte de séjour pluriannuelle
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Les différentes catégories de cartes de séjour temporaires
 
 ##### Section 3 : La carte de séjour pluriannuelle
 
@@ -6471,420 +6465,6 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent livre
 
 ## LIVRE V : LES MESURES D'ÉLOIGNEMENT
 
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS
-
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français et d'une interdiction de retour sur le territoire français
-
-#### Chapitre II : Procédure administrative et contentieuse
-
-###### Article L512-1
-
-I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 3°, 5°, 7° ou 8° du
-I de l'article L. 511-1 ou sur le fondement de l'article L. 511-3-1 et qui dispose du délai de départ volontaire mentionné au
-premier alinéa du II de l'article L. 511-1 ou au sixième alinéa de l'article L. 511-3-1 peut, dans le délai de trente jours
-suivant sa notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la
-décision relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur
-le territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
-
-L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
-annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
-
-Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
-
-I bis.-L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 1°, 2°, 4° ou 6°
-du I de l'article L. 511-1 et qui dispose du délai de départ volontaire mentionné au premier alinéa du II du même article L.
-511-1 peut, dans un délai de quinze jours à compter de sa notification, demander au président du tribunal administratif
-l'annulation de cette décision, ainsi que l'annulation de la décision mentionnant le pays de destination et de la décision
-d'interdiction de retour sur le territoire français qui l'accompagnent le cas échéant. 
-
-L'étranger qui fait l'objet d'une interdiction de retour prévue au sixième alinéa du III du même article L. 511-1 peut, dans
-le délai de quinze jours suivant sa notification, demander l'annulation de cette décision. 
-
-Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou parmi
-les magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue
-dans un délai de six semaines à compter de sa saisine. 
-
-L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
-interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
-
-L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
-dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
-tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
-
-Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 du présent code ou assigné à résidence
-en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
-
-II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
-suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
-décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
-la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français ou
-d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
-
-Il est statué sur ce recours selon la procédure et dans les délais prévus, selon les cas, aux I ou I bis. 
-
-Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
-
-III. ― En cas de placement en rétention en application de l'article L. 551-1, l'étranger peut demander au président du
-tribunal administratif l'annulation de l'obligation de quitter le territoire français, de la décision refusant un délai de
-départ volontaire, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le
-territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant, dans un
-délai de quarante-huit heures à compter de leur notification, lorsque ces décisions sont notifiées avec la décision de
-placement en rétention. La décision de placement en rétention ne peut être contestée que devant le juge des libertés et de la
-détention, dans un délai de quarante-huit heures à compter de sa notification, suivant la procédure prévue à la section 1 du
-chapitre II du titre V du présent livre et dans une audience commune aux deux procédures, sur lesquelles le juge statue par
-ordonnance unique lorsqu'il est également saisi aux fins de prolongation de la rétention en application de l'article L.
-552-1. 
-
-L'étranger faisant l'objet d'une décision d'assignation à résidence prise en application de l'article L. 561-2 peut, dans le
-même délai, demander au président du tribunal administratif l'annulation de cette décision. Les décisions mentionnées au
-premier alinéa du présent III peuvent être contestées dans le même recours lorsqu'elles sont notifiées avec la décision
-d'assignation. 
-
-Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
-magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
-plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
-proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
-salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
-proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. Sauf si l'étranger, dûment informé dans une
-langue qu'il comprend, s'y oppose, l'audience peut se tenir dans cette salle et le juge siéger au tribunal dont il est
-membre, relié à la salle d'audience, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité
-de la transmission. La salle d'audience située à proximité du lieu de rétention et celle du tribunal administratif sont
-ouvertes au public. 
-
-L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
-interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
-
-L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
-dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
-tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
-
-Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
-territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
-d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
-compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation. 
-
-IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon la procédure et dans les délais prévus au III.
-Dès la notification de l'obligation de quitter le territoire français, l'étranger est informé, dans une langue qu'il
-comprend, qu'il peut demander l'assistance d'un interprète ainsi que d'un conseil.
-
-**Nota:**
-
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
-	  - Décret n°2007-1738 du 11 décembre 2007 (V)
-	  - Arrêté du 23 novembre 2011 - art. 3 (V)
-	  - Loi n°2016-274 du 7 mars 2016 - art. 27
-	  - Code de justice administrative - art. L222-2-1 (VD)
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de justice administrative - art. L777-2 (VD)
-	  - Code de justice administrative - art. L777-3 (V)
-	  - Code de justice administrative - art. R222-33 (Ab)
-	  - Code de justice administrative - art. R776-1 (V)
-	  - Code de justice administrative - art. R776-10 (V)
-	  - Code de justice administrative - art. R776-13 (V)
-	  - Code de justice administrative - art. R776-13-1 (V)
-	  - Code de justice administrative - art. R776-13-3 (V)
-	  - Code de justice administrative - art. R776-2 (V)
-	  - Code de justice administrative - art. R776-21 (V)
-	  - Code de justice administrative - art. R776-29 (V)
-	  - Code de justice administrative - art. R776-3 (V)
-	  - Code de justice administrative - art. R776-4 (V)
-	  - Code de justice administrative - art. R777-2 (VD)
-	  - Code de justice administrative - art. R777-3-8 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 27
-	  - Loi n°2016-274 du 7 mars 2016 - art. 28
-	  - Loi n°2016-274 du 7 mars 2016 - art. 33
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
-
-	**Nouveaux textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
-
-
-###### Article L512-1-1
-
-Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
-un conseil, son consulat ou une personne de son choix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-	**Créé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
-
-	**Anciens textes**:
-
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
-
-
-###### Article L512-2
-
-Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a
-été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
-L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en
-application de l'article L. 511-1. Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est
-raisonnable de supposer qu'il la comprend.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R122-13 (V)
-	  - Code de justice administrative - art. R222-33 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-
-
-###### Article L512-3
-
-Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire
-français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la
-notification de l'obligation de quitter le territoire français. 
-
-L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office ni avant l'expiration du délai
-de départ volontaire ou, si aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit heures suivant sa
-notification par voie administrative, ni avant que le tribunal administratif n'ait statué s'il a été saisi. L'étranger en est
-informé par la notification écrite de l'obligation de quitter le territoire français.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
-
-
-###### Article L512-4
-
-Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
-prévues aux articles L. 513-4, 
-L. 551-1, 
-L. 552-4, L. 561-1 et L. 561-2 et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
-administrative ait à nouveau statué sur son cas. 
-
-Si la décision de ne pas accorder de délai de départ volontaire ou la décision d'assignation à résidence est annulée, il est
-immédiatement mis fin aux mesures de surveillance prévues aux articles L. 551-1, L. 552-4, L. 561-1 et L. 561-2 et le
-président du tribunal administratif ou le magistrat désigné à cette fin rappelle à l'étranger son obligation de quitter le
-territoire français dans le délai qui lui sera fixé par l'autorité administrative en application du II de l'article L. 511-1
-ou du sixième alinéa de l'article L. 511-3-1. Ce délai court à compter de sa notification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 28
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-3-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
-
-
-###### Article L512-5
-
-L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
-dans son pays d'origine, sauf s'il a été placé en rétention. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour
-mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la
-réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des
-conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 13
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
-
-
-###### Article L512-6
-
-L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le
-cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article
-L. 512-1.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
-
-
-#### Chapitre III :  Exécution des obligations de quitter le territoire français et des interdictions de retour sur le territoire français
-
-#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin
-
-###### Article L514-1
-
-Pour la mise en œuvre du présent titre, sont applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-
-Martin les dispositions suivantes : 
-
-1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
-exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
-
-2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
-territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
-son exécution ; 
-
-3° L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office, si l'étranger a saisi le
-tribunal administratif d'une demande sur le fondement de l'article L. 521-2 du code de justice administrative, avant que le
-juge des référés ait informé les parties de la tenue ou non d'une audience publique en application du deuxième alinéa de
-l'article L. 522-1 du même code, ni, si les parties ont été informées d'une telle audience, avant que le juge ait statué sur
-la demande. (1) 
-
-En conséquence, l'article L. 512-1, à l'exception de la seconde phrase du premier alinéa de son III, ainsi que les articles
-L. 512-3 et L. 512-4 ne sont pas applicables dans ces collectivités.
-
-**Nota:**
-
-(1) Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux
-décisions prises à compter du 1er novembre 2016.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1248 du 24 novembre 2004
-	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 29
-	  - Loi n°2016-274 du 7 mars 2016 - art. 33
-
-	**Cité par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 57
-	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
-	  - Code de justice administrative - art. L521-2 (V)
-	  - Code de justice administrative - art. L522-1 (V)
-
-
 ### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS, L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE CIRCULATION SUR LE TERRITOIRE FRANCAIS
 
 #### Chapitre Ier :  Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français, d'une interdiction de retour sur le territoire français et d'une interdiction de circulation sur le territoire français
@@ -7341,6 +6921,357 @@ prévue à l'article L. 313-13.
 
 #### Chapitre II : Procédure administrative et contentieuse
 
+###### Article L512-1
+
+I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 3°, 5°, 7° ou 8° du
+I de l'article L. 511-1 ou sur le fondement de l'article L. 511-3-1 et qui dispose du délai de départ volontaire mentionné au
+premier alinéa du II de l'article L. 511-1 ou au sixième alinéa de l'article L. 511-3-1 peut, dans le délai de trente jours
+suivant sa notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la
+décision relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur
+le territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
+
+L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
+annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+I bis.-L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 1°, 2°, 4° ou 6°
+du I de l'article L. 511-1 et qui dispose du délai de départ volontaire mentionné au premier alinéa du II du même article L.
+511-1 peut, dans un délai de quinze jours à compter de sa notification, demander au président du tribunal administratif
+l'annulation de cette décision, ainsi que l'annulation de la décision mentionnant le pays de destination et de la décision
+d'interdiction de retour sur le territoire français qui l'accompagnent le cas échéant. 
+
+L'étranger qui fait l'objet d'une interdiction de retour prévue au sixième alinéa du III du même article L. 511-1 peut, dans
+le délai de quinze jours suivant sa notification, demander l'annulation de cette décision. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou parmi
+les magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue
+dans un délai de six semaines à compter de sa saisine. 
+
+L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
+dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 du présent code ou assigné à résidence
+en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
+suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
+décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
+la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français ou
+d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
+
+Il est statué sur ce recours selon la procédure et dans les délais prévus, selon les cas, aux I ou I bis. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+III. ― En cas de placement en rétention en application de l'article L. 551-1, l'étranger peut demander au président du
+tribunal administratif l'annulation de l'obligation de quitter le territoire français, de la décision refusant un délai de
+départ volontaire, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le
+territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant, dans un
+délai de quarante-huit heures à compter de leur notification, lorsque ces décisions sont notifiées avec la décision de
+placement en rétention. La décision de placement en rétention ne peut être contestée que devant le juge des libertés et de la
+détention, dans un délai de quarante-huit heures à compter de sa notification, suivant la procédure prévue à la section 1 du
+chapitre II du titre V du présent livre et dans une audience commune aux deux procédures, sur lesquelles le juge statue par
+ordonnance unique lorsqu'il est également saisi aux fins de prolongation de la rétention en application de l'article L.
+552-1. 
+
+L'étranger faisant l'objet d'une décision d'assignation à résidence prise en application de l'article L. 561-2 peut, dans le
+même délai, demander au président du tribunal administratif l'annulation de cette décision. Les décisions mentionnées au
+premier alinéa du présent III peuvent être contestées dans le même recours lorsqu'elles sont notifiées avec la décision
+d'assignation. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
+magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
+plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
+proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
+salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
+proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. Sauf si l'étranger, dûment informé dans une
+langue qu'il comprend, s'y oppose, l'audience peut se tenir dans cette salle et le juge siéger au tribunal dont il est
+membre, relié à la salle d'audience, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité
+de la transmission. La salle d'audience située à proximité du lieu de rétention et celle du tribunal administratif sont
+ouvertes au public. 
+
+L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
+dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+
+Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
+territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
+d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
+compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation. 
+
+IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon la procédure et dans les délais prévus au III.
+Dès la notification de l'obligation de quitter le territoire français, l'étranger est informé, dans une langue qu'il
+comprend, qu'il peut demander l'assistance d'un interprète ainsi que d'un conseil.
+
+**Nota:**
+
+Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
+prises à compter du 1er novembre 2016.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
+	  - Décret n°2007-1738 du 11 décembre 2007 (V)
+	  - Arrêté du 23 novembre 2011 - art. 3 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 27
+	  - Code de justice administrative - art. L222-2-1 (VD)
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de justice administrative - art. L777-2 (VD)
+	  - Code de justice administrative - art. L777-3 (V)
+	  - Code de justice administrative - art. R222-33 (Ab)
+	  - Code de justice administrative - art. R776-1 (V)
+	  - Code de justice administrative - art. R776-10 (V)
+	  - Code de justice administrative - art. R776-13 (V)
+	  - Code de justice administrative - art. R776-13-1 (V)
+	  - Code de justice administrative - art. R776-13-3 (V)
+	  - Code de justice administrative - art. R776-2 (V)
+	  - Code de justice administrative - art. R776-21 (V)
+	  - Code de justice administrative - art. R776-29 (V)
+	  - Code de justice administrative - art. R776-3 (V)
+	  - Code de justice administrative - art. R776-4 (V)
+	  - Code de justice administrative - art. R777-2 (VD)
+	  - Code de justice administrative - art. R777-3-8 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 27
+	  - Loi n°2016-274 du 7 mars 2016 - art. 28
+	  - Loi n°2016-274 du 7 mars 2016 - art. 33
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
+
+
+###### Article L512-1-1
+
+Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
+un conseil, son consulat ou une personne de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+	  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
+
+	**Anciens textes**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
+
+
+###### Article L512-2
+
+Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a
+été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
+L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en
+application de l'article L. 511-1. Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est
+raisonnable de supposer qu'il la comprend.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R122-13 (V)
+	  - Code de justice administrative - art. R222-33 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+
+
+###### Article L512-3
+
+Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire
+français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la
+notification de l'obligation de quitter le territoire français. 
+
+L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office ni avant l'expiration du délai
+de départ volontaire ou, si aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit heures suivant sa
+notification par voie administrative, ni avant que le tribunal administratif n'ait statué s'il a été saisi. L'étranger en est
+informé par la notification écrite de l'obligation de quitter le territoire français.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
+
+
+###### Article L512-4
+
+Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
+prévues aux articles L. 513-4, 
+L. 551-1, 
+L. 552-4, L. 561-1 et L. 561-2 et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
+administrative ait à nouveau statué sur son cas. 
+
+Si la décision de ne pas accorder de délai de départ volontaire ou la décision d'assignation à résidence est annulée, il est
+immédiatement mis fin aux mesures de surveillance prévues aux articles L. 551-1, L. 552-4, L. 561-1 et L. 561-2 et le
+président du tribunal administratif ou le magistrat désigné à cette fin rappelle à l'étranger son obligation de quitter le
+territoire français dans le délai qui lui sera fixé par l'autorité administrative en application du II de l'article L. 511-1
+ou du sixième alinéa de l'article L. 511-3-1. Ce délai court à compter de sa notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 28
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-3-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
+
+
+###### Article L512-5
+
+L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
+dans son pays d'origine, sauf s'il a été placé en rétention. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour
+mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la
+réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des
+conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-464 du 7 mai 2014 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+
+
+###### Article L512-6
+
+L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le
+cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article
+L. 512-1.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+
+
 #### Chapitre III :  Exécution des obligations de quitter le territoire français, des interdictions de retour sur le territoire français et des interdictions de circulation sur le territoire français
 
 ###### Article L513-1
@@ -7547,6 +7478,59 @@ exécutoire dans les conditions fixées aux troisième à sixième alinéas du I
 
 
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin
+
+###### Article L514-1
+
+Pour la mise en œuvre du présent titre, sont applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-
+Martin les dispositions suivantes : 
+
+1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
+exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
+
+2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
+territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
+son exécution ; 
+
+3° L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office, si l'étranger a saisi le
+tribunal administratif d'une demande sur le fondement de l'article L. 521-2 du code de justice administrative, avant que le
+juge des référés ait informé les parties de la tenue ou non d'une audience publique en application du deuxième alinéa de
+l'article L. 522-1 du même code, ni, si les parties ont été informées d'une telle audience, avant que le juge ait statué sur
+la demande. (1) 
+
+En conséquence, l'article L. 512-1, à l'exception de la seconde phrase du premier alinéa de son III, ainsi que les articles
+L. 512-3 et L. 512-4 ne sont pas applicables dans ces collectivités.
+
+**Nota:**
+
+(1) Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux
+décisions prises à compter du 1er novembre 2016.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
+
+	**Modifié par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 29
+	  - Loi n°2016-274 du 7 mars 2016 - art. 33
+
+	**Cité par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
+	  - Code de justice administrative - art. L776-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
+	  - Code de justice administrative - art. L521-2 (V)
+	  - Code de justice administrative - art. L522-1 (V)
+
 
 ### TITRE II : L'EXPULSION
 
@@ -8784,8 +8768,6 @@ d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre
 
 #### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention
 
-##### Section 1 : Première saisine du juge des libertés et de la détention
-
 ##### Section 1 : Première saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ###### Article L552-1
@@ -8987,8 +8969,6 @@ Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-8 (VT)
 
-
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention
 
 ##### Section 2 : Nouvelle saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
@@ -19828,8 +19808,6 @@ de l'Etat concernés.
 	  - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Conditions d'accès des associations humanitaires
-
 ##### Section 3 : Conditions d'accès des associations
 
 ###### Article R*223-12
@@ -27033,7 +27011,7 @@ administrative.
 	  - Code de justice administrative -  Chapitre VI : Le contentieux des obligations de... (V)
 
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière
+#### Chapitre III : Exécution des obligations de quitter le territoire français, des interdictions de retour sur le territoire français et des interdictions de circulation sur le territoire français
 
 ##### Section 1 : Décision fixant le pays de renvoi
 
@@ -27121,12 +27099,6 @@ d'identité sur lequel est portée la mention du délai accordé pour son dépar
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
 
-
-#### Chapitre III : Exécution des obligations de quitter le territoire français, des interdictions de retour sur le territoire français et des interdictions de circulation sur le territoire français
-
-##### Section 1 : Décision fixant le pays de renvoi
-
-##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ
 
 ##### Section 3 : Obligations de l'étranger assigné à résidence en vue de la préparation de son départ
 
@@ -28449,8 +28421,6 @@ Il est procédé, pour le surplus, comme il est dit aux articles R. 552-1, R. 55
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-8 (V)
 
 
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention
-
 ##### Section 2 : Nouvelle saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ###### Article R552-11
@@ -29089,19 +29059,18 @@ service en charge de l'accueil des étrangers retenus et avec l'accord de la per
 Dans les conditions prévues aux articles R. 553-3 et R. 553-6, des locaux et des moyens matériels adaptés doivent permettre
 au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention. 
 
-Les conditions dans lesquelles les personnes mentionnées à l'article L. 6112-2 du code de la santé publique interviennent au
-bénéfice des personnes retenues, en application des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont
-précisées par voie de convention passée entre le préfet territorialement compétent et une de ces personnes selon des
-modalités définies par arrêté conjoint du ministre chargé de l'immigration, du ministre chargé des affaires sociales et du
-ministre chargé de la santé. Pour les centres de rétention administrative, cet arrêté précise notamment les conditions de
-présence et de qualification des personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs
-heures de présence au centre.
+Les conditions dans lesquelles les établissements de santé interviennent au bénéfice des personnes retenues, en application
+de l'article L. 6111-1-2 du code de la santé publique, sont précisées par voie de convention passée entre le préfet
+territorialement compétent et une de ces personnes selon des modalités définies par arrêté conjoint du ministre chargé de
+l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les centres de rétention
+administrative, cet arrêté précise notamment les conditions de présence et de qualification des personnels de santé ainsi que
+les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-561 du 24 avril 2012 - art. 3
+	  - Décret n°2016-1645 du 1er décembre 2016 - art. 4 (V)
 
 	**Cité par**:
 
@@ -29112,9 +29081,7 @@ heures de présence au centre.
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-6
-	  - Code de la santé publique - art. L6112-1
-	  - Code de la santé publique - art. L6112-2
-	  - Code de la santé publique - art. L6112-8
+	  - Code de la santé publique - art. L6111-1-2 (V)
 
 
 ###### Article R553-9
@@ -31408,8 +31375,6 @@ société dirigée par le demandeur ou l'employant.
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
-
-##### Section 6 : Dispositions diverses
 
 ##### Section 7 : Dispositions diverses
 
