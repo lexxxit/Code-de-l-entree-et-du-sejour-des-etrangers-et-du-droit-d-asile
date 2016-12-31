@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-12-04
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -1039,9 +1039,7 @@ lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 ###### Article L211-8
 
 Chaque demande de validation d'une attestation d'accueil donne lieu à la perception d'une taxe d'un montant de 30 euros
-acquittée par l'hébergeant. Cette taxe est recouvrée comme en matière de droit de timbre. Le produit de cette taxe est
-affecté à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé au I de l'article 46 de la
-loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+acquittée par l'hébergeant. Cette taxe est recouvrée comme en matière de droit de timbre.
 
 **Liens relatifs à cet article**
 
@@ -1051,11 +1049,12 @@ loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 	**Cite**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
 
 
 ###### Article L211-9
@@ -2916,23 +2915,30 @@ par décret en Conseil d'Etat et au plus tard à compter du 1er novembre 2016.
 
 ###### Article L311-12
 
-Sauf si sa présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour peut être délivrée à l'un
-des parents étranger de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article L. 313-11, sous réserve
-qu'il justifie résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la
-condition prévue à l'article L. L313-2 soit exigée. 
+Sauf si leur présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour est délivrée aux
+parents étrangers de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article L. 313-11, ou à l'étranger
+titulaire d'un jugement lui ayant conféré l'exercice de l'autorité parentale sur ce mineur, sous réserve qu'ils justifient
+résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la condition prévue à
+l'article L. 313-2 soit exigée. 
 
 L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut être d'une durée supérieure à six mois, est
-délivrée par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de
-l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture
-de police, dans les conditions prévues au 11° de l'article L. 313-11. Elle est renouvelable et n'autorise pas son titulaire à
-travailler. Toutefois, cette autorisation peut être assortie d'une autorisation provisoire de travail, sur présentation d'un
-contrat de travail.
+délivrée par l'autorité administrative, après avis d'un collège de médecins du service médical de l'Office français de
+l'immigration et de l'intégration, dans les conditions prévues au 11° de l'article L. 313-11. Cette autorisation provisoire
+de séjour ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée de la prise en
+charge médicale de l'étranger mineur, sous réserve que les conditions prévues pour sa délivrance continuent d'être
+satisfaites.
+
+**Nota:**
+
+Conformément au VI de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions s'appliquent aux demandes
+présentées après son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+	  - Loi n°2016-274 du 7 mars 2016 - art. 14
 
 	**Cité par**:
 
@@ -2941,6 +2947,11 @@ contrat de travail.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-36 (V)
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-26 (V)
 	  - Code du travail - art. R5221-3 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (V)
 
 
 ##### Section 4 : Dispositions fiscales
@@ -2987,8 +2998,7 @@ l'acquittement d'un droit de visa de régularisation de 180 €.
 
 E. - Les taxes prévues aux A, B, C et D sont acquittées soit au moyen de timbres mobiles, soit par la voie électronique au
 moyen d'un timbre dématérialisé, dans les conditions prévues au chapitre II du titre IV de la première partie du livre Ier du
-code général des impôts. Le produit de ces taxes est affecté à l'Office français de l'immigration et de l'intégration dans la
-limite du plafond mentionné au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. 
+code général des impôts. 
 
 F. - Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
 
@@ -3015,17 +3025,24 @@ F. - Les modalités d'application du présent article sont précisées, en tant 
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L321-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-23 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L317-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L321-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L321-4
 
 
 ###### Article L311-14
@@ -3054,9 +3071,7 @@ internationaux, sauf stipulations contraires prévues par ces traités ou accord
 
 Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non
 établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors
-de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe.
-Cette taxe est affectée à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé au I de
-l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. 
+de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe. 
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 55 % du
 salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5 fois le salaire minimum de croissance. 
@@ -3095,15 +3110,15 @@ Les modalités d'application du présent article sont précisées, en tant que d
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
 	  - Code du travail - art. R5223-35 (V)
 
-	**Cite**:
-
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
-
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
 
 
 ###### Article L311-16
@@ -3603,8 +3618,8 @@ prend l'engagement de n'exercer en France aucune activité professionnelle porte
 
 ###### Article L313-7
 
-I.-La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un enseignement ou qu'il y fait des
-études et qui justifie qu'il dispose de moyens d'existence suffisants porte la mention "étudiant". En cas de nécessité liée
+I. - La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un enseignement ou qu'il y fait des
+études et qui justifie qu'il dispose de moyens d'existence suffisants porte la mention " étudiant ". En cas de nécessité liée
 au déroulement des études ou lorsque l'étranger a suivi sans interruption une scolarité en France depuis l'âge de seize ans
 et y poursuit des études supérieures, l'autorité administrative peut accorder cette carte de séjour sans que la condition
 prévue à l'article L. 313-2 soit exigée et sous réserve d'une entrée régulière en France. 
@@ -3612,7 +3627,7 @@ prévue à l'article L. 313-2 soit exigée et sous réserve d'une entrée régul
 La carte ainsi délivrée donne droit à l'exercice, à titre accessoire, d'une activité professionnelle salariée dans la limite
 de 60 % de la durée de travail annuelle. 
 
-II.-Sauf si sa présence constitue une menace pour l'ordre public, la carte mentionnée au I est accordée de plein droit : 
+II. - Sauf si sa présence constitue une menace pour l'ordre public, la carte mentionnée au I est accordée de plein droit : 
 
 1° A l'étranger auquel un visa pour un séjour d'une durée supérieure à trois mois a été accordé dans le cadre d'une
 convention signée entre l'Etat et un établissement d'enseignement supérieur et qui est inscrit dans cet établissement ; 
@@ -3629,11 +3644,18 @@ français à l'étranger ou titulaire d'un diplôme équivalent et ayant suivi p
 5° A l'étranger ressortissant d'un pays ayant signé avec la France un accord de réciprocité relatif à l'admission au séjour
 des étudiants. 
 
+Les établissements d'enseignement supérieur sont responsables du suivi sanitaire préventif des étudiants étrangers. 
+
 Un décret en Conseil d'Etat précise les conditions d'application des dispositions du présent article, en particulier en ce
 qui concerne les ressources exigées, les conditions d'inscription dans un établissement d'enseignement et celles dans
 lesquelles l'étranger entrant dans les prévisions du 2° peut être dispensé de l'obligation prévue à l'article L. 313-2.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1248 du 24 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006
 
 	**Cité par**:
 
@@ -3662,11 +3684,11 @@ lesquelles l'étranger entrant dans les prévisions du 2° peut être dispensé 
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+	  - Loi n°2016-274 du 7 mars 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (V)
 
 
 ##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
@@ -3894,8 +3916,8 @@ par décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 
 ###### Article L313-11
 
-Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire portant la mention "vie privée et
-familiale" est délivrée de plein droit : 
+Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire portant la mention " vie privée
+et familiale " est délivrée de plein droit : 
 
 1° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3,
 dont l'un des parents au moins est titulaire de la carte de séjour temporaire, de la carte de séjour pluriannuelle ou de la
@@ -3952,20 +3974,21 @@ l'article L. 311-3, lorsque le mariage est antérieur à la date de cette obtent
 depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à
 l'article L. 313-2 soit exigée ; 
 
-11° A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
-pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement
-approprié dans le pays dont il est originaire, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité
-administrative après avis du directeur général de l'agence régionale de santé, sans que la condition prévue à l'article L.
-311-7 soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin
-de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à
-Paris, du médecin, chef du service médical de la préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris,
-le chef du service médical de la préfecture de police peut convoquer le demandeur pour une consultation médicale devant une
-commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
+11° A l'étranger résidant habituellement en France, si son état de santé nécessite une prise en charge médicale dont le
+défaut pourrait avoir pour lui des conséquences d'une exceptionnelle gravité et si, eu égard à l'offre de soins et aux
+caractéristiques du système de santé dans le pays dont il est originaire, il ne pourrait pas y bénéficier effectivement d'un
+traitement approprié. La condition prévue à l'article L. 313-2 n'est pas exigée. La décision de délivrer la carte de séjour
+est prise par l'autorité administrative après avis d'un collège de médecins du service médical de l'Office français de
+l'immigration et de l'intégration, dans des conditions définies par décret en Conseil d'Etat. Les médecins de l'office
+accomplissent cette mission dans le respect des orientations générales fixées par le ministre chargé de la santé. Chaque
+année, un rapport présente au Parlement l'activité réalisée au titre du présent 11° par le service médical de l'Office
+français de l'immigration et de l'intégration ainsi que les données générales en matière de santé publique recueillies dans
+ce cadre.
 
 **Nota:**
 
-Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions entrent en vigueur à une date fixée
-par décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
+Conformément au VI de l'article 67 de la loi n° 2016-274 du 7 mars 2016, le 11° tel qu'il résulte du 3° de l'article 13 de
+ladite loi, s'applique aux demandes présentées après son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -3991,7 +4014,6 @@ par décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-14 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-18 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-8 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-9 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L315-7 (VT)
@@ -4036,12 +4058,11 @@ par décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 20
 	  - Loi n°2016-274 du 7 mars 2016 - art. 13
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-7
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
 	  - Code civil - art. 371-2
 
@@ -11471,10 +11492,6 @@ loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux 
 Sont applicables à la contribution forfaitaire prévue au premier alinéa les dispositions prévues aux articles L. 8253-1 à L.
 8253-5 du code du travail en matière de recouvrement et de privilège applicables à la contribution spéciale. 
 
-Les sommes recouvrées sont reversées à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé
-au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011de finances pour 2012. L'Etat prélève 4 % des sommes reversées
-au titre des frais de recouvrement. 
-
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -11482,13 +11499,15 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
 	  - Code du travail - art. L8253-1
+	  - Code du travail - art. L8256-2 (V)
+	  - Code du travail - art. L8256-7 (V)
+	  - Code du travail - art. L8256-8 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-	  - Loi n°2016-274 du 7 mars 2016 - art. 65
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
 
 	**Cité par**:
 
@@ -20282,6 +20301,23 @@ visa.
 	  - Code du travail - art. L1262-1 (V)
 
 
+###### Article R311-3-1
+
+En application de l'article L. 313-7, les étrangers titulaires du visa mentionné au 6° de l'article R. 311-3 bénéficient d'un
+suivi sanitaire préventif au sein de l'établissement d'enseignement supérieur dans un délai d'un an à compter de la date de
+leur entrée en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7 (V)
+
+
 ##### Sous-section 2 : Récépissé des demandes
 
 ###### Article R311-4
@@ -21416,6 +21452,38 @@ correspondant à son nouveau motif de séjour.
 	**Anciens textes**:
 
 	  - Code de l'entrée et du séjour des étrangers et du  - art. R311-32 (T)
+
+
+###### Article R311-36
+
+Pour l'application de l'article L. 311-12, l'étranger présente à l'appui de sa demande, outre les pièces prévues aux articles
+R. 311-2-2 et R. 311-31 : 
+
+1° Les documents justifiant de l'état civil et de la nationalité de l'étranger mineur ; 
+
+2° Un justificatif de domicile ; 
+
+3° L'acte de naissance du mineur comportant l'établissement du lien de filiation ou la décision judiciaire portant délégation
+de l'autorité parentale sur l'étranger mineur prononcée par une juridiction étrangère ou française ; 
+
+4° Les justificatifs permettant d'apprécier la durée de sa résidence habituelle en France avec l'étranger mineur ; 
+
+5° Les justificatifs permettant d'apprécier qu'il subvient à l'entretien et à l'éducation de l'étranger mineur. 
+
+L'avis médical est rendu dans les conditions prévues à l'article R. 313-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-31 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-23 (V)
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -22675,29 +22743,6 @@ activité commerciale, industrielle, artisanale ou libérale est tenu d'en infor
 
 ##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
 
-###### Article R313-21
-
-Pour l'application du 7° de l'article L. 313-11, l'étranger qui invoque la protection due à son droit au respect de la vie
-privée et familiale en France doit apporter toute justification permettant d'apprécier la réalité et la stabilité de ses
-liens personnels et familiaux effectifs en France au regard de ceux qu'il a conservés dans son pays d'origine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Liens**:
-
-	  - DEPLACEMENT: Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
-
-
-##### Paragraphe 1 : Dispositions générales
-
 ###### Article R313-20
 
 Pour l'application des articles L. 313-11, L. 313-11-1, L. 313-13 et L. 313-14, l'étranger présente à l'appui de sa demande
@@ -22719,38 +22764,49 @@ parents.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
+
+
+###### Article R313-21
+
+Pour l'application du 7° de l'article L. 313-11, l'étranger qui invoque la protection due à son droit au respect de la vie
+privée et familiale en France doit apporter toute justification permettant d'apprécier la réalité et la stabilité de ses
+liens personnels et familiaux effectifs en France au regard de ceux qu'il a conservés dans son pays d'origine.
+
+**Liens relatifs à cet article**
+
 	**Codifié par**:
 
-	  - Décret n°2006-1378 du 14 novembre 2006
+	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+	  - DEPLACEMENT: Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
 
 
 ###### Article R313-22
 
-Pour l'application du 11° de l'article L. 313-11, le préfet délivre la carte de séjour temporaire au vu d'un avis émis par le
-médecin de l'agence régionale de santé compétente au regard du lieu de résidence de l'intéressé, désigné par le directeur
-général. Par dérogation, à Paris, ce médecin est désigné par le préfet de police. 
+Pour l'application du 11° de l'article L. 313-11, le préfet délivre la carte de séjour au vu d'un avis émis par un collège de
+médecins à compétence nationale de l'Office français de l'immigration et de l'intégration. 
 
 L'avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé
-au vu, d'une part, d'un rapport médical établi par un médecin agréé ou un médecin praticien hospitalier et, d'autre part, des
-informations disponibles sur l'existence d'un traitement dans le pays d'origine de l'intéressé. Quand la commission médicale
-régionale a été saisie dans les conditions prévues à l'article R. 313-26, l'avis mentionne cette saisine.
+au vu, d'une part, d'un rapport médical établi par un médecin de l'Office français de l'immigration et de l'intégration et,
+d'autre part, des informations disponibles sur les possibilités de bénéficier effectivement d'un traitement approprié dans le
+pays d'origine de l'intéressé. 
 
-Le préfet peut, après avis du directeur général de l'agence régionale de santé, prendre en considération une circonstance
-humanitaire exceptionnelle pour délivrer la carte de séjour temporaire même s'il existe un traitement approprié dans le pays
-d'origine de l'intéressé.
-
-L'étranger mentionné au 11° de l'article L. 313-11 qui ne remplirait pas la condition de résidence habituelle peut recevoir
-une autorisation provisoire de séjour renouvelable pendant la durée du traitement.
+Les orientations générales mentionnées à la quatrième phrase du 11° de l'article L. 313-11 sont fixées par arrêté du ministre
+chargé de la santé.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 38
 
 	**Cité par**:
 
@@ -22766,23 +22822,64 @@ une autorisation provisoire de séjour renouvelable pendant la durée du traitem
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R521-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
 
-
-##### Paragraphe 2 : Commission médicale régionale
 
 ###### Article R313-23
 
-La commission médicale régionale mentionnée au 11° de l'article L. 313-11 est créée, dans chaque région, par arrêté du préfet
-de région et, dans la collectivité territoriale de Corse, par arrêté du préfet de Corse.
+Le rapport médical visé à l'article R. 313-22 est établi par un médecin de l'Office français de l'immigration et de
+l'intégration à partir d'un certificat médical établi par le médecin qui le suit habituellement ou par un médecin praticien
+hospitalier inscrits au tableau de l'ordre, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de
+l'article R. 313-22. Le médecin de l'office peut solliciter, le cas échéant, le médecin qui suit habituellement le demandeur
+ou le médecin praticien hospitalier. Il en informe le demandeur. Il peut également convoquer le demandeur pour l'examiner et
+faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant
+de son identité. A défaut de réponse dans le délai de quinze jours, ou si le demandeur ne se présente pas à la convocation
+qui lui a été fixée, ou s'il n'a pas présenté les documents justifiant de son identité le médecin de l'office établit son
+rapport au vu des éléments dont il dispose et y indique que le demandeur n'a pas répondu à sa convocation ou n'a pas justifié
+de son identité. Il transmet son rapport médical au collège de médecins. 
+
+Sous couvert du directeur général de l'Office français de l'immigration et de l'intégration le service médical de l'office
+informe le préfet qu'il a transmis au collège de médecins le rapport médical. En cas de défaut de présentation de l'étranger
+lorsqu'il a été convoqué par le médecin de l'office ou de présentation des examens complémentaires demandés dans les
+conditions prévues au premier alinéa, il en informe également le préfet ; dans ce cas le récépissé prévu à l'article R. 311-4
+n'est pas délivré. 
+
+Le collège à compétence nationale, composé de trois médecins, émet un avis dans les conditions de l'arrêté mentionné au
+premier alinéa du présent article. La composition du collège et, le cas échéant, de ses formations est fixée par décision du
+directeur général de l'office. Le médecin ayant établi le rapport médical ne siège pas au sein du collège. 
+
+Le collège peut délibérer au moyen d'une conférence téléphonique ou audiovisuelle. 
+
+Le collège peut demander au médecin qui suit habituellement le demandeur, au médecin praticien hospitalier ou au médecin qui
+a rédigé le rapport de lui communiquer, dans un délai de quinze jours, tout complément d'information. Le demandeur en est
+simultanément informé. Le collège de médecins peut entendre et, le cas échéant, examiner le demandeur et faire procéder aux
+examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant de son identité.
+Il peut être assisté d'un interprète et d'un médecin. Lorsque l'étranger est mineur, il est accompagné de son représentant
+légal. 
+
+L'avis est rendu par le collège dans un délai de trois mois à compter de la transmission par le demandeur des éléments
+médicaux conformément à la première phrase du premier alinéa. Lorsque le demandeur n'a pas présenté au médecin de l'office ou
+au collège les documents justifiant son identité, n'a pas produit les examens complémentaires qui lui ont été demandés ou n'a
+pas répondu à la convocation du médecin de l'office ou du collège qui lui a été adressée, l'avis le constate. 
+
+L'avis est transmis au préfet territorialement compétent, sous couvert du directeur général de l'Office français de
+l'immigration et de l'intégration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+	  - Décret n°2006-1378 du 14 novembre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cité par**:
 
@@ -22791,213 +22888,27 @@ de région et, dans la collectivité territoriale de Corse, par arrêté du pré
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-4 (V)
 
 
 ###### Article R313-24
 
-La commission médicale régionale comprend deux médecins de l'agence régionale de santé et deux praticiens hospitaliers,
-désignés par le directeur général de l'agence.
-
-Les membres de la commission médicale régionale sont nommés pour une durée de trois ans renouvelable.
-
-Pour chacun des membres de la commission médicale régionale, un suppléant est désigné dans les mêmes conditions. Les
-suppléants ne siègent qu'en cas d'absence ou d'empêchement des titulaires.
+L'étranger mentionné au 11° de l'article L. 313-11 qui ne remplit pas la condition de résidence habituelle peut recevoir une
+autorisation provisoire de séjour renouvelable pendant la durée de son traitement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Cité par**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-25 (V)
-
-
-###### Article R313-25
-
-La commission médicale régionale est présidée par l'un des médecins de l'agence régionale de santé membre de la commission ou
-son suppléant ; le président et son suppléant sont désignés par le directeur général de l'agence.
-
-La commission médicale régionale ne peut valablement délibérer que si trois de ses membres au moins sont présents.
-
-Les séances de la commission médicale régionale ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-24
-
-
-###### Article R313-26
-
-Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
-service médical de la préfecture de police, peut convoquer devant la commission médicale régionale l'étranger demandant que
-lui soit délivrée une carte de séjour temporaire en application des dispositions du 11° de l'article L. 313-11, ainsi que
-l'étranger mineur au titre duquel l'un des parents sollicite la délivrance d'une autorisation provisoire de séjour en
-application des dispositions de l'article L. 311-12. 
-
-La commission médicale régionale prend alors connaissance du rapport médical mentionné au deuxième alinéa de l'article R.
-313-22. Elle peut demander tout complément d'information au médecin agréé ou au praticien hospitalier ayant établi ce
-rapport. Elle entend l'étranger. Elle peut solliciter l'avis d'un médecin spécialiste. Elle rend un avis sur l'état de santé
-de l'étranger et sur les traitements rendus nécessaires par cet état.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Abrogé par**:
 
 	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (V)
 
 	**Cité par**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (VT)
-
-
-###### Article R313-27
-
-La saisine de la commission médicale régionale par le médecin de l'agence régionale de santé mentionné au premier alinéa de
-l'article R. 313-22 ou, à Paris, le médecin, chef du service médical de la préfecture de police, intervient dans le délai
-d'un mois à compter de la réception, par ce médecin, du rapport médical mentionné au deuxième alinéa de l'article R. 313-22. 
-
-La commission médicale régionale se réunit dans un délai d'un mois à compter de la date de sa saisine.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
-
-
-###### Article R313-28
-
-L'étranger convoqué devant la commission médicale régionale en est avisé par une lettre précisant la date, l'heure et le lieu
-de la séance de la commission lors de laquelle il sera entendu, au moins quinze jours avant cette date.
-
-L'étranger est assisté, le cas échéant, par un interprète et peut demander à se faire assister par un médecin. Lorsque
-l'étranger est mineur, il est accompagné de son représentant légal.
-
-Si l'étranger ne se présente pas devant la commission médicale régionale, celle-ci peut néanmoins délibérer et rendre un
-avis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-373 du 21 mars 2007 - art. 24 () JORF 22 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-
-###### Article R313-29
-
-Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
-service médical de la préfecture de police, peut assister, sans voix délibérative, à la séance de la commission médicale
-régionale lors de laquelle est entendu l'étranger convoqué à la demande de ce médecin. Le médecin, chef du service médical de
-la préfecture de police, peut être représenté par un médecin de ce service.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
-
-
-###### Article R313-30
-
-L'avis de la commission médicale régionale est transmis au médecin de l'agence régionale de santé mentionné au premier alinéa
-de l'article R. 313-22 ou, à Paris, au médecin, chef du service médical de la préfecture de police, dans un délai d'un mois à
-compter de la séance à laquelle l'étranger a été convoqué. 
-
-Si la commission ne s'est pas prononcée à l'issue de ce délai, le médecin de l'agence régionale de santé mentionné au premier
-alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du service médical de la préfecture de police, peut remettre son
-avis au préfet.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-344 du 31 mars 2010 - art. 343
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
-
-
-###### Article R313-31
-
-La commission médicale régionale établit un rapport annuel transmis au ministre chargé des affaires sociales et au ministre
-chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
-
-###### Article R313-32
-
-Les conditions d'indemnisation des membres de la commission médicale régionale sont fixées par arrêté conjoint du ministre
-chargé du budget, du ministre chargé des affaires sociales et du ministre chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-25 (V)
 
 
 ##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et aux membres de sa famille
@@ -26825,8 +26736,19 @@ professionnelle dans le cadre de la réglementation en vigueur.
 
 ###### Article R511-1
 
-L'état de santé défini au 10° de l'article L. 511-4 est constaté dans les mêmes conditions que celles qui sont prévues aux
-trois premiers alinéas de l'article R. 313-22.
+L'état de santé défini au 10° de l'article L. 511-4 est constaté au vu d'un avis émis par un collège de médecins à compétence
+nationale de l'Office français de l'immigration et de l'intégration. 
+
+Cet avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé
+au vu, d'une part, d'un certificat médical établi par le médecin qui suit habituellement l'étranger ou un médecin praticien
+hospitalier et, d'autre part, des informations disponibles sur les possibilités de bénéficier effectivement d'un traitement
+approprié dans le pays d'origine de l'intéressé. 
+
+Toutefois, lorsque l'étranger est retenu en application de l'article L. 551-1, le certificat est établi par un médecin
+intervenant dans le lieu de rétention conformément à l'article R. 553-8. 
+
+En cas de rétention ou d'assignation à résidence en application de l'article L. 561-2, l'avis est émis par un médecin de
+l'office et transmis sans délai au préfet territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -26836,7 +26758,7 @@ trois premiers alinéas de l'article R. 313-22.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 38
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 6
 
 	**Cité par**:
 
@@ -26847,8 +26769,10 @@ trois premiers alinéas de l'article R. 313-22.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-4
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-22
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-8 (V)
 
 
 ###### Article R511-2
@@ -27153,8 +27077,8 @@ L'article R. 561-7 est applicable.
 
 ###### Article R521-1
 
-L'état de santé défini au 5° de l'article L. 521-3 est constaté dans les mêmes conditions que celles qui sont prévues aux
-trois premiers alinéas de l'article R. 313-22.
+L'état de santé défini au 5° de l'article L. 521-3 est constaté dans les mêmes conditions que celles qui sont prévues à
+l'article R. 511-1.
 
 **Liens relatifs à cet article**
 
@@ -27164,12 +27088,12 @@ trois premiers alinéas de l'article R. 313-22.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1049 du 6 septembre 2011 - art. 38
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 6
 
 	**Cite**:
 
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-3
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-22
 
 
 #### Chapitre II : Procédure administrative
@@ -27591,6 +27515,23 @@ dans les îles Wallis et Futuna, en Polynésie française ou en Nouvelle-Calédo
 	**Créé par**:
 
 	  - Décret n°2015-131 du 7 février 2015 - art. 2
+
+
+###### Article R523-8
+
+L'état de santé défini à l'article L. 523-4 est constaté dans les mêmes conditions que celles qui sont prévues à l'article R.
+511-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1457 du 28 octobre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L523-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
 
 
 ###### Article R523-9
@@ -35452,26 +35393,31 @@ l'intégration.
 
 ###### Article D744-23
 
-Ne sont pas prises en compte pour la détermination du droit à l'allocation pour demandeur d'asile les ressources suivantes :
+Ne sont pas prises en compte pour la détermination du droit à l'allocation pour demandeur d'asile les ressources suivantes : 
 
-1° Les prestations familiales ;
+1° Les prestations familiales ; 
 
 2° Les allocations d'assurance ou de solidarité, les rémunérations de stage ou des revenus d'activité perçus pendant la
 période de référence lorsqu'il est justifié que leur perception est interrompue de manière certaine à la date de la demande
-et que le bénéficiaire de ces ressources ne peut prétendre à un revenu de substitution.
+et que le bénéficiaire de ces ressources ne peut prétendre à un revenu de substitution. 
 
-La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire est déduite des
-ressources de celui qui la verse.
+La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire, une convention de
+divorce par consentement mutuel prévue à l'article 229-1 du code civil, par un acte reçu en la forme authentique par un
+notaire ou par convention judiciairement homologuée est déduite des ressources de celui qui la verse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 15
 
 	**Cité par**:
 
 	  - Arrêté du 26 décembre 2016 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 229-1 (V)
 
 
 ###### Article D744-24
@@ -36143,9 +36089,8 @@ les mots : "dans les îles Wallis et Futuna" et les mots : "préfet du départem
 ###### Article R762-1
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable dans les îles Wallis et Futuna dans sa
-rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et
-portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des
-adaptations suivantes : 
+rédaction résultant du décret n° 2016-1907 du 28 décembre 2016 relatif au divorce prévu à l'article 229-1 du code civil et à
+diverses dispositions en matière successorale et sous réserve des adaptations suivantes : 
 
 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
 fonctionnement de formations de jugement de la cour siégeant dans les îles Wallis et Futuna ; 
@@ -36269,8 +36214,34 @@ France et portant diverses dispositions relatives à la lutte contre l'immigrati
 
 	**Modifié par**:
 
-	  - Décret n°2016-1456 du 28 octobre 2016 - art. 17
-	  - Décret n°2016-1457 du 28 octobre 2016 - art. 39
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (VD)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R711-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R712-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-19 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-21 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-22 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-32 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-39 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R733-40 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R741-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R743-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R743-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R743-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R752-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R752-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R753-2 (V)
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française
@@ -37457,25 +37428,25 @@ des impôts est remplacée par la référence aux dispositions ayant le même ob
 
 Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
 
-I. - Aux articles D. 311-18-2, R. 313-10-2, R. 313-16-1, R. 313-34-1, R. 313-34-1-1, R. 313-22-1, R. 313-34-1, R. 313-36-1,
-R. 313-45, R. 313-51, R. 313-65, R. 313-67, R. 313-68, R. 313-79 et R. 314-1-1, les mots : " salaire minimum de croissance "
+I.-Aux articles D. 311-18-2, R. 313-10-2, R. 313-16-1, R. 313-34-1, R. 313-34-1-1, R. 313-22-1, R. 313-34-1, R. 313-36-1, R.
+313-45, R. 313-51, R. 313-65, R. 313-67, R. 313-68, R. 313-79 et R. 314-1-1, les mots : " salaire minimum de croissance "
 sont remplacés par les mots : " salaire minimum interprofessionnel garanti ". 
 
-II. - A l'article R. 313-14, les références au directeur régional des entreprises, de la concurrence, de la consommation, du
+II.-A l'article R. 313-14, les références au directeur régional des entreprises, de la concurrence, de la consommation, du
 travail et de l'emploi et au directeur régional des affaires culturelles sont remplacées par les références au directeur des
 entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au représentant de l'Etat. 
 
-III. - Aux articles R. 111-1, R. 111-2, R. 111-13, R. 111-14, R. 111-16, R. 111-18, R. 111-23, R. 421-6, R. 552-10, R. 552-12
-à R. 552-16 et R. 552-20 à R. 552-22, les mots : " cour d'appel " sont remplacés par les mots : " chambre d'appel de
-Mamoudzou ". 
+III.-Aux articles R. 111-1, R. 111-2, R. 111-13, R. 111-14, R. 111-16, R. 111-18, R. 111-23, R. 421-6, R. 552-10, R. 552-12 à
+R. 552-16 et R. 552-20 à R. 552-22, les mots : " cour d'appel " sont remplacés par les mots : " chambre d'appel de Mamoudzou
+". 
 
-IV. (abrogé)
+IV. (abrogé) 
 
-V. - Au 4° du I de l'article R. 611-12, les mots : " commandement du groupement de gendarmerie " sont remplacés par les
-mots : " commandant de la gendarmerie ". 
+V.-Au 4° du I de l'article R. 611-12, les mots : " commandement du groupement de gendarmerie " sont remplacés par les mots :
+" commandant de la gendarmerie ". 
 
-VI. - 1° A l'article R. 121-4, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée par la
-référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002. 
+VI.-1° A l'article R. 121-4, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée par la référence
+à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002. 
 
 A l'article R. 121-4, les références aux articles L. 160-8 et L. 160-9 du code de la sécurité sociale sont remplacées par la
 référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à
@@ -37483,22 +37454,22 @@ Mayotte.
 
 Aux articles R. 121-4 et R. 121-11 à R. 121-14, les références aux articles L. 160-8, L. 321-1 et L. 160-9 du code de la
 sécurité sociale sont remplacées par la référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
-l'amélioration de la santé publique à Mayotte ;
+l'amélioration de la santé publique à Mayotte ; 
 
-2° Aux articles R. 121-16, R. 311-6, R. 311-11 la référence à l'article L.5221-2 du code du travail est remplacée par la
+2° Aux articles R. 121-16, R. 311-6, R. 311-11 la référence à l'article L. 5221-2 du code du travail est remplacée par la
 référence à l'article L. 330-2 du code du travail applicable à Mayotte ; 
 
 3° A l'article R. 811-4 la référence à l'article L. 341-4 du code du travail est remplacée par la référence à l'article L.
-330-3 du code du travail applicable à Mayotte ;
+330-3 du code du travail applicable à Mayotte ; 
 
 3° bis Aux articles R. 311-3, R. 311-14, R. 313-14, R. 313-15 et R. 313-15-1, les références aux articles L. 1262-1 et L.
-1262-2 du code du travail sont remplacées par la référence à l'article L. 330-4 du code du travail applicable à Mayotte ;
+1262-2 du code du travail sont remplacées par la référence à l'article L. 330-4 du code du travail applicable à Mayotte ; 
 
 4° A l'article R. 311-15, la référence à l'article L. 5221-8 du code du travail est remplacée par la référence à l'article L.
 330-5 du code du travail applicable à Mayotte et la référence à l'article L. 5221-5 du code du travail est remplacée par la
 référence à l'article L. 330-3 du code du travail applicable à Mayotte ; 
 
-5° (Abrogé) ;
+5° (Abrogé) ; 
 
 6° A l'article R. 313-7, la référence au titre II du livre IX du code du travail est remplacée par la référence au titre III
 du livre VII du code du travail applicable à Mayotte ; 
@@ -37512,7 +37483,7 @@ référence à l'article L. 312-5 du code du travail applicable à Mayotte ;
 9° Aux articles R. 313-15 et R. 313-15-1, la référence aux articles R. 5221-1 et suivants du code du travail est remplacée
 par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte ; 
 
-10° (abrogé)
+10° (abrogé) 
 
 11° A l'article R. 316-7, la référence à l'article L. 160-1 du code de la sécurité sociale est remplacée par la référence à
 l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte ; 
@@ -37538,22 +37509,67 @@ de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire
 l'article L. 330-5 du code du travail applicable à Mayotte ; 
 
 15° Aux articles R. 611-5 et R. 626-2, la référence à l'article L. 8271-17 du code du travail est remplacée par la référence
-aux articles L. 330-11 et L. 610-15 du code du travail applicable à Mayotte ;
+aux articles L. 330-11 et L. 610-15 du code du travail applicable à Mayotte ; 
 
 15° bis A l'article R. 611-41-2, la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à
 l'article L. 326-1 du code du travail applicable à Mayotte ; 
 
 16° A l'article R. 811-4, les références aux articles R. 341-1, R. 341-3, R. 341-4 et R. 341-7 du code du travail sont
-remplacées par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte.
+remplacées par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte. 
 
-VII. - Le dernier alinéa de l'article R. 553-9 est supprimé.
+VII.-Le dernier alinéa de l'article R. 553-9 est supprimé. 
+
+VIII.-Au deuxième alinéa de l'article R. 313-22, les mots : " rapport médical établi par un médecin de l'Office français de
+l'immigration et de l'intégration " sont complétés par les mots : " " ou par un médecin praticien hospitalier ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Décret n°2016-1456 du 28 octobre 2016 - art. 18
-	  - Décret n°2016-1457 du 28 octobre 2016 - art. 40
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-13 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-16 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-16 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R121-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-11 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-14 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-16-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-36-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-51 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-65 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R313-79 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R322-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R421-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-20 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R553-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-41-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R626-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R626-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R811-4 (V)
 
 
 ###### Article R832-2
@@ -37774,10 +37790,11 @@ B. - Données relatives au droit au séjour, au droit au travail et au titre de 
 1° Titre de séjour : références juridiques et de gestion (dates, lieux) de la demande, de la délivrance, du refus et du
 retrait ; date et condition d'entrée en France ; historique des titres détenus ;
 
-2° Avis du médecin de l'agence régionale de la santé sur la satisfaction par l'étranger sollicitant un droit de séjour des
-critères relatifs à son état de santé (sens de l'avis, nombre de jours de séjour autorisés, caractère curable de la maladie
-dans le pays d'origine, caractère d'exceptionnelle gravité du défaut de soins, maintien sur le territoire autorisé, sursis à
-l'éloignement autorisé, capacité à voyager) ;
+2° Avis du collège de médecins du service médical de l'office français de l'immigration et de l'intégration sur la
+satisfaction par l'étranger sollicitant un droit de séjour des critères relatifs à son état de santé (sens de l'avis,
+conséquences d'une exceptionnelle gravité résultant du défaut d'une prise en charge médicale, possibilité de bénéficier
+effectivement d'un traitement approprié eu égard à l'offre de soins et aux caractéristiques du système de santé dans le pays
+d'origine ou de renvoi ; maintien sur le territoire autorisé, sursis à l'éloignement autorisé, capacité à voyager) ;
 
 3° Regroupement familial : avis du maire ou de l'Office français de l'immigration et de l'intégration sur l'adéquation des
 ressources au nombre de personnes à charge et sur la salubrité et l'adéquation de la surface du logement à la taille de la
@@ -38098,8 +38115,13 @@ frontalier) ainsi que les images numérisées de deux empreintes digitales.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2006-1378 du 14 novembre 2006
+
 	**Modifié par**:
 
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 19
 	  - Décret n°2016-1457 du 28 octobre 2016 - art. 41
 
 	**Cité par**:
