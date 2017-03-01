@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -7516,15 +7516,11 @@ son exécution ;
 tribunal administratif d'une demande sur le fondement de l'article L. 521-2 du code de justice administrative, avant que le
 juge des référés ait informé les parties de la tenue ou non d'une audience publique en application du deuxième alinéa de
 l'article L. 522-1 du même code, ni, si les parties ont été informées d'une telle audience, avant que le juge ait statué sur
-la demande. (1) 
+la demande. 
 
 En conséquence, l'article L. 512-1, à l'exception de la seconde phrase du premier alinéa de son III, ainsi que les articles
-L. 512-3 et L. 512-4 ne sont pas applicables dans ces collectivités.
-
-**Nota:**
-
-(1) Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux
-décisions prises à compter du 1er novembre 2016.
+L. 512-3 et L. 512-4 ne sont pas applicables dans ces collectivités. Toutefois, les deuxième à cinquième phrases du troisième
+alinéa du III de l'article L. 512-1 sont applicables à la tenue de l'audience prévue au 3° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -7533,24 +7529,23 @@ décisions prises à compter du 1er novembre 2016.
 	  - Ordonnance n°2004-1248 du 24 novembre 2004
 	  - Loi n°2006-911 du 24 juillet 2006
 
-	**Modifié par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 29
-	  - Loi n°2016-274 du 7 mars 2016 - art. 33
-
 	**Cité par**:
 
 	  - Loi n°2016-274 du 7 mars 2016 - art. 57
 	  - Code de justice administrative - art. L776-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 31
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
-	  - Code de justice administrative - art. L521-2 (V)
-	  - Code de justice administrative - art. L522-1 (V)
+	  - Code de justice administrative - art. L521-2
+	  - Code de justice administrative - art. L522-1
 
 
 ### TITRE II : L'EXPULSION
@@ -14668,6 +14663,9 @@ celui-ci.
 
 Ce décret précise, en outre, les modalités de versement de l'allocation pour demandeur d'asile.
 
+Ce décret peut prévoir une adaptation du montant de l'allocation pour demandeur d'asile et de ses modalités d'attribution, de
+calcul et de versement pour tenir compte de la situation particulière des départements et collectivités d'outre-mer.
+
 **Nota:**
 
 Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-9 du code de l'entrée et du séjour
@@ -14696,12 +14694,12 @@ novembre 2015.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 67 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 106
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
-	  - Code de la sécurité sociale. - art. L161-25 (V)
+	  - Code de la sécurité sociale. - art. L161-25
 
 
 ###### Article L744-10
@@ -15492,8 +15490,9 @@ maintenir sur le territoire.
 
 ###### Article L766-1
 
-Le présent livre est applicable à Saint-Barthélemy dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015
-relative à la réforme du droit d'asile et sous réserve des adaptations suivantes : 
+Le présent livre est applicable à Saint-Barthélemy dans sa rédaction résultant de la loi n° 2017-256 du 28 février 2017 de
+programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique et sous
+réserve des adaptations suivantes : 
 
 1° Au dernier alinéa de l'article L. 712-2, les mots : " en France " sont remplacés, deux fois, par les mots : " sur le
 territoire de la République " ; 
@@ -15536,8 +15535,8 @@ b) A la fin de la seconde phrase du 3°, le mot : " français " est remplacé pa
 8° A l'article L. 743-3, les mots : " sur le territoire français " sont remplacés par les mots : " à Saint-Barthélemy " et la
 seconde occurrence des mots : " le territoire français " est remplacée par le mot : " Saint-Barthélemy " ; 
 
-9° Aux deux derniers alinéas du II de l'article L. 752-1, les mots : " en France " sont remplacés par les mots : " à Saint-
-Barthélemy ".
+9° Aux deux derniers alinéas du II de l'article L. 752-1, les mots : " en France " sont remplacés par les mots : "à Saint-
+Barthélemy".
 
 **Liens relatifs à cet article**
 
@@ -15555,13 +15554,14 @@ Barthélemy ".
 
 	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 32
+	  - Loi n°2017-256 du 28 février 2017 - art. 106
 
 
 ###### Article L766-2
 
-Le présent livre est applicable à Saint-Martin dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative
-à la réforme du droit d'asile et sous réserve des adaptations suivantes : 
+Le présent livre est applicable à Saint-Martin dans sa rédaction résultant de la loi n° 2017-256 du 28 février 2017 de
+programmation  relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique et sous
+réserve des adaptations suivantes : 
 
 1° Au dernier alinéa de l'article L. 712-2, les mots : " en France " sont remplacés, deux fois, par les mots : " sur le
 territoire de la République " ; 
@@ -15623,7 +15623,7 @@ Martin ".
 
 	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 32
+	  - Loi n°2017-256 du 28 février 2017 - art. 106
 
 
 ###### Article L766-3
@@ -16272,7 +16272,7 @@ est remplacée par la référence à l'article L. 330-4 du code du travail appli
 code du travail est remplacée par la référence à l'article L. 330-5 du code du travail applicable à Mayotte ; 
 
 10° Au premier alinéa de l'article L. 626-1, la référence à l'article L. 8253-1 est remplacée par la référence à l'article L.
-330-11 du code du travail applicable à Mayotte ; 
+330-6-1 du code du travail applicable à Mayotte ; 
 
 11° Au deuxième alinéa de l'article L. 626-1, les références aux articles L. 8256-7 et L. 8256-8 du code du travail sont
 remplacées par la référence à l'article L. 342-6 du code du travail applicable à Mayotte ; 
@@ -16293,44 +16293,53 @@ française mentionné à l'article L. 314-2 font l'objet, dans des conditions fi
 16° La carte de séjour prévue au 11° de l'article L. 313-11 est délivrée, après avis médical, selon une procédure définie par
 décret en Conseil d'Etat. Ce décret précise les conditions dans lesquelles le collège médical, qui comprend un médecin de
 l'Office français de l'immigration et de l'intégration exerçant dans le département, peut délibérer au moyen d'une conférence
-téléphonique ou audiovisuelle ; (1) 
+téléphonique ou audiovisuelle ; 
 
 17° Au 3° de l'article L. 611-12, la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à
-l'article L. 326-1 du code du travail applicable à Mayotte.
+l'article L. 326-1 du code du travail applicable à Mayotte ; 
 
-**Nota:**
+18° A la seconde phrase du premier alinéa du III de l'article L. 512-1, au premier alinéa de l'article L. 551-1, à la
+première phrase de l'article L. 552-1, à l'article L. 552-3, au premier alinéa de l'article L. 552-7 et à la dernière phrase
+du premier alinéa de l'article L. 555-1, les mots : “ quarante-huit heures ” sont remplacés par les mots : “ cinq jours ” ; 
 
-(1) Conformément à l'article 67 V et VI de la loi n° 2016-274 du 7 mars 2016, les dispositions 16° de l'article L832-1
-entrent en vigueur le 1er janvier 2017 et s'appliquent aux demandes présentées après son entrée en vigueur.
+19° Aux premier, deuxième et troisième alinéas de l'article L. 552-7, les mots : “ vingt-huit jours ” sont remplacés par les
+mots : “ vingt-cinq jours ”.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 61
+	  - Loi n°2017-256 du 28 février 2017 - art. 105
+	  - Loi n°2017-256 du 28 février 2017 - art. 31
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L121-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L222-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-15 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-24 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L322-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L411-5 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-9 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L611-12 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L626-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L555-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-6
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-15
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L322-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-5
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-12
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
 
 
 ###### Article L832-2
