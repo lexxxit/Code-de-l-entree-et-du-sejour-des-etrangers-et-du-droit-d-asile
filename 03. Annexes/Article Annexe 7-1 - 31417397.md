@@ -1,164 +1,212 @@
 # Article Annexe 7-1
 
-BARÈME DE L'ALLOCATION POUR DEMANDEUR D'ASILE 
+I. – Barème de l'allocation pour demandeur d'asile
 
-Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant : 
+Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-COMPOSITION FAMILIALE 
-
-</th>
+COMPOSITION FAMILIALE</th>
       <th>
 
-MONTANT JOURNALIER 
-
-</th>
+MONTANT JOURNALIER</th>
     </tr>
     <tr>
       <td align="center">
 
-1 personne 
-
-</td>
+1 personne</td>
       <td align="center">
 
-6,80 € 
-
-</td>
+6,80 €</td>
     </tr>
     <tr>
       <td align="center">
 
-2 personnes 
-
-</td>
+2 personnes</td>
       <td align="center">
 
-10,20 € 
-
-</td>
+10,20 €</td>
     </tr>
     <tr>
       <td align="center">
 
-3 personnes 
-
-</td>
+3 personnes</td>
       <td align="center">
 
-13,60 € 
-
-</td>
+13,60 €</td>
     </tr>
     <tr>
       <td align="center">
 
-4 personnes 
-
-</td>
+4 personnes</td>
       <td align="center">
 
-17,00 € 
-
-</td>
+17,00 €</td>
     </tr>
     <tr>
       <td align="center">
 
-5 personnes 
-
-</td>
+5 personnes</td>
       <td align="center">
 
-20,40 € 
-
-</td>
+20,40 €</td>
     </tr>
     <tr>
       <td align="center">
 
-6 personnes 
-
-</td>
+6 personnes</td>
       <td align="center">
 
-23,80 € 
-
-</td>
+23,80 €</td>
     </tr>
     <tr>
       <td align="center">
 
-7 personnes 
-
-</td>
+7 personnes</td>
       <td align="center">
 
-27,20 € 
-
-</td>
+27,20 €</td>
     </tr>
     <tr>
       <td align="center">
 
-8 personnes 
-
-</td>
+8 personnes</td>
       <td align="center">
 
-30,60 € 
-
-</td>
+30,60 €</td>
     </tr>
     <tr>
       <td align="center">
 
-9 personnes 
-
-</td>
+9 personnes</td>
       <td align="center">
 
-34,00 € 
-
-</td>
+34,00 €</td>
     </tr>
     <tr>
       <td align="center">
 
-10 personnes 
-
-</td>
+10 personnes</td>
       <td align="center">
 
-37,40 € 
-
-</td>
+37,40 €</td>
     </tr>
   </tbody>
 </table>
 
-Un montant journalier additionnel de 4,20 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
+Un montant journalier additionnel de 5,40 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
+charge, auquel aucune place d'hébergement ne peut être proposée dans un des lieux mentionnés au 1° de l'article L. 744-3 et
+qui n'est pas hébergé en application des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles.
+
+II. – Barème applicable en Guyane et à Saint-Martin
+
+Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+COMPOSITION FAMILIALE</th>
+      <th>
+
+MONTANT JOURNALIER</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 personne</td>
+      <td align="center">
+
+3,80 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 personnes</td>
+      <td align="center">
+
+7,20 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 personnes</td>
+      <td align="center">
+
+10,60 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 personnes</td>
+      <td align="center">
+
+14,00 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 personnes</td>
+      <td align="center">
+
+17,40 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 personnes</td>
+      <td align="center">
+
+20,80 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 personnes</td>
+      <td align="center">
+
+23,20 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 personnes</td>
+      <td align="center">
+
+27,60 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 personnes</td>
+      <td align="center">
+
+30,00 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+10 personnes</td>
+      <td align="center">
+
+34,40 €</td>
+    </tr>
+  </tbody>
+</table>
+
+Un montant journalier additionnel de 4,70 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
 charge, auquel aucune place d'hébergement ne peut être proposée dans un des lieux mentionnés à l'article L. 744-3 et qui
 n'est pas hébergé en application des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles.
 
-**Nota:**
-
-Conseil d'Etat, décision n° 394819 du 23 décembre 2016 (ECLI:FR:CECHR:2016:394819.20161223), Art. 1 : Le décret du 21 octobre
-2015 relatif à l'allocation pour demandeur d'asile est annulé en tant que son article 2 ne fixe pas au dernier alinéa de
-l'annexe 7-1 du code de l'entrée et du séjour des étrangers et du droit d'asile un montant journalier additionnel suffisant
-pour permettre aux demandeurs d'asile adultes ayant accepté une offre de prise en charge et auxquels aucune place
-d'hébergement ne peut être proposée de disposer d'un logement sur le marché privé de la location. Cette annulation prendra
-effet à compter de la notification de la présente décision.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1329 du 21 octobre 2015 - art. 2
+	  - Décret n°2017-430 du 29 mars 2017 - art. 6
 
 	**Cité par**:
 
@@ -166,5 +214,5 @@ effet à compter de la notification de la présente décision.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (V)
-	  - Code de l'action sociale et des familles - art. L345-2-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+	  - Code de l'action sociale et des familles - art. L345-2-2
