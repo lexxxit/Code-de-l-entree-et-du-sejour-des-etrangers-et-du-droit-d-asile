@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-04-30
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -28485,33 +28485,33 @@ maintien. Il en informe sans délai l'étranger et l'autorité administrative qu
 ###### Article R552-14-1
 
 Lorsque le premier président envisage de faire application des dispositions du deuxième alinéa de l'article L. 552-9, il
-recueille par tout moyen les observations des parties sur le caractère manifestement irrecevable de l'appel. 
+recueille par tout moyen les observations des parties sur le caractère manifestement irrecevable de l'appel.
 
-Sont, notamment, manifestement irrecevables au sens du dernier alinéa de l'article L. 552-9 les déclarations d'appel formées
-tardivement, hors du délai prévu à l'article R. 552-12, et les déclarations d'appel non motivées. 
+Sont manifestement irrecevables au sens du dernier alinéa de l'article L. 552-9, notamment les déclarations d'appel formées
+tardivement, hors du délai prévu à l'article R. 552-12, et les déclarations d'appel non motivées.
 
 La décision prononçant l'irrecevabilité de l'appel est rendue par le premier président dans les quarante-huit heures de sa
-saisine. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642du code de procédure civile. 
+saisine. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642du code de procédure civile.
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée par tout moyen et dans les meilleurs délais à l'étranger
 et à son conseil, s'il en a un, ainsi qu'à l'autorité qui a prononcé la rétention, qui en accusent réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1457 du 28 octobre 2016 - art. 23
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-9 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-12 (V)
-	  - Code de procédure civile - art. 640 (V)
-	  - Code de procédure civile - art. 642 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 34
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R552-23 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-9
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-12
+	  - Code de procédure civile - art. 640
+	  - Code de procédure civile - art. 642
 
 
 ###### Article R552-15
@@ -30092,46 +30092,46 @@ réception.
 ###### Article R561-7
 
 L'ordonnance du juge des libertés et de la détention est susceptible d'appel dans les vingt-quatre heures de sa notification,
-par l'étranger. A peine d'irrecevabilité, la déclaration d'appel est motivée. Elle est enregistrée avec mention de la date et
-de l'heure. 
+par l'étranger et par l'autorité administrative requérante. A peine d'irrecevabilité, la déclaration d'appel est motivée.
+Elle est enregistrée avec mention de la date et de l'heure.
 
 Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de grande instance qui lui transmet sans délai le
-dossier. 
+dossier.
 
 Lorsque le premier président de la cour d'appel ou son délégué envisage de faire application des dispositions de la dernière
 phrase du sixième alinéa du II de l'article L. 561-2, il recueille par tout moyen les observations des parties sur le
-caractère manifestement irrecevable de l'appel. 
+caractère manifestement irrecevable de l'appel.
 
 Sont manifestement irrecevables au sens de la dernière phrase du sixième alinéa du II de l'article L. 561-2 notamment les
-déclarations d'appel formées tardivement, hors du délai prévu, et les déclarations d'appel non motivées. 
+déclarations d'appel formées tardivement, hors du délai prévu, et les déclarations d'appel non motivées.
 
 Lorsque le premier président ne fait pas application des dispositions de la dernière phrase du sixième alinéa du II de
 l'article L. 561-2, le greffier de la cour d'appel fait connaître aux parties et au ministère public la date de l'audience au
-fond. 
+fond.
 
 L'autorité administrative requérante, l'avocat de l'étranger et l'étranger lui-même peuvent demander à être entendus à
-l'audience. 
+l'audience.
 
-Le ministère public peut faire connaître son avis. 
+Le ministère public peut faire connaître son avis.
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée par tout moyen et dans les meilleurs délais à l'étranger
 et à son conseil, s'il en a un, ainsi qu'à l'autorité administrative requérante, qui en accusent réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1457 du 28 octobre 2016 - art. 31
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 35
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R214-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R513-6 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R742-5 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
 
 ### TITRE VII : DISPOSITIONS DIVERSES
