@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-09-01
 
 # Partie législative
 
@@ -5166,10 +5166,10 @@ d'acquérir la nationalité française ne peuvent être prises en compte pour ob
 2° De ressources stables, régulières et suffisantes pour subvenir à ses besoins. Ces ressources doivent atteindre un montant
 au moins égal au salaire minimum de croissance. Sont prises en compte toutes les ressources propres du demandeur,
 indépendamment des prestations familiales et des allocations prévues à l'article L. 262-1 du code de l'action sociale et des
-familles ainsi qu'aux articles L. 5423-1, L. 5423-2, L. 5423-3 et L. 5423-8 du code du travail. La condition prévue au
-présent 2° n'est pas applicable lorsque la personne qui demande la carte de résident est titulaire de l'allocation aux
-adultes handicapés mentionnée à l'article L. 821-1 du code de la sécurité sociale ou de l'allocation supplémentaire
-mentionnée à l'article L. 815-24 du même code ; 
+familles ainsi qu'aux articles L. 5423-1, L. 5423-2 et L. 5423-3 du code du travail. La condition prévue au présent 2° n'est
+pas applicable lorsque la personne qui demande la carte de résident est titulaire de l'allocation aux adultes handicapés
+mentionnée à l'article L. 821-1 du code de la sécurité sociale ou de l'allocation supplémentaire mentionnée à l'article L.
+815-24 du même code ; 
 
 3° D'une assurance maladie. 
 
@@ -5181,10 +5181,6 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 
 	  - Ordonnance n°2004-1248 du 24 novembre 2004
 	  - Loi n°2006-911 du 24 juillet 2006
-
-	**Modifié par**:
-
-	  - Loi n°2016-274 du 7 mars 2016 - art. 22
 
 	**Cité par**:
 
@@ -5216,6 +5212,10 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Code du travail - art. R341-7 (VT)
 	  - Code du travail - art. R5221-48 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
+
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-13 (V)
@@ -5226,7 +5226,6 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L317-1 (V)
 	  - Code du travail - art. L5423-1 (V)
-	  - Code du travail - art. L5423-8 (VT)
 	  - Code de la sécurité sociale. - art. L815-24 (V)
 	  - Code de la sécurité sociale. - art. L821-1 (V)
 	  - Code de l'action sociale et des familles - art. L262-1 (V)
@@ -6157,14 +6156,14 @@ Le regroupement familial ne peut être refusé que pour l'un des motifs suivants
 1° Le demandeur ne justifie pas de ressources stables et suffisantes pour subvenir aux besoins de sa famille. Sont prises en
 compte toutes les ressources du demandeur et de son conjoint indépendamment des prestations familiales, de l'allocation
 équivalent retraite et des allocations prévues à l'article L. 262-1 du code de l'action sociale et des familles, à l'article
-L. 815-1 du code de la sécurité sociale et aux articles L. 5423-1, L. 5423-2 et L. 5423-8 du code du travail. Les ressources
-doivent atteindre un montant qui tient compte de la taille de la famille du demandeur. Le décret en Conseil d'Etat prévu à
-l'article L. 441-1 fixe ce montant qui doit être au moins égal au salaire minimum de croissance mensuel et au plus égal à ce
-salaire majoré d'un cinquième. Ces dispositions ne sont pas applicables lorsque la personne qui demande le regroupement
-familial est titulaire de l'allocation aux adultes handicapés mentionnée aux articles L. 821-1 ou L. 821-2 du code de la
-sécurité sociale ou de l'allocation supplémentaire mentionnée à l'article L. 815-24 du même code ou lorsqu'une personne âgée
-de plus de soixante-cinq ans et résidant régulièrement en France depuis au moins vingt-cinq ans demande le regroupement
-familial pour son conjoint et justifie d'une durée de mariage d'au moins dix ans ; 
+L. 815-1 du code de la sécurité sociale et aux articles L. 5423-1 et L. 5423-2  du code du travail . Les ressources doivent
+atteindre un montant qui tient compte de la taille de la famille du demandeur. Le décret en Conseil d'Etat prévu à l'article
+L. 441-1 fixe ce montant qui doit être au moins égal au salaire minimum de croissance mensuel et au plus égal à ce salaire
+majoré d'un cinquième. Ces dispositions ne sont pas applicables lorsque la personne qui demande le regroupement familial est
+titulaire de l'allocation aux adultes handicapés mentionnée aux articles L. 821-1 ou L. 821-2 du code de la sécurité sociale
+ou de l'allocation supplémentaire mentionnée à l'article L. 815-24 du même code ou lorsqu'une personne âgée de plus de
+soixante-cinq ans et résidant régulièrement en France depuis au moins vingt-cinq ans demande le regroupement familial pour
+son conjoint et justifie d'une durée de mariage d'au moins dix ans ; 
 
 2° Le demandeur ne dispose pas ou ne disposera pas à la date d'arrivée de sa famille en France d'un logement considéré comme
 normal pour une famille comparable vivant dans la même région géographique ; 
@@ -6192,16 +6191,16 @@ familiale en France, pays d'accueil.
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 20
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L441-1
-	  - Code du travail - art. L5423-1 (V)
-	  - Code du travail - art. L5423-8 (V)
+	  - Code du travail - art. L5423-1
+	  - Code du travail - art. L5423-8
 	  - Code de la sécurité sociale. - art. L815-1
 	  - Code de la sécurité sociale. - art. L815-24
-	  - Code de la sécurité sociale. - art. L821-1 (V)
+	  - Code de la sécurité sociale. - art. L821-1
 	  - Code de l'action sociale et des familles - art. L262-1
 
 
